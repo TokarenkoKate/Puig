@@ -1,0 +1,142 @@
+.scroller {
+  max-width: 1440px;
+  overflow: auto;
+  cursor: -webkit-grab;
+  cursor: grab;
+}
+
+.scroller:active {
+  cursor: -webkit-grabbing;
+  cursor: grabbing;
+}
+
+.scroller__inner {
+  padding-block: 1rem;
+  flex-wrap: nowrap;
+  gap: 1rem;
+}
+
+.scroller[data-animated="true"] {
+  overflow: hidden;
+  -webkit-mask: linear-gradient(
+    90deg,
+    transparent,
+    white 20%,
+    white 80%,
+    transparent
+  );
+  mask: linear-gradient(90deg, transparent, white 20%, white 80%, transparent);
+}
+
+.scroller[data-animated="true"] .scroller__inner {
+  width: max-content;
+  flex-wrap: nowrap;
+  animation: scroll var(--_animation-duration, 80s)
+    var(--_animation-direction, forwards) linear infinite;
+}
+
+.scroller[data-animated="true"].vertical .scroller__inner {
+  width: max-content;
+  flex-wrap: nowrap;
+  animation: scrollY var(--_animation-duration, 90s)
+    var(--_animation-direction, forwards) linear infinite;
+}
+
+.scroller[data-direction="right"] {
+  --_animation-direction: reverse;
+}
+
+.scroller[data-direction="left"] {
+  --_animation-direction: forwards;
+}
+
+.scroller[data-speed="fast"] {
+  --_animation-duration: 20s;
+}
+
+.scroller[data-speed="slow"] {
+  --_animation-duration: 60s;
+}
+
+@keyframes scroll {
+  to {
+    transform: translate(calc(-50% - 0.5rem));
+  }
+}
+
+@keyframes scrollY {
+  to {
+    transform: translateY(calc(-50% - 0.5rem));
+  }
+}
+
+.scroller.horizontal {
+  display: flex;
+}
+
+.scroller__inner {
+  display: flex;
+  flex-direction: row;
+}
+
+.circle-wrapper {
+  position: relative;
+  width: 54px;
+  height: 54px;
+  cursor: pointer;
+}
+
+.circle-svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: rotate(-90deg);
+  width: 54px;
+  height: 54px;
+}
+
+.year-container {
+  position: relative;
+  z-index: 10;
+}
+
+.year-container:hover .tooltip {
+  display: block;
+}
+
+.year-container:hover .scroller.horizontal {
+  height: 90vh;
+}
+
+.year {
+  font-size: 18px;
+  line-height: 13px;
+  text-transform: uppercase;
+  color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 54px;
+}
+
+.content,
+.year {
+  font-family: Montserrat;
+  font-weight: 300;
+}
+
+.content {
+  font-size: 13px;
+  line-height: 16px;
+  color: #575855;
+  width: 200px;
+  padding-top: 10px;
+}
+
+.active {
+  background-color: #000000;
+  border-radius: 54px;
+  color: #fff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s ease;
+}

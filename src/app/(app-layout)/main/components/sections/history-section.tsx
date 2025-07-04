@@ -1,6 +1,6 @@
 import { HistorySlider } from "@/components/custom/history-slider/history-slider";
 import { MoveLeft, MoveRight } from "lucide-react";
-import { historySliderItems } from "../../lib/placeholder-data";
+import { mainPageHistorySliderItems } from "../../../../../data/main-page-data";
 import { Button } from "@/components/ui/button";
 
 export function HistorySection() {
@@ -15,11 +15,7 @@ export function HistorySection() {
           <MoveRight width={15} height={15} />
         </Button>
       </div>
-      <HistorySlider
-        sliderItems={historySliderItems}
-        className="history__slider-wrapper"
-        itemClassName="history__slider-item"
-      />
+      <HistorySlider sliderItems={mainPageHistorySliderItems} />
     </section>
   );
 }

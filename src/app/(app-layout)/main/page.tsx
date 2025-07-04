@@ -1,5 +1,4 @@
 import "./main-page.css";
-import { HeroVideoSection } from "./components/sections/hero-video-section";
 import { BiographySection } from "./components/sections/biography-section";
 import { CompanySection } from "./components/sections/company-section";
 import { HistorySection } from "./components/sections/history-section";
@@ -7,11 +6,15 @@ import { MainPageImagesGallerySection } from "./components/sections/images-galle
 import { PortfolioSection } from "./components/sections/portfolio-section";
 import { TestSection } from "./components/sections/test-section";
 import { ProductsSlider } from "./components/sections/products-slider-section";
+import { HeroVideoSection } from "@/components/custom/hero-video-section/hero-video-section";
 
 export default function Main() {
   return (
     <div>
-      <HeroVideoSection />
+      <HeroVideoSection
+        videoSrc="/assets/video/hero-video.mp4"
+        title="Puig love brands"
+      />
       <BiographySection />
       <CompanySection />
       <HistorySection />
@@ -22,4 +25,3 @@ export default function Main() {
     </div>
   );
 }
-

@@ -1,31 +1,17 @@
-import clsx from "clsx";
+import { SliderItem } from "@/lib/types/components";
 import "./history-slider.css";
-
-export type SliderItem = {
-  year: number;
-  content: string;
-};
 
 type HistorySliderItemsProps = {
   sliderItems: SliderItem[];
-  className?: string;
-  itemClassName?: string;
 };
 
-export function HistorySlider({
-  sliderItems,
-  className,
-  itemClassName,
-}: HistorySliderItemsProps) {
+export function HistorySlider({ sliderItems }: HistorySliderItemsProps) {
   return (
-    <div className={className}>
+    <div className="history__slider-wrapper">
       <div className="scroller horizontal" data-animated="true">
         <div className="scroller__inner">
           {sliderItems.map((sliderItem) => (
-            <div
-              className={clsx(itemClassName, "marquee")}
-              key={sliderItem.content}
-            >
+            <div className="history__slider-item" key={sliderItem.content}>
               <div className="circle-wrapper">
                 <svg
                   className="circle-svg"

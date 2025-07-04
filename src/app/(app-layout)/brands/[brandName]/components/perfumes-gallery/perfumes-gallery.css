@@ -1,0 +1,332 @@
+.perfumes-gallery {
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.perfumes-gallery__title {
+  position: relative;
+  text-align: left;
+  font-size: 30px;
+  font-weight: 500;
+  margin: 1rem 0;
+  color: var(--color-text-secondary);
+}
+
+.perfume-universe {
+  border-bottom: 1px solid #ccc;
+}
+
+.perfume-universe__accordion-header {
+  background: #edece9;
+}
+
+.perfume-universe__accordion-header,
+.perfume-universe__accordion-header_open {
+  width: 100%;
+  padding: 25px 20px;
+  font-size: 2.2rem;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: none;
+  outline: none;
+  transition: background 0.3s;
+  position: relative;
+}
+
+.perfume-universe__accordion-header-open {
+  background: #fff;
+}
+
+.perfume-universe__subtitle {
+  color: #2b2b2b80;
+  letter-spacing: 1px;
+  height: auto;
+  overflow: hidden;
+  font-size: 14px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.perfume-universe__title-wrapper {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  width: 385px;
+  height: 52px;
+}
+
+.perfume-universe__title {
+  position: relative;
+  transition: transform 0.4s ease;
+  font-weight: 500;
+  font-size: 24px;
+  transform: translate(0);
+  display: flex;
+}
+
+.perfume-universe__accordion-header:hover .perfume-universe__title {
+  transform: translateX(30px);
+}
+
+.perfume-universe__toggle-button.rotated {
+  transform: rotate(45deg);
+}
+
+.perfume-universe__toggle-button,
+.perfume-universe__toggle-button.rotated {
+  font-size: 2rem;
+  line-height: 1;
+  font-weight: 100;
+}
+
+.perfume-universe__toggle-button {
+  display: inline-block;
+  transition: transform 0.3s ease-in;
+}
+
+.perfume-universe__body {
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.perfume-universe__content {
+  padding: 16px 20px;
+  background: #fff;
+  font-size: 1rem;
+  line-height: 1.6;
+  text-align: center;
+}
+
+.perfume-universe__read-history {
+  position: relative;
+  margin-top: 30px;
+  padding: 5px 0;
+  color: #000;
+  border: none;
+  background-color: transparent;
+  width: 115px;
+  overflow: hidden;
+}
+
+.perfume-universe__read-history:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  height: 1px;
+  width: 100%;
+  background-color: #000;
+  transition: width 0.4s ease;
+}
+
+.perfume-universe__read-history:hover:after {
+  width: 0;
+}
+
+.perfume-universe__image-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding-top: 40px;
+}
+
+.perfume-universe__card {
+  display: flex;
+  flex-direction: column;
+  width: 32%;
+  color: #2b2b2b;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+  border: 1px solid transparent;
+  padding-bottom: 20px;
+  text-decoration: none;
+  transition: box-shadow 0.3s, border-color 0.3s, color 0.3s,
+    background-color 0.3s, opacity 0.3s;
+}
+
+.perfume-universe__card-image {
+  width: 100%;
+  height: auto;
+}
+
+.perfume-universe__content-item {
+  max-width: 720px;
+  font-size: 14px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Montserrat;
+  color: var(--color-text-secondary);
+  text-align: justify;
+  padding-top: 15px;
+}
+
+.perfume-universe__content-item iframe {
+  height: 406px;
+  border: none;
+}
+
+.perfume-universe__modal {
+  height: 100%;
+  max-width: 1000px;
+  background: var(--color-white);
+  padding: 20px;
+  border-radius: 12px;
+}
+
+/*----------------------------------------
+/*  Стили для содержимого модального окна
+/*  с подробной информацией о парфюме
+/*----------------------------------------*/
+
+.perfume-details {
+  height: 100%;
+  overflow-y: auto;
+}
+
+.perfume-details__header {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding-bottom: 14px;
+  border-bottom: 4px double var(--color-black);
+}
+
+.perfume-details__brand-name {
+  font-weight: normal;
+}
+
+.perfume-details__title {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.perfume-details__carousel-wrapper {
+  display: flex;
+  gap: 20px;
+}
+
+.perfume-details__carousel-wrapper > div {
+  width: 50%;
+}
+
+.perfume-details__carousel {
+  width: 100%;
+}
+
+.perfume-details__carousel-item {
+  flex: 1 1 auto;
+  position: relative;
+  width: 435px;
+}
+
+.perfume-details__carousel-dots {
+  position: absolute;
+  bottom: 16px;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  z-index: 20;
+}
+
+.perfume-details__carousel-dot {
+  border: 2px solid grey;
+}
+
+.perfume-details__ingredients-img {
+  color: transparent;
+  max-width: 100%;
+  height: auto;
+  margin-top: 10px;
+}
+
+.perfume-details__ingredients-text {
+  font-size: 16px;
+  color: #444343;
+  padding: 10px 80px 0 0;
+  line-height: 20px;
+}
+
+.perfume-details__right-content,
+.perfume-details__right-content > div {
+  margin-top: 40px;
+}
+
+.perfume-details__subtext {
+  font-size: 15px;
+  color: #818181;
+}
+
+.perfume-details__text {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.perfume-details__description {
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+  margin-top: 1rem;
+  gap: 1.5rem;
+  border-top: 5px double rgb(0, 0, 0);
+}
+
+.perfume-details__description-item {
+  width: 80%;
+  max-width: 720px;
+  font-size: 14px;
+  margin: 0 auto;
+  color: var(--color-text-secondary);
+  text-align: justify;
+  padding-top: 10px;
+}
+
+.perfume-details__description-text {
+  margin-bottom: 0.5rem;
+}
+
+.perfume-details__video-wrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+}
+
+.perfume-details__video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@media (max-width: 768px) {
+  .perfumes-gallery__title {
+    font-size: 24px;
+  }
+
+  .perfume-universe__title-wrapper {
+    width: 245px;
+  }
+
+  .perfume-universe__title {
+    font-size: 20px;
+  }
+
+  .perfume-details__carousel-wrapper {
+    flex-wrap: wrap;
+    gap: 60px;
+  }
+
+  .perfume-details__carousel-wrapper div {
+    width: 100%;
+  }
+}

@@ -1,4 +1,4 @@
-import { portfolioGroups } from "../../lib/placeholder-data";
+import { mainPagePortfolioGroups } from "../../../../../data/main-page-data";
 
 export function PortfolioSection() {
   return (
@@ -8,7 +8,7 @@ export function PortfolioSection() {
           <h1 className="portfolio__title">Портфолио брендов PUIG в России </h1>
         </div>
         <div className="pt-10 pl-15 portfolio__list-wrapper">
-          {portfolioGroups.map(({ title, items }) => (
+          {mainPagePortfolioGroups.map(({ title, items }) => (
             <div key={title}>
               <ul className="portfolio__list-circle">
                 <li>{title}</li>

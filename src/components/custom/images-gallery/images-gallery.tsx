@@ -13,13 +13,7 @@ import {
 } from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
 import { ChevronLeft, ChevronRight, X } from "lucide-react";
-
-type ImageGalleryItem = {
-  src: string;
-  width: number;
-  height: number;
-  altText: string;
-};
+import { ImageGalleryItem } from "@/lib/types/components";
 
 export function ImagesGallery({ images }: { images: ImageGalleryItem[] }) {
   const [selectedIndex, setSelectedIndex] = useState<number | null>(null);

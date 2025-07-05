@@ -7,6 +7,8 @@ import { carolinaBrandContent } from "./brands/carolina/carolina";
 import { carolinePerfumeDetails } from "./brands/carolina/perfume-details";
 import { penhaligonsBrandContent } from "./brands/penhaligons/penhaligons";
 import { penhaligonsPerfumes } from "./brands/penhaligons/perfume-details";
+import { lartisanparfumeurBrandContent } from "./brands/lartisanparfumeur/lartisanparfumeur";
+import { lartisanparfumeurPerfumeDetails } from "./brands/lartisanparfumeur/perfume-details";
 
 // Бренды
 export const BRANDS = {
@@ -55,7 +57,7 @@ export const brands: { label: string; name: BrandName }[] = [
 export const brandsData: Record<BrandName, BrandContentType> = {
   [BRANDS.CAROLINA]: carolinaBrandContent,
   [BRANDS.PENHALIGONS]: penhaligonsBrandContent,
-  [BRANDS.LARTISANPARFUMEUR]: carolinaBrandContent,
+  [BRANDS.LARTISANPARFUMEUR]: lartisanparfumeurBrandContent,
   [BRANDS.PACORABBANE]: carolinaBrandContent,
   [BRANDS.NINARICCI]: carolinaBrandContent,
   [BRANDS.JEANPAULGAULTIER]: carolinaBrandContent,
@@ -67,7 +69,7 @@ export const brandsData: Record<BrandName, BrandContentType> = {
 export const perfumesDetailsData: Record<BrandName, PerfumeDetails[]> = {
   [BRANDS.CAROLINA]: carolinePerfumeDetails,
   [BRANDS.PENHALIGONS]: penhaligonsPerfumes,
-  [BRANDS.LARTISANPARFUMEUR]: carolinePerfumeDetails,
+  [BRANDS.LARTISANPARFUMEUR]: lartisanparfumeurPerfumeDetails,
   [BRANDS.PACORABBANE]: carolinePerfumeDetails,
   [BRANDS.NINARICCI]: carolinePerfumeDetails,
   [BRANDS.JEANPAULGAULTIER]: carolinePerfumeDetails,

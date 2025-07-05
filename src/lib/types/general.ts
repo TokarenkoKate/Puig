@@ -48,6 +48,7 @@ export type PerfumeRightContent = {
 export type PerfumeDetails = {
   brandTitle: string;
   title: string;
+  transcription?: string;
   imagegallery: ApiImageSrc[];
   rightImage: ApiImageSrc[];
   rightContent: PerfumeRightContent[];

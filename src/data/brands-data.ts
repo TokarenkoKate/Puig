@@ -15,6 +15,8 @@ import { ninaricciBrandContent } from "./brands/ninaricci/ninaricci";
 import { ninaricciPerfumeDetails } from "./brands/ninaricci/perfume-details";
 import { jeanpaulgaultierPerfumeDetails } from "./brands/jeanpaulgaultier/perfume-details";
 import { jeanpaulgaultierBrandContent } from "./brands/jeanpaulgaultier/jeanpaulgaultier";
+import { banderasPerfumeDetails } from "./brands/banderas/perfume-details";
+import { banderasBrandContent } from "./brands/banderas/banderas";
 
 // Бренды
 export const BRANDS = {
@@ -67,7 +69,7 @@ export const brandsData: Record<BrandName, BrandContentType> = {
   [BRANDS.PACORABBANE]: pacorabanneBrandContent,
   [BRANDS.NINARICCI]: ninaricciBrandContent,
   [BRANDS.JEANPAULGAULTIER]: jeanpaulgaultierBrandContent,
-  [BRANDS.BANDERAS]: carolinaBrandContent,
+  [BRANDS.BANDERAS]: banderasBrandContent,
 };
 
 // Данные с подробной информацией о парфюмах
@@ -79,5 +81,5 @@ export const perfumesDetailsData: Record<BrandName, PerfumeDetails[]> = {
   [BRANDS.PACORABBANE]: pacorabannePerfumeDetails,
   [BRANDS.NINARICCI]: ninaricciPerfumeDetails,
   [BRANDS.JEANPAULGAULTIER]: jeanpaulgaultierPerfumeDetails,
-  [BRANDS.BANDERAS]: carolinePerfumeDetails,
+  [BRANDS.BANDERAS]: banderasPerfumeDetails,
 };

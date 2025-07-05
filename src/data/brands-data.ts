@@ -11,6 +11,8 @@ import { lartisanparfumeurBrandContent } from "./brands/lartisanparfumeur/lartis
 import { lartisanparfumeurPerfumeDetails } from "./brands/lartisanparfumeur/perfume-details";
 import { pacorabanneBrandContent } from "./brands/pacorabanne/pacorabanne";
 import { pacorabannePerfumeDetails } from "./brands/pacorabanne/perfume-details";
+import { ninaricciBrandContent } from "./brands/ninaricci/ninaricci";
+import { ninaricciPerfumeDetails } from "./brands/ninaricci/perfume-details";
 
 // Бренды
 export const BRANDS = {
@@ -61,7 +63,7 @@ export const brandsData: Record<BrandName, BrandContentType> = {
   [BRANDS.PENHALIGONS]: penhaligonsBrandContent,
   [BRANDS.LARTISANPARFUMEUR]: lartisanparfumeurBrandContent,
   [BRANDS.PACORABBANE]: pacorabanneBrandContent,
-  [BRANDS.NINARICCI]: carolinaBrandContent,
+  [BRANDS.NINARICCI]: ninaricciBrandContent,
   [BRANDS.JEANPAULGAULTIER]: carolinaBrandContent,
   [BRANDS.BANDERAS]: carolinaBrandContent,
 };
@@ -73,7 +75,7 @@ export const perfumesDetailsData: Record<BrandName, PerfumeDetails[]> = {
   [BRANDS.PENHALIGONS]: penhaligonsPerfumes,
   [BRANDS.LARTISANPARFUMEUR]: lartisanparfumeurPerfumeDetails,
   [BRANDS.PACORABBANE]: pacorabannePerfumeDetails,
-  [BRANDS.NINARICCI]: carolinePerfumeDetails,
+  [BRANDS.NINARICCI]: ninaricciPerfumeDetails,
   [BRANDS.JEANPAULGAULTIER]: carolinePerfumeDetails,
   [BRANDS.BANDERAS]: carolinePerfumeDetails,
 };

@@ -184,65 +184,6 @@
 }
 
 /*----------------------------------------
-/*  Brand video gallery section
-/*----------------------------------------*/
-
-.video-gallery-wrapper {
-  padding: 20px;
-}
-
-.video-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 30px;
-  gap: 30px;
-}
-
-.video-thumbnail {
-  cursor: pointer;
-  overflow: hidden;
-  position: relative;
-}
-
-.video-frame {
-  width: 100%;
-  height: auto;
-  border: none;
-  position: relative;
-  z-index: -10;
-}
-
-.playIcon {
-  position: absolute;
-  bottom: 45%;
-  cursor: pointer;
-  text-align: center;
-  left: 0;
-  right: 0;
-  margin: 0 auto;
-}
-
-@media (max-width: 768px) {
-  .video-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    grid-gap: 30px;
-    gap: 30px;
-  }
-}
-
-@media (max-width: 480px) {
-  .video-gallery-wrapper {
-    margin: 0 12px;
-  }
-
-  .video-frame {
-    height: 200px;
-    object-fit: cover;
-  }
-}
-
-/*----------------------------------------
 /*  Brand Quiz section
 /*----------------------------------------*/
 .test-wrapper {

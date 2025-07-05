@@ -2,12 +2,14 @@ type BrandBioSectionProps = {
   content: string[];
   videoSrc: string;
   paragraphs: string[];
+  bioTimelineData: string[] | undefined;
 };
 
 export function BrandBioSection({
   content,
   videoSrc,
   paragraphs,
+  bioTimelineData,
 }: BrandBioSectionProps) {
   return (
     <section className="w-fixed">
@@ -40,6 +42,14 @@ export function BrandBioSection({
             <p className="brand-bio__text">{paragraph}</p>
           </div>
         ))}
+      </div>
+      <div className="flex flex-col gap-4">
+        {bioTimelineData &&
+          bioTimelineData.map((bioTimelineText, index) => (
+            <p key={index} className="w-full max-w-full px-[30px] font-light">
+              {bioTimelineText}
+            </p>
+          ))}
       </div>
     </section>
   );

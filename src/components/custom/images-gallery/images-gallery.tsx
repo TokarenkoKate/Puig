@@ -2,7 +2,6 @@
 
 import "./image-gallery.css";
 import Image from "next/image";
-import { useState } from "react";
 import {
   Dialog,
   DialogTrigger,
@@ -14,21 +13,11 @@ import {
 import { Button } from "@/components/ui/button";
 import { ChevronLeft, ChevronRight, X } from "lucide-react";
 import { ImageGalleryItem } from "@/lib/types/components";
+import { useModalGallery } from "@/lib/hooks/use-modal-gallery";
 
 export function ImagesGallery({ images }: { images: ImageGalleryItem[] }) {
-  const [selectedIndex, setSelectedIndex] = useState<number | null>(null);
-
-  const selectedImage = selectedIndex !== null ? images[selectedIndex] : null;
-
-  const handleNext = () => {
-    if (selectedIndex === null) return;
-    setSelectedIndex((prev) => (prev! + 1) % images.length);
-  };
-
-  const handlePrev = () => {
-    if (selectedIndex === null) return;
-    setSelectedIndex((prev) => (prev! - 1 < 0 ? images.length - 1 : prev! - 1));
-  };
+  const { selectedIndex, selectedItem, selectItem, handleNext, handlePrev } =
+    useModalGallery(images);
 
   return (
     <div className="images-gallery">
@@ -38,13 +27,13 @@ export function ImagesGallery({ images }: { images: ImageGalleryItem[] }) {
             key={img.src}
             open={selectedIndex === index}
             onOpenChange={(open) => {
-              if (!open) setSelectedIndex(null);
+              if (!open) selectItem(null);
             }}
           >
             <DialogTrigger asChild>
               <div
                 className="images-gallery__slider-item"
-                onClick={() => setSelectedIndex(index)}
+                onClick={() => selectItem(index)}
               >
                 <Image
                   alt={img.altText}
@@ -59,7 +48,7 @@ export function ImagesGallery({ images }: { images: ImageGalleryItem[] }) {
             <DialogPortal>
               <DialogOverlay
                 className="fixed inset-0 bg-black/80 z-50"
-                onClick={() => setSelectedIndex(null)}
+                onClick={() => selectItem(null)}
               />
               <DialogClose asChild className="images-gallery__close-btn">
                 <Button variant="ghost" size="icon">
@@ -70,7 +59,7 @@ export function ImagesGallery({ images }: { images: ImageGalleryItem[] }) {
                 className="images-gallery__modal"
                 showCloseButton={false}
               >
-                {selectedImage && (
+                {selectedItem && (
                   <>
                     <Button
                       variant="ghost"
@@ -84,10 +73,10 @@ export function ImagesGallery({ images }: { images: ImageGalleryItem[] }) {
                       <ChevronLeft className="w-8 h-8" />
                     </Button>
                     <Image
-                      src={selectedImage.src}
-                      alt={selectedImage.altText}
-                      width={selectedImage.width}
-                      height={selectedImage.height}
+                      src={selectedItem.src}
+                      alt={selectedItem.altText}
+                      width={selectedItem.width}
+                      height={selectedItem.height}
                       className="images-gallery__image images-gallery__image_modal"
                       priority
                     />

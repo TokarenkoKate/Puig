@@ -5,8 +5,8 @@ import { BrandBioSection } from "./components/sections/brand-bio-section";
 import { BrandHistorySection } from "./components/sections/brand-history-section";
 import { BrandsImagesGallerySection } from "./components/sections/brands-images-gallery-section";
 import { UniverseSection } from "./components/sections/universe-section";
-import { BrandVideoGallery } from "./components/sections/brand-video-gallery";
 import { BrandQuizSection } from "./components/sections/brand-quiz-section";
+import { VideoGallery } from "@/components/custom/video-gallery/video-gallery";
 import "./brand-page.css";
 
 export default async function BrandPage({
@@ -37,9 +37,10 @@ export default async function BrandPage({
         content={bioSection.content}
         videoSrc={bioSection.videoSrc}
         paragraphs={bioSection.paragraphs}
+        bioTimelineData={bioSection.bioTimelineData}
       />
       <BrandsImagesGallerySection images={imagesSliderSection} />
-      <BrandVideoGallery videoGalleryItems={videoGallerySection} />
+      <VideoGallery videoGalleryItems={videoGallerySection} />
       <UniverseSection perfumeUniverses={perfumesSection} />
       <BrandQuizSection title={quizSection.title} steps={quizSection.steps} />
     </div>

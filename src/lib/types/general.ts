@@ -32,6 +32,11 @@ export type PerfumeDescription = {
   title: string;
   text: string;
   video: string;
+  image?: {
+    src: string;
+    height: number;
+    width: number;
+  };
 };
 
 export type PerfumeRightContent = {
@@ -56,7 +61,13 @@ export type PerfumeUniverse = {
   title: string;
   subtitle: string;
   content: {
-    text: string;
+    text?: string;
+    url?: string;
+    image?: {
+      src: string;
+      height: number;
+      width: number;
+    };
   }[];
   images: ApiImageUrl[];
 };
@@ -77,7 +88,7 @@ export type BrandContentType = {
     videoSrc: string;
     paragraphs: string[];
   };
-  videoGallerySection: VideoGalleryItem[];
+  videoGallerySection?: VideoGalleryItem[];
   imagesSliderSection: ImageGalleryItem[];
   perfumesSection: PerfumeUniverse[];
   quizSection: {

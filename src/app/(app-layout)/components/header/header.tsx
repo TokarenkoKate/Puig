@@ -3,6 +3,7 @@ import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { MobileMenu } from "./mobile-menu";
 import { HeaderNav } from "./header-nav";
+import { AnimationLogo } from "../animation-logo/animation-logo";
 import "./header.css";
 
 export function Header() {
@@ -26,6 +27,7 @@ export function Header() {
         </Button>
         <MobileMenu />
       </div>
+      <AnimationLogo />
     </header>
   );
 }

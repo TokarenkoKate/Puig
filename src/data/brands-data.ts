@@ -5,6 +5,8 @@ import {
 } from "@/lib/types/general";
 import { carolinaBrandContent } from "./brands/carolina/carolina";
 import { carolinePerfumeDetails } from "./brands/carolina/perfume-details";
+import { penhaligonsBrandContent } from "./brands/penhaligons/penhaligons";
+import { penhaligonsPerfumes } from "./brands/penhaligons/perfume-details";
 
 // Бренды
 export const BRANDS = {
@@ -52,7 +54,7 @@ export const brands: { label: string; name: BrandName }[] = [
 // Данные для страниц /brands/[brandName]
 export const brandsData: Record<BrandName, BrandContentType> = {
   [BRANDS.CAROLINA]: carolinaBrandContent,
-  [BRANDS.PENHALIGONS]: carolinaBrandContent,
+  [BRANDS.PENHALIGONS]: penhaligonsBrandContent,
   [BRANDS.LARTISANPARFUMEUR]: carolinaBrandContent,
   [BRANDS.PACORABBANE]: carolinaBrandContent,
   [BRANDS.NINARICCI]: carolinaBrandContent,
@@ -64,7 +66,7 @@ export const brandsData: Record<BrandName, BrandContentType> = {
 // на странице /brands/[brandName]
 export const perfumesDetailsData: Record<BrandName, PerfumeDetails[]> = {
   [BRANDS.CAROLINA]: carolinePerfumeDetails,
-  [BRANDS.PENHALIGONS]: carolinePerfumeDetails,
+  [BRANDS.PENHALIGONS]: penhaligonsPerfumes,
   [BRANDS.LARTISANPARFUMEUR]: carolinePerfumeDetails,
   [BRANDS.PACORABBANE]: carolinePerfumeDetails,
   [BRANDS.NINARICCI]: carolinePerfumeDetails,

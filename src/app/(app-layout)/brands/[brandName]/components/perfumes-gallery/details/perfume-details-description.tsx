@@ -1,4 +1,5 @@
 import { PerfumeDescription } from "@/lib/types/general";
+import Image from "next/image";
 
 export function PerfumeDetailsDescription({
   description,
@@ -26,6 +27,19 @@ export function PerfumeDetailsDescription({
                   allowFullScreen
                   className="perfume-details__video"
                 ></iframe>
+              </div>
+            )}
+            {descriptionItem.image && (
+              <div className="relative w-full max-w-[600px] my-4 mx-auto h-auto">
+                <Image
+                  alt="Image 3"
+                  loading="lazy"
+                  width={descriptionItem.image.width}
+                  height={descriptionItem.image.height}
+                  sizes="100vw"
+                  src={descriptionItem.image.src}
+                  className="rounded-2 w-full h-auto"
+                />
               </div>
             )}
           </div>

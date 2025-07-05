@@ -4,8 +4,10 @@ import Image from "next/image";
 export function BrandVideoGallery({
   videoGalleryItems,
 }: {
-  videoGalleryItems: VideoGalleryItem[];
+  videoGalleryItems?: VideoGalleryItem[];
 }) {
+  if (!videoGalleryItems) return null;
+
   return (
     <div className="video-gallery-wrapper w-fixed">
       <div className="video-grid">

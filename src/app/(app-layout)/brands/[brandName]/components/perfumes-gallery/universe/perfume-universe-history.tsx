@@ -1,8 +1,9 @@
 "use client";
 
-import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { PerfumeUniverse } from "@/lib/types/general";
+import { useState } from "react";
+import { PerfumeUniverseHistoryContent } from "./perfume-universe-history-content";
 
 type PerfumeUniverseHistoryProps = {
   content: PerfumeUniverse["content"];
@@ -17,13 +18,7 @@ export function PerfumeUniverseHistory({
 
   return (
     <>
-      <p className="perfume-universe__content-item">
-        Успех не зависит от славы или власти. Он внутри тебя: в твоей
-        способности каждый день бросать себе новый вызов, осознавать свои
-        сильные стороны и ставить перед собой цели; знать, к чему ты стремишься,
-        и наслаждаться каждым этапом этого пути, усердно работать, но оставаться
-        верным своим ценностям и помнить, что следовать им — значит побеждать.
-      </p>
+      <PerfumeUniverseHistoryContent content={content[0]} />
       {showReadMode && !showMore && (
         <Button
           className="perfume-universe__read-history"
@@ -33,10 +28,8 @@ export function PerfumeUniverseHistory({
         </Button>
       )}
       {showMore &&
-        restContent.map((textContent, index) => (
-          <p className="perfume-universe__content-item" key={index}>
-            {textContent.text}
-          </p>
+        restContent.map((contentItem, index) => (
+          <PerfumeUniverseHistoryContent content={contentItem} key={index} />
         ))}
     </>
   );

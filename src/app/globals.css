@@ -152,3 +152,7 @@ body {
   margin-left: 15px;
   margin-right: 15px;
 }
+
+input::placeholder {
+  color: #888; /* замените на нужный цвет */
+}

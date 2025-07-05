@@ -1,7 +1,7 @@
 import { ImageGalleryItem, SliderItem } from "@/lib/types/components";
 import { BrandContentType, PerfumeUniverse } from "@/lib/types/general";
 
-export const lartisanparfumeurPerfumes: PerfumeUniverse[] = [
+export const lartisanparfumeurPerfumeUniverses: PerfumeUniverse[] = [
   {
     title: "La Collection (Ля Коллексьон)",
     subtitle: "19 ароматов",
@@ -505,7 +505,7 @@ export const lartisanparfumeurBrandContent: BrandContentType = {
     ],
   },
   imagesSliderSection: lartisanparfumeurImagesGallery,
-  perfumesSection: lartisanparfumeurPerfumes,
+  perfumesSection: lartisanparfumeurPerfumeUniverses,
   quizSection: {
     title: "Lartisan-Parfumeur",
     steps: lartisanparfumeurQuiz,

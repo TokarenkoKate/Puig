@@ -6,13 +6,15 @@ import {
 import { carolinaBrandContent } from "./brands/carolina/carolina";
 import { carolinePerfumeDetails } from "./brands/carolina/perfume-details";
 import { penhaligonsBrandContent } from "./brands/penhaligons/penhaligons";
-import { penhaligonsPerfumes } from "./brands/penhaligons/perfume-details";
+import { penhaligonsPerfumeDetails } from "./brands/penhaligons/perfume-details";
 import { lartisanparfumeurBrandContent } from "./brands/lartisanparfumeur/lartisanparfumeur";
 import { lartisanparfumeurPerfumeDetails } from "./brands/lartisanparfumeur/perfume-details";
 import { pacorabanneBrandContent } from "./brands/pacorabanne/pacorabanne";
 import { pacorabannePerfumeDetails } from "./brands/pacorabanne/perfume-details";
 import { ninaricciBrandContent } from "./brands/ninaricci/ninaricci";
 import { ninaricciPerfumeDetails } from "./brands/ninaricci/perfume-details";
+import { jeanpaulgaultierPerfumeDetails } from "./brands/jeanpaulgaultier/perfume-details";
+import { jeanpaulgaultierBrandContent } from "./brands/jeanpaulgaultier/jeanpaulgaultier";
 
 // Бренды
 export const BRANDS = {
@@ -64,7 +66,7 @@ export const brandsData: Record<BrandName, BrandContentType> = {
   [BRANDS.LARTISANPARFUMEUR]: lartisanparfumeurBrandContent,
   [BRANDS.PACORABBANE]: pacorabanneBrandContent,
   [BRANDS.NINARICCI]: ninaricciBrandContent,
-  [BRANDS.JEANPAULGAULTIER]: carolinaBrandContent,
+  [BRANDS.JEANPAULGAULTIER]: jeanpaulgaultierBrandContent,
   [BRANDS.BANDERAS]: carolinaBrandContent,
 };
 
@@ -72,10 +74,10 @@ export const brandsData: Record<BrandName, BrandContentType> = {
 // на странице /brands/[brandName]
 export const perfumesDetailsData: Record<BrandName, PerfumeDetails[]> = {
   [BRANDS.CAROLINA]: carolinePerfumeDetails,
-  [BRANDS.PENHALIGONS]: penhaligonsPerfumes,
+  [BRANDS.PENHALIGONS]: penhaligonsPerfumeDetails,
   [BRANDS.LARTISANPARFUMEUR]: lartisanparfumeurPerfumeDetails,
   [BRANDS.PACORABBANE]: pacorabannePerfumeDetails,
   [BRANDS.NINARICCI]: ninaricciPerfumeDetails,
-  [BRANDS.JEANPAULGAULTIER]: carolinePerfumeDetails,
+  [BRANDS.JEANPAULGAULTIER]: jeanpaulgaultierPerfumeDetails,
   [BRANDS.BANDERAS]: carolinePerfumeDetails,
 };

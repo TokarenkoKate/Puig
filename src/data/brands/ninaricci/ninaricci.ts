@@ -1,7 +1,7 @@
 import { ImageGalleryItem, SliderItem } from "@/lib/types/components";
 import { BrandContentType, PerfumeUniverse } from "@/lib/types/general";
 
-export const ninaricciPerfumes: PerfumeUniverse[] = [
+export const ninaricciPerfumeUniverses: PerfumeUniverse[] = [
   {
     title: "Nina",
     subtitle: "7 ароматов",
@@ -321,7 +321,7 @@ export const ninaricciBrandContent: BrandContentType = {
     },
   ],
   imagesSliderSection: ninaricciImagesGallery,
-  perfumesSection: ninaricciPerfumes,
+  perfumesSection: ninaricciPerfumeUniverses,
   quizSection: {
     title: "Nina Ricci",
     steps: ninaricciQuiz,

@@ -1,7 +1,7 @@
 import { ImageGalleryItem, SliderItem } from "@/lib/types/components";
 import { BrandContentType, PerfumeUniverse } from "@/lib/types/general";
 
-export const penhaligonsPerfumes: PerfumeUniverse[] = [
+export const penhaligonsPerfumeUniverses: PerfumeUniverse[] = [
   {
     title: "British Tales",
     subtitle: "15 ароматов",
@@ -548,7 +548,7 @@ export const penhaligonsBrandContent: BrandContentType = {
     ],
   },
   imagesSliderSection: penhaligonsImagesGallery,
-  perfumesSection: penhaligonsPerfumes,
+  perfumesSection: penhaligonsPerfumeUniverses,
   quizSection: {
     title: "Penhaligon's",
     steps: penhaligonsQuiz,

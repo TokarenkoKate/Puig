@@ -1,7 +1,7 @@
 import { ImageGalleryItem, SliderItem } from "@/lib/types/components";
 import { BrandContentType, PerfumeUniverse } from "@/lib/types/general";
 
-export const pacorabannePerfumes: PerfumeUniverse[] = [
+export const pacorabannePerfumeUniverses: PerfumeUniverse[] = [
   {
     title: "Phantom",
     subtitle: "1 аромат",
@@ -596,7 +596,7 @@ export const pacorabanneBrandContent: BrandContentType = {
     },
   ],
   imagesSliderSection: pacorabanneImagesGallery,
-  perfumesSection: pacorabannePerfumes,
+  perfumesSection: pacorabannePerfumeUniverses,
   quizSection: {
     title: "Rabanne",
     steps: pacorabanneQuiz,

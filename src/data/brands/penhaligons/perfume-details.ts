@@ -1,6 +1,6 @@
 import { PerfumeDetails } from "@/lib/types/general";
 
-export const penhaligonsPerfumes: PerfumeDetails[] = [
+export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
   {
     brandTitle: "PENHALIGON’S",
     title: "BLENHEIM BOUQUET",

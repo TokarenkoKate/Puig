@@ -1,7 +1,7 @@
 import { ImageGalleryItem, SliderItem } from "@/lib/types/components";
 import { BrandContentType, PerfumeUniverse } from "@/lib/types/general";
 
-export const carolinaPerfumes: PerfumeUniverse[] = [
+export const carolinaPerfumeUniverses: PerfumeUniverse[] = [
   {
     title: "Good Girl",
     subtitle: "6 ароматов",
@@ -520,7 +520,7 @@ export const carolinaBrandContent: BrandContentType = {
     },
   ],
   imagesSliderSection: carolinaImagesGallery,
-  perfumesSection: carolinaPerfumes,
+  perfumesSection: carolinaPerfumeUniverses,
   quizSection: {
     title: "Carolina Herrera",
     steps: carolinaQuiz,

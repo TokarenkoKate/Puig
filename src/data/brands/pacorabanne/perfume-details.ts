@@ -1,0 +1,2727 @@
+import { PerfumeDetails } from "@/lib/types/general";
+
+export const pacorabannePerfumeDetails: PerfumeDetails[] = [
+  {
+    brandTitle: "RABANNE",
+    title: "PHANTOM",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/phantom/1.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/phantom/2.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/phantom/3.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/phantom/4.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/phantom/5.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/phantom/6.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/phantom/7.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 8,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/phantom/8.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 9,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/phantom/9.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 10,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/phantom/10.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 11,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/phantom/11.png",
+          height: 800,
+          width: 800,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title:
+          "Лимон – Сливочная лаванда – Древесная ваниль – Ревень – Пачули – Ветивер",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/phantom/rightimage.png",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Ароматический, фужерный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Лок Донг",
+      },
+    ],
+    description: [
+      {
+        title: "PHANTOM – больше, чем аромат: Галактика Paco",
+        text: "Станьте частью Галактики Paco и присоединитесь к межгалактической вечеринке, на которую приглашены все желающие. Здесь вы можете быть теми, кем хотите. Не важно, кто вы и с какой планеты.  ",
+        video: "https://www.youtube.com/embed/XAZPEO9kC6M",
+      },
+      {
+        title: "",
+        text: "",
+        video: "https://www.youtube.com/embed/pbaRvKAXVdA",
+      },
+      {
+        title: "",
+        text: "",
+        video: "https://www.youtube.com/embed/h9oUm7aMTAM",
+      },
+      {
+        title:
+          "Самый революционный дизайн в индустрии и первый флакон с использованием беспроводных технологий. ",
+        text: "PHANTOM это — арт объект. Инновационный. Авангардный. Кардинально другой. Абсолютно революционный. Невероятно желанный. Поистине Paco Rabanne. Флакон аромата PHANTOM — это захватывающий ретро-футуристический образец дизайна будущего. Флакон — это то, что вы полюбите мгновенно. Идеальный предмет для демонстрации на вашей полке. Этот робот другой. Он не обычный геройский робот, которого мы знаем из фильмов или комиксов. Он похож на человека, симпатичный и веселый.",
+        video: "https://www.youtube.com/embed/_Oyxg4NxRpg",
+      },
+      {
+        title: "",
+        text: "Прикоснитесь телефоном к верхней части флакона и познакомьтесь со своим новым интерактивным напарником. Дерзкий призыв выйти за рамки обыденного и насладиться жизнью. Идеальное воплощение девиза #daretobedifferent… 1000% хорошего настроения. 1000% Paco Rabanne. #welcometothefuture",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Как это работает: чип NFC для бесконтактной связи встроен в верхнюю часть флаконов объемом 100 мл. Просто коснитесь головы PHANTOM своим смартфоном. Вот и все! Теперь вы во вселенной PHANTOM.",
+        video: "https://www.youtube.com/embed/bmUL0JLBbMQ",
+      },
+      {
+        title:
+          "PHANTOM – больше, чем парфюмерия: созданный в Грассе продукт взаимодействия человеческих эмоций и Искусственного Интеллекта.",
+        text: "Добро пожаловать в мир парфюмерии 2.0! PHANTOM – секрет вашей притягательности.  Это не просто приятный аромат. На самом деле, только нанеся на себя PHANTOM, вы уже чувствуете себя лучше.  ",
+        video: "",
+      },
+      {
+        title: "",
+        text: "В PHANTOM каждый аспект в создании аромата был переосмыслен с помощью технологий нового поколения. Благодаря нейробиологии, алгоритмическим инструментам и искусственному интеллекту наши парфюмеры смогли расширить свои творческие границы.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Нашему парфюмеру Лок Донгу пришла в голову безумная идея: он хотел использовать увеличенную дозу винтажной молекулы, называемой стираллил ацетат, для создания футуристического аромата. Наша программа искусственного интеллекта подтолкнула его использовать дозировку в десять раз больше обычной, принятой в современной парфюмерии! Именно эта избыточная доза и стала оптимальной для создания хорошего настроения.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Результат? Поистине исключительное парфюмерное творение, созданное в результате столкновения двух аккордов.  Phantom состоит из трех основных ингредиентов, которые придают ему удивительный и потусторонний характер: лимон (яркая зеленая вспышка), лаванда (кремовая, сливочная) и ваниль (пряная и загадочная). Футуристический, фужерный АРОМАТИЧЕСКИЙ парфюм с захватывающим и сексуальным характером. Phantom вызывает огромную зависимость в человеческом мозгу, а также активирует его область «хорошего самочувствия»! Удивительно приятный аромат.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "В основе своей Phantom — это экологичный аромат. Он производится с использованием сертифицированных ECOCERT ингредиентов, собранных с соблюдением этических норм. Ингредиенты Phantom являются органическими, чистыми.",
+        video: "https://www.youtube.com/embed/p0vwHzrpu60",
+      },
+      {
+        title: "",
+        text: "Phantom воплощает дух праздника и отличного настроения!",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Жизнь — это тусовка! Будьте готовы повеселиться!",
+        video: "https://www.youtube.com/embed/uEdhFGAxv-U",
+      },
+      {
+        title: "",
+        text: "PHANTOM. Это аромат нового мира за гранью красоты, где хорошее настроение делает вас привлекательнее, увереннее и энергичнее. По-настоящему. Потому что для Paco Rabanne будущее — это не фантастика. Оно уже наступило.",
+        video: "https://www.youtube.com/embed/CFf6N-Qu9h4",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "1 MILLION",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million/1.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million/2.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million/3.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million/4.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million/5.jpg",
+          height: 563,
+          width: 845,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million/6.jpg",
+          height: 845,
+          width: 634,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million/7.jpg",
+          height: 845,
+          width: 676,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Кожа – Мандарин – Корица – Роза – Пачули",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million/rightimage.jpg",
+          height: 340,
+          width: 340,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Кожаный, пряный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Кристоф Рейно, Мишель Жирар, Оливье Пешо",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Аромат 1 Million, созданный в 2008 году, покорил миллионы сердец по всему миру. Название аромата пробуждает желания и фантазии любого мужчины. Он призывает быть смелым и верить в свой успех! Безупречный стиль его обладателя, превосходное чувство юмора и шарм позволяют получить все, о чем мечтаешь в одно мгновение.",
+        video: "https://www.youtube.com/embed/WXqZGr3nPm0",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "1 MILLION PARFUM",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-parfum/1.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-parfum/2.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-parfum/3.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-parfum/4.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-parfum/5.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-parfum/6.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-parfum/7.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 8,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-parfum/8.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title:
+          "Кожа – Грейпфрут – Соленая тубероза – Древесный аккорд – Кардамон",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-parfum/rightimage.jpg",
+          height: 340,
+          width: 340,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Кожаный, цветочный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Кристоф Рейно, Натали Грация-Четто, Квентин Биш, Соня Констан",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Аромат, представленный миру в 2020 году, является новым, ярким взглядом на 1 Million и воплощает образ нового поколения. 1 Million Parfum ― это невероятная харизма, сила обаяния и особый ольфакторный почерк ― солнечная энергия в сочетании кожаных и цветочных нот. Преображение знаменитого флакона 1 MILLION, которым мечтаешь обладать. Новый символ: сияющий, королевский, величественный.",
+        video: "https://www.youtube.com/embed/zDMDUPKtpAM",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "1 MILLION ELIXIR",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-elixir/1.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-elixir/2.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-elixir/3.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-elixir/4.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-elixir/5.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-elixir/6.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-elixir/7.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 8,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-elixir/8.png",
+          height: 800,
+          width: 800,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Ваниль – Кедр – Яблоко – Роза – Давана – Османтус – Пачули",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-elixir/rightimage.png",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Восточный, древесный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Квентин Биш, Кристоф Рейно",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Paco Rabanne представляет новый аромат, который пополнит самую успешную мужскую линию 1 Million. Глубже, сильнее, ярче, роскошнее и интенсивнее, чем когда-либо прежде, новый 1 MILLION ELIXIR невероятно интенсивный, безошибочно 1 Million.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Этот мощный аромат был создан из тщательно отобранных ингредиентов, которые делают эту шедевральную композицию бесподобной, благодаря высочайшему качеству сырья.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Созданный парфюмерами Кристофом Рейно, автором оригинального1 Million, и Квентином Бишем, ELIXIR объединяет 1 Million Parfum и 1 Million в яркой и свободной вселенной, где обладать всем — это вторая натура.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Руководствуясь желанием использовать самые лучшие ингредиенты, чтобы воссоздать новую экстремальную интерпретацию уверенности и успеха, 1 MILLION ELIXIR — это смелый, новый способ выделиться из толпы, этот декадентский аромат, который является безоговорочно — бескомпромиссным.",
+        video: "",
+      },
+      {
+        title: "Новый загадочный символ — новый знак мощи, новый знак силы",
+        text: "Поистине культовый золотой слиток теперь несет новый знак силы: смелый, четкий и изысканный. Оригинальный флакон 1 MILLION переосмыслен, как искусно сделанная жемчужина, отражающая различные грани аромата. Черный треугольник с замысловатой резьбой заключает в себе бесконечную драгоценную силу и энергию. Приглашение отправиться на самую вершину интенсивности.",
+        video: "https://www.youtube.com/embed/NJqOZ4M4HV8",
+      },
+      {
+        title: "Восточно-древесный, фруктовый эликсир",
+        text: "Высшая чувственность встречается с интенсивной и продолжительной силой.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Это опьяняющая смесь, глубокая и захватывающая, привносит богатые цветочно-фруктовые ноты в самые изысканные материи и вибрирует на контрасте теплым ванильно-древесным аккордом и ликерной даваной.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Верхние ноты сладкого яблока и листьев даваны, мгновенно обволакивают, создавая смелое представление о роскошном и в то же время характерном аромате.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "В сердце аромата тщательно подобранные ингредиенты — великолепная турецкая роза и османтус, цветочная нота с кожаными и абрикосовыми нюансами. Дикорастущие бобы тонка — одна из причин, по которой эта шедевральная композиция отличается высочайшим и непревзойденным качеством.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "В шлейфе, чувственная ликерная давана, вибрирует с драгоценными экстрактами пачули, кедровым маслом и семенами черной ванили.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "1 MILLION ELIXIR — еще более роскошная, насыщенная и глубокая концентрация, чем у любого другого аромата из линейки 1 Million.",
+        video: "",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "1 MILLION ROYAL",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-royal/1.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-royal/2.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-royal/3.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-royal/4.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-royal/5.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-royal/6.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-royal/7.png",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Кедр – Лаванда – Бензоин – Пачули – Листья фиалки",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/1-million-royal/rightimage.png",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Древесный, свежий",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Квентин Биш, Кристоф Рейно",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Воспевая истинную природу мужественности, новый 1 Million Royal призывает забыть об условностях и жить по своим правилам. Добро пожаловать в королевство Million Royal, где спустя 15 лет после создания классического аромата восходит новая звезда.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Первоклассная композиция, созданная всемирно известными парфюмерными носами Квентином Бишем и Кристофом Рейно, 1 Million Royal ― проводник в безграничный мир творческой свободы. 1 Million Royal ― это возрождение легендарного свежего древесного звучания 1 Million. В новом захватывающем прочтении ― многогранное сочетание яркой лаванды, благородного кедра и теплого бензоина в шлейфе ― такого же притягательного, как и вы.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Безграничная уверенность рождается из простоты. Эта идея легла в основу легендарного золотого слитка 1 Million ― современного символа мужского успеха. Флакон 1 Million Royal инкрустирован красным драгоценным камнем ― королевским знаком отличия. Яркий дизайн побуждает бросить вызов условностям и жить по своим правилам. Дерзкий, концептуальный, бесстрашный: он вобрал в себя лучшее из наследия предыдущих поколений и открыл новую смелую эру 1 Million Royal.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Амбассадор 1 Million Royal Джоуи Bada$$ снялся в новой кампании вместе с Симоной Куст. Одетый во все белое, он олицетворяет собой новое время и новую мужественность, которая не ограничивается условностями, а прославляет пламенную уверенность и успех.",
+        video: "https://www.youtube.com/embed/AnalU_PRZn8",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "LADY MILLION",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million/1.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million/2.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million/3.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million/4.jpg",
+          height: 845,
+          width: 634,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million/5.jpg",
+          height: 845,
+          width: 604,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Жасмин – Малина – Мед – Цветок апельсина – Пачули",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million/rightimage.jpg",
+          height: 340,
+          width: 340,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Цветочный, древесный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Анн Флипо, Доминик Ропьон, Биатрис Пике, Бруно Йованович",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Композиция увидела свет в 2010 году и стала потрясающей парой к классическому мужскому аромату 1 Million. Героиня Lady Million предстала перед нами в высшей степени женственной, решительной и невероятно смелой. Экстравагантная обольстительница, не отказывающая себе ни в чем, всегда в поиске нового, Lady Million ― ослепительная роковая женщина, творческая и непокорная натура. Её аромат ― трепетный, чувственный, он меняется с каждым движением воздуха, раскрывая самые красивые грани своей обладательницы, подобно игре света, упавшего на бриллиант. Флакон аромата ― стал настоящим символом обольщения и роскоши, объектом желания миллионов.",
+        video: "https://www.youtube.com/embed/WXqZGr3nPm0",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "LADY MILLION FABULOUS",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million-fabulous/1.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million-fabulous/2.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million-fabulous/3.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million-fabulous/4.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million-fabulous/5.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million-fabulous/6.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million-fabulous/7.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 8,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million-fabulous/8.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 9,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million-fabulous/9.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 10,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million-fabulous/10.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 11,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million-fabulous/11.png",
+          height: 800,
+          width: 800,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title:
+          "Тубероза – Ваниль – Мандарин – Иланг-иланг – Жасмин – Мох – Бобы тонка – Кашмеран",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million-fabulous/rightimage.png",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Восточный, цветочный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Анн Флиппо",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Сексуальная и притягательная, все взгляды обращены только на нее! Lady Million Fabulous — так ее зовут! Благодаря ее буйной харизме, свободолюбивому духу, экстравагантному стилю, звезда вечеринок Lady MillionFabulous всегда в центре внимания. Украшенная сверкающим великолепием с головы до ног, она показывает себя совершенно невероятной и сногсшибательной!Ослепительная и всегда нарядная, она звезда любой вечеринки. Ведь это состояние ее души. Музыка — ее религия; танцы — это ее пристрастие...",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Флакон в форме бриллианта с сияющими солнечными лучами и эффектом мерцающего черного блеска создает очень женственный и особенный образ.  В сочетании с золотом флакон создает неповторимый эффект вечеринки, воплощая смелость и игривость. Он освещает тьму экстравагантностью и декадансом. Lady Million Fabulous искрится чувственностью, заряжая танцпол своей электрической и эксцентричной атмосферой...",
+        video: "https://www.youtube.com/embed/Qr6AAxI1GGI",
+      },
+      {
+        title: "",
+        text: "С новым женским ароматом Lady Million Fabulous раскрывает таинственную грань себя, которую демонстрирует только ночью, когда выходит в свет…",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Композиция парфюма — это микс ярких солнечных нот и белых цветов — контраст манящей чувственности и восточной древесной базы.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Первые искрящиеся ноты, со свежими аккордами розового перца и мандарина, словно раскрывают мелодию с танцевальным ритмом.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Насыщенная тубероза и экзотичный бленд белых цветов(жасмин и иланг-иланг) в центре внимания, как слепящий свет полуденного солнца. Нежная, притягательная ваниль окружена бобами тонка, кашемировым деревом имхом, эти ноты по-настоящему добавляют сияния и хорошего настроения на всю ночь.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Аромат, излучающий радость и наслаждение, словно музыка, когда превалирует только одно, желание танцевать.",
+        video: "",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "LADY MILLION ROYAL",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million-royal/1.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million-royal/2.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million-royal/3.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million-royal/4.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million-royal/5.png",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title:
+          "Гранат – Кашмеран – Цветы апельсина – Жасмин – Тубероза – Пачули",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/lady-million-royal/rightimage.png",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Цветочный, фруктовый",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Домитиль Мишалон-Бертье, Анн Флипо",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Почувствуйте истинную природу своей безграничной женственности, войдя в королевство Lady Million. Забыв об условностях, приготовьтесь играть по своим правилам. Пришло время смело заявить о себе. Пришло время стать Lady Million Royal.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Lady Million Royal ― манифест королевской женственности, созданный всемирно известными парфюмерными носами Анн Флипо и Домитиль Мишалон-Бертье, чтобы раскрыть неповторимый шарм аромата через дерзкую фруктово-цветочную композицию. Воплощая дух. современности, она раскрывает истинную природу каждой женщины и дарит беззаботное веселье. В ней сочные брызги граната жизнерадостно искрятся на пышном королевском букете с бархатистой кашмерановой базой.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Являя собой новую грань культовой композиции, Lady MillionRoyal воплощает свой бунтарский дух в знаковом флаконе, дополненном алыми акцентами, отсылающими к творениям Модного Дома Paco Rabanne. ",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Она всегда остается верна себе и дорожит собственной свободой ― обновленный флакон в полной мере отражает идею аромата. Легендарный бриллиант засиял еще ярче после того, как приобрел королевские акценты красного цвета. Рубиновый цветок из сверкающих камней, украшающий одну из граней флакона, олицетворяет безграничную женственность LadyMillion.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Амбассадор Симона Куст олицетворяет все то, что означает жить по собственным правилам и свободно самовыражаться. В этом году она снялась в новой кампании для Lady Million Royal вместе с Джоуи Bada$$. Почувствуйте дух свободы и предайтесь настоящему веселью, чтобы прожить жизнь, полную легкости и гламура.",
+        video: "https://www.youtube.com/embed/AAhPf2PiAiU",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "MILLION GOLD",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold/1.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold/2.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold/3.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold/4.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold/5.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold/6.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold/7.jpg",
+          height: 1772,
+          width: 1772,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title:
+          "Красный мандарин - Сандал - Кедр - Кардамон - Розовый перец - Корица - Киприол",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold/rightimage.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Древесный, Пряный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Квентин Биш, Кристоф Рейно",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "MillionGold. Почувствуйте этот бит — совершенно иное звучание маскулинности. По щелчку пальцев Rabanne открывает вселенную Million Gold для молодого поколения, переписывая привычные коды и представляя актуальное и смелое видение самой возмутительной истории успеха.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Встречайте нового короля. Он один на миллион. Зарядитесь энергией золота.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Новый флакон Million Gold традиционно выполнен в виде легендарного золотого слитка номиналом в 1 миллион долларов. Но на этот раз его дополняет новая выдающаяся деталь — неотъемлемая часть богатой истории и наследия Дома — звено цепи XL Link.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "МОЗЕС САМНИ ПРИСОЕДИНЯЕТСЯ К RABANNE В КАЧЕСТВЕ ЛИЦА MILLION GOLD. МИРОВАЯ ЗВЕЗДА, ЖИВУЩАЯ ПО СОБСТВЕННЫМ ПРАВИЛАМ",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Мозес Самни предстаёт в образе всемогущего героя вне рамок и определений. Экстраверт, звезда и кумир молодого поколения, он танцует на сцене, а затем по щелчку пальцев оказывается в новой вселенной Million Gold и проникается осознанием собственной уникальной силы.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "И именно о нём можно сказать: «Ты выглядишь на миллион долларов».",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Поддайтесь пленительному аромату сандалового дерева: этот особый ингредиент нишевой парфюмерии придаёт композиции великолепную текстуру и создаёт манящее древесное звучание, которое в сочетании с ярким кедром напоминает об узнаваемых мандариновых нотах 1 Million.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Тёплый и пламенный, соблазнительный аккорд амбры дополнен маслом кардамона, свежим бергамотом, медово-цветочными нотами розы и CO2-экстрактом розового перца. Нежное масло корицы придаёт аромату дразнящие нотки печёных яблок. Акигалавуд™ — уникальный ингредиент, полученный с использованием биологических технологий, — добавляет композиции характер и элегантность, в то время как киприоловое масло создаёт красочное послевкусие с оттенками ветивера и кожи.",
+        video: "",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "MILLION GOLD FOR HER",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-for-her/1.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-for-her/2.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-for-her/3.jpg",
+          height: 1080,
+          width: 1080,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-for-her/4.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-for-her/5.jpg",
+          height: 1772,
+          width: 1772,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-for-her/6.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-for-her/7.jpg",
+          height: 1772,
+          width: 1772,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title:
+          "Роза - Букет белых цветов - Мох - Минеральный мускус - Жасмин - Иланг-Иланг",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-for-her/rightimage.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Цветочный, Цветочный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Алиенор Массне, Сьюзи Ле Хелли, Натали Бенаро, Лок Донг",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Million Gold For Her — самый волнующий и опьяняющий чувственностью, женский ароматом от Rabanne. Отмечая поворотный момент в пятидесятивосьмилетней истории Модного Дома, Million Gold For Her — первый аромат в новой вселенной ароматов, призванный пробудить всемогущую женственность, через блеск золота и невероятную силу успеха!",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Изящный и изысканный флакон Million Gold For Her отличается многогранным дизайном и новой выдающейся деталью, которая остается частью богатой истории и наследия Модного Дома — культовое звено XL Link.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "XL Link представляет собой серию переплетающихся больших и малых звеньев в фирменных ювелирных изделиях Дома Rabanne.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "МИРОВАЯ СУПЕРЗВЕЗДА — ДЖИДЖИ ХАДИД",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Кто лучше Джиджи Хадид может олицетворять новую парфюмерную историю, основой которой является бесконечная женственность? Самая влиятельная супермодель поколения, телеведущая и предприниматель — несравненная мировая мегазвезда и суперикона для женщин во всем мире.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Сегодня она вошла в историю Rabanne, присоединившись к Модному Дому в качестве нового амбассадора, чтобы олицетворить бескомпромиссную, бесстрашную женственность в новом аромате, сияющем золотом.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Сложная структура аромата раскрывается благодаря новой разрушительной двойственности: сверкающей розы и женственных белых цветов, контрастирующих с соленым минеральным мускусным аккордом.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "На старте — эксклюзивный дистиллят, специально изготовленного лавандового масла и Tonkalactone® с захватывающим кремовым оттенком, сочетающийся с мандариновым маслом из Мадагаскара и молекулой Pearadise®. В базе аромата парфюмеры смешали возобновляемый оксид розы, масло иланг-иланга из Мадагаскара и жасмин.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Последний поворот — это аккорд минерального мускусного мха и абсолюта бурбонской ванили из Мадагаскара.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Million Gold For Her — это беспрецедентная кульминация чрезвычайной смелости и утонченности. Он неотразимо чувственен и оставляет неповторимый женственный шлейф.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "*Не представлен в РФ",
+        video: "",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "INVICTUS",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus/1.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus/2.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus/3.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus/4.jpg",
+          height: 620,
+          width: 599,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus/5.jpg",
+          height: 845,
+          width: 633,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title:
+          "Морской аккорд – Гваяковое дерево – Серая амбра – Грейпфрут – Листья лавра",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus/rightimage.jpg",
+          height: 340,
+          width: 340,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Цитрусовый, древесный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Анн Флипо, Доминик Ропьон, Оливье Польж, Вероник Найберг",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "2013 год ознаменован запуском классического аромата Invictus, который открывает новую главу в истории мужской парфюмерии. Invictus ― настоящий современный герой, его выбор ― это аромат победы. Свежая, древесная композиция, в которой мощь укрощается пряностями.",
+        video: "https://www.youtube.com/embed/z7kyjWn3u5Y",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "INVICTUS VICTORY",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory/1.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory/2.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory/3.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory/4.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory/5.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory/6.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory/7.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 8,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory/8.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 9,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory/9.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 10,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory/10.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 11,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory/11.png",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title:
+          "Цитрусовый аккорд – Ладан – Лаванда – Перец – Пачули амбра – Ваниль",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory/rightimage.png",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Восточный, ароматический",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Анн Флипо, Домитиль Мишалон-Бертье",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Великолепный ореол Победы",
+        video: "",
+      },
+      {
+        title: "",
+        text: "V значит Invictus Victory! Жизнь соткана из побед, которые совершаются каждый день.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Ведь снова и снова ты превосходишь себя, принимая каждый новый вызов, совершая великие достижения, ничто, кроме твоей сноровки не сравнится с твоей силой.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Поражение не входит в твои планы. Лишь одна заповедь высечена на твоем аромате: ПОБЕДА!",
+        video: "https://www.youtube.com/embed/V5PqXQAEYaM",
+      },
+      {
+        title: "",
+        text: "Аромат победителя, аромат триумфа, неразделим с названием Invictus Victory, насыщенной парфюмерной водой, созданной Paco Rabanne.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Новый аромат воплощает двойственность противоборствующих сил: свежести и насыщенности. С одной стороны — яркая свежесть, воплощенная в бодрящем цитрусовом аккорде. Мужественный и универсальный аромат. С другой — насыщенность, в которой мягкость нот ванили дополняется сладкими аккордами бобов тонка, создавая таинственный, успокаивающий и завораживающий эффект.",
+        video: "https://www.youtube.com/embed/VHaB3H6tPq4",
+      },
+      {
+        title: "",
+        text: "Финальный штрих: свежий, восточный, притягательный с необратимо гипнотизирующим шлейфом, который завораживает. Новая версия культового аромата от Paco Rabanne. Просто неудержимый.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Кубок победителя, притягательный трофей, безусловная награда.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Флакон глубокого черного цвета Invictus Victory, возвышающийся на величественном пьедестале. Сверкает печатью триумфа, выгравированной на флаконе: золотая V как Victory («победа»).",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Победа в твоих руках!",
+        video: "https://www.youtube.com/embed/SHwGKxhlRds",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "INVICTUS PLATINUM",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-platinum/1.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-platinum/2.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-platinum/3.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-platinum/4.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-platinum/5.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-platinum/6.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-platinum/7.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 8,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-platinum/8.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 9,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-platinum/9.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 10,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-platinum/10.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 11,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-platinum/11.png",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Кипарис – Лаванда – Грейпфрут – Абсент – Мята – Пачули – Мох",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-platinum/rightimage.png",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Ароматический, фужерный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Домитиль Мишалон-Бертье",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Invictus 2022 уже здесь. Переосмысленный и обновлённый аромат актуальный на десятилетия вперёд. Встречайте совершенно новую композицию, которая сделает ольфакторное путешествие поистине захватывающим.",
+        video: "",
+      },
+      {
+        title: "Я — Invictus.",
+        text: "",
+        video: "",
+      },
+      {
+        title: "Чувство величия.",
+        text: "#IamInvictus — для страстных и целеустремленных победителей. Для тех, кто не останавливается на достигнутом. Падая, поднимается снова, чтобы стать сильнее. Следовать главным принципам Invictus и быть готовым преодолевать любые трудности на путик победе. Теперь, выходя за границы спорта, тема победы обретает свою значимость для каждого, кто готов сражаться и добиваться желаемого. #IamInvictus объединяет единомышленников, стремящихся к силе и величию.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Invictus. Аромат, заявление, символ достоинства. Переосмыслить концепцию Invictus — значит дать ему новое определение, сохраняя основные ценности.  Invictus — для тех, кто всегда побеждает. Легко сказать. На самом деле, достичь триумфа непросто. Это ежедневная борьба, но каждая победа в ней заставляет гордиться собой еще сильнее. Мы падаем, но продолжаем бороться, мы терпим неудачу, но не отступаем. Это творчество, эмоции и действия, применяемые в отношении предопределённой судьбы.",
+        video: "https://www.youtube.com/embed/YNd3ebRW3tw",
+      },
+      {
+        title: "",
+        text: "Бодрящие ноты Invictus Platinum раскрываются благородным звучанием лаванды, которая символизирует чистоту, милосердие и преданность. Invictus Platinum наполнен мятной свежестью, которая на языке цветов олицетворяет добродетель. Цветущий, сочный, бодрящий грейпфрут в сочетании с нотами абсента, и мужественным звучанием пачули успокаивают и уравновешивают. Древесный шлейф, как идеальное завершение сложной парфюмерной композиции, символизирует мощь и уверенность нового образа идеального мужчины Invictus. В этой яркой, землистой и вызывающей привыкание парфюмерной воде есть своя уникальность: отдавая дань уважения оригинальному аромату Invictus, новая композиция Platinum — более дымная и минеральная, что привносит в линейку Invictus современную отличительную черту. ",
+        video: "",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "INVICTUS VICTORY ELIXIR",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory-elixir/1.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory-elixir/2.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory-elixir/3.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory-elixir/4.jpg",
+          height: 1080,
+          width: 1080,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory-elixir/5.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory-elixir/6.jpg",
+          height: 1080,
+          width: 1080,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory-elixir/7.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title:
+          "Лавандин – Черный перец – Амбра – Ладан – Бобы тонка – Ваниль – Древесный аккорд",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory-elixir/rightimage.png",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Амбровый, древесный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Анн Флипо, Домитиль Мишалон-Бертье",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Квинтэссенция насыщенности во вселенной Invictus от Paco Rabanne. Обновленный манифест о воле к безграничным достижениям. Пришло время запечатлеть момент и ощутить себя в лучах славы с Invictus Victory Elixir, новым эффектным ароматом для мужчин. Пора насладиться моментом истинного Величия. Никогда не останавливайся на достигнутом с Invictus Victory Elixir от Paco Rabanne.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Темно-синий градиент покрыл культовый кубок Invictus, отражая глубину и насыщенность Invictus Victory Elixir. Впервые легендарные крылья на эмблеме Invictus приобретают золотой цвет на фоне благородного синего оттенка матовой упаковки. Это абсолютный символ триумфа.",
+        video: "https://www.youtube.com/embed/mEO6YWXA6ro",
+      },
+      {
+        title: "",
+        text: "Новый аромат — еще более насыщенная версия бестселлера Invictus Victory от Paco Rabanne, благородный амбровый древесно-пряный эликсир из высококачественных и высококонцентрированных ингредиентов.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Аромат раскрывается бодрящей волной свежести, которая усиливает ноты прованского лавандина в сочетании с аккордом зеленого кардамона и пикантного черного перца. Им на смену приходит роскошная древесная нота индонезийского пачули — мужественное дополнение знакового аромата Invictus Victory, она создает гармоничное сочетание с темным, таинственным ладаном, собранным вручную в Сомали.",
+        video: "",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "OLYMPEA",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea/1.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea/2.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea/3.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea/4.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea/5.jpg",
+          height: 845,
+          width: 597,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title:
+          "Соленая ваниль – Жасмин – Имбирная лилия – Мандарин – Серая амбра",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea/rightimage.jpg",
+          height: 340,
+          width: 340,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Восточный, цветочный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Анн Флипо, Доминик Ропьон, Лок Донг",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Аромат Olympea был представлен в 2015 году. С тех пор, слава и успех сопровождают это творение французских мастеров парфюмерии. Аромат создан для прекрасных и сильных духом женщин, готовых выбирать свою судьбу, быть неповторимыми и успешными. Уникальный аккорд соленой ванили сливается с чистотой цветочных нот, что создает в аромате уникальный баланс между неординарным звучанием и абсолютным стилем самого Paco Rabanne.",
+        video: "https://www.youtube.com/embed/uHjyK6I774Q",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "OLYMPEA BLOSSOM",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-blossom/1.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-blossom/2.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-blossom/3.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-blossom/4.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-blossom/5.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-blossom/6.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-blossom/7.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 8,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-blossom/8.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 9,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-blossom/9.png",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Ваниль – Грушевый сорбет – Роза – Пачули – Розовый перец",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-blossom/rightimage.png",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Цветочный, шипровый",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Бруно Йованович, Фанни Бал",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Девушка в цвету...",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Она носит одежду, украшенную цветами. Ее имя отзывается свободой. Она излучает женственность. Ее уверенность окутывает всех вокруг, как волна очарования, принося радость и несказанное удовольствие.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Выспросите, как ее зовут? Её имя у всех на устах — Olympéa Blossom. Когда женственность соединяется с неземной чувственностью и идет с ней рука об руку.",
+        video: "https://www.youtube.com/embed/ntGcjyxRnfU",
+      },
+      {
+        title: "",
+        text: "В чём её секрет? В аромате.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Olympea Blossom — цветочная волна, новое творение от Paco Rabanne. Божественный контраст изобилия цветочных нот и абсолютной чувственности: едва уловимые перечные оттенки свежесрезанных роз сменяются нотами грушевого сорбета в сердце, пробуждая беззаботность молодости и пьянящее предчувствие новых ощущений. За воздушной легкостью цветочных нот следует непреодолимо манящий и кокетливый контраст: слияние нежного аккорда ванили и древесных нот пачули. Идеальное сочетание, оставляющее мягкий и чувственный мускусный шлейф.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Эта двойственность рождает цветочно-шипровую композицию — символ вибрирующей и спонтанной женственности. Аромат, излучающий счастье, ода жизненному изобилию и обаянию — такой же игристый, как и розовое шампанское... и просто неотразимый.",
+        video: "https://www.youtube.com/embed/TRCkpsuHXQI",
+      },
+      {
+        title: "",
+        text: "Флакон Olympéa, украшенный флористическим принтом Olympéa blossom. Неожиданное сочетание нежного розового оттенка и графичных черных цветов, дизайн которых был вдохновлен модными коллекциями Дома Paco Rabanne, преображает культовый флакон. Новый аромат — это ода женственности, чувственной, захватывающей и одновременно бесконечной.",
+        video: "https://www.youtube.com/embed/H0LG7v8Yvoc",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "OLYMPEA SOLAR",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-solar/1.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-solar/2.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-solar/3.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-solar/4.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-solar/5.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-solar/6.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-solar/7.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 8,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-solar/8.png",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title:
+          "Цветы апельсина – Иланг-иланг – Тиаре – Бензоин – Мандарин – Мох",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-solar/rightimage.png",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Цветочный, амбровый",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Анн Флипо",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Olympéa 2022 уже здесь. Переосмысленный и обновлённый аромат актуальный на десятилетия вперёд. Встречайте совершенно новую композицию, которая сделает ольфакторное путешествие поистине захватывающим.",
+        video: "",
+      },
+      {
+        title: "Я — Olympéa.",
+        text: "",
+        video: "",
+      },
+      {
+        title: "Наивысшее призвание.",
+        text: "#IAmOlympéa для страстных и самоуверенных. Новая парфюмерная вода — самая яркая и лучезарная версия легендарной Olympéa, увенчанная золотыми лаврами. Olympéa Solar озаряет всё вокруг своим светом и словно становится с ним одним целым. Бесконечная, пленительная чувственность и воля к победе делают её совершенно неудержимой.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Olympéa Solar. Одно лишь название раскрывает основную концепцию самого лучезарного аромата Paco Rabanne, созданного для непревзойдённых и ослепительных девушек. Безусловно, каждая героиня современности будет им очарована. Solar — воплощение пылкости, независимости и уверенности. Но что еще важнее, это символ высшей силы: энергии и тепла, присущих женственности. Сегодня и всегда.",
+        video: "https://www.youtube.com/embed/S82pWFwhlTE",
+      },
+      {
+        title: "",
+        text: "Встречайте новое лицо рекламной кампании Olympéa — Луну Бийль. Величия не бывает без риска. Пако Рабан знает это наверняка, и Луна Бийль — тоже. Родившаяся и выросшая в Голландии, 24-летняя модель Луна в ослепительном, культовом металлическом платье предстала в новой рекламной кампании бренда. Золотая девочка Paco Rabanne. В настоящий момент она входит в число пятидесяти лучших моделей и стремительно продвигается к вершине пьедестала.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Композиция раскрывается бодрящим цитрусовым звучанием: искрящиеся аккорды мандариновой цедры и апельсина одновременно успокаивают и ослепляют, словно тёплая улыбка. Верхние ноты аромата резко сменяются солнечным аккордом иланг-иланга, а также сладких и опьяняющих белых цветов в дуэте с экзотическим и чувственным цветком тиаре. Минеральные аккорды дубового мха придают звучанию аромата ощущение непобедимости, которое подкрепляется нотами бензоина в сердце. Одно можно сказать наверняка: аромат Olympéa Solar словно переносит в самый яркий солнечный день. Он сексуальный. Он бескомпромиссный. Аромат, созданный для того, чтобы почувствовать себя в гармонии со своей внутренней красотой.",
+        video: "",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "OLYMPEA FLORA",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-flora/1.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-flora/2.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-flora/3.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-flora/4.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-flora/5.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-flora/6.jpg",
+          height: 1772,
+          width: 1772,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title:
+          "Роза – Cорбет из черной смородины – Розовый перец – Пион – Пачули – Соленая ваниль",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-flora/rightimage.png",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Шипровый, цветочный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Фанни Баль, Нелли Аш",
+      },
+    ],
+    description: [
+      {
+        title: "Цветочная Амазонка",
+        text: "Пылкая. Уверенная в себе. Невероятно сексуальная. Роскошная современная амазонка, которая знает все о силе цветов. Olympéa",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Flora — это квинтэссенция женственности, выраженная в стойкой насыщенно-цветочной версии классического аромата Olympéa от Paco Rabanne, лицом которого является грациозная голландская супермодель Луна Бийль.",
+        video: "",
+      },
+      {
+        title: "Флакон. Захватывающее сочетание черного и розового",
+        text: "Новый флакон Olympéa Flora — это смелое отступление от предыдущих версий. Он дополнен черным акцентом, контрастирующим с ослепительным розовым оттенком аромата. Силуэт черной орхидеи и тропических листьев украшает роскошный стеклянный флакон, отсылая к знаковой гурманской ноте ванили в классической Olympéa. Глянцевые черные лавровые ветви обрамляют флакон, увенчанный гладкой блестящей черной крышкой, переливающейся сияющим золотом.",
+        video: "https://www.youtube.com/embed/2SrU1TX_0l8",
+      },
+      {
+        title: "Аромат. Сила цветов",
+        text: "Новый аромат — пышный букет из колючей розы и благоухающего пиона — олицетворяет две божественные натуры на языке Olympéa. Они противостоят друг другу подобно черным и розовым цветкам, распускающимся в ее тайном саду.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Жгучая выразительность розы. Сладость черной смородины. Свежесть пиона. Нарочито женственный, насыщенно-цветочный аромат Olympéa Flora создан двумя молодыми женщинами-парфюмерами Фанни Баль и Нелли Ашем как воплощение «блистательного и вдохновляющего образа амазонки Olympéa».",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Чтобы выразить всю непокорность и загадочность богини цветов, парфюмеры решили придать Olympéa восхитительное шипровое звучание — самое элегантное из всех семейств ароматов, которое сочетает в себе фруктовые, цветочные и древесные ноты.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Чарующее цветочное сердце Olympéa Flora — это изобилие благоухающих свежих роз и цветущих пионов. Чтобы розовые лепестки полностью раскрылись, парфюмеры окропили их искристым розовым перцем, вкус которого такой же острый, как и шипы роз.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Восхитительный сорбет из черной смородины усиливает фруктовые ноты пышного цветочного букета. Сочная смесь окутана соленой ванилью — фирменным аккордом Olympéa.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Бархатистые индонезийские пачули, отражают пылкую женственность богини цветов. Стойкий шлейф мускусного кашемирового дерева придает композиции элегантное и загадочное звучание.",
+        video: "",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "OLYMPEA PARFUM",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-parfum/1.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-parfum/2.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-parfum/3.jpg",
+          height: 1080,
+          width: 1080,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-parfum/4.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-parfum/5.jpg",
+          height: 1080,
+          width: 1080,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-parfum/6.jpg",
+          height: 1080,
+          width: 1080,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title:
+          "Растительный аккорд - Ваниль - Жасмин - Роза - Шалфей - Розовый перец - Бензоин",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-parfum/rightimage.jpeg",
+          height: 1640,
+          width: 1640,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Амбровый, зеленый",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Поль Герлен, Анн Флипо",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Позвольте вашему внутреннему свету озарить всё вокруг, ведь история Olympéa продолжается с Olympéa Parfum — новым гипнотическим амбровым зелёно-цветочным ароматом. Он пробуждает роскошную современную амазонку в каждой девушке и раскрывает самые загадочные грани женственности.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Рождённая в зените, впитав всю энергию солнца, гипнотическая Olympéa Parfum предстаёт перед нами в эффектном тёмном воплощении. Насыщенный чёрный цвет дополняют золотые крылья, которые символизируют божественную натуру женщины и её внутренний свет.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Транслируя ценности Olympéa, амбассадор бренда Rabanne Луна Бийль возвращается, чтобы предстать в образе современной амазонки, излучающей гипнотический внутренний свет.",
+        video: "https://www.youtube.com/embed/TtqIMu_Qhes",
+      },
+      {
+        title: "",
+        text: "Созданная всемирно известными парфюмерами Полем Герленом и Анн Флипо, Olympéa Parfum сохраняет в своём звучании знаковый аккорд солёной ванили, лежащий в основе всех ароматов Olympéa. Парфюмеры привнесли в Olympéa Parfum заметную свежесть благодаря искрящемуся зелёному аккорду, пряному розовому перцу и ароматической эссенции мускатного шалфея. В сердце композиции — несравненный цветочный букет из солнечного жасмина, абсолю розы и цветков апельсина, придающий аромату обволакивающее звучание. Наконец, ваниль, бензоин и мускус в базовых нотах раскрывают самые волнующие грани женской натуры.",
+        video: "",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "INVICTUS PARFUM",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-parfum/1.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-parfum/2.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-parfum/3.jpg",
+          height: 1080,
+          width: 1081,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-parfum/4.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-parfum/5.jpg",
+          height: 1080,
+          width: 1080,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-parfum/6.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title:
+          "Лаванда - Сандал - Черное мыло - Морской аккорд - Кашмеран - Мускус",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-parfum/rightimage.jpeg",
+          height: 1640,
+          width: 1640,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Ароматический, древесный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Каролин Дюмюр, Анн Флипо",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Полумифический герой большого города Invictus от Rabanne достигает новых вершин. Знаменитый аромат триумфально возвращается в новом воплощении. Invictus Parfum для мужчин — это необычное сплетение ароматических, древесных и акватических нот.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Живая легенда и амбассадор бренда Rabanne Джейлен Грин продолжает транслировать триумфальную силу Invictus. Теперь он представляет более насыщенный аромат Invictus Parfum для мужчин с непоколебимой волей к достижениям.",
+        video: "https://www.youtube.com/embed/z8q-B5CcA30",
+      },
+      {
+        title: "",
+        text: "Всемирно известные парфюмеры Каролин Дюмюр и Анн Флипо представляют новый Invictus Parfum в насыщенном и волнующем амплуа. Свежесть лаванды в верхних нотах подчёркивает яркий розовый перец и аккорды морской дымки. Чёрное мыло становится новшеством в линейке Invictus, придавая композиции Invictus Parfum звучание чистоты и свежести, и оттеняет сладострастный аккорд листьев фиалки в сердце композиции. Наконец, чувственность кашмерана сталкивается с дымным мускусом и благородным сандаловым деревом, раскрывая полумифического героя большого города во всей его красе.",
+        video: "",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "PURE XS POUR HOMME",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/pure-xs-pour-homme/1.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/pure-xs-pour-homme/2.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/pure-xs-pour-homme/3.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/pure-xs-pour-homme/4.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/pure-xs-pour-homme/5.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Ваниль – Мирра – Имбирь – Корица – Тимьян",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/pure-xs-pour-homme/rightimage.jpg",
+          height: 340,
+          width: 340,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Восточный, пряный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Анн Флипо, Каролин Дюмюр",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Мужской аромат Pure XS появился в 2017 году. Граненый флакон аромата для этого запуска был выполнен в насыщенном синем цвете, намекая на то, что самое интересное происходит ночью. Название Pure XS обыгрывает двойственность героя. Он сочетает в себе порядочность и дерзость, порок и добродетель ― и это действует как магнит. Яркая, одновременно свежая и восточная композиция отражает противоположности, которые притягиваются и отражаются друг в друге. Аромат оставляет за собой ощущение разгоряченной кожи.",
+        video: "https://www.youtube.com/embed/mhFXXgICNmE",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "PURE XS FOR HER",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/pure-xs-for-her/1.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/pure-xs-for-her/2.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/pure-xs-for-her/3.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/pure-xs-for-her/4.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/pure-xs-for-her/5.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/pure-xs-for-her/6.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title:
+          "Иланг-иланг – Ваниль – Сандаловое дерево – Эротический попкорн – Семена Амбретты",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/pure-xs-for-her/rightimage.jpg",
+          height: 340,
+          width: 340,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Цветочный, гурманский",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Квентин Биш",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Женский аромат Pure XS от Paco Rabanne был создан в 2018 году ― это история откровенных фантазий и сексуального вожделения. Аромат без запретов и ограничений, лицом которого стала сводящая с ума Эмили Ратаковски. У неё есть всё. И даже больше. Обезоруживающая привлекательность, уверенность в себе, невероятная сексуальность. Провокационная цветочная композиция раскрывается пьянящим ароматом, остаётся лишь довериться инстинктам. Стеклянный флакон, обвитый змеёй с мерцающей чешуёй, подлинная драгоценность и воплощение чрезмерности.",
+        video: "https://www.youtube.com/embed/NzrtVMtEVMg",
+      },
+    ],
+  },
+];

@@ -10,7 +10,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/mure-et-musc-extreme-edp/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/mure-et-musc-extreme-edp/1.png",
           height: 800,
           width: 800,
         },
@@ -19,7 +19,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/mure-et-musc-extreme-edp/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/mure-et-musc-extreme-edp/2.png",
           height: 800,
           width: 800,
         },
@@ -31,7 +31,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Ежевика – Черная смородина – Мускус – Цветок апельсина – Пачули",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/mure-et-musc-extreme-edp/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/mure-et-musc-extreme-edp/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -66,7 +66,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/premier-figuier-edt/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/premier-figuier-edt/1.png",
           height: 800,
           width: 800,
         },
@@ -75,7 +75,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/premier-figuier-edt/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/premier-figuier-edt/2.png",
           height: 800,
           width: 800,
         },
@@ -87,7 +87,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Инжирное дерево – Персик – Листья инжирного дерева – Миндальное молоко – Сандал – Кокосовое молоко",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/premier-figuier-edt/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/premier-figuier-edt/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -122,7 +122,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/premier-figuier-extreme-edp/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/premier-figuier-extreme-edp/1.png",
           height: 800,
           width: 800,
         },
@@ -131,7 +131,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/premier-figuier-extreme-edp/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/premier-figuier-extreme-edp/2.png",
           height: 800,
           width: 800,
         },
@@ -143,7 +143,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Инжирное дерево – Персик – Листья инжирного дерева – Миндальное молоко – Сандал – Кокосовое молоко – Хвоя",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/premier-figuier-extreme-edp/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/premier-figuier-extreme-edp/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -178,7 +178,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/histoire-d’orangers/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/histoire-dorangers/1.png",
           height: 800,
           width: 800,
         },
@@ -187,7 +187,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/histoire-d’orangers/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/histoire-dorangers/2.png",
           height: 800,
           width: 800,
         },
@@ -199,7 +199,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Нероли – Белый чай – Мускус – Цветы апельсина – Амброксан – Бобы тонка",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/histoire-d’orangers/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/histoire-dorangers/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -239,7 +239,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/la-chasse-aux-papillons-edt/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/la-chasse-aux-papillons-edt/1.png",
           height: 800,
           width: 800,
         },
@@ -248,7 +248,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/la-chasse-aux-papillons-edt/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/la-chasse-aux-papillons-edt/2.png",
           height: 800,
           width: 800,
         },
@@ -260,7 +260,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Мандарин – Розовый перец – Цветы липы – Цветок апельсина – Жасмин – Иланг-иланг – Тубероза",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/la-chasse-aux-papillons-edt/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/la-chasse-aux-papillons-edt/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -295,7 +295,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/la-chasse-aux-papillons-extreme-edp/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/la-chasse-aux-papillons-extreme-edp/1.png",
           height: 800,
           width: 800,
         },
@@ -304,7 +304,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/la-chasse-aux-papillons-extreme-edp/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/la-chasse-aux-papillons-extreme-edp/2.png",
           height: 800,
           width: 800,
         },
@@ -316,7 +316,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Розовый перец – Цветы липы – Цветок апельсина – Жасмин – Иланг-иланг – Тубероза – Ветивер – Ваниль – Шафран – Пчелиный воск",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/la-chasse-aux-papillons-extreme-edp/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/la-chasse-aux-papillons-extreme-edp/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -351,7 +351,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/noir-exquis-edp/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/noir-exquis-edp/1.png",
           height: 800,
           width: 800,
         },
@@ -360,7 +360,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/noir-exquis-edp/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/noir-exquis-edp/2.png",
           height: 800,
           width: 800,
         },
@@ -372,7 +372,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Карамелизованный каштан – Кофейные зерна – Кленовый сироп – Ваниль – Древесина мраморного дерева – Грецкий орех",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/noir-exquis-edp/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/noir-exquis-edp/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -407,7 +407,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/l’eau-d’ambre/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/leau-dambre/1.png",
           height: 800,
           width: 800,
         },
@@ -416,7 +416,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/l’eau-d’ambre/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/leau-dambre/2.png",
           height: 800,
           width: 800,
         },
@@ -428,7 +428,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Лабданум – Герань – Пачули – Ваниль – Бобы тонка – Бензоин – Амбра",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/l’eau-d’ambre/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/leau-dambre/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -468,7 +468,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/l'eau-d'ambre-extreme-edp/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/leau-dambre-extreme-edp/1.png",
           height: 800,
           width: 800,
         },
@@ -477,7 +477,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/l'eau-d'ambre-extreme-edp/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/leau-dambre-extreme-edp/2.png",
           height: 800,
           width: 800,
         },
@@ -489,7 +489,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Пачули – Ваниль – Бензоин – Кардамон – Турецкая роза – Амбра – Бобы тонка – Перец",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/l'eau-d'ambre-extreme-edp/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/leau-dambre-extreme-edp/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -529,7 +529,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/timbuktu-edt/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/timbuktu-edt/1.png",
           height: 800,
           width: 800,
         },
@@ -538,7 +538,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/timbuktu-edt/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/timbuktu-edt/2.png",
           height: 800,
           width: 800,
         },
@@ -550,7 +550,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Зеленый манго – Ладан – Папирус – Ветивер – Мирра – Пачули – Розовый перец – Кардамон",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/timbuktu-edt/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/timbuktu-edt/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -585,7 +585,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/fou-d'absinthe-edp/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/fou-dabsinthe-edp/1.png",
           height: 800,
           width: 800,
         },
@@ -594,7 +594,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/fou-d'absinthe-edp/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/fou-dabsinthe-edp/2.png",
           height: 800,
           width: 800,
         },
@@ -606,7 +606,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Полынь – Звездчатый анис – Перец – Хвоя сосны – Бальзам пихты – Имбирь – Абсент – Лабданум",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/fou-d'absinthe-edp/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/fou-dabsinthe-edp/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -641,7 +641,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/mechant-loup-edt/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/mechant-loup-edt/1.png",
           height: 800,
           width: 800,
         },
@@ -650,7 +650,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/mechant-loup-edt/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/mechant-loup-edt/2.png",
           height: 800,
           width: 800,
         },
@@ -662,7 +662,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Лакрица – Каштан – Древесина орешника – Мед – Бобы тонка – Мирра – Кедр",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/mechant-loup-edt/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/mechant-loup-edt/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -697,7 +697,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/passage-d'enfer-edt/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/passage-denfer-edt/1.png",
           height: 800,
           width: 800,
         },
@@ -706,7 +706,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/passage-d'enfer-edt/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/passage-denfer-edt/2.png",
           height: 800,
           width: 800,
         },
@@ -715,7 +715,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/passage-d'enfer-edt/3.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/passage-denfer-edt/3.png",
           height: 800,
           width: 800,
         },
@@ -727,7 +727,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Имбирь – Ладан – Лилия – Роза – Кедр – Белый мускус – Уд – Сандал",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/passage-d'enfer-edt/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/passage-denfer-edt/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -762,7 +762,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/passage-d'enfer-extreme-edp/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/passage-denfer-extreme-edp/1.png",
           height: 800,
           width: 800,
         },
@@ -771,7 +771,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/passage-d'enfer-extreme-edp/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/passage-denfer-extreme-edp/2.png",
           height: 800,
           width: 800,
         },
@@ -780,7 +780,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/passage-d'enfer-extreme-edp/3.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/passage-denfer-extreme-edp/3.png",
           height: 800,
           width: 800,
         },
@@ -791,7 +791,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "Лилия – Ладан – Сандаловое дерево",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/passage-d'enfer-extreme-edp/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/passage-denfer-extreme-edp/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -836,7 +836,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/bois-farine-edt/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/bois-farine-edt/1.png",
           height: 800,
           width: 800,
         },
@@ -845,7 +845,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/bois-farine-edt/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/bois-farine-edt/2.png",
           height: 800,
           width: 800,
         },
@@ -857,7 +857,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Семена фенхеля – Грейпфрут – Ирис – Семена амбретты – Пшеница – Злаки – Кедровое дерево – Сандаловое дерево",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/bois-farine-edt/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/bois-farine-edt/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -892,7 +892,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/couleur-vanille-edp/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/couleur-vanille-edp/1.png",
           height: 800,
           width: 800,
         },
@@ -901,7 +901,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/couleur-vanille-edp/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/couleur-vanille-edp/2.png",
           height: 800,
           width: 800,
         },
@@ -913,7 +913,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Бергамот – Соль – Фрезия – Цветок бессмертника – Орхидея – Кашмеран – Толуанский бальзам – Абсолю ванили – Мускус –Бензоин",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/couleur-vanille-edp/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/couleur-vanille-edp/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -948,7 +948,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/memoire-de-roses/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/memoire-de-roses/1.png",
           height: 800,
           width: 800,
         },
@@ -957,7 +957,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/memoire-de-roses/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/memoire-de-roses/2.png",
           height: 800,
           width: 800,
         },
@@ -966,7 +966,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/memoire-de-roses/3.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/memoire-de-roses/3.png",
           height: 800,
           width: 800,
         },
@@ -975,7 +975,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 4,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/memoire-de-roses/4.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/memoire-de-roses/4.png",
           height: 800,
           width: 800,
         },
@@ -984,7 +984,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 5,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/memoire-de-roses/5.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/memoire-de-roses/5.png",
           height: 800,
           width: 800,
         },
@@ -995,7 +995,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "Мандарин – Роза – Мускус",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/memoire-de-roses/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/memoire-de-roses/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -1049,7 +1049,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/a-fleur-de-peche/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/a-fleur-de-peche/1.png",
           height: 845,
           width: 845,
         },
@@ -1058,7 +1058,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/a-fleur-de-peche/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/a-fleur-de-peche/2.png",
           height: 845,
           width: 845,
         },
@@ -1067,7 +1067,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/a-fleur-de-peche/3.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/a-fleur-de-peche/3.png",
           height: 845,
           width: 845,
         },
@@ -1076,7 +1076,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 4,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/a-fleur-de-peche/4.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/a-fleur-de-peche/4.png",
           height: 845,
           width: 845,
         },
@@ -1085,7 +1085,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 5,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/a-fleur-de-peche/5.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/a-fleur-de-peche/5.png",
           height: 845,
           width: 845,
         },
@@ -1094,7 +1094,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 6,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/a-fleur-de-peche/6.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/a-fleur-de-peche/6.png",
           height: 845,
           width: 845,
         },
@@ -1103,7 +1103,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 7,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/a-fleur-de-peche/7.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/a-fleur-de-peche/7.png",
           height: 845,
           width: 845,
         },
@@ -1112,7 +1112,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 8,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/a-fleur-de-peche/8.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/a-fleur-de-peche/8.png",
           height: 845,
           width: 845,
         },
@@ -1124,7 +1124,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Персик – Бергамот – Розовый перец – Жасмин – Calone – Пачули – Бобы тонка",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/a-fleur-de-peche/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/a-fleur-de-peche/rightimage.png",
           height: 1080,
           width: 1080,
         },
@@ -1184,7 +1184,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/il-était-un-bois/1.jpg",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/il-etait-un-bois/1.jpg",
           height: 2250,
           width: 2000,
         },
@@ -1193,7 +1193,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/il-était-un-bois/2.jpg",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/il-etait-un-bois/2.jpg",
           height: 2250,
           width: 2000,
         },
@@ -1202,7 +1202,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/il-était-un-bois/3.jpg",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/il-etait-un-bois/3.jpg",
           height: 1999,
           width: 2000,
         },
@@ -1211,7 +1211,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 4,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/il-était-un-bois/4.jpeg",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/il-etait-un-bois/4.jpeg",
           height: 1999,
           width: 2000,
         },
@@ -1220,7 +1220,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 5,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/il-était-un-bois/5.jpeg",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/il-etait-un-bois/5.jpeg",
           height: 1999,
           width: 2000,
         },
@@ -1229,7 +1229,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 6,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/il-était-un-bois/6.jpg",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/il-etait-un-bois/6.jpg",
           height: 1999,
           width: 2000,
         },
@@ -1238,7 +1238,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 7,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/il-était-un-bois/7.jpeg",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/il-etait-un-bois/7.jpeg",
           height: 1999,
           width: 2000,
         },
@@ -1250,7 +1250,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Ветивер - Гречишный аккорд - Кедр - Кашмеран - Розовый перец - Куркума - Мускус",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/il-était-un-bois/rightimage.jpg",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/il-etait-un-bois/rightimage.jpg",
           height: 790,
           width: 790,
         },
@@ -1310,7 +1310,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/mandarina-corsica/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/mandarina-corsica/1.png",
           height: 800,
           width: 800,
         },
@@ -1319,7 +1319,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/mandarina-corsica/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/mandarina-corsica/2.png",
           height: 800,
           width: 800,
         },
@@ -1331,7 +1331,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Цукат мандарина – Бобы тонка – Мандарин – Коричневый сахар – Амброксан",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/mandarina-corsica/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/mandarina-corsica/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -1366,7 +1366,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/un-air-de-bretagne-edp/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/un-air-de-bretagne-edp/1.png",
           height: 800,
           width: 800,
         },
@@ -1375,7 +1375,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/un-air-de-bretagne-edp/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/un-air-de-bretagne-edp/2.png",
           height: 800,
           width: 800,
         },
@@ -1386,7 +1386,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "Бергамот – Нероли – Кипарис – Морские водоросли – Амбра",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/un-air-de-bretagne-edp/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/un-air-de-bretagne-edp/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -1426,7 +1426,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/le-chant-de-camargue-edp/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/le-chant-de-camargue-edp/1.png",
           height: 800,
           width: 800,
         },
@@ -1435,7 +1435,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/le-chant-de-camargue-edp/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/le-chant-de-camargue-edp/2.png",
           height: 800,
           width: 800,
         },
@@ -1446,7 +1446,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "Калабарийский бергамот – Рис – Сандал – Гедион (жасмин)",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/le-chant-de-camargue-edp/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/le-chant-de-camargue-edp/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -1485,7 +1485,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/soleil-de-provence/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/soleil-de-provence/1.png",
           height: 800,
           width: 800,
         },
@@ -1494,7 +1494,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/soleil-de-provence/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/soleil-de-provence/2.png",
           height: 800,
           width: 800,
         },
@@ -1503,7 +1503,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/soleil-de-provence/3.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/soleil-de-provence/3.png",
           height: 800,
           width: 800,
         },
@@ -1512,7 +1512,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 4,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/soleil-de-provence/4.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/soleil-de-provence/4.png",
           height: 800,
           width: 800,
         },
@@ -1521,7 +1521,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 5,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/soleil-de-provence/5.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/soleil-de-provence/5.png",
           height: 800,
           width: 800,
         },
@@ -1533,7 +1533,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Эссенция лимона – Абсолют мимозы – Бензоин – Иланг-иланг – Ваниль – Бергамот",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/soleil-de-provence/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/soleil-de-provence/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -1578,7 +1578,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/tenebrae-edp/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/tenebrae-edp/1.png",
           height: 800,
           width: 800,
         },
@@ -1587,7 +1587,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/tenebrae-edp/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/tenebrae-edp/2.png",
           height: 800,
           width: 800,
         },
@@ -1598,7 +1598,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "Кустарник ивы – Ладан – Смолы",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/tenebrae-edp/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/tenebrae-edp/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -1633,7 +1633,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/mirabilis-edp/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/mirabilis-edp/1.png",
           height: 800,
           width: 800,
         },
@@ -1642,7 +1642,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/mirabilis-edp/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/mirabilis-edp/2.png",
           height: 800,
           width: 800,
         },
@@ -1653,7 +1653,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "Вулканический мускус – Амброксан – Лабданум",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/mirabilis-edp/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/mirabilis-edp/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -1688,7 +1688,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/venenum-edp/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/venenum-edp/1.png",
           height: 800,
           width: 800,
         },
@@ -1697,7 +1697,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/venenum-edp/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/venenum-edp/2.png",
           height: 800,
           width: 800,
         },
@@ -1709,7 +1709,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Чай масала – Кардамон – Гвоздика – Имбирь – Звездчатый анис – Мускатный орех – Сандал – Рис",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/venenum-edp/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/venenum-edp/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -1744,7 +1744,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/arcana-rosa-edp/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/arcana-rosa-edp/1.png",
           height: 800,
           width: 800,
         },
@@ -1753,7 +1753,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/arcana-rosa-edp/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/arcana-rosa-edp/2.png",
           height: 800,
           width: 800,
         },
@@ -1765,7 +1765,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Абсолю болгарской розы – Кедр – Ветивер – Сандал – Лабданум – Киприол",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/arcana-rosa-edp/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/arcana-rosa-edp/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -1800,7 +1800,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/crepusculum-mirabile/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/crepusculum-mirabile/1.png",
           height: 800,
           width: 800,
         },
@@ -1809,7 +1809,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/crepusculum-mirabile/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/crepusculum-mirabile/2.png",
           height: 800,
           width: 800,
         },
@@ -1821,7 +1821,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Жасмин – Сандаловое дерево – Бобы тонка – Тубероза – Кумин – Кардамон",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/crepusculum-mirabile/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/crepusculum-mirabile/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -1856,7 +1856,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/obscuratio-edp/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/obscuratio-edp/1.png",
           height: 800,
           width: 800,
         },
@@ -1865,7 +1865,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/obscuratio-edp/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/obscuratio-edp/2.png",
           height: 800,
           width: 800,
         },
@@ -1877,7 +1877,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Пачули – Иланг-иланг – Бурбонская ваниль – Кедр – Фрезия – Амбра",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/obscuratio-edp/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/obscuratio-edp/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -1911,7 +1911,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/abyssae/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/abyssae/1.png",
           height: 800,
           width: 800,
         },
@@ -1920,7 +1920,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/abyssae/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/abyssae/2.png",
           height: 800,
           width: 800,
         },
@@ -1931,7 +1931,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "Кашмеран – Эвкалипт – Роза – Ладан – Инжирное дерево – Амбра",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/abyssae/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/abyssae/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -1971,7 +1971,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/legendes-du-cedre/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/legendes-du-cedre/1.png",
           height: 800,
           width: 800,
         },
@@ -1980,7 +1980,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/legendes-du-cedre/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/legendes-du-cedre/2.png",
           height: 800,
           width: 800,
         },
@@ -1989,7 +1989,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/legendes-du-cedre/3.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/legendes-du-cedre/3.png",
           height: 800,
           width: 800,
         },
@@ -2000,7 +2000,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "Шафран – Кедр – Пачули – Артемизия – Лабданум – Мускатный орех",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/legendes-du-cedre/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/legendes-du-cedre/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -2040,7 +2040,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/contes-du-levant/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/contes-du-levant/1.png",
           height: 800,
           width: 800,
         },
@@ -2049,7 +2049,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/contes-du-levant/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/contes-du-levant/2.png",
           height: 800,
           width: 800,
         },
@@ -2058,7 +2058,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/contes-du-levant/3.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/contes-du-levant/3.png",
           height: 800,
           width: 800,
         },
@@ -2069,7 +2069,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "Перец – Роза – Пачули – Ладан – Герань – Лабданум",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/contes-du-levant/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/contes-du-levant/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -2109,7 +2109,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/bois-des-sables-edp/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/bois-des-sables-edp/1.png",
           height: 800,
           width: 800,
         },
@@ -2118,7 +2118,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/bois-des-sables-edp/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/bois-des-sables-edp/2.png",
           height: 800,
           width: 800,
         },
@@ -2127,7 +2127,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/bois-des-sables-edp/3.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/bois-des-sables-edp/3.png",
           height: 800,
           width: 800,
         },
@@ -2139,7 +2139,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         title:
           "Лабданум – Ваниль – Пачули – Кардамон – Кокосовое молоко – Сандал",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/bois-des-sables-edp/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/bois-des-sables-edp/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -2184,7 +2184,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/ode-a-l'oudh-edp/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/ode-a-loudh-edp/1.png",
           height: 800,
           width: 800,
         },
@@ -2193,7 +2193,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/ode-a-l'oudh-edp/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/ode-a-loudh-edp/2.png",
           height: 800,
           width: 800,
         },
@@ -2202,7 +2202,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/ode-a-l'oudh-edp/3.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/ode-a-loudh-edp/3.png",
           height: 800,
           width: 800,
         },
@@ -2213,7 +2213,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "Уд – Шафран – Ваниль – Кедр – Сандал – Давана",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/ode-a-l'oudh-edp/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/ode-a-loudh-edp/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -2258,7 +2258,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/fables-d'orient-edp/1.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/fables-dorient-edp/1.png",
           height: 800,
           width: 800,
         },
@@ -2267,7 +2267,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/fables-d'orient-edp/2.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/fables-dorient-edp/2.png",
           height: 800,
           width: 800,
         },
@@ -2276,7 +2276,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/fables-d'orient-edp/3.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/fables-dorient-edp/3.png",
           height: 800,
           width: 800,
         },
@@ -2287,7 +2287,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "Мускатный орех – Ирис – Амбра – Гелиотроп – Амбра – Мёд",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/fables-d'orient-edp/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/fables-dorient-edp/rightimage.png",
           height: 845,
           width: 845,
         },
@@ -2332,7 +2332,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/cuir-grenat/1.jpg",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/cuir-grenat/1.jpg",
           height: 2250,
           width: 2000,
         },
@@ -2341,7 +2341,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/cuir-grenat/2.jpg",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/cuir-grenat/2.jpg",
           height: 2250,
           width: 2000,
         },
@@ -2350,7 +2350,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/cuir-grenat/3.jpg",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/cuir-grenat/3.jpg",
           height: 1565,
           width: 2000,
         },
@@ -2359,7 +2359,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 4,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/cuir-grenat/4.jpg",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/cuir-grenat/4.jpg",
           height: 1565,
           width: 2000,
         },
@@ -2368,7 +2368,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 5,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/cuir-grenat/5.jpg",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/cuir-grenat/5.jpg",
           height: 1181,
           width: 1181,
         },
@@ -2377,7 +2377,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 6,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/cuir-grenat/6.jpg",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/cuir-grenat/6.jpg",
           height: 1559,
           width: 2000,
         },
@@ -2386,7 +2386,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 7,
         title: "",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/cuir-grenat/7.jpg",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/cuir-grenat/7.jpg",
           height: 1565,
           width: 2000,
         },
@@ -2397,7 +2397,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "Малина - Ладан - Розовый Перец - Амброксан - Мускус - Кедр",
         src: {
-          src: "/assets/images/brands/lartisanparfumeur/perfumes-details/cuir-grenat/rightimage.png",
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/cuir-grenat/rightimage.png",
           height: 678,
           width: 676,
         },

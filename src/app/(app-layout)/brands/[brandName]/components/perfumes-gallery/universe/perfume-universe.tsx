@@ -16,7 +16,7 @@ export function PerfumeUniverseComponent({
   active,
   onClick,
 }: PerfumeUniverseProps) {
-  const { title, subtitle, content, images } = perfumeUniverse;
+  const { title, subtitle, citation, content, images } = perfumeUniverse;
 
   const bodyRef = useRef<HTMLDivElement>(null);
   const [bodyHeight, setBodyHeight] = useState("0px");
@@ -27,6 +27,12 @@ export function PerfumeUniverseComponent({
       const scrollHeight = bodyRef.current.scrollHeight;
       setBodyHeight(`${scrollHeight}px`);
       setBodyOpacity(1);
+
+      const timeout = setTimeout(() => {
+        setBodyHeight("auto");
+      }, 300);
+
+      return () => clearTimeout(timeout);
     } else {
       setBodyHeight("0px");
       setBodyOpacity(0);
@@ -61,7 +67,7 @@ export function PerfumeUniverseComponent({
         }}
       >
         <div ref={bodyRef} className="perfume-universe__content">
-          <PerfumeUniverseHistory content={content} />
+          <PerfumeUniverseHistory content={content} citation={citation} />
           <div className="perfume-universe__image-wrapper">
             {images.map((image) => (
               <PerfumeUniverseCard perfumeImage={image} key={image.id} />

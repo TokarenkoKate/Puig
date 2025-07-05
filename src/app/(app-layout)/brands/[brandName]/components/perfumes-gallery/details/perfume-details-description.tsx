@@ -14,6 +14,9 @@ export function PerfumeDetailsDescription({
             className="perfume-details__description-item"
             key={descriptionItem.text}
           >
+            {descriptionItem.title && (
+              <h2 className="text-2xl font-medium">{descriptionItem.title}</h2>
+            )}
             <p className="perfume-details__description-text">
               {descriptionItem.text}
             </p>

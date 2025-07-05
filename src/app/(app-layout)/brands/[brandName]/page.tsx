@@ -42,7 +42,7 @@ export default async function BrandPage({
       <BrandsImagesGallerySection images={imagesSliderSection} />
       <VideoGallery videoGalleryItems={videoGallerySection} />
       <UniverseSection perfumeUniverses={perfumesSection} />
-      <BrandQuizSection title={quizSection.title} steps={quizSection.steps} />
+      <BrandQuizSection title={quizSection.title} steps={quizSection.steps} brandName={brandName} />
     </div>
   );
 }

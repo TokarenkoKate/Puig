@@ -219,10 +219,6 @@
   background-position: 0 0, 13% 0, 0 100%, 100%;
   background-repeat: no-repeat;
   z-index: 0;
-  background-image: url("/assets/images/brands/footer/brand-footer-1.png"),
-    url("/assets/images/brands/footer/brand-footer-2.png"),
-    url("/assets/images/brands/footer/brand-footer-3.png"),
-    url("/assets/images/brands/footer/brand-footer-4.png");
   background-repeat: no-repeat;
 }
 

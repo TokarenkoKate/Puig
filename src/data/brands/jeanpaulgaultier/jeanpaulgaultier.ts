@@ -3,7 +3,7 @@ import { BrandContentType, PerfumeUniverse } from "@/lib/types/general";
 
 export const jeanpaulgaultierPerfumeUniverses: PerfumeUniverse[] = [
   {
-    title: "Classique u0026 Le Male",
+    title: "Classique \u0026 Le Male",
     subtitle: "4 аромата",
     content: [
       {
@@ -50,11 +50,11 @@ export const jeanpaulgaultierPerfumeUniverses: PerfumeUniverse[] = [
     ],
   },
   {
-    title: "La Belle u0026 Le Beau",
+    title: "La Belle \u0026 Le Beau",
     subtitle: "5 ароматов",
     content: [
       {
-        text: "LA BELLE u0026 LE BEAU — фантазия дизайнера о райских садах. Готье, подобному создателю, в течении 7 дней воплощал нашу идеальную пару в реальность, используя свой безграничный творческий потенциал!",
+        text: "LA BELLE \u0026 LE BEAU — фантазия дизайнера о райских садах. Готье, подобному создателю, в течении 7 дней воплощал нашу идеальную пару в реальность, используя свой безграничный творческий потенциал!",
       },
     ],
 

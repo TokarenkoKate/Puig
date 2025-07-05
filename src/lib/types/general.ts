@@ -61,6 +61,7 @@ export type PerfumeDetails = {
 export type PerfumeUniverse = {
   title: string;
   subtitle: string;
+  citation?: string;
   content: {
     text?: string;
     url?: string;

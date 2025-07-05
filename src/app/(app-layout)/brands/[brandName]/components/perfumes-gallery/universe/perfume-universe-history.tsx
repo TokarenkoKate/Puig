@@ -7,10 +7,12 @@ import { PerfumeUniverseHistoryContent } from "./perfume-universe-history-conten
 
 type PerfumeUniverseHistoryProps = {
   content: PerfumeUniverse["content"];
+  citation?: string;
 };
 
 export function PerfumeUniverseHistory({
   content,
+  citation,
 }: PerfumeUniverseHistoryProps) {
   const showReadMode = content.length > 1;
   const [showMore, setShowMore] = useState(false);
@@ -18,6 +20,7 @@ export function PerfumeUniverseHistory({
 
   return (
     <>
+      {citation && <h3 className="text-lg font-bold mx-auto">{citation}</h3>}
       <PerfumeUniverseHistoryContent content={content[0]} />
       {showReadMode && !showMore && (
         <Button

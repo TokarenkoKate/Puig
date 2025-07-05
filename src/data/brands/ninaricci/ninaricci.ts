@@ -317,7 +317,7 @@ export const ninaricciBrandContent: BrandContentType = {
       previewImg:
         "/assets/images/brands/ninaricci/video-gallery/videogallery2.webp",
       videoSrc:
-        "/assets/video/brands/ninaricci/video-gallery/videogallery1.mp4",
+        "/assets/video/brands/ninaricci/video-gallery/videogallery2.mp4",
     },
   ],
   imagesSliderSection: ninaricciImagesGallery,

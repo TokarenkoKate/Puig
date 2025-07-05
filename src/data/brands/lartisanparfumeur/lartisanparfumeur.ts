@@ -390,7 +390,7 @@ const lartisanparfumeurHistorySliderItems: SliderItem[] = [
   },
   {
     year: 2016,
-    content: "Появление коллекции La Botanique u0026 Les Paysages.",
+    content: "Появление коллекции La Botanique \u0026 Les Paysages.",
   },
   { year: 2017, content: "Создание коллекции Les Colognes." },
   { year: 2019, content: "Премьера аромата Bana Banana." },

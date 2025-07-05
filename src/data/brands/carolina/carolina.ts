@@ -491,7 +491,7 @@ export const carolinaBrandContent: BrandContentType = {
     {
       previewImg:
         "/assets/images/brands/carolina/video-gallery/videogallery1.webp",
-      videoSrc: "/assets/video/brands/carolina/video-gallery/1.mp4",
+      videoSrc: "/assets/video/brands/carolina/bio.mp4",
     },
     {
       previewImg:

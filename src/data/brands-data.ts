@@ -17,6 +17,8 @@ import { jeanpaulgaultierPerfumeDetails } from "./brands/jeanpaulgaultier/perfum
 import { jeanpaulgaultierBrandContent } from "./brands/jeanpaulgaultier/jeanpaulgaultier";
 import { banderasPerfumeDetails } from "./brands/banderas/perfume-details";
 import { banderasBrandContent } from "./brands/banderas/banderas";
+import { christianlouboutinBrandContent } from "./brands/christianlouboutin/christianlouboutin";
+import { christianlouboutinPerfumeDetails } from "./brands/christianlouboutin/perfume-details";
 
 // Бренды
 export const BRANDS = {
@@ -27,6 +29,7 @@ export const BRANDS = {
   NINARICCI: "ninaricci",
   JEANPAULGAULTIER: "jeanpaulgaultier",
   BANDERAS: "banderas",
+  CHRISTIANLOUBOUTIN: "christianlouboutin",
 } as const;
 
 // Список брендов для навигационного меню
@@ -59,6 +62,10 @@ export const brands: { label: string; name: BrandName }[] = [
     label: "Banderas",
     name: BRANDS.BANDERAS,
   },
+  {
+    label: "Christian Louboutin",
+    name: BRANDS.CHRISTIANLOUBOUTIN,
+  },
 ];
 
 // Данные для страниц /brands/[brandName]
@@ -70,6 +77,7 @@ export const brandsData: Record<BrandName, BrandContentType> = {
   [BRANDS.NINARICCI]: ninaricciBrandContent,
   [BRANDS.JEANPAULGAULTIER]: jeanpaulgaultierBrandContent,
   [BRANDS.BANDERAS]: banderasBrandContent,
+  [BRANDS.CHRISTIANLOUBOUTIN]: christianlouboutinBrandContent,
 };
 
 // Данные с подробной информацией о парфюмах
@@ -82,4 +90,5 @@ export const perfumesDetailsData: Record<BrandName, PerfumeDetails[]> = {
   [BRANDS.NINARICCI]: ninaricciPerfumeDetails,
   [BRANDS.JEANPAULGAULTIER]: jeanpaulgaultierPerfumeDetails,
   [BRANDS.BANDERAS]: banderasPerfumeDetails,
+  [BRANDS.CHRISTIANLOUBOUTIN]: christianlouboutinPerfumeDetails,
 };

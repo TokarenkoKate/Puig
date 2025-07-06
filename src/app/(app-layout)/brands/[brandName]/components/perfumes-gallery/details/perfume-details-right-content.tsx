@@ -17,8 +17,8 @@ export function PerfumeDetailsRightContent({
           <Image
             alt={rightImage.title}
             loading="lazy"
-            width={rightImage.src?.width}
-            height={rightImage.src?.height}
+            width={340}
+            height={340}
             src={rightImage.src?.src}
             className="perfume-details__ingredients-img"
           />

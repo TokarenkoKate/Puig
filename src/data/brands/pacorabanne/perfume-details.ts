@@ -2768,7 +2768,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
         id: 5,
         title: "",
         src: {
-          src: "/assets/images/brands/pacorabanne/perfume-details/fame-edp/5.png",
+          src: "/assets/images/brands/pacorabanne/perfume-details/fame-edp/5.jpg",
           height: 845,
           width: 845,
         },

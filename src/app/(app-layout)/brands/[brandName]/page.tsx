@@ -18,6 +18,7 @@ export function generateStaticParams() {
     { brandName: "ninaricci" },
     { brandName: "jeanpaulgaultier" },
     { brandName: "banderas" },
+    { brandName: "christianlouboutin" },
   ];
 }
 export default async function BrandPage({
@@ -40,6 +41,7 @@ export default async function BrandPage({
   return (
     <div>
       <HeroVideoSection
+        imageSrc={heroSection.heroImageSrc}
         videoSrc={heroSection.videoSrc}
         title={heroSection.title}
       />
@@ -53,11 +55,13 @@ export default async function BrandPage({
       <BrandsImagesGallerySection images={imagesSliderSection} />
       <VideoGallery videoGalleryItems={videoGallerySection} />
       <UniverseSection perfumeUniverses={perfumesSection} />
-      <BrandQuizSection
-        title={quizSection.title}
-        steps={quizSection.steps}
-        brandName={brandName}
-      />
+      {quizSection && (
+        <BrandQuizSection
+          title={quizSection.title}
+          steps={quizSection.steps}
+          brandName={brandName}
+        />
+      )}
     </div>
   );
 }

@@ -81,7 +81,8 @@ export type VideoGalleryItem = {
 
 export type BrandContentType = {
   heroSection: {
-    videoSrc: string;
+    videoSrc?: string;
+    heroImageSrc?: string;
     title: string;
   };
   historySliderSection: SliderItem[];
@@ -94,7 +95,7 @@ export type BrandContentType = {
   videoGallerySection?: VideoGalleryItem[];
   imagesSliderSection: ImageGalleryItem[];
   perfumesSection: PerfumeUniverse[];
-  quizSection: {
+  quizSection?: {
     title: string;
     steps: MultiStepQuizStep[];
   };

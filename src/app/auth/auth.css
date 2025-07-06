@@ -61,7 +61,7 @@
   margin: 5px auto;
   display: flex;
   justify-content: center;
-  font-size: 14px;
+  font-size: var(--text-sm);
 }
 
 .login_label {
@@ -136,7 +136,7 @@
   top: 15%;
   font-family: Montserrat;
   font-weight: 400;
-  font-size: 14px;
+  font-size: var(--text-sm);
   line-height: 12px;
   cursor: pointer;
 }
@@ -233,7 +233,7 @@
   display: flex;
   justify-content: center;
   font-family: Montserrat;
-  font-size: 14px;
+  font-size: var(--text-sm);
 }
 
 .register_label {
@@ -265,7 +265,7 @@
 
 .register_selectedValue {
   padding: 25px;
-  font-size: 14px;
+  font-size: var(--text-sm);
   font-family: Montserrat;
   color: #363636;
 }
@@ -307,7 +307,7 @@
 .register_option {
   padding: 12px 25px;
   cursor: pointer;
-  font-size: 14px;
+  font-size: var(--text-sm);
 }
 
 .register_option:hover {

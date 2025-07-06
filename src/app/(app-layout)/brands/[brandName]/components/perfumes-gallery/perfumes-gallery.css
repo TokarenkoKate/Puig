@@ -46,7 +46,7 @@
   letter-spacing: 1px;
   height: auto;
   overflow: hidden;
-  font-size: 14px;
+  font-size: var(--text-sm);
   font-weight: 500;
   white-space: nowrap;
 }
@@ -64,7 +64,7 @@
   position: relative;
   transition: transform 0.4s ease;
   font-weight: 500;
-  font-size: 24px;
+  font-size: var(--text-2xl);
   transform: translate(0);
   display: flex;
 }
@@ -158,7 +158,7 @@
 
 .perfume-universe__content-item {
   max-width: 720px;
-  font-size: 14px;
+  font-size: var(--text-sm);
   margin-left: auto;
   margin-right: auto;
   font-family: Montserrat;
@@ -276,14 +276,13 @@
   flex-direction: column;
   padding-top: 30px;
   margin-top: 1rem;
-  gap: 1.5rem;
-  border-top: 5px double rgb(0, 0, 0);
+  border-top: 5px double var(--color-black);
 }
 
 .perfume-details__description-item {
   width: 80%;
   max-width: 720px;
-  font-size: 14px;
+  font-size: var(--text-sm);
   margin: 0 auto;
   color: var(--color-text-secondary);
   text-align: justify;
@@ -311,7 +310,7 @@
 
 @media (max-width: 768px) {
   .perfumes-gallery__title {
-    font-size: 24px;
+    font-size: var(--text-2xl);
   }
 
   .perfume-universe__title-wrapper {

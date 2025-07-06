@@ -8,7 +8,7 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "PUIG - new",
+  title: "PUIG",
   description: "PUIG",
 };
 

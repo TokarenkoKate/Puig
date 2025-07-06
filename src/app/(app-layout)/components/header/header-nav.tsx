@@ -16,10 +16,11 @@ export function HeaderNav({
       <Button variant="linkWithCircle">главная</Button>
     </Link>
   );
+
   return (
     <nav className={clsx("header__nav", className)}>
       {isWithinSheet ? <SheetClose asChild>{mainLink}</SheetClose> : mainLink}
-      <HeaderNavigationButton isWithinSheet />
+      <HeaderNavigationButton isWithinSheet={isWithinSheet} />
     </nav>
   );
 }

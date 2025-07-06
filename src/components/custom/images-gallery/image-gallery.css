@@ -27,7 +27,7 @@
 }
 
 .images-gallery__image_modal {
-  width: 80vw;
+  width: 100%;
 }
 
 .images-gallery__modal {
@@ -45,7 +45,7 @@
 
 .images-gallery__modal-btn {
   position: absolute;
-  left: -5vw;
+  left: -10vw;
   top: 50%;
   transform: translateY(-50%);
   z-index: 50;
@@ -55,7 +55,7 @@
 }
 
 .images-gallery__modal-btn_right {
-  right: -5vw;
+  right: -10vw;
   left: auto;
 }
 

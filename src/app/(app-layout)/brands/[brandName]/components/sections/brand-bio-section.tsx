@@ -1,7 +1,7 @@
 type BrandBioSectionProps = {
   content: string[];
   videoSrc: string;
-  paragraphs: string[];
+  paragraphs?: string[];
   bioTimelineData: string[] | undefined;
 };
 
@@ -23,27 +23,31 @@ export function BrandBioSection({
           ))}
         </div>
       </div>
-      <div className="brand-bio__video-group">
-        <div className="brand-bio__video-wrapper">
-          <div className="brand-bio__video">
-            <video
-              src={videoSrc}
-              controls
-              className="brand-bio__video-item"
-              title="video-1"
-            ></video>
-          </div>
+      {(videoSrc || paragraphs) && (
+        <div className="brand-bio__video-group">
+          {videoSrc && (
+            <div className="brand-bio__video-wrapper">
+              <div className="brand-bio__video">
+                <video
+                  src={videoSrc}
+                  controls
+                  className="brand-bio__video-item"
+                  title="video-1"
+                ></video>
+              </div>
+            </div>
+          )}
+          {paragraphs?.map((paragraph, index) => (
+            <div
+              className={`brand-bio__video-group-text-${index + 1}`}
+              key={index}
+            >
+              <p className="brand-bio__text">{paragraph}</p>
+            </div>
+          ))}
         </div>
-        {paragraphs.map((paragraph, index) => (
-          <div
-            className={`brand-bio__video-group-text-${index + 1}`}
-            key={index}
-          >
-            <p className="brand-bio__text">{paragraph}</p>
-          </div>
-        ))}
-      </div>
-      <div className="flex flex-col gap-4">
+      )}
+      <div className="flex flex-col gap-4 pt-4">
         {bioTimelineData &&
           bioTimelineData.map((bioTimelineText, index) => (
             <p key={index} className="w-full max-w-full px-[30px] font-light">

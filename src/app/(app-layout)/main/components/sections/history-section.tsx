@@ -1,7 +1,7 @@
-import { HistorySlider } from "@/components/custom/history-slider/history-slider";
 import { MoveLeft, MoveRight } from "lucide-react";
-import { mainPageHistorySliderItems } from "../../../../../data/main-page-data";
+import { HistorySlider } from "@/components/custom/history-slider/history-slider";
 import { Button } from "@/components/ui/button";
+import { mainPageHistorySliderItems } from "@/data/main-page-data";
 
 export function HistorySection() {
   return (

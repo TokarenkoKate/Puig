@@ -65,9 +65,10 @@ function NavigationMenuTrigger({
     <NavigationMenuPrimitive.Trigger
       data-slot="navigation-menu-trigger"
       className={cn("group", className)}
+      asChild
       {...props}
     >
-      {children}{" "}
+      {children}
     </NavigationMenuPrimitive.Trigger>
   );
 }

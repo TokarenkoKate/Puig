@@ -1,4 +1,4 @@
-import { HeroVideoSection } from "@/components/custom/hero-video-section/hero-video-section";
+import { HeroSection } from "@/components/custom/hero-section/hero-section";
 import { brandsData } from "@/data/brands-data";
 import { BrandName } from "@/lib/types/general";
 import { BrandBioSection } from "./components/sections/brand-bio-section";
@@ -40,7 +40,7 @@ export default async function BrandPage({
 
   return (
     <div>
-      <HeroVideoSection
+      <HeroSection
         imageSrc={heroSection.heroImageSrc}
         videoSrc={heroSection.videoSrc}
         title={heroSection.title}

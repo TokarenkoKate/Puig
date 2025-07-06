@@ -6,12 +6,12 @@ import { MainPageImagesGallerySection } from "./components/sections/images-galle
 import { PortfolioSection } from "./components/sections/portfolio-section";
 import { TestSection } from "./components/sections/test-section";
 import { ProductsSlider } from "./components/sections/products-slider-section";
-import { HeroVideoSection } from "@/components/custom/hero-video-section/hero-video-section";
+import { HeroSection } from "@/components/custom/hero-section/hero-section";
 
 export default function Main() {
   return (
     <div>
-      <HeroVideoSection
+      <HeroSection
         videoSrc="/assets/video/hero-video.mp4"
         title="Puig love brands"
       />

@@ -1,9 +1,9 @@
 export function CompanySection() {
   return (
-    <section className="company">
+    <section className="company w-fixed">
       <div className="company__text-wrapper">
         <h2 className="company__title">Компания PUIG ― </h2>
-        <div className="company__counted-column">
+        <div className="company__texts-column">
           <p className="company__text">
             семейная компания, которой в настоящее время управляет третье
             поколение семьи Puig. Штаб-квартира Puig располагается в Барселоне.
@@ -20,13 +20,13 @@ export function CompanySection() {
           </p>
         </div>
       </div>
-      <div className="company__image-wrapper">
+      <div className="company__video-wrapper">
         <video
           autoPlay
           loop
           muted
           playsInline
-          className="company__video-overlay"
+          className="company__video"
           src="/assets/video/puig-history.mp4"
         />
       </div>

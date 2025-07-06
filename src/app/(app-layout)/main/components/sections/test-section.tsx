@@ -1,5 +1,5 @@
-import { mainPageMultiStepQuiz } from "../../../../../data/main-page-data";
-import MultiStepQuizModal from "../../../../../components/custom/multi-step-quiz/multi-step-quiz";
+import MultiStepQuizModal from "@/components/custom/multi-step-quiz/multi-step-quiz";
+import { mainPageMultiStepQuiz } from "@/data/main-page-data";
 
 export function TestSection() {
   return (

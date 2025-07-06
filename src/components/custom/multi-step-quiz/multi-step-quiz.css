@@ -39,7 +39,7 @@
 }
 
 .quiz__progress {
-  font-size: 14px;
+  font-size: var(--text-sm);
 }
 
 .quiz__result {

@@ -1,13 +1,13 @@
-import { mainPagePortfolioGroups } from "../../../../../data/main-page-data";
+import { mainPagePortfolioGroups } from "@/data/main-page-data";
 
 export function PortfolioSection() {
   return (
     <section className="portfolio">
-      <section className="w-fixed pl-15 portfolio__wrapper">
+      <section className="portfolio__wrapper w-fixed">
         <div className="row">
           <h1 className="portfolio__title">Портфолио брендов PUIG в России </h1>
         </div>
-        <div className="pt-10 pl-15 portfolio__list-wrapper">
+        <div className="pt-10 portfolio__list-wrapper">
           {mainPagePortfolioGroups.map(({ title, items }) => (
             <div key={title}>
               <ul className="portfolio__list-circle">

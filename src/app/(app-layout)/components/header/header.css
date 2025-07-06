@@ -12,7 +12,6 @@
   align-items: center;
   max-width: var(--app-max-w);
   height: 170px;
-  margin: 0 16px;
 }
 
 .header__logo {

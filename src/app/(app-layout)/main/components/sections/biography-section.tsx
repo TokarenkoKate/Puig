@@ -2,13 +2,12 @@ import Image from "next/image";
 
 export function BiographySection() {
   return (
-    <section className="biography">
+    <section className="biography w-fixed">
       <div className="biography__photo-wrapper">
         <Image
           alt="Bio"
           loading="lazy"
           decoding="async"
-          data-nimg="1"
           width={260}
           height={260}
           className="biography__photo"

@@ -1,21 +1,17 @@
 import Image from "next/image";
-import "./hero-video-section.css";
+import "./hero-section.css";
 
-type HeroVideoSectionProps = {
+type HeroSectionProps = {
   videoSrc?: string;
   imageSrc?: string;
   title: string;
 };
 
-export function HeroVideoSection({
-  videoSrc,
-  imageSrc,
-  title,
-}: HeroVideoSectionProps) {
+export function HeroSection({ videoSrc, imageSrc, title }: HeroSectionProps) {
   return (
     <section className="hero">
       {videoSrc && (
-        <div className="hero__video-background">
+        <div className="hero__background">
           <video autoPlay muted loop playsInline>
             <source src={videoSrc} type="video/mp4" />
             Your browser does not support the video tag.
@@ -23,7 +19,7 @@ export function HeroVideoSection({
         </div>
       )}
       {imageSrc && (
-        <div className="hero__video-background">
+        <div className="hero__background">
           <Image
             src={imageSrc}
             alt={title}

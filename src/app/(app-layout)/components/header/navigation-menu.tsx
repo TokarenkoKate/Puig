@@ -7,10 +7,15 @@ import {
   NavigationMenu,
   NavigationMenuList,
 } from "@/components/ui/navigation-menu";
+import { SheetClose } from "@/components/ui/sheet";
 import { brands } from "@/data/brands-data";
 import Link from "next/link";
 
-export function HeaderNavigationButton() {
+export function HeaderNavigationButton({
+  isWithinSheet,
+}: {
+  isWithinSheet?: boolean;
+}) {
   return (
     <NavigationMenu viewport={false}>
       <NavigationMenuList>
@@ -20,13 +25,22 @@ export function HeaderNavigationButton() {
           </NavigationMenuTrigger>
           <NavigationMenuContent>
             <ul className="grid w-[200px] gap-4">
-              {brands.map((brand) => (
-                <li key={brand.name}>
+              {brands.map((brand) => {
+                const linkComponent = (
                   <NavigationMenuLink asChild color="blue">
                     <Link href={`/brands/${brand.name}`}>{brand.label}</Link>
                   </NavigationMenuLink>
-                </li>
-              ))}
+                );
+                return (
+                  <li key={brand.name}>
+                    {isWithinSheet ? (
+                      <SheetClose asChild>{linkComponent}</SheetClose>
+                    ) : (
+                      linkComponent
+                    )}
+                  </li>
+                );
+              })}
             </ul>
           </NavigationMenuContent>
         </NavigationMenuItem>

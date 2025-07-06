@@ -23,7 +23,7 @@ export function MobileMenu() {
               src="/assets/images/logo.webp"
             />
           </Link>
-          <HeaderNav />
+          <HeaderNav isWithinSheet />
         </div>
       </SheetContent>
     </Sheet>

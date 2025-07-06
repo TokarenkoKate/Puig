@@ -503,6 +503,112 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
   },
   {
     brandTitle: "BANDERAS",
+    title: "THE ICON SUPREME",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/banderas/perfume-details/the-icon-supreme/1.png",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/banderas/perfume-details/the-icon-supreme/2.png",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/banderas/perfume-details/the-icon-supreme/3.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/banderas/perfume-details/the-icon-supreme/4.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/banderas/perfume-details/the-icon-supreme/5.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/banderas/perfume-details/the-icon-supreme/6.jpg",
+          height: 2362,
+          width: 2362,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Мох - аккорд конопли - розмарин - розовый перец - кипарис",
+        src: {
+          src: "/assets/images/brands/banderas/perfume-details/the-icon-supreme/rightimage.png",
+          height: 2000,
+          width: 2000,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Ароматический, древесный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Алексис Гружон",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Banderas представляет самую насыщенную парфюмерную воду The Icon Supreme, истинное воплощение триумфа. На этой высоте успех — больше, чем достижение, это особая энергия, пронизывающая каждую клеточку тела.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Антонио Бандерас и Марио Касас вновь объединились в качестве дуэта, чтобы представить новый аромат The Icon Supreme. От больших экранов до парфюмерных премьер Banderas, их дороги не раз пересекались. Опыт каждого из них — это уникальная история успеха на стыке таланта, упорства и кропотливого труда.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "",
+        video:
+          "/assets/video/brands/banderas/perfume-details/the-icon-supreme.mp4",
+      },
+      {
+        title: "",
+        text: "Аромат, с которым ты готов не только покорять вершины, но и определять правила игры на пути к успеху. The Icon Supreme встречает искрящимися цитрусовыми нотами бергамота в сочетании со свежестью нероли. Сердце аромата отражает мужественный характер благодаря хвойному древесному звучанию кипариса и розмарина. В шлейфе мох, дымный аккорд и амбра завершают эту насыщенную композицию.",
+        video: "",
+      },
+    ],
+  },
+  {
+    brandTitle: "BANDERAS",
     title: "BLUE SEDUCTION",
     imagegallery: [
       {

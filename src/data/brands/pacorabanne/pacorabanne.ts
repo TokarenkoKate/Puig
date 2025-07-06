@@ -119,7 +119,7 @@ export const pacorabannePerfumeUniverses: PerfumeUniverse[] = [
   },
   {
     title: "Invictus и Olympea",
-    subtitle: "10 ароматов",
+    subtitle: "12 ароматов",
     content: [
       {
         text: "Вселенная ароматов Invictus и Olympea создана для тех, чья главная страсть ― стремление к победе. Это потрясающий дуэт дерзости и красоты, силы и сексуальности!",
@@ -231,6 +231,24 @@ export const pacorabannePerfumeUniverses: PerfumeUniverse[] = [
         },
         title: "INVICTUS PARFUM",
       },
+      {
+        id: 11,
+        url: {
+          src: "/assets/images/brands/pacorabanne/perfumes-gallery/invictusolympea_11.png",
+          height: 1080,
+          width: 1080,
+        },
+        title: "INVICTUS VICTORY ABSOLU",
+      },
+      {
+        id: 12,
+        url: {
+          src: "/assets/images/brands/pacorabanne/perfumes-gallery/invictusolympea_12.png",
+          height: 1080,
+          width: 1080,
+        },
+        title: "OLYMPEA ABSOLU",
+      },
     ],
   },
   {
@@ -265,6 +283,22 @@ export const pacorabannePerfumeUniverses: PerfumeUniverse[] = [
           width: 800,
         },
         title: "PURE XS FOR HER",
+      },
+    ],
+  },
+  {
+    title: "Fame",
+    subtitle: "1 аромат",
+    content: [],
+    images: [
+      {
+        id: 1,
+        url: {
+          src: "/assets/images/brands/pacorabanne/perfumes-gallery/fame_1.png",
+          height: 800,
+          width: 800,
+        },
+        title: "FAME EDP",
       },
     ],
   },

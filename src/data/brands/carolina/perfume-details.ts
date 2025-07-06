@@ -2190,4 +2190,206 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
       },
     ],
   },
+  {
+    brandTitle: "Carolina Herrera",
+    title: "VERY GOOD GIRL ELIXIR",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/very-good-girl-elixir/1.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/very-good-girl-elixir/2.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/very-good-girl-elixir/3.jpg",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/very-good-girl-elixir/4.jpg",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/very-good-girl-elixir/5.png",
+          height: 800,
+          width: 800,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Ваниль - роза - черешня - миндаль - ветивер",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/very-good-girl-elixir/rightimage.png",
+          height: 340,
+          width: 340,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "амбровый, фруктовый",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Луиза Тернер, Шемала Мезондьё",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Всё началось с Good Girl. Затем к ней присоединилась Very Good Girl. Теперь — настало время Very Good Girl Elixir, самой насыщенной версии культового аромата. В знаковом флаконе скрывается чувственный взрыв нот сочной черешни, дерзкой красной розы и нежной ванили.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "",
+        video:
+          "/assets/video/brands/carolina/perfume-details/very-goo-girl-elixir.mp4",
+      },
+      {
+        title: "",
+        text: "Неотразимо притягательная амбровая, фруктовая, цветочная композиция заключена во флакон-туфельку с золотой акцентной шпилькой и градиентом от ярко-красного оттенка к глубокому чёрному. Неповторимая Карли Клосс вновь стала героиней кампании Good Girl, воплощая истинное наслаждение от свободы быть собой.",
+        video: "",
+      },
+    ],
+  },
+  {
+    brandTitle: "Carolina Herrera",
+    title: "BAD BOY ELIXIR",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/bad-boy-elixir/1.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/bad-boy-elixir/2.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/bad-boy-elixir/3.jpg",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/bad-boy-elixir/4.jpg",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/bad-boy-elixir/5.jpg",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/bad-boy-elixir/6.jpg",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/bad-boy-elixir/7.jpg",
+          height: 800,
+          width: 800,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Аккорд кожи - кедр - мускатный шалфей - лавандин - какао",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/bad-boy-elixir/rightimage.png",
+          height: 340,
+          width: 340,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "амбровый, кожаный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Квентин Биш, Луиза Тёрнер",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "В воздухе витает напряжение перед надвигающейся бурей. Новый Bad Boy Elixir — самая электризующая и завораживающая композиция в коллекции Bad Boy от Carolina Herrera. Сочетая в себе тёплые и глубокие ноты ароматного шалфея, изысканной кожи и роскошного кедра, этот парфюм подобен тлеющему жару после шторма. Bad Boy Elixir продолжает историю знакового Bad Boy и невероятно популярного Bad Boy Cobalt и предлагает многогранное звучание с дерзким характером.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "",
+        video:
+          "/assets/video/brands/carolina/perfume-details/bad-boy-elixir.mp4",
+      },
+      {
+        title: "",
+        text: "Bad Boy Elixir, созданный парфюмерами Квентином Бишем и Луизой Тёрнер, — это ода безукоризненному мастерству модного дома Carolina Herrera в работе с премиальной кожей. Эта связь находит отражение и в дизайне флакона: силуэт молнии выполнен в янтарных оттенках, напоминающих изысканные кожаные изделия ручной работы. Узнаваемая цитрусовая пикантность бергамота из классической композиции Bad Boy возвращается в новом сочетании со сладостью мандарина и пряным аккордом шалфея. Нота лавандина придаёт аромату мягкость, а какао и ладан — таинственную глубину. Bad Boy Elixir — идеальный спутник авантюристской натуры.",
+        video: "",
+      },
+    ],
+  },
 ];

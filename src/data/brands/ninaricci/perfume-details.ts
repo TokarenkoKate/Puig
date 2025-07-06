@@ -1080,4 +1080,124 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
       },
     ],
   },
+  {
+    brandTitle: "Nina Ricci",
+    title: "NINA ROUGE CRUSH",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/ninaricci/perfume-details/nina-rouge-crush/1.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/ninaricci/perfume-details/nina-rouge-crush/2.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/ninaricci/perfume-details/nina-rouge-crush/3.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/ninaricci/perfume-details/nina-rouge-crush/4.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/ninaricci/perfume-details/nina-rouge-crush/5.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/ninaricci/perfume-details/nina-rouge-crush/6.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/ninaricci/perfume-details/nina-rouge-crush/7.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Роза - вишня - ваниль - гардения - малина",
+        src: {
+          src: "/assets/images/brands/ninaricci/perfume-details/nina-rouge-crush/rightimage.png",
+          height: 340,
+          width: 340,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Пряный, цветочный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Оливье Кресп, Ан Айо",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Готовы влюбиться вновь? Знакомьтесь — Nina Rouge Crush, новая парфюмерная вода от Nina Ricci. Эта фруктовая амбровая цветочная композиция заключена во флакон в виде культового яблочка Nina, незабываемого, как первая любовь.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Покрытое глянцевой глазурью глубокого вишнёвого оттенка, оно надкушено, cловно райский плод, перед которым невозможно устоять. Упаковка аромата хранит в себе ещё один секрет: иллюстрацию художницы жанин брито, друга дома Nina Ricci и музы креативного директора бренда Харриса Рида.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Nina Rouge Crush таит в себе трепет влюблённости и сокровенность романтических чувств.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "",
+        video:
+          "/assets/video/brands/ninaricci/perfume-details/nina-rouge-crush.mp4",
+      },
+      {
+        title: "",
+        text: "Сочетая в себе гурманские фруктовые ноты, цветочные аккорды и чувственную теплоту, Nina Rouge Crush покоряет сердца своим звучанием. Сочная вишня и малина создают палитру ярких оттенков, которыми переливаются флакон и сам аромат. Яркая роза и гардения распускаются в цветущем букете, окутанном нежностью ванили. Квинтэссенция романтики и бескомпромиссной женственности.",
+        video: "",
+      },
+    ],
+  },
 ];

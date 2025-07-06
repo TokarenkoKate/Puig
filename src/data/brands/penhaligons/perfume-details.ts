@@ -3212,4 +3212,644 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
       },
     ],
   },
+  {
+    brandTitle: "PENHALIGON’S",
+    title: "FORTUITOUS FINLEY",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/fortuitous-finley/1.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/fortuitous-finley/2.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/fortuitous-finley/3.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/fortuitous-finley/4.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/fortuitous-finley/5.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/fortuitous-finley/6.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/fortuitous-finley/7.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Аккорд кожи - соленая фисташка - лист фиалки - пачули - анис",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/fortuitous-finley/rightimage.png",
+          height: 2000,
+          width: 2000,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Кожаный, зеленый",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Каролин Дюмюр",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Жизнерадостный садовник Финли прогуливается по поместью под мелодичный щебет птиц. Он с нежностью ухаживает за кустами и поддерживает газоны в безупречном состоянии. Но его главная гордость — садовый лабиринт, увлекательная головоломка для тех, кто осмелится познать его глубины.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Кто же заблудился в этом лабиринте любви? Сама Леди Бланш, увлечённая мужчиной с умелыми руками. Только взгляните на эти прекрасные розы, которые он срезал для неё. Пока их роман расцветает вдали от посторонних глаз, слухи об их страсти доходят до Лорда Джорджа. Напряжение нарастает... Жеребец и его Леди мчатся по извилистым тропам лабиринта, но сбиваются с пути и оказываются в тупике. Финли ставит на кон всё, ведь везёт тому, кто не ищет коротких путей к счастью. Леди Бланш разрывается между чувствами и долгом, замирая на распутье: последовать зову сердца или сохранить брак?",
+        video: "",
+      },
+      {
+        title: "",
+        text: "",
+        video:
+          "/assets/video/brands/penhaligons/perfumes-gallery/fortuitous-finley.mp4",
+      },
+      {
+        title: "",
+        text: "Композиция впечатляет с первых нот сладостью кардамона и чувственностью перца. Словно загадочный лабиринт аккордов кожи и специй, в котором хочется потеряться. Далее звучание фиалки уступает первенство насыщенному и утончённому аккорду солёной фисташки. Величественная грива жеребца, в которой переплетаются ноты матчи и фиалки, развевается на скаку — сияющая и манящая. На финишной прямой энергичные акценты пачули и ириса идеально сочетаются с мягкими оттенками замши — композиция, достойная удачливого всадника на гордом жеребце. Ставки сделаны. Кто сможет устоять перед таким парфюмерным соблазном? Притягательное сочетание фисташки и кожи пробуждает рецепторы. Аромат, способный обуздать дикий нрав.",
+        video: "",
+      },
+    ],
+  },
+  {
+    brandTitle: "PENHALIGON’S",
+    title: "A BALM OF CALM",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/a-balm-of-calm/1.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/a-balm-of-calm/2.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/a-balm-of-calm/3.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/a-balm-of-calm/4.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/a-balm-of-calm/5.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/a-balm-of-calm/6.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Лаванда - ирис - сандал - герань - мускатный шалфей",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/a-balm-of-calm/rightimage.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Фужерный, древесный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Джульетта Карагуезоглу",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Учтите: ваши проблемы могут испариться.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Как будто по загадочному велению планет тревога отпускает, и даже самое гнетущее теряет силу. Вдох. Выдох. Пришло время обрести спокойствие, которое наполняет душу безмятежностью.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "ФОРМУЛА",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Лаванда — настоящее спасение от волнения. Погрузитесь в обволакивающее облако герани, рома и мягких древесных нот для полного умиротворения. Ощутите гармонию с эликсиром спокойствия от Penhaligon’s.",
+        video: "",
+      },
+    ],
+  },
+  {
+    brandTitle: "PENHALIGON’S",
+    title: "A KISS OF BLISS",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/a-kiss-of-bliss/1.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/a-kiss-of-bliss/2.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/a-kiss-of-bliss/3.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/a-kiss-of-bliss/4.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/a-kiss-of-bliss/5.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/a-kiss-of-bliss/6.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Роза - пачули - матча - мускус - жасмин",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/a-kiss-of-bliss/rightimage.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Шипровый, мускусный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Кэролин Дюмур",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Осторожно: счастье может вызвать привыкание.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Когда солнце появляется на горизонте, а птицы щебечут (как и всегда), печаль растворяется в воздухе и все сомнения исчезают. Хочется петь, словно вы на седьмом небе, и танцевать до самого утра. Всё в ваших руках, и вам больше некуда спешить. Всего одна капля этого эликсира, наполненного радостью, — и душа воскликнет «Аллилуйя».",
+        video: "",
+      },
+      {
+        title: "",
+        text: "ФОРМУЛА",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Источник оптимизма и вечного (цветочного) блаженства. Облако чистого восторга из аккордов розы и жасмина. Прощай, меланхолия! Счастью нет предела.",
+        video: "",
+      },
+    ],
+  },
+  {
+    brandTitle: "PENHALIGON’S",
+    title: "LIQUID LOVE",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/liquid-love/1.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/liquid-love/2.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/liquid-love/3.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/liquid-love/4.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/liquid-love/5.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/liquid-love/6.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Роза - имбирь - кашмеран - мускус - розовый перец",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/liquid-love/rightimage.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Цветочный, пряный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Николя Больё",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Внимание: есть риск поддаться любовным чарам. Используйте с умом... носите бережно.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Всё начинается с лёгкого смятения, которое увлекает в вихрь волнений и чувств. Пропадает аппетит. Сознание ускользает в мир иллюзий. Ночью вы проваливаетесь в сон, просыпаясь от будоражащих сновидений. Но вскоре вы ощутите безграничное счастье, и тогда ваше сердце наполнится щедростью, радостью и добротой... Кажется, будто за спиной выросли крылья: вы обретаете силу и уверенность, сохраняя нежность и мягкость. В одно мгновение вы ощутите себя [вздох блаженства] как в раю. И с этого момента ничто уже не будет прежним.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "ФОРМУЛА",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Любовь и желание в одном флаконе. Свежие, искристые ноты мягко касаются кожи, прежде чем пряный фруктовый шлейф добавит остроты звучанию. Безнадёжно, страстно, до зависимости.",
+        video: "",
+      },
+    ],
+  },
+  {
+    brandTitle: "PENHALIGON’S",
+    title: "EAU THE AUDACITY",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/eau-the-audacity/1.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/eau-the-audacity/2.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/eau-the-audacity/3.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/eau-the-audacity/4.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/eau-the-audacity/5.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/eau-the-audacity/6.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Ладан - кожа - ваниль - черный перец - шафран",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/eau-the-audacity/rightimage.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Амбровый, кожаный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Доминик Ропион",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Побочные эффекты: вы можете узнать своё истинное «я».",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Предостережение для тех, кто привык откладывать удовольствие на потом, неуклонно следовать правилам и чтить традиции: ваш мир может перевернуться! Перед вами откроется путь к новым ощущениям, неизведанным горизонтам радости и блаженства. Каково это — ощущать безграничную смелость благодаря всего одной капле эликсира храбрости?",
+        video: "",
+      },
+      {
+        title: "",
+        text: "ФОРМУЛА",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Дерзкое сочетание насыщенного ладана с пряными акцентами шафрана. В базовых нотах кожа и ваниль создают мягкий замшевый аккорд, удивительно стойкий и притягательный. Настоящий рецепт для смелости.",
+        video: "",
+      },
+    ],
+  },
+  {
+    brandTitle: "PENHALIGON’S",
+    title: "VRA VRA VROOM",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/vra-vra-vroom/1.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/vra-vra-vroom/2.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/vra-vra-vroom/3.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/vra-vra-vroom/4.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/vra-vra-vroom/5.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/vra-vra-vroom/6.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Кожа - османтус - абрикос - магнолия - роза",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/vra-vra-vroom/rightimage.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Кожаный, цветочный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Квентин Биш",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Предупреждение: вы можете почувствовать, что в этой жизни возможно всё.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Щепотка вдохновения и ложка энтузиазма — рецепт безграничной энергии, которая бьёт ключом, словно в сердце расцветает весна. Впереди бесконечные возможности и мир, полный свободы, где все мечты обязательно сбудутся. Долой нерешительность, вперёд к новым свершениям!",
+        video: "",
+      },
+      {
+        title: "",
+        text: "ФОРМУЛА",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Османтус в обрамлении цитрусовых раскрывается сочным, искрящимся звучанием, полным жизненной силы. Абрикосовые ноты играют на контрасте с древесными акцентами, а магнолия расцветает в шлейфе аромата. Ваш день полон безудержной энергии. Ничто не сможет вас остановить.",
+        video: "",
+      },
+    ],
+  },
 ];

@@ -1714,4 +1714,124 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
     ],
   },
+  {
+    brandTitle: "JEAN PAUL GAULTIER",
+    title: "LE MALE ELIXIR ABSOLU",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/le-male-elixir-absolu/1.png",
+          height: 1000,
+          width: 1000,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/le-male-elixir-absolu/2.png",
+          height: 1000,
+          width: 1000,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/le-male-elixir-absolu/3.jpg",
+          height: 1000,
+          width: 1000,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/le-male-elixir-absolu/4.jpg",
+          height: 1000,
+          width: 1000,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/le-male-elixir-absolu/5.jpg",
+          height: 1000,
+          width: 1000,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/le-male-elixir-absolu/6.jpg",
+          height: 1000,
+          width: 1000,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/le-male-elixir-absolu/7.jpg",
+          height: 1000,
+          width: 1000,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Бобы тонка - лаванда - слива - кардамон - полынь",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/le-male-elixir-absolu/rightimage.png",
+          height: 790,
+          width: 790,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "амбровый, пряный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Квентин Биш",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Jean Paul Gaultier выходит за пределы желаний с Le Male Elixir Absolu — яркой интерпретацией культового аромата Le Male. Окутанный золотым сиянием и наполненный пламенной энергией, новый Le Male Elixir Absolu утверждает себя как новую ольфакторную икону, вознося свою историю до небывалых высот страсти.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Этот капитан сочетает в себе грубую притягательность и утончённую элегантность. Его кожа, словно окутанная золотистым янтарным сиянием, источает раскалённую чувственность. В кожаном одеянии и с золотой короной, Рафаэль Диого, харизматичный моряк, сверкает на борту корабля Готье в рекламной кампании Le Male Elixir Absolu. Каждый его жест — это приглашение к искушению, каждый взгляд — непреодолимый вызов.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "",
+        video:
+          "/assets/video/brands/jeanpaulgaultier/perfume-details/le-male-elixir-absolu.mp4",
+      },
+      {
+        title: "",
+        text: "Полностью облачённый в золото скульптурный флакон в виде торса и культовая жестяная банка в качестве упаковки предстают в новом, ослепительном воплощении. Le Male Elixir Absolu — больше, чем просто аромат; это настоящий шедевр, отражающий истинную сущность роскоши.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Le Male Elixir Absolu раскрывается ярким аккордом пряной сливы, задающим смелое и провокационное начало. Этот фруктовый соблазн уступает место в сердце аромата лаванде — знаковой ноте линейки Le Male, которая обретает раскалённую чувственность. Наконец, пылающее звучание бобов тонка усиливает амброво-бальзамический шлейф, окутывая тело магнетическим жаром, который пробуждает чувства и разжигает эмоции.",
+        video: "",
+      },
+    ],
+  },
 ];

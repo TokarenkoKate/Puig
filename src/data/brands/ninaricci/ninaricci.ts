@@ -4,7 +4,7 @@ import { BrandContentType, PerfumeUniverse } from "@/lib/types/general";
 export const ninaricciPerfumeUniverses: PerfumeUniverse[] = [
   {
     title: "Nina",
-    subtitle: "7 ароматов",
+    subtitle: "8 ароматов",
     content: [
       {
         text: "Самая волшебная сказка и самая романтическая мечта воплотились в культовой парфюмерной вселенной Les Belles de Nina от модного дома Nina Ricci. Композиции представлены в знаменитом флаконе-яблоке, который является современной вариацией невероятного и незабываемого хрустального флакона аромата Filles d’Eve, созданного компанией Lalique еще в 1952 году. Очарование, магия и волшебство ароматов вселенной Les Belles de Nina наполняют каждый флакон этой коллекции.",
@@ -73,6 +73,15 @@ export const ninaricciPerfumeUniverses: PerfumeUniverse[] = [
           width: 800,
         },
         title: "NINA ILLUSION",
+      },
+      {
+        id: 8,
+        url: {
+          src: "/assets/images/brands/ninaricci/perfumes-gallery/universe8.png",
+          height: 800,
+          width: 800,
+        },
+        title: "NINA ROUGE CRUSH",
       },
     ],
   },

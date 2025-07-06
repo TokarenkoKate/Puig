@@ -16,6 +16,7 @@ export function PerfumeUniverseHistory({
 }: PerfumeUniverseHistoryProps) {
   const showReadMode = content.length > 1;
   const [showMore, setShowMore] = useState(false);
+  if (!content.length) return null;
   const restContent = content.slice(1);
 
   return (

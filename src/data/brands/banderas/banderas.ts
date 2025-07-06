@@ -4,7 +4,7 @@ import { BrandContentType, PerfumeUniverse } from "@/lib/types/general";
 export const banderasPerfumeUniverses: PerfumeUniverse[] = [
   {
     title: "The Icon",
-    subtitle: "4 аромата",
+    subtitle: "5 ароматов",
     citation: "«Успех, как стиль жизни»",
     content: [
       {
@@ -62,6 +62,15 @@ export const banderasPerfumeUniverses: PerfumeUniverse[] = [
           width: 800,
         },
         title: "THE ICON FOR WOMEN EDP",
+      },
+      {
+        id: 5,
+        url: {
+          src: "/assets/images/brands/banderas/perfumes-gallery/icon_5.png",
+          height: 800,
+          width: 800,
+        },
+        title: "THE ICON SUPREME",
       },
     ],
   },

@@ -4,7 +4,7 @@ import { BrandContentType, PerfumeUniverse } from "@/lib/types/general";
 export const jeanpaulgaultierPerfumeUniverses: PerfumeUniverse[] = [
   {
     title: "Classique \u0026 Le Male",
-    subtitle: "4 аромата",
+    subtitle: "5 ароматов",
     content: [
       {
         text: "Это настоящая любовная история а ля Готье, которая случилась в морском порту! История отдающая дань уважения символическим и иконическим кодам модного дома Готье: корсету и тельняшке.",
@@ -46,6 +46,15 @@ export const jeanpaulgaultierPerfumeUniverses: PerfumeUniverse[] = [
           width: 800,
         },
         title: "LE MALE ELIXIR",
+      },
+      {
+        id: 5,
+        url: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfumes-gallery/classiquelemale5.png",
+          height: 800,
+          width: 800,
+        },
+        title: "LE MALE ELIXIR ABSOLU",
       },
     ],
   },

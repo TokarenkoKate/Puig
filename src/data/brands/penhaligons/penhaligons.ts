@@ -245,7 +245,7 @@ export const penhaligonsPerfumeUniverses: PerfumeUniverse[] = [
   },
   {
     title: "Portraits",
-    subtitle: "14 ароматов",
+    subtitle: "15 ароматов",
     content: [
       {
         text: "Любимая парфюмерная жемчужина Penhaligon’s ― коллекция Portraits. Коллекция Portraits ― это ольфакторная беллетристика, дань английской аристократии, игра на грани юмора и провокации. У каждого героя есть своя история, свой аромат и животное, олицетворяющее его или ее индивидуальность.",
@@ -395,6 +395,83 @@ export const penhaligonsPerfumeUniverses: PerfumeUniverse[] = [
           width: 506,
         },
         title: "MR THOMPSON",
+      },
+      {
+        id: 15,
+        url: {
+          src: "/assets/images/brands/penhaligons/perfumes-gallery/portraits_15.jpg",
+          height: 506,
+          width: 506,
+        },
+        title: "FORTUITOUS FINLEY",
+      },
+    ],
+  },
+  {
+    title: "POTIONS & REMEDIES",
+    subtitle: "5 ароматов",
+    content: [
+      {
+        text: "УТЕРЯННЫЕ ФОРМУЛЫ \n Спускаясь по ступеням прямо в подпол своей парфюмерной лавки, вдали от дневного света и городского шума, Уильям Пенхалигон погружается в созданный им мир, где существуют лекарства от всех недугов и проблем. Здесь есть всё, чтобы варить зелья и снадобья невероятной силы...",
+      },
+      {
+        text: "Лаборатория наполнена мягким светом свечей. За спиной мастера тянутся полки с редкими ботаническими фолиантами: энциклопедическими классификациями трав, растений и цветов со всевозможными рецептами и предписаниями для лечения — или достижения — различных ментальных состояний. Их природная сила завораживает. На его столе раскрыта книга о поиске божественного через тайны природы.",
+      },
+      {
+        text: "Перед вами, дорогой читатель, секретная мастерская Уильяма Пенхалигона.",
+      },
+      {
+        text: "Преображающую силу его парфюмерных эликсиров ещё предстоит измерить и до конца изучить. Поэтому день за днём он в уединении продолжает преданно трудиться над ними. Как только он достигнет совершенных формул, пути назад не будет — мир изменится раз и навсегда. Но к лучшему ли? (Или в случае ошибки это приведёт к чему-то необратимому?). Уильям Пенхалигон стремился оставить наследие, которое вдохновит, излечит душу и станет источником гордости — для него самого и для будущих поколений.",
+      },
+      {
+        text: "Пришло время узнать результат его стараний...",
+      },
+    ],
+    images: [
+      {
+        id: 1,
+        url: {
+          src: "/assets/images/brands/penhaligons/perfumes-gallery/potions_1.png",
+          height: 506,
+          width: 506,
+        },
+        title: "A BALM OF CALM",
+      },
+      {
+        id: 2,
+        url: {
+          src: "/assets/images/brands/penhaligons/perfumes-gallery/potions_2.png",
+          height: 506,
+          width: 506,
+        },
+        title: "A KISS OF BLISS",
+      },
+      {
+        id: 3,
+        url: {
+          src: "/assets/images/brands/penhaligons/perfumes-gallery/potions_3.png",
+          height: 506,
+          width: 506,
+        },
+        title: "LIQUID LOVE",
+      },
+      {
+        id: 4,
+        url: {
+          src: "/assets/images/brands/penhaligons/perfumes-gallery/potions_4.png",
+          height: 506,
+          width: 506,
+        },
+        title: "EAU THE AUDACITY",
+      },
+      {
+        id: 5,
+        url: {
+          src: "/assets/images/brands/penhaligons/perfumes-gallery/potions_5.jpg",
+          height: 506,
+          width: 506,
+        },
+        title: "VRA VRA VROOM",
       },
     ],
   },

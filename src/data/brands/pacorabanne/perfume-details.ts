@@ -2724,4 +2724,394 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
     ],
   },
+  {
+    brandTitle: "RABANNE",
+    title: "FAME EDP",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/fame-edp/1.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/fame-edp/2.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/fame-edp/3.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/fame-edp/4.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/fame-edp/5.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/fame-edp/6.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/fame-edp/7.png",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Иламанго - жасмин - ладан - пачули - сандал",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/pure-xs-for-her/rightimage.jpg",
+          height: 340,
+          width: 340,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Шипровый, Цветочный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмеры:",
+        text: "Альберто Морильяс, Дора Багриш, Фабрис Пеллегрин, Мари Саламань",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Дом Rabanne открывает новую главу, пробуждая в молодом поколении дух свободы и вдохновляя на безграничное самовыражение.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Включи музыку, почувствуй ритм, и позволь неудержимой энергии увлечь тебя за собой — манифестирует новая рекламная кампания ароматов FAME и PHANTOM. Наши ольфакторные герои оказываются в самом сердце Парижа — города огней. Кинематографичные кадры в чёрно-белых тонах, представляют культовые коды Rabanne в самом современном и возвышенном эстетическом воплощении.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "В антураже роскошного парижского особняка в свет выходят новые амбассадоры. Блистая в металлическом платье Rabanne, Куинн Мора затмевает всех вокруг. Йерай Альгайер на своей рок-н-рольной волне вторит её блеску. Они кружатся в танце, играючи наслаждаясь каждым мгновением в огнях ночного Парижа, а саундтрек звучит в такт их пульсирующей энергии. FAME и PHANTOM от Rabanne — это непревзойдённые ароматы для тех, кто рождён сиять.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "",
+        video: "/assets/video/brands/pacorabanne/perfume-details/fame-edp.mp4",
+      },
+      {
+        title: "FAME",
+        text: "",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Ночь — её стихия. Она беззаботна, свободна и всегда в центре внимания. FAME раскрывает самые выразительные грани женственности — уверенность, чувственность и очарование. Этот аромат создан для девушки, которая становится душой компании на любой вечеринке.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Композиция, которая носит имя FAME, просто обязана быть абсолютно ослепительной. Это новое смелое видение женственности и квинтэссенция авангардной роскоши.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "В ольфакторной пирамиде FAME собраны ноты, которые ещё никогда не звучали вместе: сочное спелое манго, нежный воздушный жасмин и притягательный, чувственный сливочный ладан.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "FAME — женственный аромат настоящей it-girl, которая всегда в центре внимания.",
+        video: "",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "INVICTUS VICTORY ABSOLU",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory-absolu/1.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory-absolu/2.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory-absolu/3.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory-absolu/4.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory-absolu/5.png",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Черный перец - амбра - сандал - ветивер - ладан",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory-absolu/rightimage.png",
+          height: 340,
+          width: 340,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Древесный, Пряный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмеры:",
+        text: "Каролин Дюмюр, Анн Флипо",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Invictus Victory Absolu становится отражением эволюции бренда и его стремления поддерживать свободу самовыражения новых поколений.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Вдохновлённый необузданной силой природы вулканического пляжа в летний зной, где свежесть морских волн с грохотом разбивается о неприступность чёрных скал, Invictus Victory Absolu обладает древесно-пряным амбровым звучанием, достойным величия самых несокрушимых героев.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "В антураже роскошного парижского особняка в свет выходят новые амбассадоры. Блистая в металлическом платье Rabanne, Куинн Мора затмевает всех вокруг. Йерай Альгайер на своей рок-н-рольной волне вторит её блеску. Они кружатся в танце, играючи наслаждаясь каждым мгновением в огнях ночного Парижа, а саундтрек звучит в такт их пульсирующей энергии. FAME и PHANTOM от Rabanne — это непревзойдённые ароматы для тех, кто рождён сиять.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Пробудите в себе безграничный потенциал к новым свершениям с Invictus Victory Absolu от Rabanne.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Сохранив знаковые очертания, новый Invictus Victory Absolu облачён в матовый чёрный флакон, напоминающий текстуру вулканической породы. Подобно столкновению волн со скалами, флакон эффектно сочетает в себе контраст матовой фактуры с глянцевой. Золотой символ V отдаёт дань уважения кодам Дома Rabanne: оригинальным металлическим элементам, знаменующим новую эру мужественности.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Ночь — её стихия. Она беззаботна, свободна и всегда в центре внимания. FAME раскрывает самые выразительные грани женственности — уверенность, чувственность и очарование. Этот аромат создан для девушки, которая становится душой компании на любой вечеринке.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "",
+        video:
+          "/assets/video/brands/pacorabanne/perfume-details/invictus-vistory-absolu.mp4",
+      },
+      {
+        title: "",
+        text: "В насыщенной композиции, созданной всемирно известными парфюмерами Каролин Дюмюр и Анн Флипо, главенствует амбра — мощный и притягательный ингредиент, который подчёркивает захватывающий и многогранный характер мужественности.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Invictus Victory Absolu — ольфакторное воплощение силы несокрушимого героя, который пишет свою собственную историю. В его сердце — столкновение стихий: свежие морские волны и раскалённый вулканический камень, объединённые в древесно-пряный амбровый аккорд. Чёрный перец, чувственная амбра и опьяняющий сандал наделяют аромат стойкостью, необходимой, чтобы запечатлеть свой триумф на века.",
+        video: "",
+      },
+    ],
+  },
+  {
+    brandTitle: "RABANNE",
+    title: "OLYMPEA ABSOLU",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-absolu/1.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-absolu/2.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-absolu/3.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-absolu/4.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-absolu/5.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-absolu/6.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-absolu/7.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        title: "Жасмин - абрикос - ваниль - цветы апельсина - кофе",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-absolu/rightimage.png",
+          height: 340,
+          width: 340,
+        },
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Цветочный, Гурманский",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмеры:",
+        text: "Поль Герлен, Каролин Дюмюр",
+      },
+    ],
+    description: [
+      {
+        title: "",
+        text: "Olympéa Absolu пробуждает в каждой девушке современную амазонку и раскрывает её самые притягательные черты. Вслед за ребрендингом Rabanne, насыщенная композиция Olympéa Absolu воплощает истинную женственность во флаконе, украшенном драгоценной подвеской, отражающей коды модного дома.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Откройте в себе самые таинственные грани. Olympéa Absolu — это гурманская цветочно-гурманская симфония для чувственной натуры, источающей внутренний свет.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Знаковый флакон Olympéa в обрамлении крыльев, символизирующих божественную натуру женщины, эффектно сочетает в себе глубокий чёрный цвет с золотистыми акцентами, перекликаясь с эстетикой Invictus Victory Absolu — аромата для мужчин, стремящихся оставить свой след в истории.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Навеянный контрастом света и тьмы, глянцевый чёрный флакон Olympéa Absolu отдаёт дань уважения модным кодам Rabanne. Их воплощением стала драгоценная подвеска, настоящий объект желания.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Финальный штрих — чёрная гравировка монограммы Rabanne, — знак силы современной амазонки.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Когда ночь опускается на вулканический пляж, Olympéa Absolu становится светом, озаряющим мглу. Вдохновлённый солнечным затмением, аромат создаёт свою собственную легенду, будто облачая богиню в золотые доспехи. Композиция, созданная всемирно известными парфюмерами Полем Герленом и Каролин Дюмюр, раскрывается пленительными аккордами жасмина и бензоина в сочетании с нотой кофейного крема, перед которой невозможно устоять.",
+        video: "",
+      },
+      {
+        title: "",
+        text: "Восхитительная цветочно-гурманская комбинация контрастирует с сочным абрикосом, привносящим соблазнительную фруктовую сладость и несравненную бархатистую текстуру. Этот дуэт подчёркивает самые загадочные грани женской натуры, окутывая кожу чувственным шлейфом и усиливая интенсивность звучания аромата.",
+        video: "",
+      },
+    ],
+  },
 ];

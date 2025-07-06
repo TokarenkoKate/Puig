@@ -4,7 +4,7 @@ import { BrandContentType, PerfumeUniverse } from "@/lib/types/general";
 export const carolinaPerfumeUniverses: PerfumeUniverse[] = [
   {
     title: "Good Girl",
-    subtitle: "6 ароматов",
+    subtitle: "7 ароматов",
     content: [
       {
         text: "Carolina Herrera с гордостью представляет вселенную ароматов Good Girl ― воплощение образа современной женщины.",
@@ -80,11 +80,20 @@ export const carolinaPerfumeUniverses: PerfumeUniverse[] = [
         },
         title: "GOOD GIRL BLUSH ELIXIR",
       },
+      {
+        id: 7,
+        url: {
+          src: "/assets/images/brands/carolina/perfumes-gallery/universe7.png",
+          height: 800,
+          width: 800,
+        },
+        title: "VERY GOOD GIRL ELIXIR",
+      },
     ],
   },
   {
     title: "Bad Boy",
-    subtitle: "5 ароматов",
+    subtitle: "6 ароматов",
     content: [
       {
         text: "Carolina Herrera начинает новое приключение вместе с Bad Boy, притягательным ароматом, который переносит легенду о вечном бунтаре в наше время. Он тот, кто не боится нарушать правила и выбирает свой собственный путь. Девиз «Как хорошо быть плохим» подчеркивает истинный смысл нового парфюмерного творения.",
@@ -142,6 +151,15 @@ export const carolinaPerfumeUniverses: PerfumeUniverse[] = [
           width: 1080,
         },
         title: "BAD BOY COBALT ELIXIR",
+      },
+      {
+        id: 6,
+        url: {
+          src: "/assets/images/brands/carolina/perfumes-gallery/bb-universe6.png",
+          height: 1080,
+          width: 1080,
+        },
+        title: "BAD BOY ELIXIR",
       },
     ],
   },

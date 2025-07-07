@@ -5,7 +5,6 @@ import { HistorySection } from "./components/sections/history-section";
 import { MainPageImagesGallerySection } from "./components/sections/images-gallery-section";
 import { PortfolioSection } from "./components/sections/portfolio-section";
 import { TestSection } from "./components/sections/test-section";
-import { ProductsSlider } from "./components/sections/products-slider-section";
 import { HeroSection } from "@/components/custom/hero-section/hero-section";
 import { HistoryVideoSection } from "./components/sections/history-video-section";
 import { ValuesSection } from "./components/sections/values-section";
@@ -25,7 +24,7 @@ export default function Main() {
       <ValuesSection />
       <PortfolioSection />
       <TestSection />
-      <ProductsSlider />
+      {/* <ProductsSlider /> */}
     </div>
   );
 }

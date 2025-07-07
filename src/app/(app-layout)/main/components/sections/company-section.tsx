@@ -27,7 +27,7 @@ export function CompanySection() {
           playsInline
           controls
           className="company__video"
-          src="/assets/video/puig-history.mp4"
+          src="/assets/video/we-are-puig.mp4"
         />
       </div>
     </section>

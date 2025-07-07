@@ -19,3 +19,9 @@ export type MultiStepQuizStep = {
   answers: string[];
   correctAnswer: string;
 };
+
+export type ValueCardType = {
+  image: string;
+  title: string;
+  description: string;
+};

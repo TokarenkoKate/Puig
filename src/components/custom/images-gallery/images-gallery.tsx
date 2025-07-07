@@ -14,14 +14,37 @@ import { Button } from "@/components/ui/button";
 import { ChevronLeft, ChevronRight, X } from "lucide-react";
 import { ImageGalleryItem } from "@/lib/types/components";
 import { useModalGallery } from "@/lib/hooks/use-modal-gallery";
+import { useRef, useEffect } from "react";
 
 export function ImagesGallery({ images }: { images: ImageGalleryItem[] }) {
   const { selectedIndex, selectedItem, selectItem, handleNext, handlePrev } =
     useModalGallery(images);
 
+  const scrollRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    const container = scrollRef.current;
+    if (!container) return;
+
+    const onWheel = (e: WheelEvent) => {
+      if (e.deltaY !== 0) {
+        e.preventDefault();
+        container.scrollBy({
+          left: e.deltaY,
+        });
+      }
+    };
+
+    container.addEventListener("wheel", onWheel, { passive: false });
+
+    return () => {
+      container.removeEventListener("wheel", onWheel);
+    };
+  }, []);
+
   return (
     <div className="images-gallery">
-      <div className="images-gallery__scroll">
+      <div className="images-gallery__scroll" ref={scrollRef}>
         {images.map((img, index) => (
           <Dialog
             key={img.src}

@@ -582,6 +582,18 @@ export const pacorabanneImagesGallery: ImageGalleryItem[] = [
     height: 720,
     altText: "Image-25",
   },
+  {
+    src: "/assets/images/brands/pacorabanne/images-gallery/26.jpg",
+    width: 562,
+    height: 720,
+    altText: "Image-24",
+  },
+  {
+    src: "/assets/images/brands/pacorabanne/images-gallery/27.jpg",
+    width: 562,
+    height: 720,
+    altText: "Image-25",
+  },
 ];
 
 export const pacorabanneBrandContent: BrandContentType = {

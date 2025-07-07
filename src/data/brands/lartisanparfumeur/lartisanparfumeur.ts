@@ -412,76 +412,70 @@ const lartisanparfumeurQuiz = [
 
 export const lartisanparfumeurImagesGallery: ImageGalleryItem[] = [
   {
-    src: "/assets/images/brands/lartisanparfumeur/images-gallery/1.webp",
+    src: "/assets/images/brands/lartisanparfumeur/images-gallery/1.jpg",
     height: 265,
     width: 380,
     altText: "Image-0",
   },
   {
-    src: "/assets/images/brands/lartisanparfumeur/images-gallery/2.webp",
+    src: "/assets/images/brands/lartisanparfumeur/images-gallery/2.jpg",
     height: 672,
     width: 794,
     altText: "Image-2",
   },
   {
-    src: "/assets/images/brands/lartisanparfumeur/images-gallery/3.webp",
+    src: "/assets/images/brands/lartisanparfumeur/images-gallery/3.jpg",
     height: 509,
     width: 840,
     altText: "Image-3",
   },
   {
-    src: "/assets/images/brands/lartisanparfumeur/images-gallery/4.webp",
+    src: "/assets/images/brands/lartisanparfumeur/images-gallery/4.jpg",
     height: 900,
     width: 1174,
     altText: "Image-4",
   },
   {
-    src: "/assets/images/brands/lartisanparfumeur/images-gallery/5.webp",
+    src: "/assets/images/brands/lartisanparfumeur/images-gallery/5.jpg",
     height: 900,
     width: 1174,
     altText: "Image-5",
   },
   {
-    src: "/assets/images/brands/lartisanparfumeur/images-gallery/6.webp",
+    src: "/assets/images/brands/lartisanparfumeur/images-gallery/6.jpg",
     height: 900,
     width: 1174,
     altText: "Image-6",
   },
   {
-    src: "/assets/images/brands/lartisanparfumeur/images-gallery/7.webp",
+    src: "/assets/images/brands/lartisanparfumeur/images-gallery/7.jpg",
     height: 900,
     width: 1174,
     altText: "Image-7",
   },
   {
-    src: "/assets/images/brands/lartisanparfumeur/images-gallery/8.webp",
+    src: "/assets/images/brands/lartisanparfumeur/images-gallery/8.jpg",
     height: 509,
     width: 840,
     altText: "Image-8",
   },
   {
-    src: "/assets/images/brands/lartisanparfumeur/images-gallery/9.webp",
+    src: "/assets/images/brands/lartisanparfumeur/images-gallery/9.jpg",
     height: 1200,
     width: 1200,
     altText: "Image-9",
   },
   {
-    src: "/assets/images/brands/lartisanparfumeur/images-gallery/10.webp",
+    src: "/assets/images/brands/lartisanparfumeur/images-gallery/10.jpg",
     height: 702,
     width: 1024,
     altText: "Image-10",
   },
   {
-    src: "/assets/images/brands/lartisanparfumeur/images-gallery/11.webp",
+    src: "/assets/images/brands/lartisanparfumeur/images-gallery/11.jpg",
     height: 900,
     width: 1200,
     altText: "Image-11",
-  },
-  {
-    src: "/assets/images/brands/lartisanparfumeur/images-gallery/12.webp",
-    height: 628,
-    width: 1200,
-    altText: "Image-12",
   },
 ];
 

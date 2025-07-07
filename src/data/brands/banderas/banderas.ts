@@ -429,7 +429,7 @@ export const banderasImagesGallery: ImageGalleryItem[] = [
     altText: "Image-9",
   },
   {
-    src: "/assets/images/brands/banderas/images-gallery/10.webp",
+    src: "/assets/images/brands/banderas/images-gallery/10.jpg",
     width: 562,
     height: 720,
     altText: "Image-10",

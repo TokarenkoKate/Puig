@@ -188,7 +188,7 @@ export const mainPagePortfolioGroups = [
     items: [
       "Penhaligon's",
       "L'Artisan Parfumeur",
-      "Bayredo",
+      "Byredo",
       "Herrera Confidential",
       "Christian Louboutin Beauty",
     ],

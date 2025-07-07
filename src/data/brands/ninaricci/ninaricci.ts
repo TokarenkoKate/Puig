@@ -269,19 +269,19 @@ export const ninaricciImagesGallery: ImageGalleryItem[] = [
     altText: "Image-11",
   },
   {
-    src: "/assets/images/brands/ninaricci/images-gallery/12.webp",
+    src: "/assets/images/brands/ninaricci/images-gallery/12.jpg",
     width: 562,
     height: 720,
     altText: "Image-12",
   },
   {
-    src: "/assets/images/brands/ninaricci/images-gallery/13.webp",
+    src: "/assets/images/brands/ninaricci/images-gallery/13.jpg",
     width: 562,
     height: 720,
     altText: "Image-13",
   },
   {
-    src: "/assets/images/brands/ninaricci/images-gallery/14.webp",
+    src: "/assets/images/brands/ninaricci/images-gallery/14.jpg",
     width: 562,
     height: 720,
     altText: "Image-14",

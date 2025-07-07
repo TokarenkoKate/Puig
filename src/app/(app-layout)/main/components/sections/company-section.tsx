@@ -24,8 +24,8 @@ export function CompanySection() {
         <video
           autoPlay
           loop
-          muted
           playsInline
+          controls
           className="company__video"
           src="/assets/video/puig-history.mp4"
         />

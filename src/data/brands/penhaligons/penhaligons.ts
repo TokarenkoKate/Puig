@@ -581,28 +581,88 @@ const penhaligonsQuiz = [
 
 export const penhaligonsImagesGallery: ImageGalleryItem[] = [
   {
-    src: "/assets/images/brands/penhaligons/images-gallery/1.webp",
+    src: "/assets/images/brands/penhaligons/images-gallery/1.png",
     width: 562,
     height: 720,
     altText: "Image-1",
   },
   {
-    src: "/assets/images/brands/penhaligons/images-gallery/2.webp",
+    src: "/assets/images/brands/penhaligons/images-gallery/2.jpg",
     width: 562,
     height: 720,
     altText: "Image-2",
   },
   {
-    src: "/assets/images/brands/penhaligons/images-gallery/3.webp",
+    src: "/assets/images/brands/penhaligons/images-gallery/3.jpg",
     width: 562,
     height: 720,
     altText: "Image-3",
   },
   {
-    src: "/assets/images/brands/penhaligons/images-gallery/4.webp",
+    src: "/assets/images/brands/penhaligons/images-gallery/4.jpg",
     width: 562,
     height: 720,
     altText: "Image-4",
+  },
+  {
+    src: "/assets/images/brands/penhaligons/images-gallery/5.jpg",
+    width: 562,
+    height: 720,
+    altText: "Image-5",
+  },
+  {
+    src: "/assets/images/brands/penhaligons/images-gallery/6.jpg",
+    width: 562,
+    height: 720,
+    altText: "Image-6",
+  },
+  {
+    src: "/assets/images/brands/penhaligons/images-gallery/7.jpg",
+    width: 562,
+    height: 720,
+    altText: "Image-7",
+  },
+  {
+    src: "/assets/images/brands/penhaligons/images-gallery/8.jpg",
+    width: 562,
+    height: 720,
+    altText: "Image-8",
+  },
+  {
+    src: "/assets/images/brands/penhaligons/images-gallery/9.png",
+    width: 562,
+    height: 720,
+    altText: "Image-9",
+  },
+  {
+    src: "/assets/images/brands/penhaligons/images-gallery/10.jpg",
+    width: 562,
+    height: 720,
+    altText: "Image-10",
+  },
+  {
+    src: "/assets/images/brands/penhaligons/images-gallery/11.jpg",
+    width: 562,
+    height: 720,
+    altText: "Image-11",
+  },
+  {
+    src: "/assets/images/brands/penhaligons/images-gallery/12.jpg",
+    width: 562,
+    height: 720,
+    altText: "Image-12",
+  },
+  {
+    src: "/assets/images/brands/penhaligons/images-gallery/13.jpg",
+    width: 562,
+    height: 720,
+    altText: "Image-13",
+  },
+  {
+    src: "/assets/images/brands/penhaligons/images-gallery/14.jpg",
+    width: 562,
+    height: 720,
+    altText: "Image-14",
   },
 ];
 
@@ -618,7 +678,7 @@ export const penhaligonsBrandContent: BrandContentType = {
       "Он родился в провинциальном городке Пензанс в Корнуолле и переехал в Лондон в конце 1860-х, где начал работать парикмахером в известных турецких банях на улице Джермин. Спустя некоторое время наблюдательность и деловитость Уильяма позволили ему открыть собственный салон, где он начал создавать свои ароматы, лосьоны и эликсиры, рассчитанные на избирательных клиентов. Так родился бренд Penhaligon’s. Сотрудничество с британской королевской семьей началось более ста лет назад. Во время правления королевы Виктории Уильям Пенхалигон был назначен цирюльником и парфюмером королевского двора, а в 1903 году королевой Александрой его компании был выдан патент на право быть поставщиком королевского двора.",
       "В настоящий момент, более чем 150 лет спустя, мы гордимся тем, что бренд является держателем двух королевских патентов, полученных от герцога Эдинбургского (в 1956 году) и принца Уэльского (в 1988 году). Сегодня ароматы производятся в Англии с использованием ингредиентов наивысшего качества. Отделка изысканных флаконов производится вручную традиционным способом. Бренд сохранил оригинальный дизайн, разработанный Уильямом: прозрачное стекло с этикеткой и знаковой крышкой, обвязанной лентой. 150-летняя богатая история не противоречит инновационному духу бренда.",
     ],
-    videoSrc: "/assets/video/brands/penhaligons/hero.mp4",
+    videoSrc: "/assets/video/brands/penhaligons/bio.mp4",
     paragraphs: [
       "В основе всего производства лежат изучение и разработка новых вариантов создания продукции. Начиная с экстракции углекислого газа и до технологии контактной теневой печати, каждый флакон содержит в себе квинтэссенцию новизны и старинных традиций. ",
       "Заходя в один из бутиков бренда, вы почувствуете, как вас окутывает манящий микс традиционного, современного и необычного. Penhaligon’s ― это место, где аристократическая роскошь былых лет превращается в страстно желаемые предметы первостепенной важности, без которых немыслим современный стиль жизни. Двух одинаковых бутиков бренда не существует, каждый ― уникален, полон антикварных вещиц, изящных безделушек и, что самое важное, индивидуального характера. Уже в 1907 году компания Penhaligon’s экспортировала свою продукцию в разные уголки земного шара. Сегодня с ароматами можно познакомиться в Японии, Южной Корее, Украине, Америке и Сингапуре. Бренд Penhaligon’s и новая коллекция Portraits представлены в главных флагшипах страны ― в ЦУМе, ГУМе и ключевых магазинах Л’Этуаль.",

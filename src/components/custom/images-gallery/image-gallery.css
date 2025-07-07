@@ -7,7 +7,10 @@
   display: flex;
   gap: 16px;
   overflow-x: auto;
-  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  overflow-y: hidden;
+  scroll-behavior: auto;
+  scroll-snap-type: x mandatory;
   -webkit-overflow-scrolling: touch;
 }
 

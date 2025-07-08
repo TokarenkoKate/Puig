@@ -3,7 +3,7 @@ import { ValueCard } from "../values/value-card";
 
 export function ValuesSection() {
   return (
-    <section className="values">
+    <section className="values w-fixed">
       <div className="values__header">
         <h2 className="values__title heading-1">Ценности Puig</h2>
         <p className="values__description">

@@ -1,6 +1,5 @@
 .history__slider-wrapper {
   display: flex;
-  padding-top: 40px;
   gap: 10px;
   position: relative;
   touch-action: pan-y;

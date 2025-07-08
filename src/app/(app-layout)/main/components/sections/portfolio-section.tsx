@@ -1,4 +1,7 @@
+import { Button } from "@/components/ui/button";
+import { brandTitles } from "@/data/brands-data";
 import { mainPagePortfolioGroups } from "@/data/main-page-data";
+import Link from "next/link";
 
 export function PortfolioSection() {
   return (
@@ -16,8 +19,16 @@ export function PortfolioSection() {
                 <li className="heading-4">{title}</li>
               </ul>
               <ul className="portfolio__items">
-                {items.map((item) => (
-                  <li key={item}>{item}</li>
+                {items.map((brandItem) => (
+                  <Button
+                    variant="link"
+                    className="portfolio__item"
+                    key={brandItem}
+                  >
+                    <Link href={`/brands/${brandItem}`}>
+                      {brandTitles[brandItem]}
+                    </Link>
+                  </Button>
                 ))}
               </ul>
             </div>

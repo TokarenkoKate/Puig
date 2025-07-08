@@ -4,6 +4,7 @@ import {
   SliderItem,
   ValueCardType,
 } from "@/lib/types/components";
+import { BRANDS } from "./brands-data";
 
 /*----------------------------------------*/
 /*  Данные для главной страницы
@@ -308,20 +309,24 @@ export const mainPagePortfolioGroups = [
   {
     title: "Niche",
     items: [
-      "Penhaligon's",
-      "L'Artisan Parfumeur",
-      "Byredo",
-      "Herrera Confidential",
-      "Christian Louboutin Beauty",
+      BRANDS.PENHALIGONS,
+      BRANDS.LARTISANPARFUMEUR,
+      BRANDS.BYREDO,
+      BRANDS.CHRISTIANLOUBOUTIN,
     ],
   },
   {
     title: "Prestige",
-    items: ["Rabanne", "Carolina Herrera", "Nina Ricci", "Jean Paul Gaultier"],
+    items: [
+      BRANDS.PACORABBANE,
+      BRANDS.CAROLINA,
+      BRANDS.NINARICCI,
+      BRANDS.JEANPAULGAULTIER,
+    ],
   },
   {
     title: "Lifestyle",
-    items: ["Banderas", "United Colors of Benetton", "Shakira"],
+    items: [BRANDS.BANDERAS, BRANDS.BENETON, BRANDS.SHAKIRA],
   },
 ];
 
@@ -354,7 +359,7 @@ export const mainPageMultiStepQuiz: MultiStepQuizStep[] = [
   {
     question: "Какие Дома моды принадлежат PUIG:",
     answers: [
-      "Nina Ricci, Antonio Banderas, Jean Paul Gaultier, Herrera Confidential",
+      "Nina Ricci, Antonio Banderas, Jean Paul Gaultier",
       "Carolina Herrera, Paco Rabanne, Penhaligon's, Dries Van Noten",
       "Nina Ricci, Carolina Herrera, Paco Rabanne, Jean Paul Gaultier, Dries Van Noten",
       "Nina Ricci, Carolina Herrera, Benettone",

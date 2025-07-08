@@ -30,42 +30,38 @@ export const BRANDS = {
   JEANPAULGAULTIER: "jeanpaulgaultier",
   BANDERAS: "banderas",
   CHRISTIANLOUBOUTIN: "christianlouboutin",
+  BYREDO: "byredo",
+  BENETON: "united-colors-of-benetton",
+  SHAKIRA: "shakira",
 } as const;
 
+export const brandTitles = {
+  [BRANDS.CAROLINA]: "Carolina Herrera",
+  [BRANDS.PENHALIGONS]: "Penhaligon’s",
+  [BRANDS.LARTISANPARFUMEUR]: "L’Artisan Parfumeur",
+  [BRANDS.PACORABBANE]: "Rabanne",
+  [BRANDS.NINARICCI]: "Nina Ricci",
+  [BRANDS.JEANPAULGAULTIER]: "Jean Paul Gaultier",
+  [BRANDS.BANDERAS]: "Banderas",
+  [BRANDS.CHRISTIANLOUBOUTIN]: "Christian Louboutin",
+  [BRANDS.BYREDO]: "Byredo",
+  [BRANDS.BENETON]: "United Colors of Benetton",
+  [BRANDS.SHAKIRA]: "Shakira",
+};
+
 // Список брендов для навигационного меню
-export const brands: { label: string; name: BrandName }[] = [
-  {
-    label: "Carolina Herrera",
-    name: BRANDS.CAROLINA,
-  },
-  {
-    label: "Penhaligon’s",
-    name: BRANDS.PENHALIGONS,
-  },
-  {
-    label: "L’Artisan Parfumeur",
-    name: BRANDS.LARTISANPARFUMEUR,
-  },
-  {
-    label: "Rabanne",
-    name: BRANDS.PACORABBANE,
-  },
-  {
-    label: "Nina Ricci",
-    name: BRANDS.NINARICCI,
-  },
-  {
-    label: "Jean Paul Gaultier",
-    name: BRANDS.JEANPAULGAULTIER,
-  },
-  {
-    label: "Banderas",
-    name: BRANDS.BANDERAS,
-  },
-  {
-    label: "Christian Louboutin",
-    name: BRANDS.CHRISTIANLOUBOUTIN,
-  },
+export const brands: BrandName[] = [
+  BRANDS.PENHALIGONS,
+  BRANDS.LARTISANPARFUMEUR,
+  BRANDS.BYREDO,
+  BRANDS.CHRISTIANLOUBOUTIN,
+  BRANDS.PACORABBANE,
+  BRANDS.CAROLINA,
+  BRANDS.NINARICCI,
+  BRANDS.JEANPAULGAULTIER,
+  BRANDS.BANDERAS,
+  BRANDS.BENETON,
+  BRANDS.SHAKIRA,
 ];
 
 // Данные для страниц /brands/[brandName]
@@ -78,6 +74,9 @@ export const brandsData: Record<BrandName, BrandContentType> = {
   [BRANDS.JEANPAULGAULTIER]: jeanpaulgaultierBrandContent,
   [BRANDS.BANDERAS]: banderasBrandContent,
   [BRANDS.CHRISTIANLOUBOUTIN]: christianlouboutinBrandContent,
+  [BRANDS.BYREDO]: carolinaBrandContent,
+  [BRANDS.BENETON]: carolinaBrandContent,
+  [BRANDS.SHAKIRA]: carolinaBrandContent,
 };
 
 // Данные с подробной информацией о парфюмах
@@ -91,4 +90,7 @@ export const perfumesDetailsData: Record<BrandName, PerfumeDetails[]> = {
   [BRANDS.JEANPAULGAULTIER]: jeanpaulgaultierPerfumeDetails,
   [BRANDS.BANDERAS]: banderasPerfumeDetails,
   [BRANDS.CHRISTIANLOUBOUTIN]: christianlouboutinPerfumeDetails,
+  [BRANDS.BYREDO]: carolinePerfumeDetails,
+  [BRANDS.BENETON]: carolinePerfumeDetails,
+  [BRANDS.SHAKIRA]: carolinePerfumeDetails,
 };

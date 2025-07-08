@@ -8,7 +8,7 @@ import {
   NavigationMenuList,
 } from "@/components/ui/navigation-menu";
 import { SheetClose } from "@/components/ui/sheet";
-import { brands } from "@/data/brands-data";
+import { brands, brandTitles } from "@/data/brands-data";
 import Link from "next/link";
 
 export function HeaderNavigationButton({
@@ -28,11 +28,11 @@ export function HeaderNavigationButton({
               {brands.map((brand) => {
                 const linkComponent = (
                   <NavigationMenuLink asChild color="blue">
-                    <Link href={`/brands/${brand.name}`}>{brand.label}</Link>
+                    <Link href={`/brands/${brand}`}>{brandTitles[brand]}</Link>
                   </NavigationMenuLink>
                 );
                 return (
-                  <li key={brand.name}>
+                  <li key={brand}>
                     {isWithinSheet ? (
                       <SheetClose asChild>{linkComponent}</SheetClose>
                     ) : (

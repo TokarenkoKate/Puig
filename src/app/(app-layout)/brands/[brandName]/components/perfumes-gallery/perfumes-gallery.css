@@ -187,11 +187,12 @@
   flex: 1 1 auto;
   position: relative;
   width: 435px;
+  margin: 0 auto;
 }
 
 .perfume-details__carousel-dots {
   position: absolute;
-  bottom: 16px;
+  bottom: -30px;
   left: 0;
   right: 0;
   display: flex;

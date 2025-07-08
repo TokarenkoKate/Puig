@@ -6,23 +6,32 @@ import { MainPageImagesGallerySection } from "./components/sections/images-galle
 import { PortfolioSection } from "./components/sections/portfolio-section";
 import { TestSection } from "./components/sections/test-section";
 import { HeroSection } from "@/components/custom/hero-section/hero-section";
-import { VideoSection } from "./components/sections/video-section";
 import { ValuesSection } from "./components/sections/values-section";
+import { FullscreenMedia } from "@/components/custom/fullscreen-media/fullscreen-media";
+import {
+  historyVideo,
+  mainPageHeroSection,
+  mainPageVideoProps,
+  valuesVideo,
+} from "@/data/main-page-data";
 
 export default function Main() {
   return (
     <div>
       <HeroSection
-        videoSrc="/assets/video/hero-video.mp4"
-        title="Puig love brands"
+        videoSrc={mainPageHeroSection.videoSrc}
+        title={mainPageHeroSection.title}
       />
       <BiographySection />
       <CompanySection />
       <HistorySection />
       <MainPageImagesGallerySection />
-      <VideoSection videoSrc="/assets/video/puig-history.mp4" />
+      <FullscreenMedia
+        videoSrc={historyVideo}
+        videoProps={mainPageVideoProps}
+      />
       <ValuesSection />
-      <VideoSection videoSrc="/assets/video/values.mp4" />
+      <FullscreenMedia videoSrc={valuesVideo} videoProps={mainPageVideoProps} />
       <PortfolioSection />
       <TestSection />
     </div>

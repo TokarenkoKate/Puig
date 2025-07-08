@@ -9,6 +9,19 @@ import {
 /*  Данные для главной страницы
 /*----------------------------------------*/
 
+export const mainPageHeroSection = {
+  videoSrc: "/assets/video/hero-video.mp4",
+  title: "Puig love brands",
+};
+
+export const historyVideo = "/assets/video/puig-history.mp4";
+export const valuesVideo = "/assets/video/values.mp4";
+
+export const mainPageVideoProps = {
+  controls: true,
+  autoPlay: false,
+};
+
 export const mainPageHistorySliderItems: SliderItem[] = [
   {
     year: 1914,

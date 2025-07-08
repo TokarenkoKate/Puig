@@ -22,7 +22,7 @@ export function CompanySection() {
       </div>
       <div className="company__video-wrapper">
         <video
-          autoPlay
+          autoPlay={false}
           loop
           playsInline
           controls

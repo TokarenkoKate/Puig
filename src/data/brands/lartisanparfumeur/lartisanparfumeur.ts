@@ -392,7 +392,6 @@ const lartisanparfumeurHistorySliderItems: SliderItem[] = [
     year: 2016,
     content: "Появление коллекции La Botanique \u0026 Les Paysages.",
   },
-  { year: 2017, content: "Создание коллекции Les Colognes." },
   { year: 2019, content: "Премьера аромата Bana Banana." },
   { year: 2020, content: "Создание коллекции Les Merveilles." },
 ];
@@ -482,7 +481,7 @@ export const lartisanparfumeurImagesGallery: ImageGalleryItem[] = [
 export const lartisanparfumeurBrandContent: BrandContentType = {
   heroSection: {
     videoSrc: "/assets/video/brands/lartisanparfumeur/hero.mp4",
-    title: "Lartisan-Parfumeur",
+    title: "L’Artisan Parfumeur",
   },
   historySliderSection: lartisanparfumeurHistorySliderItems,
   bioSection: {

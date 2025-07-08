@@ -27,12 +27,19 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Лимон – Лайм – Лаванда – Сосна – Черный перец – Мускус",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/blenheim-bouquet/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Лимон",
+          "Лайм",
+          "Лаванда",
+          "Сосна",
+          "Черный перец",
+          "Мускус",
+        ],
       },
     ],
     rightContent: [
@@ -91,13 +98,24 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Лимон – Бергамот – Роза – Жасмин – Цветок апельсина – Кардамон – Мандарин – Апельсин – Мускус – Сандаловое дерево – Дубовый мох",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/quercus/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Лимон",
+          "Бергамот",
+          "Роза",
+          "Жасмин",
+          "Цветок апельсина",
+          "Кардамон",
+          "Мандарин",
+          "Апельсин",
+          "Мускус",
+          "Сандаловое дерево",
+          "Дубовый мох",
+        ],
       },
     ],
     rightContent: [
@@ -166,13 +184,22 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Жасмин – Ландыш – Фиалка – Ваниль – Амбра – Карамель – Нектарин – Дубовый мох – Зеленый аккорд",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/artemisia/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Жасмин",
+          "Ландыш",
+          "Фиалка",
+          "Ваниль",
+          "Амбра",
+          "Карамель",
+          "Нектарин",
+          "Дубовый мох",
+          "Зеленый аккорд",
+        ],
       },
     ],
     rightContent: [
@@ -231,13 +258,27 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Бергамот – Сандаловое дерево – Ветивер – Мандарин – Шалфей – Кофе – Герань – Благовония – Мускус – Черный перец – Кардамон – Кожа – Мирра – Мускатный орех",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/endymion/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Бергамот",
+          "Сандаловое дерево",
+          "Ветивер",
+          "Мандарин",
+          "Шалфей",
+          "Кофе",
+          "Герань",
+          "Благовония",
+          "Мускус",
+          "Черный перец",
+          "Кардамон",
+          "Кожа",
+          "Мирра",
+          "Мускатный орех",
+        ],
       },
     ],
     rightContent: [
@@ -291,13 +332,22 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Бергамот – Лимон – Роза – Масло апельсина – Жасмин – Можжевельник – Амбра – Пихтовый бальзам – Мускус",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/luna/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Бергамот",
+          "Лимон",
+          "Роза",
+          "Масло апельсина",
+          "Жасмин",
+          "Можжевельник",
+          "Амбра",
+          "Пихтовый бальзам",
+          "Мускус",
+        ],
       },
     ],
     rightContent: [
@@ -351,13 +401,24 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Кедр – Черный перец – Кориандр – Благовония – Роза – Гваяковое дерево – Сандаловое дерево – Юдзу – Корица – Гвоздика – Мускус",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/opus-1870/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Кедр",
+          "Черный перец",
+          "Кориандр",
+          "Благовония",
+          "Роза",
+          "Гваяковое дерево",
+          "Сандаловое дерево",
+          "Юдзу",
+          "Корица",
+          "Гвоздика",
+          "Мускус",
+        ],
       },
     ],
     rightContent: [
@@ -421,13 +482,19 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Герань – Розовый перец – Роза – Розмарин – Благовония – Бензоин",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/savoy-steam/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Герань",
+          "Розовый перец",
+          "Роза",
+          "Розмарин",
+          "Благовония",
+          "Бензоин",
+        ],
       },
     ],
     rightContent: [
@@ -476,13 +543,22 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Роза – Персик – Миндаль – Лист фундука – Древесные ноты – Корица – Лилия – Ветивер – Мускус",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/elisabethan-rose/rightimage.png",
           height: 340,
           width: 340,
         },
+        components: [
+          "Роза",
+          "Персик",
+          "Миндаль",
+          "Лист фундука",
+          "Древесные ноты",
+          "Корица",
+          "Лилия",
+          "Ветивер",
+          "Мускус",
+        ],
       },
     ],
     rightContent: [
@@ -541,13 +617,27 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Лаванда – Пачули – Нероли – Бобы тонка – Ваниль – Амбра – Дубовый мох – Имбирь – Альдегид – Кардамон – Мед – Мирра – Табак – Кедр",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/sartorial/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Лаванда",
+          "Пачули",
+          "Нероли",
+          "Бобы тонка",
+          "Ваниль",
+          "Амбра",
+          "Дубовый мох",
+          "Имбирь",
+          "Альдегид",
+          "Кардамон",
+          "Мед",
+          "Мирра",
+          "Табак",
+          "Кедр",
+        ],
       },
     ],
     rightContent: [
@@ -615,13 +705,25 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Ягоды можжевельника – Черный перец – Кардамон – Корень фиалки – Ветивер – Корица – Бренди – Ирис – Кожа – Сахар – Вишня – Амбра",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/juniper-sling/rightimage.png",
           height: 1477,
           width: 1475,
         },
+        components: [
+          "Ягоды можжевельника",
+          "Черный перец",
+          "Кардамон",
+          "Корень фиалки",
+          "Ветивер",
+          "Корица",
+          "Бренди",
+          "Ирис",
+          "Кожа",
+          "Сахар",
+          "Вишня",
+          "Амбра",
+        ],
       },
     ],
     rightContent: [
@@ -699,13 +801,24 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Ландыш – Гиацинт – Жасмин – Бергамот – Мох – Иланг-иланг – Герань – Мускус – Роза – Лимон – Сандаловое дерево",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/lily-of-the-valley/rightimage.png",
           height: 1560,
           width: 1554,
         },
+        components: [
+          "Ландыш",
+          "Гиацинт",
+          "Жасмин",
+          "Бергамот",
+          "Мох",
+          "Иланг-иланг",
+          "Герань",
+          "Мускус",
+          "Роза",
+          "Лимон",
+          "Сандаловое дерево",
+        ],
       },
     ],
     rightContent: [
@@ -778,13 +891,22 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Мимоза – Листья фиалки – Мускус – Ирис – Жасмин – Бергамот – Мандарин – Амбра – Сандаловое дерево",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/the-favourite/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Мимоза",
+          "Листья фиалки",
+          "Мускус",
+          "Ирис",
+          "Жасмин",
+          "Бергамот",
+          "Мандарин",
+          "Амбра",
+          "Сандаловое дерево",
+        ],
       },
     ],
     rightContent: [
@@ -885,12 +1007,19 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Плакучая липа – Мимоза – Кедр – Ириc – Тубероза – Мускус",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/highgrove-bouquet/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Плакучая липа",
+          "Мимоза",
+          "Кедр",
+          "Ириc",
+          "Тубероза",
+          "Мускус",
+        ],
       },
     ],
     rightContent: [
@@ -995,13 +1124,21 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Черная смородина – Нероли – Иланг-иланг – Жасмин – Цветок Тиаре – Кедр – Сандал – Ваниль",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/solaris/rightimage.png",
           height: 1080,
           width: 1080,
         },
+        components: [
+          "Черная смородина",
+          "Нероли",
+          "Иланг-иланг",
+          "Жасмин",
+          "Цветок Тиаре",
+          "Кедр",
+          "Сандал",
+          "Ваниль",
+        ],
       },
     ],
     rightContent: [
@@ -1131,13 +1268,20 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Кедр - Виски - Дубовая стружка - Бергамот - Малина - Амброксан - Пачули",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/dandy/rightimage.jpg",
           height: 2000,
           width: 2000,
         },
+        components: [
+          "Кедр",
+          "Виски",
+          "Дубовая стружка",
+          "Бергамот",
+          "Малина",
+          "Амброксан",
+          "Пачули",
+        ],
       },
     ],
     rightContent: [
@@ -1206,13 +1350,22 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Слива – Кардамон – Роза – Перец – Сандаловое дерево – Пачули – Кожа – Благовония – Бергамот",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/halfeti/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Слива",
+          "Кардамон",
+          "Роза",
+          "Перец",
+          "Сандаловое дерево",
+          "Пачули",
+          "Кожа",
+          "Благовония",
+          "Бергамот",
+        ],
       },
     ],
     rightContent: [
@@ -1276,13 +1429,29 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Амбра – Бергамот – Черная смородина – Красный апельсин – Какао – Кардамон – Герань – Благовония – Мандарин – Нероли – Мускатный орех – Пачули – Персик – Розовый перец – Роза – Ваниль",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/empressa/rightimage.jpg",
           height: 352,
           width: 356,
         },
+        components: [
+          "Амбра",
+          "Бергамот",
+          "Черная смородина",
+          "Красный апельсин",
+          "Какао",
+          "Кардамон",
+          "Герань",
+          "Благовония",
+          "Мандарин",
+          "Нероли",
+          "Мускатный орех",
+          "Пачули",
+          "Персик",
+          "Розовый перец",
+          "Роза",
+          "Ваниль",
+        ],
       },
     ],
     rightContent: [
@@ -1350,13 +1519,23 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Розовый перец – Ягоды можжевельника – Кардамон – Молочко инжира – Лаванда – Магнолия – Герань – Черный чай – Ваниль – Кедр",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/lothair/rightimage.png",
           height: 1512,
           width: 1512,
         },
+        components: [
+          "Розовый перец",
+          "Ягоды можжевельника",
+          "Кардамон",
+          "Молочко инжира",
+          "Лаванда",
+          "Магнолия",
+          "Герань",
+          "Черный чай",
+          "Ваниль",
+          "Кедр",
+        ],
       },
     ],
     rightContent: [
@@ -1437,13 +1616,22 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Лабданум – Роза – Шафран – Киприол – Благовония – Ваниль – Сандаловое дерево – Атласский кедр – Пачули",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/cairo/rightimage.jpg",
           height: 352,
           width: 355,
         },
+        components: [
+          "Лабданум",
+          "Роза",
+          "Шафран",
+          "Киприол",
+          "Благовония",
+          "Ваниль",
+          "Сандаловое дерево",
+          "Атласский кедр",
+          "Пачули",
+        ],
       },
     ],
     rightContent: [
@@ -1525,13 +1713,20 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Киприол – Ваниль – Кедр – Сандал – Шафран – Мускатный орех – Кориандр",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/babylon/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Киприол",
+          "Ваниль",
+          "Кедр",
+          "Сандал",
+          "Шафран",
+          "Мускатный орех",
+          "Кориандр",
+        ],
       },
     ],
     rightContent: [
@@ -1654,13 +1849,22 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Сосна – Розовый перец – Лаванда – Ирис – Герань – Роза – Ваниль – Мох – Киприол",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/constantinople/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Сосна",
+          "Розовый перец",
+          "Лаванда",
+          "Ирис",
+          "Герань",
+          "Роза",
+          "Ваниль",
+          "Мох",
+          "Киприол",
+        ],
       },
     ],
     rightContent: [
@@ -1728,13 +1932,20 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Мирра – Лакричное дерево – Бергамот – Фенхель – Зеленый чай – Бельамбра – Ваниль",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/legacy-of-petra/rightimage.jpg",
           height: 845,
           width: 845,
         },
+        components: [
+          "Мирра",
+          "Лакричное дерево",
+          "Бергамот",
+          "Фенхель",
+          "Зеленый чай",
+          "Бельамбра",
+          "Ваниль",
+        ],
       },
     ],
     rightContent: [
@@ -1869,13 +2080,21 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Слива - Ладан - Ваниль - Черный перец - Кардамон - Шафран - Табак - Пачули",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/alula/rightimage.jpg",
           height: 790,
           width: 790,
         },
+        components: [
+          "Слива",
+          "Ладан",
+          "Ваниль",
+          "Черный перец",
+          "Кардамон",
+          "Шафран",
+          "Табак",
+          "Пачули",
+        ],
       },
     ],
     rightContent: [
@@ -1948,12 +2167,19 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Кедр – Лаванда – Бобы тонка – Ветивер – Амброксан – Бренди",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/the-tragedy-of-lord-george/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Кедр",
+          "Лаванда",
+          "Бобы тонка",
+          "Ветивер",
+          "Амброксан",
+          "Бренди",
+        ],
       },
     ],
     rightContent: [
@@ -2016,13 +2242,19 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Гиацинт – Нарцисс – Ирис – Сандаловое дерево – Ангелика – Цветок имбиря",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/the-revenge-of-lady-blanche/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Гиацинт",
+          "Нарцисс",
+          "Ирис",
+          "Сандаловое дерево",
+          "Ангелика",
+          "Цветок имбиря",
+        ],
       },
     ],
     rightContent: [
@@ -2085,13 +2317,18 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Роза Центифолия – Дамасская роза – Мандарин  – Амброксан – Ваниль",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/the-coveted-duchess-rose/rightimage.jpg",
           height: 355,
           width: 366,
         },
+        components: [
+          "Роза Центифолия",
+          "Дамасская роза",
+          "Мандарин ",
+          "Амброксан",
+          "Ваниль",
+        ],
       },
     ],
     rightContent: [
@@ -2159,12 +2396,19 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Роза – Розовый перец – Кумин – Кедр – Джин – Ветивер",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/much-ado-about-the-duke/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Роза",
+          "Розовый перец",
+          "Кумин",
+          "Кедр",
+          "Джин",
+          "Ветивер",
+        ],
       },
     ],
     rightContent: [
@@ -2227,13 +2471,21 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Амбра – Корица – Киприол – Опопонакс – Пачули – Ром – Бобы тонка – Ваниль",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/clandestine-clara/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Амбра",
+          "Корица",
+          "Киприол",
+          "Опопонакс",
+          "Пачули",
+          "Ром",
+          "Бобы тонка",
+          "Ваниль",
+        ],
       },
     ],
     rightContent: [
@@ -2301,13 +2553,20 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Уд – Ветивер – Роза – Шафран – Лабданум – Розовый перец – Сандаловое дерево",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/the-uncompromising-sohan/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Уд",
+          "Ветивер",
+          "Роза",
+          "Шафран",
+          "Лабданум",
+          "Розовый перец",
+          "Сандаловое дерево",
+        ],
       },
     ],
     rightContent: [
@@ -2380,12 +2639,19 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Ваниль – Жасмин – Уд – Кардамон – Благовония – Кофе",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/the-bewitching-yasmine/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Ваниль",
+          "Жасмин",
+          "Уд",
+          "Кардамон",
+          "Благовония",
+          "Кофе",
+        ],
       },
     ],
     rightContent: [
@@ -2458,13 +2724,22 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Кедр – Пачули – Кардамон – Черный перец – Табак – Корица – Ваниль – Шафран – Тмин",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/the-blazing-mister-sam/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Кедр",
+          "Пачули",
+          "Кардамон",
+          "Черный перец",
+          "Табак",
+          "Корица",
+          "Ваниль",
+          "Шафран",
+          "Тмин",
+        ],
       },
     ],
     rightContent: [
@@ -2542,13 +2817,20 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Ваниль – Кардамон – Зеленый аккорд – Соленая карамель – Сливочная помадка – Табак – Кашмеран",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/changing-constance/rightimage.png",
           height: 340,
           width: 340,
         },
+        components: [
+          "Ваниль",
+          "Кардамон",
+          "Зеленый аккорд",
+          "Соленая карамель",
+          "Сливочная помадка",
+          "Табак",
+          "Кашмеран",
+        ],
       },
     ],
     rightContent: [
@@ -2635,13 +2917,22 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Кожа – Розовый перец – Благовония – Амброксан – Кедр – Ягоды пименты – Ветивер – Древесный аккорд – Пачули",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/terrible-teddy/rightimage.png",
           height: 340,
           width: 340,
         },
+        components: [
+          "Кожа",
+          "Розовый перец",
+          "Благовония",
+          "Амброксан",
+          "Кедр",
+          "Ягоды пименты",
+          "Ветивер",
+          "Древесный аккорд",
+          "Пачули",
+        ],
       },
     ],
     rightContent: [
@@ -2732,13 +3023,20 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Тубероза – Сандаловое дерево – Мандарин – Жасмин – Розовый перец – Кашмеран – Древесный аккорд",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/heartless-helen/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Тубероза",
+          "Сандаловое дерево",
+          "Мандарин",
+          "Жасмин",
+          "Розовый перец",
+          "Кашмеран",
+          "Древесный аккорд",
+        ],
       },
     ],
     rightContent: [
@@ -2865,13 +3163,20 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Бергамот – Жасмин – Ветивер – Ладан – Кедровое дерево – Сандаловое дерево – Амброксан",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/the-inimitable-william-penhaligon/rightimage.png",
           height: 845,
           width: 841,
         },
+        components: [
+          "Бергамот",
+          "Жасмин",
+          "Ветивер",
+          "Ладан",
+          "Кедровое дерево",
+          "Сандаловое дерево",
+          "Амброксан",
+        ],
       },
     ],
     rightContent: [
@@ -2986,13 +3291,19 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Ваниль – Грейпфрут – Амбретта – Мускатный шалфей – Бобы Тонка – Ладан",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/the-world-according-to-arthur/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Ваниль",
+          "Грейпфрут",
+          "Амбретта",
+          "Мускатный шалфей",
+          "Бобы Тонка",
+          "Ладан",
+        ],
       },
     ],
     rightContent: [
@@ -3097,13 +3408,19 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Розовый перец - Ирис - Кунжут - Герань - Ваниль - Древесина дуба",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/mr-thompson/rightimage.jpg",
           height: 2000,
           width: 2000,
         },
+        components: [
+          "Розовый перец",
+          "Ирис",
+          "Кунжут",
+          "Герань",
+          "Ваниль",
+          "Древесина дуба",
+        ],
       },
     ],
     rightContent: [
@@ -3283,12 +3600,18 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Аккорд кожи - соленая фисташка - лист фиалки - пачули - анис",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/fortuitous-finley/rightimage.png",
           height: 2000,
           width: 2000,
         },
+        components: [
+          "Аккорд кожи",
+          "соленая фисташка",
+          "лист фиалки",
+          "пачули",
+          "анис",
+        ],
       },
     ],
     rightContent: [
@@ -3389,12 +3712,12 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Лаванда - ирис - сандал - герань - мускатный шалфей",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/a-balm-of-calm/rightimage.jpg",
           height: 2000,
           width: 2000,
         },
+        components: ["Лаванда", "ирис", "сандал", "герань", "мускатный шалфей"],
       },
     ],
     rightContent: [
@@ -3494,12 +3817,12 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Роза - пачули - матча - мускус - жасмин",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/a-kiss-of-bliss/rightimage.jpg",
           height: 2000,
           width: 2000,
         },
+        components: ["Роза", "пачули", "матча", "мускус", "жасмин"],
       },
     ],
     rightContent: [
@@ -3599,12 +3922,12 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Роза - имбирь - кашмеран - мускус - розовый перец",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/liquid-love/rightimage.jpg",
           height: 2000,
           width: 2000,
         },
+        components: ["Роза", "имбирь", "кашмеран", "мускус", "розовый перец"],
       },
     ],
     rightContent: [
@@ -3704,12 +4027,12 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Ладан - кожа - ваниль - черный перец - шафран",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/eau-the-audacity/rightimage.jpg",
           height: 2000,
           width: 2000,
         },
+        components: ["Ладан", "кожа", "ваниль", "черный перец", "шафран"],
       },
     ],
     rightContent: [
@@ -3809,12 +4132,12 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Кожа - османтус - абрикос - магнолия - роза",
         src: {
           src: "/assets/images/brands/penhaligons/perfume-details/vra-vra-vroom/rightimage.jpg",
           height: 2000,
           width: 2000,
         },
+        components: ["Кожа", "османтус", "абрикос", "магнолия", "роза"],
       },
     ],
     rightContent: [

@@ -54,13 +54,18 @@ export const christianlouboutinPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Тубероза - перуанский бальзам - зеленая нота - амбра - танжерин",
         src: {
           src: "/assets/images/brands/christianlouboutin/perfume-details/lambre/rightimage.jpg",
           height: 845,
           width: 845,
         },
+        components: [
+          "Тубероза",
+          "перуанский бальзам",
+          "зеленая нота",
+          "амбра",
+          "танжерин",
+        ],
       },
     ],
     rightContent: [
@@ -141,13 +146,18 @@ export const christianlouboutinPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Эбонитовое дерево - кедр - кокосовая вода - розовый перец - пачули",
         src: {
           src: "/assets/images/brands/christianlouboutin/perfume-details/lebene/rightimage.jpg",
           height: 845,
           width: 845,
         },
+        components: [
+          "Эбонитовое дерево",
+          "кедр",
+          "кокосовая вода",
+          "розовый перец",
+          "пачули",
+        ],
       },
     ],
     rightContent: [
@@ -228,13 +238,18 @@ export const christianlouboutinPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Ладан- черный перец - ветивер - ирис - пихтовый бальзам - амброксан",
         src: {
           src: "/assets/images/brands/christianlouboutin/perfume-details/lencens/rightimage.jpg",
           height: 845,
           width: 845,
         },
+        components: [
+          "Ладан- черный перец",
+          "ветивер",
+          "ирис",
+          "пихтовый бальзам",
+          "амброксан",
+        ],
       },
     ],
     rightContent: [
@@ -306,12 +321,19 @@ export const christianlouboutinPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Ирис- пачули - кожа - кумин - семена моркови - ваниль - мускус",
         src: {
           src: "/assets/images/brands/christianlouboutin/perfume-details/liris/rightimage.jpg",
           height: 845,
           width: 845,
         },
+        components: [
+          "Ирис- пачули",
+          "кожа",
+          "кумин",
+          "семена моркови",
+          "ваниль",
+          "мускус",
+        ],
       },
     ],
     rightContent: [
@@ -392,12 +414,19 @@ export const christianlouboutinPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Османтус - замша - кожа - персик - амбра - розовый перец",
         src: {
           src: "/assets/images/brands/christianlouboutin/perfume-details/lecuir/rightimage.jpg",
           height: 845,
           width: 845,
         },
+        components: [
+          "Османтус",
+          "замша",
+          "кожа",
+          "персик",
+          "амбра",
+          "розовый перец",
+        ],
       },
     ],
     rightContent: [
@@ -487,12 +516,12 @@ export const christianlouboutinPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Мирра -  киприол - ваниль - лабданум - сандал",
         src: {
           src: "/assets/images/brands/christianlouboutin/perfume-details/loubicroc/rightimage.jpg",
           height: 845,
           width: 845,
         },
+        components: ["Мирра", " киприол", "ваниль", "лабданум", "сандал"],
       },
     ],
     rightContent: [
@@ -592,12 +621,12 @@ export const christianlouboutinPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Кедр - пачули - бобы тонка - киприол - шафран",
         src: {
           src: "/assets/images/brands/christianlouboutin/perfume-details/loubicrown/rightimage.jpg",
           height: 845,
           width: 845,
         },
+        components: ["Кедр", "пачули", "бобы тонка", "киприол", "шафран"],
       },
     ],
     rightContent: [
@@ -692,12 +721,18 @@ export const christianlouboutinPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Роза - клубника - кедр- мандарин - мускус - серая амбра",
         src: {
           src: "/assets/images/brands/christianlouboutin/perfume-details/loubidoo/rightimage.jpg",
           height: 845,
           width: 845,
         },
+        components: [
+          "Роза",
+          "клубника",
+          "кедр- мандарин",
+          "мускус",
+          "серая амбра",
+        ],
       },
     ],
     rightContent: [
@@ -797,13 +832,18 @@ export const christianlouboutinPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Магнолия - роза - почки черной смородины - пачули - лист томата",
         src: {
           src: "/assets/images/brands/christianlouboutin/perfume-details/loubifunk/rightimage.jpg",
           height: 845,
           width: 845,
         },
+        components: [
+          "Магнолия",
+          "роза",
+          "почки черной смородины",
+          "пачули",
+          "лист томата",
+        ],
       },
     ],
     rightContent: [
@@ -885,12 +925,19 @@ export const christianlouboutinPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Ваниль - нероли - бергамот - черный перец - ирис - мирра",
         src: {
           src: "/assets/images/brands/christianlouboutin/perfume-details/loubihorse/rightimage.jpg",
           height: 845,
           width: 845,
         },
+        components: [
+          "Ваниль",
+          "нероли",
+          "бергамот",
+          "черный перец",
+          "ирис",
+          "мирра",
+        ],
       },
     ],
     rightContent: [
@@ -985,12 +1032,12 @@ export const christianlouboutinPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Тубероза - жасмин - мускус - кашмеран - амбра",
         src: {
           src: "/assets/images/brands/christianlouboutin/perfume-details/loubikiss/rightimage.jpg",
           height: 845,
           width: 845,
         },
+        components: ["Тубероза", "жасмин", "мускус", "кашмеран", "амбра"],
       },
     ],
     rightContent: [
@@ -1085,13 +1132,19 @@ export const christianlouboutinPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Тубероза - лимон - мандарин - нероли - серая амбра - морская нота",
         src: {
           src: "/assets/images/brands/christianlouboutin/perfume-details/loubimar/rightimage.jpg",
           height: 845,
           width: 845,
         },
+        components: [
+          "Тубероза",
+          "лимон",
+          "мандарин",
+          "нероли",
+          "серая амбра",
+          "морская нота",
+        ],
       },
     ],
     rightContent: [
@@ -1186,12 +1239,19 @@ export const christianlouboutinPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Ирис - розовый перец - бензоин - кожа - сандал - иланг-иланг",
         src: {
           src: "/assets/images/brands/christianlouboutin/perfume-details/loubiraj/rightimage.jpg",
           height: 845,
           width: 845,
         },
+        components: [
+          "Ирис",
+          "розовый перец",
+          "бензоин",
+          "кожа",
+          "сандал",
+          "иланг-иланг",
+        ],
       },
     ],
     rightContent: [
@@ -1286,13 +1346,19 @@ export const christianlouboutinPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Ирис - ваниль - кожа - кардамон - бергамот - перуанский бальзам",
         src: {
           src: "/assets/images/brands/christianlouboutin/perfume-details/loubirouge/rightimage.jpg",
           height: 845,
           width: 845,
         },
+        components: [
+          "Ирис",
+          "ваниль",
+          "кожа",
+          "кардамон",
+          "бергамот",
+          "перуанский бальзам",
+        ],
       },
     ],
     rightContent: [

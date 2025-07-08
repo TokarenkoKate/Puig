@@ -81,13 +81,19 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Цветок апельсина – Имбирь – Анис – Ваниль – Иланг-иланг – Рисовая мука",
         src: {
           src: "/assets/images/brands/jeanpaulgaultier/perfume-details/classique-edt/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Цветок апельсина",
+          "Имбирь",
+          "Анис",
+          "Ваниль",
+          "Иланг-иланг",
+          "Рисовая мука",
+        ],
       },
     ],
     rightContent: [
@@ -178,12 +184,19 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Лаванда – Ваниль – Мята – Нероли – Бергамот – Бобы тонка",
         src: {
           src: "/assets/images/brands/jeanpaulgaultier/perfume-details/le-male-edt/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Лаванда",
+          "Ваниль",
+          "Мята",
+          "Нероли",
+          "Бергамот",
+          "Бобы тонка",
+        ],
       },
     ],
     rightContent: [
@@ -287,12 +300,18 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Ваниль – Древесные аккорды – Лаванда – Кардамон – Ирис",
         src: {
           src: "/assets/images/brands/jeanpaulgaultier/perfume-details/le-male-le-parfum-edp/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Ваниль",
+          "Древесные аккорды",
+          "Лаванда",
+          "Кардамон",
+          "Ирис",
+        ],
       },
     ],
     rightContent: [
@@ -405,12 +424,19 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Бергамот - Мята - Лаванда - Бобы тонка - Бензоин - Пачули",
         src: {
           src: "/assets/images/brands/jeanpaulgaultier/perfume-details/le-male-elixir/rightimage.png",
           height: 676,
           width: 676,
         },
+        components: [
+          "Бергамот",
+          "Мята",
+          "Лаванда",
+          "Бобы тонка",
+          "Бензоин",
+          "Пачули",
+        ],
       },
     ],
     rightContent: [
@@ -530,12 +556,19 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Ваниль – Груша – Роза – Яблоко – Бергамот – Ветивер",
         src: {
           src: "/assets/images/brands/jeanpaulgaultier/perfume-details/la-belle-edp/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Ваниль",
+          "Груша",
+          "Роза",
+          "Яблоко",
+          "Бергамот",
+          "Ветивер",
+        ],
       },
     ],
     rightContent: [
@@ -639,12 +672,19 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Сандал – Кокос – Ананас – Бобы тонка – Бергамот – Кедр",
         src: {
           src: "/assets/images/brands/jeanpaulgaultier/perfume-details/le-beau-edt/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Сандал",
+          "Кокос",
+          "Ананас",
+          "Бобы тонка",
+          "Бергамот",
+          "Кедр",
+        ],
       },
     ],
     rightContent: [
@@ -775,12 +815,18 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Ваниль – Груша – Миндаль – Розовый перец – Бобы тонка",
         src: {
           src: "/assets/images/brands/jeanpaulgaultier/perfume-details/la-belle-le-parfum-edp/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Ваниль",
+          "Груша",
+          "Миндаль",
+          "Розовый перец",
+          "Бобы тонка",
+        ],
       },
     ],
     rightContent: [
@@ -884,12 +930,19 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Инжир - Сандал - Кокосовая вода - Имбирь - Соль - Мята",
         src: {
           src: "/assets/images/brands/jeanpaulgaultier/perfume-details/le-beau-paradise-garden/rightimage.jpeg",
           height: 2000,
           width: 2000,
         },
+        components: [
+          "Инжир",
+          "Сандал",
+          "Кокосовая вода",
+          "Имбирь",
+          "Соль",
+          "Мята",
+        ],
       },
     ],
     rightContent: [
@@ -999,13 +1052,20 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Кувшинка - Ирис - Ваниль - Имбирь - Иланг-иланг - Бергамот - Миндаль",
         src: {
           src: "/assets/images/brands/jeanpaulgaultier/perfume-details/la-belle-paradise-garden/rightimage.jpeg",
           height: 1640,
           width: 1640,
         },
+        components: [
+          "Кувшинка",
+          "Ирис",
+          "Ваниль",
+          "Имбирь",
+          "Иланг-иланг",
+          "Бергамот",
+          "Миндаль",
+        ],
       },
     ],
     rightContent: [
@@ -1096,12 +1156,12 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Пачули – Мед – Гардения – Ваниль – Цветы апельсина",
         src: {
           src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-edp/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: ["Пачули", "Мед", "Гардения", "Ваниль", "Цветы апельсина"],
       },
     ],
     rightContent: [
@@ -1214,12 +1274,12 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Жасмин – Малина – Молоко – Тубероза – Ваниль",
         src: {
           src: "/assets/images/brands/jeanpaulgaultier/perfume-details/so-scandal-edp/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: ["Жасмин", "Малина", "Молоко", "Тубероза", "Ваниль"],
       },
     ],
     rightContent: [
@@ -1341,12 +1401,18 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Бергамот – Ветивер – Мускатный шалфей – Карамель – Бобы тонка",
         src: {
           src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-pour-homme/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Бергамот",
+          "Ветивер",
+          "Мускатный шалфей",
+          "Карамель",
+          "Бобы тонка",
+        ],
       },
     ],
     rightContent: [
@@ -1515,13 +1581,19 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Черная ваниль – Жасмин – Соленая карамель – Мандарин – Тубероза – Сандал",
         src: {
           src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-le-parfum/rightimage.jpg",
           height: 790,
           width: 790,
         },
+        components: [
+          "Черная ваниль",
+          "Жасмин",
+          "Соленая карамель",
+          "Мандарин",
+          "Тубероза",
+          "Сандал",
+        ],
       },
     ],
     rightContent: [
@@ -1645,13 +1717,15 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Бобы тонка – Герань – Карамель – Сандал – Мандарин – Ветивер - Шалфей",
         src: {
           src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-pour-homme-le-parfum/rightimage.jpg",
           height: 790,
           width: 790,
         },
+        components: [
+          "Бобы тонка – Герань – Карамель – Сандал – Мандарин – Ветивер",
+          "Шалфей",
+        ],
       },
     ],
     rightContent: [
@@ -1785,12 +1859,12 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Бобы тонка - лаванда - слива - кардамон - полынь",
         src: {
           src: "/assets/images/brands/jeanpaulgaultier/perfume-details/le-male-elixir-absolu/rightimage.png",
           height: 790,
           width: 790,
         },
+        components: ["Бобы тонка", "лаванда", "слива", "кардамон", "полынь"],
       },
     ],
     rightContent: [

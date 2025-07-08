@@ -54,12 +54,18 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Гардения – Лимон – Яблоко в карамели – Мускус – Сандал",
         src: {
           src: "/assets/images/brands/ninaricci/perfume-details/nina/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Гардения",
+          "Лимон",
+          "Яблоко в карамели",
+          "Мускус",
+          "Сандал",
+        ],
       },
     ],
     rightContent: [
@@ -159,12 +165,12 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Цитрон – Цветок имбиря – Малина – Ваниль – Карамель",
         src: {
           src: "/assets/images/brands/ninaricci/perfume-details/nina-rouge/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: ["Цитрон", "Цветок имбиря", "Малина", "Ваниль", "Карамель"],
       },
     ],
     rightContent: [
@@ -282,13 +288,19 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Бергамот – Груша – Нероли – Цветы апельсина – Кедр – Белый мускус",
         src: {
           src: "/assets/images/brands/ninaricci/perfume-details/nina-rose/rightimage.png",
           height: 1102,
           width: 1102,
         },
+        components: [
+          "Бергамот",
+          "Груша",
+          "Нероли",
+          "Цветы апельсина",
+          "Кедр",
+          "Белый мускус",
+        ],
       },
     ],
     rightContent: [
@@ -447,13 +459,19 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Малина – Черная смородина – Бутон розы – Чай – Пралине – Ваниль",
         src: {
           src: "/assets/images/brands/ninaricci/perfume-details/nina-extra-rouge/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Малина",
+          "Черная смородина",
+          "Бутон розы",
+          "Чай",
+          "Пралине",
+          "Ваниль",
+        ],
       },
     ],
     rightContent: [
@@ -585,13 +603,20 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Цветы апельсина – Зеленое яблоко – Лимон – Кашмеран – Нероли – Кедр – Мускус",
         src: {
           src: "/assets/images/brands/ninaricci/perfume-details/nina-fleur/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Цветы апельсина",
+          "Зеленое яблоко",
+          "Лимон",
+          "Кашмеран",
+          "Нероли",
+          "Кедр",
+          "Мускус",
+        ],
       },
     ],
     rightContent: [
@@ -724,13 +749,19 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Трио яблок - Итальянский лимон - Гардения - Флердоранж - Амбра - Ваниль",
         src: {
           src: "/assets/images/brands/ninaricci/perfume-details/nina-le-parfum/rightimage.png",
           height: 674,
           width: 674,
         },
+        components: [
+          "Трио яблок",
+          "Итальянский лимон",
+          "Гардения",
+          "Флердоранж",
+          "Амбра",
+          "Ваниль",
+        ],
       },
     ],
     rightContent: [
@@ -868,13 +899,19 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Юдзу - Розовый перец - Малина - Цветы апельсина - Пачули - Ваниль",
         src: {
           src: "/assets/images/brands/ninaricci/perfume-details/nina-illusion/rightimage.jpg",
           height: 790,
           width: 790,
         },
+        components: [
+          "Юдзу",
+          "Розовый перец",
+          "Малина",
+          "Цветы апельсина",
+          "Пачули",
+          "Ваниль",
+        ],
       },
     ],
     rightContent: [
@@ -958,12 +995,12 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Гвоздика – Жасмин – Сандаловое дерево – Бергамот",
         src: {
           src: "/assets/images/brands/ninaricci/perfume-details/lair-du-temps-edt/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: ["Гвоздика", "Жасмин", "Сандаловое дерево", "Бергамот"],
       },
     ],
     rightContent: [
@@ -1012,12 +1049,12 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Гвоздика – Жасмин – Роза – Бергамот – Гардения",
         src: {
           src: "/assets/images/brands/ninaricci/perfume-details/lair-du-temps-edp/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: ["Гвоздика", "Жасмин", "Роза", "Бергамот", "Гардения"],
       },
     ],
     rightContent: [
@@ -1151,12 +1188,12 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Роза - вишня - ваниль - гардения - малина",
         src: {
           src: "/assets/images/brands/ninaricci/perfume-details/nina-rouge-crush/rightimage.png",
           height: 340,
           width: 340,
         },
+        components: ["Роза", "вишня", "ваниль", "гардения", "малина"],
       },
     ],
     rightContent: [

@@ -63,12 +63,12 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Бобы тонка – Тубероза – Какао – Жасмин – Миндаль",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/good-girl/components.webp",
           height: 340,
           width: 340,
         },
+        components: ["Бобы тонка", "Тубероза", "Какао", "Жасмин", "Миндаль"],
       },
     ],
     rightContent: [
@@ -172,12 +172,18 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Темные ягоды – Жасмин – Тубероза – Бобы тонка – Ветивер",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/good-girl-supreme/components.webp",
           height: 340,
           width: 340,
         },
+        components: [
+          "Темные ягоды",
+          "Жасмин",
+          "Тубероза",
+          "Бобы тонка",
+          "Ветивер",
+        ],
       },
     ],
     rightContent: [
@@ -292,12 +298,19 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Роза – Красные ягоды – Личи – Бобы тока – Ваниль – Ветивер",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/very-good-girl/components.webp",
           height: 340,
           width: 340,
         },
+        components: [
+          "Роза",
+          "Красные ягоды",
+          "Личи",
+          "Бобы тока",
+          "Ваниль",
+          "Ветивер",
+        ],
       },
     ],
     rightContent: [
@@ -462,13 +475,20 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Вишня – Роза – Ваниль – Ветивер – Миндаль – Бобы тонка – Семена амбретты",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/very-good-girl-glam/components.webp",
           height: 845,
           width: 845,
         },
+        components: [
+          "Вишня",
+          "Роза",
+          "Ваниль",
+          "Ветивер",
+          "Миндаль",
+          "Бобы тонка",
+          "Семена амбретты",
+        ],
       },
     ],
     rightContent: [
@@ -578,12 +598,19 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Роза – Пион – Иланг-иланг – Ваниль – Бергамот – Ваниль",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/good-girl-blush/components.webp",
           height: 845,
           width: 845,
         },
+        components: [
+          "Роза",
+          "Пион",
+          "Иланг-иланг",
+          "Ваниль",
+          "Бергамот",
+          "Ваниль",
+        ],
       },
     ],
     rightContent: [
@@ -693,13 +720,20 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Пачули - Роза - Ваниль - Мандарин - Миндаль - Иланг-иланг - Бергамот",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/good-girl-blush-elixir/components.jpeg",
           height: 1640,
           width: 1640,
         },
+        components: [
+          "Пачули",
+          "Роза",
+          "Ваниль",
+          "Мандарин",
+          "Миндаль",
+          "Иланг-иланг",
+          "Бергамот",
+        ],
       },
     ],
     rightContent: [
@@ -804,12 +838,12 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Белый перец – Шалфей – Бобы тонка – Какао – Ветивер",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/bad-boy/components.webp",
           height: 340,
           width: 340,
         },
+        components: ["Белый перец", "Шалфей", "Бобы тонка", "Какао", "Ветивер"],
       },
     ],
     rightContent: [
@@ -926,13 +960,19 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Грейпфрут – Аккорд конопли – Герань – Черный перец – Аккорд кожи – Ветивер",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/bad-boy-le-parfum/rightimage.webp",
           height: 845,
           width: 845,
         },
+        components: [
+          "Грейпфрут",
+          "Аккорд конопли",
+          "Герань",
+          "Черный перец",
+          "Аккорд кожи",
+          "Ветивер",
+        ],
       },
     ],
     rightContent: [
@@ -1066,13 +1106,20 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Лаванда – Герань – Ветивер – Слива – Трюфель – Кедр – Розовый перец",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/bad-boy-cobald/rightimage.webp",
           height: 845,
           width: 845,
         },
+        components: [
+          "Лаванда",
+          "Герань",
+          "Ветивер",
+          "Слива",
+          "Трюфель",
+          "Кедр",
+          "Розовый перец",
+        ],
       },
     ],
     rightContent: [
@@ -1182,12 +1229,19 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Имбирь – Какао – Ветивер – Бобы тонка – Пачули – Давана",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/bad-boy-extreme/rightimage.webp",
           height: 845,
           width: 845,
         },
+        components: [
+          "Имбирь",
+          "Какао",
+          "Ветивер",
+          "Бобы тонка",
+          "Пачули",
+          "Давана",
+        ],
       },
     ],
     rightContent: [
@@ -1288,13 +1342,20 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Шалфей - Ладан - Черный перец - Египетская герань - Трюфель - Кедр - Киприол",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/bad-boy-cobald-elixir/rightimage.webp",
           height: 1640,
           width: 1640,
         },
+        components: [
+          "Шалфей",
+          "Ладан",
+          "Черный перец",
+          "Египетская герань",
+          "Трюфель",
+          "Кедр",
+          "Киприол",
+        ],
       },
     ],
     rightContent: [
@@ -1399,13 +1460,18 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Гардения – Свежесрезанные стебли цветов – Жасмин – Бергамот – Мускус",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/212-nyc/rightimage.webp",
           height: 340,
           width: 340,
         },
+        components: [
+          "Гардения",
+          "Свежесрезанные стебли цветов",
+          "Жасмин",
+          "Бергамот",
+          "Мускус",
+        ],
       },
     ],
     rightContent: [
@@ -1486,13 +1552,18 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Лаванда – Свежескошенная трава – Сандаловое дерево – Листья цитрусов – Мускус",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/212-nyc-men/rightimage.webp",
           height: 340,
           width: 340,
         },
+        components: [
+          "Лаванда",
+          "Свежескошенная трава",
+          "Сандаловое дерево",
+          "Листья цитрусов",
+          "Мускус",
+        ],
       },
     ],
     rightContent: [
@@ -1573,12 +1644,12 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Маракуйя – Ром – Гардения – Бензоин – Мускус",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/212-vip/rightimage.webp",
           height: 340,
           width: 340,
         },
+        components: ["Маракуйя", "Ром", "Гардения", "Бензоин", "Мускус"],
       },
     ],
     rightContent: [
@@ -1664,12 +1735,12 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Водка – Лайм – Мята – Имбирь – Древесный аккорд",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/212-vip-men/rightimage.webp",
           height: 340,
           width: 340,
         },
+        components: ["Водка", "Лайм", "Мята", "Имбирь", "Древесный аккорд"],
       },
     ],
     rightContent: [
@@ -1751,13 +1822,18 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Цветок персика – Розовое шампанское – Древесный аккорд – Розовый перец – Мускус",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/212-vip-rose/rightimage.webp",
           height: 340,
           width: 340,
         },
+        components: [
+          "Цветок персика",
+          "Розовое шампанское",
+          "Древесный аккорд",
+          "Розовый перец",
+          "Мускус",
+        ],
       },
     ],
     rightContent: [
@@ -1857,12 +1933,12 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Лаванда – Абсент – Ваниль – Мускус – Кожа",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/212-vip-men-black/rightimage.webp",
           height: 340,
           width: 340,
         },
+        components: ["Лаванда", "Абсент", "Ваниль", "Мускус", "Кожа"],
       },
     ],
     rightContent: [
@@ -1958,13 +2034,19 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Болгарская роза – Жасмин – Пачули – Бергамот – Пралине – Грейпфрут",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/ch-carolina-herrera/rightimage.webp",
           height: 340,
           width: 340,
         },
+        components: [
+          "Болгарская роза",
+          "Жасмин",
+          "Пачули",
+          "Бергамот",
+          "Пралине",
+          "Грейпфрут",
+        ],
       },
     ],
     rightContent: [
@@ -2060,12 +2142,18 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Кашемировое дерево – Листья фиалка – Кожа – Шафран – Грейпфрут",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/ch-men/rightimage.webp",
           height: 340,
           width: 340,
         },
+        components: [
+          "Кашемировое дерево",
+          "Листья фиалка",
+          "Кожа",
+          "Шафран",
+          "Грейпфрут",
+        ],
       },
     ],
     rightContent: [
@@ -2142,12 +2230,12 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Замша – Дыня – Кардамон – Бобы тонка – Корица",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/chic-for-men/rightimage.webp",
           height: 340,
           width: 340,
         },
+        components: ["Замша", "Дыня", "Кардамон", "Бобы тонка", "Корица"],
       },
     ],
     rightContent: [
@@ -2243,12 +2331,12 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Ваниль - роза - черешня - миндаль - ветивер",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/very-good-girl-elixir/rightimage.png",
           height: 340,
           width: 340,
         },
+        components: ["Ваниль", "роза", "черешня", "миндаль", "ветивер"],
       },
     ],
     rightContent: [
@@ -2353,12 +2441,18 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Аккорд кожи - кедр - мускатный шалфей - лавандин - какао",
         src: {
           src: "/assets/images/brands/carolina/perfume-details/bad-boy-elixir/rightimage.png",
           height: 340,
           width: 340,
         },
+        components: [
+          "Аккорд кожи",
+          "кедр",
+          "мускатный шалфей",
+          "лавандин",
+          "какао",
+        ],
       },
     ],
     rightContent: [

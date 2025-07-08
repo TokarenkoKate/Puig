@@ -1,8 +1,13 @@
 import { ApiImageSrc, PerfumeRightContent } from "@/lib/types/general";
+import { capitalizePerfumeComponents } from "@/lib/utils/perfume";
 import Image from "next/image";
 
 type PerfumeDetailsRightContentProps = {
-  rightImage: ApiImageSrc;
+  rightImage: {
+    id: number;
+    src: ApiImageSrc["src"];
+    components: string[];
+  };
   rightContent: PerfumeRightContent[];
 };
 
@@ -10,21 +15,21 @@ export function PerfumeDetailsRightContent({
   rightImage,
   rightContent,
 }: PerfumeDetailsRightContentProps) {
+  const ingredients = capitalizePerfumeComponents(rightImage.components);
+
   return (
     <div>
       {rightImage && (
         <>
           <Image
-            alt={rightImage.title}
+            alt={ingredients}
             loading="lazy"
             width={340}
             height={340}
             src={rightImage.src?.src}
             className="perfume-details__ingredients-img"
           />
-          <p className="perfume-details__ingredients-text">
-            {rightImage.title}
-          </p>
+          <p className="perfume-details__ingredients-text">{ingredients}</p>
         </>
       )}
       <div className="perfume-details__right-content">

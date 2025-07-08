@@ -50,7 +50,7 @@ export type PerfumeDetails = {
   title: string;
   transcription?: string;
   imagegallery: ApiImageSrc[];
-  rightImage: ApiImageSrc[];
+  rightImage: { id: number; src: ApiImageSrc["src"]; components: string[] }[];
   rightContent: PerfumeRightContent[];
   description: PerfumeDescription[];
 };

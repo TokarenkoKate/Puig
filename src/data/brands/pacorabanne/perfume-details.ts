@@ -108,13 +108,19 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Лимон – Сливочная лаванда – Древесная ваниль – Ревень – Пачули – Ветивер",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/phantom/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Лимон",
+          "Сливочная лаванда",
+          "Древесная ваниль",
+          "Ревень",
+          "Пачули",
+          "Ветивер",
+        ],
       },
     ],
     rightContent: [
@@ -275,12 +281,12 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Кожа – Мандарин – Корица – Роза – Пачули",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/1-million/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: ["Кожа", "Мандарин", "Корица", "Роза", "Пачули"],
       },
     ],
     rightContent: [
@@ -383,13 +389,18 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Кожа – Грейпфрут – Соленая тубероза – Древесный аккорд – Кардамон",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/1-million-parfum/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Кожа",
+          "Грейпфрут",
+          "Соленая тубероза",
+          "Древесный аккорд",
+          "Кардамон",
+        ],
       },
     ],
     rightContent: [
@@ -492,12 +503,20 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Ваниль – Кедр – Яблоко – Роза – Давана – Османтус – Пачули",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/1-million-elixir/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Ваниль",
+          "Кедр",
+          "Яблоко",
+          "Роза",
+          "Давана",
+          "Османтус",
+          "Пачули",
+        ],
       },
     ],
     rightContent: [
@@ -641,12 +660,12 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Кедр – Лаванда – Бензоин – Пачули – Листья фиалки",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/1-million-royal/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: ["Кедр", "Лаванда", "Бензоин", "Пачули", "Листья фиалки"],
       },
     ],
     rightContent: [
@@ -737,12 +756,12 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Жасмин – Малина – Мед – Цветок апельсина – Пачули",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/lady-million/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: ["Жасмин", "Малина", "Мед", "Цветок апельсина", "Пачули"],
       },
     ],
     rightContent: [
@@ -872,13 +891,21 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Тубероза – Ваниль – Мандарин – Иланг-иланг – Жасмин – Мох – Бобы тонка – Кашмеран",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/lady-million-fabulous/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Тубероза",
+          "Ваниль",
+          "Мандарин",
+          "Иланг-иланг",
+          "Жасмин",
+          "Мох",
+          "Бобы тонка",
+          "Кашмеран",
+        ],
       },
     ],
     rightContent: [
@@ -984,13 +1011,19 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Гранат – Кашмеран – Цветы апельсина – Жасмин – Тубероза – Пачули",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/lady-million-royal/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Гранат",
+          "Кашмеран",
+          "Цветы апельсина",
+          "Жасмин",
+          "Тубероза",
+          "Пачули",
+        ],
       },
     ],
     rightContent: [
@@ -1104,13 +1137,20 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Красный мандарин - Сандал - Кедр - Кардамон - Розовый перец - Корица - Киприол",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/million-gold/rightimage.jpg",
           height: 2000,
           width: 2000,
         },
+        components: [
+          "Красный мандарин",
+          "Сандал",
+          "Кедр",
+          "Кардамон",
+          "Розовый перец",
+          "Корица",
+          "Киприол",
+        ],
       },
     ],
     rightContent: [
@@ -1239,13 +1279,19 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Роза - Букет белых цветов - Мох - Минеральный мускус - Жасмин - Иланг-Иланг",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-for-her/rightimage.jpg",
           height: 2000,
           width: 2000,
         },
+        components: [
+          "Роза",
+          "Букет белых цветов",
+          "Мох",
+          "Минеральный мускус",
+          "Жасмин",
+          "Иланг-Иланг",
+        ],
       },
     ],
     rightContent: [
@@ -1371,13 +1417,18 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Морской аккорд – Гваяковое дерево – Серая амбра – Грейпфрут – Листья лавра",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/invictus/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Морской аккорд",
+          "Гваяковое дерево",
+          "Серая амбра",
+          "Грейпфрут",
+          "Листья лавра",
+        ],
       },
     ],
     rightContent: [
@@ -1507,13 +1558,19 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Цитрусовый аккорд – Ладан – Лаванда – Перец – Пачули амбра – Ваниль",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Цитрусовый аккорд",
+          "Ладан",
+          "Лаванда",
+          "Перец",
+          "Пачули амбра",
+          "Ваниль",
+        ],
       },
     ],
     rightContent: [
@@ -1688,12 +1745,20 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Кипарис – Лаванда – Грейпфрут – Абсент – Мята – Пачули – Мох",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/invictus-platinum/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Кипарис",
+          "Лаванда",
+          "Грейпфрут",
+          "Абсент",
+          "Мята",
+          "Пачули",
+          "Мох",
+        ],
       },
     ],
     rightContent: [
@@ -1807,13 +1872,20 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Лавандин – Черный перец – Амбра – Ладан – Бобы тонка – Ваниль – Древесный аккорд",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory-elixir/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Лавандин",
+          "Черный перец",
+          "Амбра",
+          "Ладан",
+          "Бобы тонка",
+          "Ваниль",
+          "Древесный аккорд",
+        ],
       },
     ],
     rightContent: [
@@ -1904,13 +1976,18 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Соленая ваниль – Жасмин – Имбирная лилия – Мандарин – Серая амбра",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/olympea/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Соленая ваниль",
+          "Жасмин",
+          "Имбирная лилия",
+          "Мандарин",
+          "Серая амбра",
+        ],
       },
     ],
     rightContent: [
@@ -2022,12 +2099,18 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Ваниль – Грушевый сорбет – Роза – Пачули – Розовый перец",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/olympea-blossom/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Ваниль",
+          "Грушевый сорбет",
+          "Роза",
+          "Пачули",
+          "Розовый перец",
+        ],
       },
     ],
     rightContent: [
@@ -2160,13 +2243,19 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Цветы апельсина – Иланг-иланг – Тиаре – Бензоин – Мандарин – Мох",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/olympea-solar/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Цветы апельсина",
+          "Иланг-иланг",
+          "Тиаре",
+          "Бензоин",
+          "Мандарин",
+          "Мох",
+        ],
       },
     ],
     rightContent: [
@@ -2276,13 +2365,19 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Роза – Cорбет из черной смородины – Розовый перец – Пион – Пачули – Соленая ваниль",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/olympea-flora/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Роза",
+          "Cорбет из черной смородины",
+          "Розовый перец",
+          "Пион",
+          "Пачули",
+          "Соленая ваниль",
+        ],
       },
     ],
     rightContent: [
@@ -2407,13 +2502,20 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Растительный аккорд - Ваниль - Жасмин - Роза - Шалфей - Розовый перец - Бензоин",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/olympea-parfum/rightimage.jpeg",
           height: 1640,
           width: 1640,
         },
+        components: [
+          "Растительный аккорд",
+          "Ваниль",
+          "Жасмин",
+          "Роза",
+          "Шалфей",
+          "Розовый перец",
+          "Бензоин",
+        ],
       },
     ],
     rightContent: [
@@ -2513,13 +2615,19 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Лаванда - Сандал - Черное мыло - Морской аккорд - Кашмеран - Мускус",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/invictus-parfum/rightimage.jpeg",
           height: 1640,
           width: 1640,
         },
+        components: [
+          "Лаванда",
+          "Сандал",
+          "Черное мыло",
+          "Морской аккорд",
+          "Кашмеран",
+          "Мускус",
+        ],
       },
     ],
     rightContent: [
@@ -2605,12 +2713,12 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Ваниль – Мирра – Имбирь – Корица – Тимьян",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/pure-xs-pour-homme/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: ["Ваниль", "Мирра", "Имбирь", "Корица", "Тимьян"],
       },
     ],
     rightContent: [
@@ -2695,13 +2803,18 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Иланг-иланг – Ваниль – Сандаловое дерево – Эротический попкорн – Семена Амбретты",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/pure-xs-for-her/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Иланг-иланг",
+          "Ваниль",
+          "Сандаловое дерево",
+          "Эротический попкорн",
+          "Семена Амбретты",
+        ],
       },
     ],
     rightContent: [
@@ -2795,12 +2908,12 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Иламанго - жасмин - ладан - пачули - сандал",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/pure-xs-for-her/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: ["Иламанго", "жасмин", "ладан", "пачули", "сандал"],
       },
     ],
     rightContent: [
@@ -2916,12 +3029,12 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Черный перец - амбра - сандал - ветивер - ладан",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/invictus-victory-absolu/rightimage.png",
           height: 340,
           width: 340,
         },
+        components: ["Черный перец", "амбра", "сандал", "ветивер", "ладан"],
       },
     ],
     rightContent: [
@@ -3056,12 +3169,12 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Жасмин - абрикос - ваниль - цветы апельсина - кофе",
         src: {
           src: "/assets/images/brands/pacorabanne/perfume-details/olympea-absolu/rightimage.png",
           height: 340,
           width: 340,
         },
+        components: ["Жасмин", "абрикос", "ваниль", "цветы апельсина", "кофе"],
       },
     ],
     rightContent: [

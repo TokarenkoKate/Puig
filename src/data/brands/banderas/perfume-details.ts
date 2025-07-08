@@ -81,13 +81,23 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Бергамот – Грейпфрут – Черный перец – Лист фиалки – Лаванда – Шалфей – Пачули – Древесный аккорд – Бобы тонка – Амбра",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/the-icon/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Бергамот",
+          "Грейпфрут",
+          "Черный перец",
+          "Лист фиалки",
+          "Лаванда",
+          "Шалфей",
+          "Пачули",
+          "Древесный аккорд",
+          "Бобы тонка",
+          "Амбра",
+        ],
       },
     ],
     rightContent: [
@@ -200,13 +210,21 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Грейпфрут – Можжевельник – Черный перец – Лаванда – Ирис – Замша – Ветивер – Бензоин",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/the-icon-edp/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Грейпфрут",
+          "Можжевельник",
+          "Черный перец",
+          "Лаванда",
+          "Ирис",
+          "Замша",
+          "Ветивер",
+          "Бензоин",
+        ],
       },
     ],
     rightContent: [
@@ -332,12 +350,19 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Кардамон – Имбирь – Лаванда – Соленый аккорд – Кедр – Ветивер",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/the-icon-elixir/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Кардамон",
+          "Имбирь",
+          "Лаванда",
+          "Соленый аккорд",
+          "Кедр",
+          "Ветивер",
+        ],
       },
     ],
     rightContent: [
@@ -437,13 +462,20 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Цветы апельсина - Жасмин - Черная смородина - Груша - Бобы тонка - Ваниль - Мускус",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/the-icon-for-women-edp/rightimage.png",
           height: 2000,
           width: 2000,
         },
+        components: [
+          "Цветы апельсина",
+          "Жасмин",
+          "Черная смородина",
+          "Груша",
+          "Бобы тонка",
+          "Ваниль",
+          "Мускус",
+        ],
       },
     ],
     rightContent: [
@@ -563,12 +595,18 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title: "Мох - аккорд конопли - розмарин - розовый перец - кипарис",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/the-icon-supreme/rightimage.png",
           height: 2000,
           width: 2000,
         },
+        components: [
+          "Мох",
+          "аккорд конопли",
+          "розмарин",
+          "розовый перец",
+          "кипарис",
+        ],
       },
     ],
     rightContent: [
@@ -651,13 +689,22 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Мята – Морской аккорд – Бергамот – Черная смородина – Кардамон – Кофе – Мускус – Дыня – Кедр",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/blue-seduction/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Мята",
+          "Морской аккорд",
+          "Бергамот",
+          "Черная смородина",
+          "Кардамон",
+          "Кофе",
+          "Мускус",
+          "Дыня",
+          "Кедр",
+        ],
       },
     ],
     rightContent: [
@@ -738,13 +785,21 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Черная смородина – Кардамон – Бергамот – Зеленый аккорд – Мускатный орех – Амбра – Бобы тонка – Кедр",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/black-seduction/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Черная смородина",
+          "Кардамон",
+          "Бергамот",
+          "Зеленый аккорд",
+          "Мускатный орех",
+          "Амбра",
+          "Бобы тонка",
+          "Кедр",
+        ],
       },
     ],
     rightContent: [
@@ -848,13 +903,23 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Морской аккорд – Ветивер – Грейпфрут – Зеленое яблоко – Бергамот – Дыня – Ананас – Кардамон – Замша – Кедр",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/king-of-seduction/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Морской аккорд",
+          "Ветивер",
+          "Грейпфрут",
+          "Зеленое яблоко",
+          "Бергамот",
+          "Дыня",
+          "Ананас",
+          "Кардамон",
+          "Замша",
+          "Кедр",
+        ],
       },
     ],
     rightContent: [
@@ -950,13 +1015,21 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Абсент – Ветивер – Грейпфрут – Морской аккорд – Лаванда – Кожа – Соль – Дубовый мох",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/king-of-seduction-absolute/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Абсент",
+          "Ветивер",
+          "Грейпфрут",
+          "Морской аккорд",
+          "Лаванда",
+          "Кожа",
+          "Соль",
+          "Дубовый мох",
+        ],
       },
     ],
     rightContent: [
@@ -1041,13 +1114,22 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Лаванда – Шалфей – Бергамот – Ветивер – Пачули – Яблоко – Амбра – Мох – Бобы тонка",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/power-of-seduction/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Лаванда",
+          "Шалфей",
+          "Бергамот",
+          "Ветивер",
+          "Пачули",
+          "Яблоко",
+          "Амбра",
+          "Мох",
+          "Бобы тонка",
+        ],
       },
     ],
     rightContent: [
@@ -1125,13 +1207,24 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Гардения – Груша – Жасмин – Пион – Сахар – Дыня – Пачули – Малина – Роза – Мускус – Цветы фиалки",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/blue-seduction-for-women/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Гардения",
+          "Груша",
+          "Жасмин",
+          "Пион",
+          "Сахар",
+          "Дыня",
+          "Пачули",
+          "Малина",
+          "Роза",
+          "Мускус",
+          "Цветы фиалки",
+        ],
       },
     ],
     rightContent: [
@@ -1212,13 +1305,22 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Пион – Малина – Жасмин – Грейпфрут – Кедр – Ирис – Морской аккорд – Замша – Розовый перец",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/queen-of-seduction/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Пион",
+          "Малина",
+          "Жасмин",
+          "Грейпфрут",
+          "Кедр",
+          "Ирис",
+          "Морской аккорд",
+          "Замша",
+          "Розовый перец",
+        ],
       },
     ],
     rightContent: [
@@ -1352,13 +1454,21 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Бергамот – Морской аккорд – Кокосовая вода – Роза – Жасмин – Ветивер – Амбра – Мускус",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/queen-of-seduction-lively-muse/rightimage.png",
           height: 845,
           width: 845,
         },
+        components: [
+          "Бергамот",
+          "Морской аккорд",
+          "Кокосовая вода",
+          "Роза",
+          "Жасмин",
+          "Ветивер",
+          "Амбра",
+          "Мускус",
+        ],
       },
     ],
     rightContent: [
@@ -1458,13 +1568,23 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Бобы тонка – Кожа – Грейпфрут – Бергамот – Лакрица – Мята – Кардамон – Яблоко – Корица – Перец",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/the-secret/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Бобы тонка",
+          "Кожа",
+          "Грейпфрут",
+          "Бергамот",
+          "Лакрица",
+          "Мята",
+          "Кардамон",
+          "Яблоко",
+          "Корица",
+          "Перец",
+        ],
       },
     ],
     rightContent: [
@@ -1568,13 +1688,22 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Ваниль – Кожа – Кедр – Мускатный орех – Мята – Лакрица – Тмин – Амбра – Яблоко",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/the-golden-secret/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Ваниль",
+          "Кожа",
+          "Кедр",
+          "Мускатный орех",
+          "Мята",
+          "Лакрица",
+          "Тмин",
+          "Амбра",
+          "Яблоко",
+        ],
       },
     ],
     rightContent: [
@@ -1694,13 +1823,23 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Кедр – Кардамон – Ветивер – Ваниль – Полынь – Розовый перец – Бергамот – Базилик – Жасмин – Мускус",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/the-secret-temptation/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Кедр",
+          "Кардамон",
+          "Ветивер",
+          "Ваниль",
+          "Полынь",
+          "Розовый перец",
+          "Бергамот",
+          "Базилик",
+          "Жасмин",
+          "Мускус",
+        ],
       },
     ],
     rightContent: [
@@ -1820,13 +1959,22 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Персик – Цветок апельсина – Ваниль – Кедр – Бергамот – Розовый перец – Ирис – Жасмин – Роза",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/her-secret-temptation/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Персик",
+          "Цветок апельсина",
+          "Ваниль",
+          "Кедр",
+          "Бергамот",
+          "Розовый перец",
+          "Ирис",
+          "Жасмин",
+          "Роза",
+        ],
       },
     ],
     rightContent: [
@@ -1931,13 +2079,21 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Цветок апельсина – Ваниль – Черная смородина – Гардения – Мандарин – Бергамот – Персик – Пачули",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/her-golden-secret/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Цветок апельсина",
+          "Ваниль",
+          "Черная смородина",
+          "Гардения",
+          "Мандарин",
+          "Бергамот",
+          "Персик",
+          "Пачули",
+        ],
       },
     ],
     rightContent: [
@@ -2037,13 +2193,22 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Нероли – Жасмин – Ваниль – Малина – Ирис – Сандаловое дерево – Гардения – Пихтовый бальзам – Бергамот",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/her-secret-desire/rightimage.jpg",
           height: 340,
           width: 340,
         },
+        components: [
+          "Нероли",
+          "Жасмин",
+          "Ваниль",
+          "Малина",
+          "Ирис",
+          "Сандаловое дерево",
+          "Гардения",
+          "Пихтовый бальзам",
+          "Бергамот",
+        ],
       },
     ],
     rightContent: [
@@ -2158,13 +2323,20 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Апельсин - Груша - Роза - Флердоранж - Сандал - Ваниль - Лабданум",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/secret-absolu-for-her/rightimage.jpeg",
           height: 1640,
           width: 1640,
         },
+        components: [
+          "Апельсин",
+          "Груша",
+          "Роза",
+          "Флердоранж",
+          "Сандал",
+          "Ваниль",
+          "Лабданум",
+        ],
       },
     ],
     rightContent: [
@@ -2279,13 +2451,20 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
     rightImage: [
       {
         id: 1,
-        title:
-          "Зеленое яблоко - Имбирь - Лаванда - Шафран - Коньяк - Замша - Амбра",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/secret-absolu-for-him/rightimage.jpg",
           height: 2000,
           width: 2000,
         },
+        components: [
+          "Зеленое яблоко",
+          "Имбирь",
+          "Лаванда",
+          "Шафран",
+          "Коньяк",
+          "Замша",
+          "Амбра",
+        ],
       },
     ],
     rightContent: [

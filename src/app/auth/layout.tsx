@@ -11,7 +11,7 @@ export default function AuthLayout({
         <source src="/assets/video/auth/auth.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
-      <div className="login_formWrapper">{children}</div>
+      {children}
     </div>
   );
 }

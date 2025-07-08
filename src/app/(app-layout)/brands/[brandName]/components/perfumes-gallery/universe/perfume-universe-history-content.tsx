@@ -22,16 +22,14 @@ export function PerfumeUniverseHistoryContent({
     <>
       {text && <p className="perfume-universe__content-item">{text}</p>}
       {url && (
-        <div className="perfume-universe__content-item">
-          <iframe
-            src={url}
-            allow="autoplay; encrypted-media"
-            allowFullScreen
-            title="video-0"
-            width="100%"
-            height="315"
-          ></iframe>
-        </div>
+        <video
+          src={url}
+          controls
+          title="video-1"
+          width="100%"
+          height="315"
+          className="perfume-universe__content-item"
+        ></video>
       )}
       {image && (
         <Image

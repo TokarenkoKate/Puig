@@ -154,10 +154,7 @@
 
 @media (max-width: 768px) {
   .login_formWrapper {
-    width: 100%;
-    background-color: #726f6fda;
-    padding: 0;
-    overflow: hidden;
+    padding: 20px;
   }
 
   .login_logout {
@@ -332,6 +329,6 @@
 
 @media (max-width: 768px) {
   .register_formWrapper {
-    overflow: hidden;
+    padding: 20px;
   }
 }

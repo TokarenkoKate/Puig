@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function LoginPage() {
   return (
-    <div className="login_formWrapper__gk2sY">
+    <div className="login_formWrapper">
       <div className="flex items-center mb-1">
         <Image
           alt="PUIG Logo"

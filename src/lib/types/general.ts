@@ -31,7 +31,7 @@ export type ApiImageUrl = ApiImageBase & {
 export type PerfumeDescription = {
   title: string;
   text: string;
-  video: string;
+  video?: string;
   image?: {
     src: string;
     height: number;

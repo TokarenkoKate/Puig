@@ -4,8 +4,8 @@
 
 .biography {
   display: grid;
-  grid-template-columns: minmax("min-content", 430px) 1fr 1fr;
-  grid-template-rows: repeat(2, 1fr);
+  grid-template-columns: min-content 1fr 1fr;
+  grid-template-rows: auto;
   grid-template-areas:
     "photo bio-text executive-data"
     "photo bio-text signature";
@@ -51,7 +51,7 @@
 @media (max-width: 910px) {
   .biography {
     grid-template-columns: min-content auto;
-    grid-template-rows: repeat(3, 1fr);
+    grid-template-rows: repeat(3, auto);
     grid-template-areas:
       "photo bio-text"
       "photo executive-data"
@@ -377,125 +377,10 @@
 }
 
 /*----------------------------------------*/
-/*  Products slider section
+/*  Video section
 /*----------------------------------------*/
 
-.products-slider__wrapper {
-  display: flex;
-  flex-wrap: wrap;
-  height: 205px;
-  width: 90%;
-  margin: 80px auto;
-}
-
-.products-slider__item {
-  width: 25%;
-  height: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  perspective: 1000px;
-  border-right: 0.5px solid black;
-  margin: 0 auto;
-  position: relative;
-}
-
-.products-slider__slide-media {
-  width: 100%;
-  height: 100%;
-  position: relative;
-}
-
-.products-slider__slide-img {
-  width: 100%;
-  object-fit: cover;
-  position: relative;
-}
-
-.products-slider__play-icon {
-  position: absolute;
-  top: 40%;
-  cursor: pointer;
-}
-
-.products-slider__item > div {
-  width: 100%;
-  height: 242px;
-  align-items: normal;
-  margin: 0 auto;
-  justify-content: center;
-  align-items: center;
-}
-
-.products-slider__item div {
-  display: flex;
-  gap: 10px;
-  position: relative;
-  justify-content: center;
-}
-
-.products-slider__item:last-child {
-  border-right: none;
-}
-
-.products-slider__slide-text {
-  font-weight: 300;
-  font-size: var(--text-sm);
-  line-height: 100%;
-  color: #575855;
-  width: 75px;
-  cursor: pointer;
-}
-
-.products-slider__slide-circle {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.products-slider__circle-path {
-  stroke-dasharray: 113;
-  stroke-dashoffset: 113;
-  animation: products-slider-draw-circle 1s forwards;
-}
-
-@keyframes products-slider-draw-circle {
-  0% {
-    stroke-dashoffset: 113;
-  }
-
-  to {
-    stroke-dashoffset: 0;
-  }
-}
-
-.products-slider__arrow-icon {
-  width: 16px;
-  height: 16px;
-  position: absolute;
-  top: 30%;
-  left: 12px;
-  right: 0;
-}
-
-@media (max-width: 769px) {
-  .products-slider__item {
-    width: 50%;
-    border: none;
-  }
-}
-
-@media (max-width: 668px) {
-  .products-slider__item {
-    width: 320px;
-  }
-}
-
-/*----------------------------------------*/
-/*  History video section
-/*----------------------------------------*/
-
-.history-video-section {
+.video-section {
   aspect-ratio: 16 / 9;
 }
 
@@ -571,7 +456,7 @@
   }
 
   .values__description {
-    width: 100%;
+    max-width: 100%;
   }
 
   .value-card__image {

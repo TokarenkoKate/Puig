@@ -408,7 +408,7 @@ export const penhaligonsPerfumeUniverses: PerfumeUniverse[] = [
     ],
   },
   {
-    title: "POTIONS & REMEDIES",
+    title: "Potions & Remedies",
     subtitle: "5 ароматов",
     content: [
       {

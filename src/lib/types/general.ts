@@ -88,7 +88,10 @@ export type BrandContentType = {
   historySliderSection: SliderItem[];
   bioSection: {
     content: string[];
-    videoSrc: string;
+    video?: {
+      src: string;
+      poster?: string;
+    };
   };
   videoGallerySection?: VideoGalleryItem[];
   imagesSliderSection: ImageGalleryItem[];

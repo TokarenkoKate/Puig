@@ -27,6 +27,7 @@ export function CompanySection() {
           playsInline
           controls
           className="company__video"
+          poster="/assets/images/main-page/we-are-puig_preview.jpg"
           src="/assets/video/we-are-puig.mp4"
         />
       </div>

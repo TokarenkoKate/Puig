@@ -6,13 +6,12 @@
 }
 
 .read-more__btn {
-  width: 120px;
-  cursor: pointer;
   position: relative;
-  padding: 5px 0;
+  margin: 5px 0;
   color: var(--color-black);
   border: none;
   background-color: transparent;
+  cursor: pointer;
   overflow: hidden;
 }
 

@@ -3,8 +3,8 @@ import { BrandContentType, PerfumeUniverse } from "@/lib/types/general";
 
 export const pacorabannePerfumeUniverses: PerfumeUniverse[] = [
   {
-    title: "Phantom",
-    subtitle: "1 аромат",
+    title: "Phantom & Fame",
+    subtitle: "2 аромата",
     content: [
       {
         text: "Rabanne всегда смотрел в будущее, с тех самых пор, как в 1966 году Дом выпустил коллекцию футуристических платьев, предназначенных для инопланетных красавиц. Устремляя взор в прекрасный мир, в котором каждый будет чувствовать себя уверенным и сексуальным. Принимая различия и свободу быть самим собой.",
@@ -19,6 +19,15 @@ export const pacorabannePerfumeUniverses: PerfumeUniverse[] = [
           width: 800,
         },
         title: "PHANTOM",
+      },
+      {
+        id: 1,
+        url: {
+          src: "/assets/images/brands/pacorabanne/perfumes-gallery/fame_1.png",
+          height: 800,
+          width: 800,
+        },
+        title: "FAME EDP",
       },
     ],
   },
@@ -283,22 +292,6 @@ export const pacorabannePerfumeUniverses: PerfumeUniverse[] = [
           width: 800,
         },
         title: "PURE XS FOR HER",
-      },
-    ],
-  },
-  {
-    title: "Fame",
-    subtitle: "1 аромат",
-    content: [],
-    images: [
-      {
-        id: 1,
-        url: {
-          src: "/assets/images/brands/pacorabanne/perfumes-gallery/fame_1.png",
-          height: 800,
-          width: 800,
-        },
-        title: "FAME EDP",
       },
     ],
   },
@@ -611,7 +604,9 @@ export const pacorabanneBrandContent: BrandContentType = {
       "Есть материалы, которые никто и никогда не осмеливался использовать в модной индустрии, а Пако Рабан решился на это. Есть конструкции, которые никто даже и представить себе не мог, а он воплотил их в жизнь», ― писал однажды Vogue. Французская певица и актриса Франсуаза Арди, икона стиля 1960-х, была лицом дома Paco Rabanne. Именно она в 1968 году на первой международной бриллиантовой выставке представила мини-платье Paco Rabanne из золотых пластин, инкрустированных бриллиантами, стоимостью больше 10 миллионов долларов.",
       "В 1969 году, совместно с производителем парфюмерии, компанией PUIG, Пако выпустил свой первый аромат Calandre, вдохновлённый металлическими элементами самых дорогих автомобилей того времени. По задумке, композиция должна была напоминать запах его бутика, заполненного металлическими конструкциями и стульями, сделанными из кожаных сидений спортивных автомобилей.",
     ],
-    videoSrc: "/assets/video/brands/pacorabanne/bio.mp4",
+    video: {
+      src: "/assets/video/brands/pacorabanne/bio.mp4",
+    },
   },
   videoGallerySection: [
     {

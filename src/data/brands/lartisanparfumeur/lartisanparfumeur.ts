@@ -494,7 +494,9 @@ export const lartisanparfumeurBrandContent: BrandContentType = {
       "Флакон L’Artisan Parfumeur, напоминает всю таинственность и очарование аптекарского магазинчика, сияет в темном дымном стекле. На каждом элегантном флаконе изображена эмблема бренда, знак мастерства и подлинной аутентичности L’Artisan Parfumeur.",
       "Фирменная тяжелая крышка и знаковая семиугольная форма флакона остаются не просто одами сдержанной современности, но и отличительной чертой бренда, уходящей в прошлое и стремящейся вперед в будущее.",
     ],
-    videoSrc: "/assets/video/brands/lartisanparfumeur/bio.mp4",
+    video: {
+      src: "/assets/video/brands/lartisanparfumeur/bio.mp4",
+    },
   },
   imagesSliderSection: lartisanparfumeurImagesGallery,
   perfumesSection: lartisanparfumeurPerfumeUniverses,

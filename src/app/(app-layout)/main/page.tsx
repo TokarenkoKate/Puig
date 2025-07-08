@@ -11,7 +11,8 @@ import { FullscreenMedia } from "@/components/custom/fullscreen-media/fullscreen
 import {
   historyVideo,
   mainPageHeroSection,
-  mainPageVideoProps,
+  historyPageVideoProps,
+  valuesPageVideoProps,
   valuesVideo,
 } from "@/data/main-page-data";
 
@@ -28,10 +29,13 @@ export default function Main() {
       <MainPageImagesGallerySection />
       <FullscreenMedia
         videoSrc={historyVideo}
-        videoProps={mainPageVideoProps}
+        videoProps={historyPageVideoProps}
       />
       <ValuesSection />
-      <FullscreenMedia videoSrc={valuesVideo} videoProps={mainPageVideoProps} />
+      <FullscreenMedia
+        videoSrc={valuesVideo}
+        videoProps={valuesPageVideoProps}
+      />
       <PortfolioSection />
       <TestSection />
     </div>

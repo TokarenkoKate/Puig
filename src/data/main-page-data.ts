@@ -18,7 +18,13 @@ export const mainPageHeroSection = {
 export const historyVideo = "/assets/video/puig-history.mp4";
 export const valuesVideo = "/assets/video/values.mp4";
 
-export const mainPageVideoProps = {
+export const historyPageVideoProps = {
+  controls: true,
+  autoPlay: false,
+  poster: "/assets/images/main-page/history_preview.jpg",
+};
+
+export const valuesPageVideoProps = {
   controls: true,
   autoPlay: false,
 };

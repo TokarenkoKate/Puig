@@ -2,31 +2,44 @@ import { ReadMore } from "@/components/custom/read-more/read-more";
 
 type BrandBioSectionProps = {
   content: string[];
-  videoSrc: string;
+  video?: {
+    src: string;
+    poster?: string;
+  };
 };
 
-export function BrandBioSection({ content, videoSrc }: BrandBioSectionProps) {
-  const showReadMode = content.length > 1;
-  const restContent = showReadMode ? content.slice(1) : [];
+const VISIBLE_CONTENT_COUNT = 3;
+
+export function BrandBioSection({ content, video }: BrandBioSectionProps) {
+  const showReadMode = content.length > VISIBLE_CONTENT_COUNT;
+  const visibleContent = content.slice(0, VISIBLE_CONTENT_COUNT);
+  const hiddenContent = showReadMode
+    ? content.slice(VISIBLE_CONTENT_COUNT)
+    : [];
 
   return (
     <section className="brand-bio w-fixed">
       <div className="brand-bio__texts">
-        <p className="brand-bio__text">{content[0]}</p>
+        {visibleContent.map((visibleText) => (
+          <p className="brand-bio__text" key={visibleText}>
+            {visibleText}
+          </p>
+        ))}
         {showReadMode && (
-          <ReadMore buttonText="Читать историю">
-            {restContent.map((contentText, index) => (
-              <p className="brand-bio__text" key={index}>
+          <ReadMore buttonText="Смотреть всю историю">
+            {hiddenContent.map((contentText) => (
+              <p className="brand-bio__text" key={contentText}>
                 {contentText}
               </p>
             ))}
           </ReadMore>
         )}
       </div>
-      {videoSrc && (
+      {video && (
         <div className="brand-bio__video">
           <video
-            src={videoSrc}
+            src={video.src}
+            poster={video.poster}
             controls
             className="brand-bio__video-item"
             title="video-1"

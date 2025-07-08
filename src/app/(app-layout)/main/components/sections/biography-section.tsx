@@ -22,8 +22,8 @@ export function BiographySection() {
         творчество и увлеченность в уникальную бизнес-модель.
       </p>
       <div className="biography__executive-data">
-        <p className="biography__name">Марк Пуч</p>
-        <p className="biography__position">Президент компании</p>
+        <p className="biography__name text-xs">Марк Пуч</p>
+        <p className="biography__position text-sm">Президент компании</p>
       </div>
       <video
         autoPlay

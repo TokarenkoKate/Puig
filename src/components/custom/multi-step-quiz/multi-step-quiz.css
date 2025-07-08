@@ -15,12 +15,6 @@
   display: grid;
 }
 
-.quiz__question {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 50px;
-}
-
 .quiz__options {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -36,10 +30,6 @@
 
 .quiz__option:hover {
   background-color: #f5f5f5;
-}
-
-.quiz__progress {
-  font-size: var(--text-sm);
 }
 
 .quiz__result {

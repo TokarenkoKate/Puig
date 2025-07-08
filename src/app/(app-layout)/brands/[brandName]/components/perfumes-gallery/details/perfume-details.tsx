@@ -21,7 +21,7 @@ export function PerfumeDetailsComponent({
     <div className="perfume-details">
       <div className="perfume-details__header">
         <h4 className="perfume-details__brand-name">{brandTitle}</h4>
-        <h3 className="perfume-details__title">{title}</h3>
+        <h3 className="perfume-details__title heading-4">{title}</h3>
       </div>
       <div className="perfume-details__carousel-wrapper">
         <div>

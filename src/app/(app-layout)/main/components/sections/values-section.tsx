@@ -5,7 +5,7 @@ export function ValuesSection() {
   return (
     <section className="values">
       <div className="values__header">
-        <h3 className="values__title">Ценности Puig</h3>
+        <h2 className="values__title heading-1">Ценности Puig</h2>
         <p className="values__description">
           PUIG - это семейный бренд с более чем вековой историей, который
           объединяет традиции парфюмерного искусства, моду и инновации. В центре

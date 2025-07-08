@@ -20,7 +20,7 @@ export function PerfumeUniverseHistoryContent({
   const { text, url, image } = content;
   return (
     <>
-      {text && <p className="perfume-universe__content-item">{text}</p>}
+      {text && <p className="perfume-universe__content-item text-sm">{text}</p>}
       {url && (
         <video
           src={url}

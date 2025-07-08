@@ -47,9 +47,9 @@ export function PerfumeUniverseComponent({
         })}
         onClick={() => onClick(title)}
       >
-        <span className="perfume-universe__subtitle">{subtitle}</span>
+        <span className="perfume-universe__subtitle text-sm">{subtitle}</span>
         <div className="perfume-universe__title-wrapper">
-          <span className="perfume-universe__title">{title}</span>
+          <span className="perfume-universe__title heading-3">{title}</span>
         </div>
         <span
           className={clsx("perfume-universe__toggle-button", {

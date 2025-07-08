@@ -192,34 +192,24 @@
 }
 
 .year {
-  font-size: 18px;
-  line-height: 13px;
   text-transform: uppercase;
-  color: #000000;
+  color: var(--color-black);
   display: flex;
   justify-content: center;
   align-items: center;
   height: 54px;
 }
 
-.content,
-.year {
-  font-family: Montserrat;
-  font-weight: 300;
-}
-
 .content {
-  font-size: 13px;
-  line-height: 16px;
-  color: #575855;
   width: 200px;
   padding-top: 10px;
+  color: #575855;
 }
 
 .active {
-  background-color: #000000;
+  background-color: var(--color-black);
   border-radius: 54px;
-  color: #fff;
+  color: var(--color-white);
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
   transition: background-color 0.3s ease;
 }

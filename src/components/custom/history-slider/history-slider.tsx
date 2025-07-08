@@ -29,10 +29,10 @@ export function HistorySlider({ sliderItems }: HistorySliderItemsProps) {
                   ></circle>
                 </svg>
                 <div className="year-container">
-                  <p className="year">{sliderItem.year}</p>
+                  <p className="year text-lg">{sliderItem.year}</p>
                 </div>
               </div>
-              <p className="content">{sliderItem.content}</p>
+              <p className="content text-sm">{sliderItem.content}</p>
             </div>
           ))}
         </div>

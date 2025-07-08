@@ -19,7 +19,7 @@ export function HeroSection({ videoSrc, imageSrc, title }: HeroSectionProps) {
       />
       <div className="hero__shadow-wrapper">
         <div className="w-fixed">
-          <h1 className="hero__hero-text">{title}</h1>
+          <h1 className="hero__hero-text heading-1">{title}</h1>
         </div>
       </div>
     </section>

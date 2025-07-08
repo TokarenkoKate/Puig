@@ -30,10 +30,12 @@ export function PerfumeDetailsRightContent({
       <div className="perfume-details__right-content">
         {rightContent.map((rightContentData) => (
           <div key={rightContentData.id}>
-            <span className="perfume-details__subtext">
+            <span className="perfume-details__subtext text-sm">
               {rightContentData.subtext}
             </span>
-            <p className="perfume-details__text">{rightContentData.text}</p>
+            <p className="perfume-details__text text-lg">
+              {rightContentData.text}
+            </p>
           </div>
         ))}
       </div>

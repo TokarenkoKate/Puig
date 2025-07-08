@@ -12,7 +12,7 @@ export function ValueCard({ image, title, description }: ValueCardType) {
         className="value-card__image"
       />
       <div className="value-card__column">
-        <p className="value-card__title">{title}</p>
+        <p className="value-card__title heading-4">{title}</p>
         <p className="value-card__description">{description}</p>
       </div>
     </div>

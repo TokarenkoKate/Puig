@@ -2,7 +2,7 @@ export function CompanySection() {
   return (
     <section className="company w-fixed">
       <div className="company__text-wrapper">
-        <h2 className="company__title">Компания PUIG ― </h2>
+        <h2 className="company__title heading-3">Компания PUIG ― </h2>
         <div className="company__texts-column">
           <p className="company__text">
             семейная компания, которой в настоящее время управляет третье

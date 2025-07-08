@@ -17,20 +17,11 @@
   width: 50%;
 }
 
-.brand-bio__subtitle {
-  color: var(--color-text-secondary);
-  font-size: var(--text-2xl);
-  font-weight: 500;
-  line-height: 30px;
-}
-
 .brand-bio__text {
   width: 100%;
   max-width: 455px;
   margin-right: 3%;
   color: var(--color-text-secondary);
-  font-size: 16px;
-  font-weight: 300;
 }
 
 .brand-bio__video-group {

@@ -1,5 +1,6 @@
 @import "tailwindcss";
 @import "tw-animate-css";
+@import "./typography.css";
 
 @custom-variant dark (&:is(.dark *));
 
@@ -50,6 +51,8 @@
 }
 
 body {
+  @apply text-base;
+
   background: var(--color-background-primary);
   color: var(--color-text-primary);
   font-family: var(--montserrat);

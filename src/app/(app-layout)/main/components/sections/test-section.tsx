@@ -7,7 +7,7 @@ export function TestSection() {
       <section className="footer__wrapper pt-2">
         <div className="w-fixed footer__content">
           <div className="row">
-            <h1 className="footer__title">Тест PUIG</h1>
+            <h2 className="footer__title heading-1">Тест PUIG</h2>
             <MultiStepQuizModal steps={mainPageMultiStepQuiz} />
           </div>
         </div>

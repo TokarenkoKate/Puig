@@ -53,7 +53,7 @@ export default function MultiStepQuizModal({
   return (
     <Dialog open={open} onOpenChange={setOpen}>
       <DialogTrigger asChild>
-        <Button variant="outline" size="lg">
+        <Button variant="outline" size="lg" className="text-base">
           пройти тест
         </Button>
       </DialogTrigger>
@@ -76,10 +76,10 @@ export default function MultiStepQuizModal({
         ) : (
           <div className="quiz__step">
             <div>
-              <p className="quiz__progress">
+              <p className="text-sm">
                 Вопрос {step + 1} из {steps.length}
               </p>
-              <h2 className="quiz__question">{currentQuestion.question}</h2>
+              <h2 className="heading-4">{currentQuestion.question}</h2>
             </div>
             <div className="quiz__options">
               {currentQuestion.answers.map((answer) => (

@@ -22,7 +22,9 @@ export function PerfumesGallery({ perfumeUniverses }: PerfumesGalleryProps) {
 
   return (
     <div className="perfumes-gallery w-fixed">
-      <h2 className="perfumes-gallery__title">Парфюмерные вселенные</h2>
+      <h2 className="perfumes-gallery__title heading-2">
+        Парфюмерные вселенные
+      </h2>
       {perfumeUniverses.map((perfumeUniverse) => (
         <PerfumeUniverseComponent
           perfumeUniverse={perfumeUniverse}

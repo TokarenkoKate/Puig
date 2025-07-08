@@ -17,7 +17,6 @@ export function BrandBioSection({
         <div className="brand-bio__text-wrapper">
           {content.map((text, index) => (
             <div className="brand-bio__content-item" key={index}>
-              <h2 className="brand-bio__subtitle"></h2>
               <p className="brand-bio__text">{text}</p>
             </div>
           ))}
@@ -50,7 +49,7 @@ export function BrandBioSection({
       <div className="flex flex-col gap-4 pt-4">
         {bioTimelineData &&
           bioTimelineData.map((bioTimelineText, index) => (
-            <p key={index} className="w-full max-w-full px-[30px] font-light">
+            <p key={index} className="w-full max-w-full px-[30px]">
               {bioTimelineText}
             </p>
           ))}

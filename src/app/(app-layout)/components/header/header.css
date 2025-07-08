@@ -14,11 +14,8 @@
   height: 170px;
 }
 
-.header__logo {
-  cursor: pointer;
-}
-
 .header__logo-wrapper {
+  cursor: pointer;
   width: 30%;
 }
 

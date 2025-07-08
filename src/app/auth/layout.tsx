@@ -6,8 +6,8 @@ export default function AuthLayout({
   children: React.ReactNode;
 }) {
   return (
-    <div className="login_authBg">
-      <video autoPlay muted loop playsInline className="login_videoBg">
+    <div className="auth">
+      <video autoPlay muted loop playsInline className="auth__video-bg">
         <source src="/assets/video/auth/auth.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>

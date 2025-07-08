@@ -49,8 +49,6 @@ export default async function BrandPage({
       <BrandBioSection
         content={bioSection.content}
         videoSrc={bioSection.videoSrc}
-        paragraphs={bioSection.paragraphs}
-        bioTimelineData={bioSection.bioTimelineData}
       />
       <BrandsImagesGallerySection images={imagesSliderSection} />
       <VideoGallery videoGalleryItems={videoGallerySection} />

@@ -89,8 +89,6 @@ export type BrandContentType = {
   bioSection: {
     content: string[];
     videoSrc: string;
-    paragraphs?: string[];
-    bioTimelineData?: string[];
   };
   videoGallerySection?: VideoGalleryItem[];
   imagesSliderSection: ImageGalleryItem[];

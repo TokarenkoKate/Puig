@@ -4,52 +4,19 @@
 
 .brand-bio {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
+  padding: 0 15px;
+  gap: 30px;
 }
 
-.brand-bio__text-wrapper {
+.brand-bio__texts {
   display: flex;
-  gap: 95px;
-  margin-left: 30px;
-}
-
-.brand-bio__content-item {
-  width: 50%;
+  flex-direction: column;
+  gap: 30px;
 }
 
 .brand-bio__text {
-  width: 100%;
-  max-width: 455px;
-  margin-right: 3%;
   color: var(--color-text-secondary);
-}
-
-.brand-bio__video-group {
-  display: grid;
-  grid-template-columns: 65% auto;
-  column-gap: 95px;
-  row-gap: 20px;
-  margin: 30px 30px 0;
-  grid-template-areas:
-    "video text-1"
-    "video text-2"
-    "video text-3";
-}
-
-.brand-bio__video-wrapper {
-  grid-area: video;
-}
-
-.brand-bio__video-group-text-1 {
-  grid-area: text-1;
-}
-
-.brand-bio__video-group-text-2 {
-  grid-area: text-2;
-}
-
-.brand-bio__video-group-text-3 {
-  grid-area: text-3;
 }
 
 .brand-bio__video {
@@ -65,113 +32,6 @@
   width: 100%;
   height: 100%;
   border: none;
-}
-
-@media (max-width: 1440px) {
-  .brand-bio__text-wrapper {
-    width: 100%;
-  }
-
-  .brand-bio__text-wrapper,
-  .brand-bio__video-group {
-    gap: 60px;
-  }
-}
-
-@media (max-width: 1360px) {
-  .brand-bio__text-wrapper {
-    width: 90%;
-  }
-
-  .brand-bio__text-wrapper,
-  .brand-bio__video-group {
-    gap: 35px;
-  }
-}
-
-@media (max-width: 1320px) {
-  .brand-bio__text-wrapper {
-    width: 85%;
-  }
-
-  .brand-bio__text-wrapper,
-  .brand-bio__video-group {
-    gap: 35px;
-  }
-}
-
-@media (max-width: 1160px) {
-  .brand-bio__text-wrapper {
-    width: 85%;
-  }
-}
-
-@media (max-width: 960px) {
-  .brand-bio {
-    width: 100%;
-  }
-
-  .brand-bio__text-wrapper {
-    width: 90%;
-    gap: 55px;
-  }
-
-  .brand-bio__content-item {
-    margin-right: 15px;
-  }
-
-  .brand-bio__content-item p {
-    width: 100%;
-  }
-
-  .brand-bio__video-group {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-areas:
-      "text-1 video"
-      "text-2 video"
-      "text-3 video";
-  }
-}
-
-@media (max-width: 768px) {
-  .brand-bio__text-wrapper {
-    width: 100%;
-    gap: 0;
-  }
-}
-
-@media (max-width: 720px) {
-  .brand-bio__text-wrapper {
-    width: 90%;
-    gap: 0;
-  }
-}
-
-@media (max-width: 620px) {
-  .brand-bio__text-wrapper {
-    flex-wrap: wrap;
-    width: 98%;
-    gap: 35px;
-  }
-
-  .brand-bio__video-group {
-    display: grid;
-    grid-template-columns: auto;
-    grid-template-areas:
-      "text-1"
-      "video"
-      "text-2"
-      "text-3";
-  }
-
-  .brand-bio__video {
-    max-width: 455px;
-  }
-
-  .brand-bio__content-item {
-    width: 100%;
-  }
 }
 
 /*----------------------------------------

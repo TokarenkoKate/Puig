@@ -1,9 +1,6 @@
-"use client";
-
-import { Button } from "@/components/ui/button";
 import { PerfumeUniverse } from "@/lib/types/general";
-import { useState } from "react";
 import { PerfumeUniverseHistoryContent } from "./perfume-universe-history-content";
+import { ReadMore } from "@/components/custom/read-more/read-more";
 
 type PerfumeUniverseHistoryProps = {
   content: PerfumeUniverse["content"];
@@ -15,7 +12,6 @@ export function PerfumeUniverseHistory({
   citation,
 }: PerfumeUniverseHistoryProps) {
   const showReadMode = content.length > 1;
-  const [showMore, setShowMore] = useState(false);
   if (!content.length) return null;
   const restContent = content.slice(1);
 
@@ -23,18 +19,13 @@ export function PerfumeUniverseHistory({
     <>
       {citation && <h3 className="text-lg font-bold mx-auto">{citation}</h3>}
       <PerfumeUniverseHistoryContent content={content[0]} />
-      {showReadMode && !showMore && (
-        <Button
-          className="perfume-universe__read-history"
-          onClick={() => setShowMore(true)}
-        >
-          Читать историю
-        </Button>
+      {showReadMode && (
+        <ReadMore buttonText="Читать историю">
+          {restContent.map((contentItem, index) => (
+            <PerfumeUniverseHistoryContent content={contentItem} key={index} />
+          ))}
+        </ReadMore>
       )}
-      {showMore &&
-        restContent.map((contentItem, index) => (
-          <PerfumeUniverseHistoryContent content={contentItem} key={index} />
-        ))}
     </>
   );
 }

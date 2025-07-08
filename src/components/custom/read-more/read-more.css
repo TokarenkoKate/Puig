@@ -1,0 +1,32 @@
+.read-more {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.read-more__btn {
+  width: 120px;
+  cursor: pointer;
+  position: relative;
+  padding: 5px 0;
+  color: var(--color-black);
+  border: none;
+  background-color: transparent;
+  overflow: hidden;
+}
+
+.read-more__btn:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  height: 1px;
+  width: 100%;
+  background-color: var(--color-black);
+  transition: width 0.4s ease;
+}
+
+.read-more__btn:hover:after {
+  width: 0;
+}

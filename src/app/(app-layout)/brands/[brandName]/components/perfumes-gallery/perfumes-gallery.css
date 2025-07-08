@@ -93,32 +93,6 @@
   text-align: center;
 }
 
-.perfume-universe__read-history {
-  position: relative;
-  margin-top: 30px;
-  padding: 5px 0;
-  color: #000;
-  border: none;
-  background-color: transparent;
-  width: 120px;
-  overflow: hidden;
-}
-
-.perfume-universe__read-history:after {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  height: 1px;
-  width: 100%;
-  background-color: #000;
-  transition: width 0.4s ease;
-}
-
-.perfume-universe__read-history:hover:after {
-  width: 0;
-}
-
 .perfume-universe__image-wrapper {
   display: flex;
   flex-wrap: wrap;

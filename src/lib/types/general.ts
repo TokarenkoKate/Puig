@@ -34,17 +34,6 @@ export type ApiImageUrl = ApiImageBase & {
   };
 };
 
-export type PerfumeDescription = {
-  title: string;
-  text: string;
-  video?: string;
-  image?: {
-    src: string;
-    height: number;
-    width: number;
-  };
-};
-
 export type PerfumeRightContent = {
   id: number;
   subtext: string;
@@ -58,7 +47,7 @@ export type PerfumeDetails = {
   imagegallery: ApiImageSrc[];
   rightImage: { id: number; src: ApiImageSrc["src"]; components: string[] }[];
   rightContent: PerfumeRightContent[];
-  description: PerfumeDescription[];
+  description: ContentBlock[];
 };
 
 /**

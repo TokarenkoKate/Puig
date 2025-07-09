@@ -15,10 +15,6 @@
   gap: 30px;
 }
 
-.brand-bio__text {
-  color: var(--color-text-secondary);
-}
-
 .brand-bio__video {
   position: relative;
   width: 100%;

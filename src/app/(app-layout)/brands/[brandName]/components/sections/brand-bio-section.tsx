@@ -1,11 +1,11 @@
 import { ReadMore } from "@/components/custom/read-more/read-more";
-import { BioSectionContentType } from "@/lib/types/general";
-import { BioContent } from "../bio-content/bio-content";
+import { ContentBlock } from "@/lib/types/components";
+import { renderContentBlock } from "@/components/custom/content-block/render-content-block";
 
 type BrandBioSectionProps = {
   content: {
-    visible: BioSectionContentType[];
-    hidden: BioSectionContentType[];
+    visible: ContentBlock[];
+    hidden: ContentBlock[];
   };
   video?: {
     src: string;
@@ -19,14 +19,10 @@ export function BrandBioSection({ content, video }: BrandBioSectionProps) {
   return (
     <section className="brand-bio w-fixed">
       <div className="brand-bio__texts">
-        {content.visible.map((content) => (
-          <BioContent {...content} key={content.text || content.quote} />
-        ))}
+        {content.visible.map(renderContentBlock)}
         {showReadMode && (
           <ReadMore buttonText="Смотреть всю историю">
-            {content.hidden.map((content) => (
-              <BioContent {...content} key={content.text || content.quote} />
-            ))}
+            {content.hidden.map(renderContentBlock)}
           </ReadMore>
         )}
       </div>

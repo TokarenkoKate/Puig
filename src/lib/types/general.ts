@@ -1,5 +1,5 @@
 import { BRANDS } from "@/data/brands-data";
-import { SliderItem, ImageGalleryItem, MultiStepQuizStep } from "./components";
+import { SliderItem, ImageGalleryItem, MultiStepQuizStep, ContentBlock } from "./components";
 
 /*----------------------------------------*/
 /*  Общие переиспользуемые типы
@@ -7,6 +7,7 @@ import { SliderItem, ImageGalleryItem, MultiStepQuizStep } from "./components";
 
 export type BrandName = (typeof BRANDS)[keyof typeof BRANDS];
 
+// Типы для изображений
 type ApiImageBase = {
   id: number;
   title: string;
@@ -79,12 +80,6 @@ export type VideoGalleryItem = {
   videoSrc: string;
 };
 
-export type BioSectionContentType = {
-  text?: string;
-  quote?: string;
-  quoteAuthor?: string;
-};
-
 export type BrandContentType = {
   heroSection: {
     videoSrc?: string;
@@ -94,8 +89,8 @@ export type BrandContentType = {
   historySliderSection: SliderItem[];
   bioSection: {
     content: {
-      visible: BioSectionContentType[];
-      hidden: BioSectionContentType[];
+      visible: ContentBlock[];
+      hidden: ContentBlock[];
     };
     video?: {
       src: string;

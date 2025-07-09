@@ -1,5 +1,10 @@
 import { BRANDS } from "@/data/brands-data";
-import { SliderItem, ImageGalleryItem, MultiStepQuizStep, ContentBlock } from "./components";
+import {
+  SliderItem,
+  ImageGalleryItem,
+  MultiStepQuizStep,
+  ContentBlock,
+} from "./components";
 
 /*----------------------------------------*/
 /*  Общие переиспользуемые типы
@@ -62,16 +67,7 @@ export type PerfumeDetails = {
 export type PerfumeUniverse = {
   title: string;
   subtitle: string;
-  citation?: string;
-  content: {
-    text?: string;
-    url?: string;
-    image?: {
-      src: string;
-      height: number;
-      width: number;
-    };
-  }[];
+  content: ContentBlock[];
   images: ApiImageUrl[];
 };
 

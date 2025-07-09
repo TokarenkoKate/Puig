@@ -3077,11 +3077,6 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         title: "",
-        text: "Ночь — её стихия. Она беззаботна, свободна и всегда в центре внимания. FAME раскрывает самые выразительные грани женственности — уверенность, чувственность и очарование. Этот аромат создан для девушки, которая становится душой компании на любой вечеринке.",
-        video: "",
-      },
-      {
-        title: "",
         text: "",
         video:
           "/assets/video/brands/pacorabanne/perfume-details/invictus-vistory-absolu.mp4",

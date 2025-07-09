@@ -16,7 +16,7 @@ export function PerfumeUniverseComponent({
   active,
   onClick,
 }: PerfumeUniverseProps) {
-  const { title, subtitle, citation, content, images } = perfumeUniverse;
+  const { title, subtitle, content, images } = perfumeUniverse;
 
   const bodyRef = useRef<HTMLDivElement>(null);
   const [bodyHeight, setBodyHeight] = useState("0px");
@@ -67,7 +67,7 @@ export function PerfumeUniverseComponent({
         }}
       >
         <div ref={bodyRef} className="perfume-universe__content">
-          <PerfumeUniverseHistory content={content} citation={citation} />
+          <PerfumeUniverseHistory content={content} />
           <div className="perfume-universe__image-wrapper">
             {images.map((image) => (
               <PerfumeUniverseCard perfumeImage={image} key={image.id} />

@@ -11,15 +11,15 @@ export function renderContentBlock(block: ContentBlock) {
 
   switch (type) {
     case ContentBlockType.TEXT:
-      return <ContentBlockText block={block} />;
+      return <ContentBlockText block={block} key={block.id} />;
     case ContentBlockType.HEADING:
-      return <ContentBlockHeading block={block} />;
+      return <ContentBlockHeading block={block} key={block.id} />;
     case ContentBlockType.QUOTE:
-      return <ContentBlockQuote block={block} />;
+      return <ContentBlockQuote block={block} key={block.id} />;
     case ContentBlockType.IMAGE:
-      return <ContentBlockImage block={block} />;
+      return <ContentBlockImage block={block} key={block.id} />;
     case ContentBlockType.VIDEO:
-      return <ContentBlockVideo block={block} />;
+      return <ContentBlockVideo block={block} key={block.id} />;
     default:
       return null;
   }

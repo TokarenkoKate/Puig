@@ -1,0 +1,30 @@
+.quote {
+  position: relative;
+  padding: 24px;
+  background-color: var(--color-white);
+}
+
+.quote::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 6px;
+  height: 100%;
+  background-color: var(--color-neutral-400);
+}
+
+.quote__content {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.quote__text {
+}
+
+.quote__author {
+  font-style: italic;
+  color: var(--color-text-secondary);
+}

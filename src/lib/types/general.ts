@@ -79,6 +79,12 @@ export type VideoGalleryItem = {
   videoSrc: string;
 };
 
+export type BioSectionContentType = {
+  text?: string;
+  quote?: string;
+  quoteAuthor?: string;
+};
+
 export type BrandContentType = {
   heroSection: {
     videoSrc?: string;
@@ -87,7 +93,10 @@ export type BrandContentType = {
   };
   historySliderSection: SliderItem[];
   bioSection: {
-    content: string[];
+    content: {
+      visible: BioSectionContentType[];
+      hidden: BioSectionContentType[];
+    };
     video?: {
       src: string;
       poster?: string;

@@ -16,15 +16,21 @@ export const mainPageHeroSection = {
 };
 
 export const historyVideo = "/assets/video/puig-history.mp4";
+export const historyTwoVideo = "/assets/video/history_two.mp4";
 export const valuesVideo = "/assets/video/values.mp4";
 
-export const historyPageVideoProps = {
+export const historyVideoProps = {
   controls: true,
   autoPlay: false,
   poster: "/assets/images/main-page/history_preview.jpg",
 };
 
-export const valuesPageVideoProps = {
+export const historyTwoVideoProps = {
+  controls: true,
+  autoPlay: false,
+};
+
+export const valuesVideoProps = {
   controls: true,
   autoPlay: false,
 };

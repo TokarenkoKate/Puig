@@ -179,6 +179,85 @@ export const christianlouboutinPerfumeUniverses: PerfumeUniverse[] = [
   },
 ];
 
+const christianlouboutinQuiz = [
+  {
+    question: "CHRISTIAN LOUBOUTIN родился в:",
+    answers: [
+      "Каир, Египет",
+      "Париж, Франция",
+      "Барселона, Испания",
+      "Рим, Италия",
+    ],
+    correctAnswer: "Париж, Франция",
+  },
+  {
+    question: "С чего началась история бренда:",
+    answers: ["шпилька", "подошва", "сумка", "помада"],
+    correctAnswer: "подошва",
+  },
+  {
+    question: "Как назывался первый бьюти продукт бренда?",
+    answers: ["Loubiworld", "Fetiche", "Rouge Louboutin", "La Laque"],
+    correctAnswer: "La Laque",
+  },
+  {
+    question:
+      "Сколько парфюмерных вселенных существует в бренде CHRISTIAN LOUBOUTIN?",
+    answers: ["3", "1", "2", "4"],
+    correctAnswer: "2",
+  },
+  {
+    question: "Назовите 2 основные ноты в аромате LOUBIDOO:",
+    answers: [
+      "Ирис и Роза",
+      "Пачули и Ваниль",
+      "Нероли и Клубника",
+      "Роза и Клубника",
+    ],
+    correctAnswer: "Роза и Клубника",
+  },
+  {
+    question: "Аромат LOUBIMAR:",
+    answers: [
+      "Цветочный, цитрусовый",
+      "Фруктовый, амбровый",
+      "Цветочный, древесный",
+      "Амбровый, гурманский",
+    ],
+    correctAnswer: "Цветочный, цитрусовый",
+  },
+  {
+    question: "Назовите 2 основные ноты в аромате Le Cuir:",
+    answers: ["Кожа, роза", "Кожа, османтус", "Кожа, персик", "Кедр, мускус"],
+    correctAnswer: "Кожа, османтус",
+  },
+  {
+    question: "Аромат L'IRIS?",
+    answers: [
+      "Цветочный, древесный",
+      "Цитрусовый, амбровый",
+      "Цветочный, шипровый",
+      "Цветочный, цветочный",
+    ],
+    correctAnswer: "Цветочный, шипровый",
+  },
+  {
+    question: "Какой ноты НЕТ в аромате L'AMBRE:",
+    answers: ["Перуанский бальзам", "Морская соль", "Тубероза", "Амбра"],
+    correctAnswer: "Морская соль",
+  },
+  {
+    question: "Назовите 2 основные ноты в аромате L'ENCENS:",
+    answers: [
+      "Ладан, сандал",
+      "Ладан, черный перец",
+      "Ладан, тубероза",
+      "Сандал, уд",
+    ],
+    correctAnswer: "Ладан, черный перец",
+  },
+];
+
 const christianlouboutinHistorySliderItems: SliderItem[] = [
   {
     year: 1974,
@@ -326,4 +405,8 @@ export const christianlouboutinBrandContent: BrandContentType = {
   },
   imagesSliderSection: christianlouboutinImagesGallery,
   perfumesSection: christianlouboutinPerfumeUniverses,
+  quizSection: {
+    title: "Christian Louboutin",
+    steps: christianlouboutinQuiz,
+  },
 };

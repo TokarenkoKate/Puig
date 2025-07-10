@@ -372,7 +372,7 @@ export const christianlouboutinImagesGallery: ImageGalleryItem[] = [
 
 export const christianlouboutinBrandContent: BrandContentType = {
   heroSection: {
-    heroImageSrc: "/assets/images/brands/christianlouboutin/hero-image.jpg",
+    videoSrc: "/assets/video/brands/christianlouboutin/hero.mp4",
     title: "Christian Louboutin",
   },
   historySliderSection: christianlouboutinHistorySliderItems,
@@ -403,6 +403,13 @@ export const christianlouboutinBrandContent: BrandContentType = {
         },
       ],
     },
+    video: [
+      {
+        id: 1,
+        type: ContentBlockType.VIDEO,
+        src: "/assets/video/brands/christianlouboutin/bio.mp4",
+      },
+    ],
   },
   videoGallerySection: [
     {

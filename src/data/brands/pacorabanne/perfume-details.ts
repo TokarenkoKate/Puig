@@ -2919,11 +2919,11 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         src: {
-          src: "/assets/images/brands/pacorabanne/perfume-details/pure-xs-for-her/rightimage.jpg",
+          src: "/assets/images/brands/pacorabanne/perfume-details/fame-edp/rightimage.png",
           height: 340,
           width: 340,
         },
-        components: ["Иламанго", "жасмин", "ладан", "пачули", "сандал"],
+        components: ["манго", "жасмин", "ладан", "пачули", "сандал"],
       },
     ],
     rightContent: [

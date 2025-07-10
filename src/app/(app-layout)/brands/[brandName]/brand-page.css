@@ -41,6 +41,14 @@
   margin: 15px auto;
   justify-content: center;
   background-size: cover;
+  position: relative;
+  overflow: hidden;
+  transition: background-position 0.6s ease, background-color 0.6s ease;
+  background-size: auto, auto, auto, auto;
+  background-position: 0 0, 13% 0, 0 100%, 100%;
+  background-repeat: no-repeat;
+  z-index: 0;
+  background-repeat: no-repeat;
 }
 
 .test-content,
@@ -58,51 +66,40 @@
   font-weight: 700;
 }
 
-.bg-animated {
-  position: relative;
-  overflow: hidden;
-  transition: background-position 0.6s ease, background-color 0.6s ease;
-  background-size: auto, auto, auto, auto;
-  background-position: 0 0, 13% 0, 0 100%, 100%;
-  background-repeat: no-repeat;
-  z-index: 0;
-  background-repeat: no-repeat;
-}
-
-.bg-animated.carolina {
+.test-wrapper.carolina {
   background-color: #f3f3f3;
 }
 
-.bg-animated.penhaligons {
+.test-wrapper.penhaligons {
   background-color: #e2e3e8;
 }
 
-.bg-animated.pacorabanne {
+.test-wrapper.pacorabanne {
   background-color: #e4e4e4;
 }
 
-.bg-animated.lartisanparfumeur {
+.test-wrapper.lartisanparfumeur {
   background-color: #ecdbcb;
 }
 
-.bg-animated.ninaricci {
+.test-wrapper.ninaricci {
   background-color: #faeede;
 }
 
-.bg-animated.banderas {
+.test-wrapper.banderas {
   background-color: #e9e7e6;
 }
 
-.bg-animated.jeanpaulgaultier {
+.test-wrapper.jeanpaulgaultier {
   background-color: #ede6df;
 }
 
-.bg-animated > * {
+.test-wrapper > * {
   position: relative;
   z-index: 1;
 }
 
-.bg-animated:after {
+.test-wrapper:after {
   content: "";
   position: absolute;
   top: 0;
@@ -117,72 +114,83 @@
   z-index: 0;
 }
 
-.bg-animated:hover:after {
+.test-wrapper:hover:after {
   opacity: 1;
 }
 
-.bg-animated:hover {
+.test-wrapper:hover {
   background-position: calc(0% - 35px) top, calc(13% - 30px) 0,
     calc(0% - 15px) bottom, calc(100% + 30px);
 }
 
-.bg-animated.carolina:after {
+.test-wrapper.carolina:after {
   background-color: #fff;
 }
 
-.bg-animated.carolina:hover:after {
+.test-wrapper.carolina:hover:after {
   background-color: #fcfcfc;
 }
 
-.bg-animated.penhaligons:after {
+.test-wrapper.penhaligons:after {
   background-color: #e2e3e8;
 }
 
-.bg-animated.penhaligons:hover:after {
+.test-wrapper.penhaligons:hover:after {
   background-color: #ebebf0;
 }
 
-.bg-animated.pacorabanne:after {
+.test-wrapper.pacorabanne:after {
   background-color: #e4e4e4;
 }
 
-.bg-animated.pacorabanne:hover:after {
+.test-wrapper.pacorabanne:hover:after {
   background-color: #eeeeee;
 }
 
-.bg-animated.lartisanparfumeur:after {
+.test-wrapper.lartisanparfumeur:after {
   background-color: #ecdbcb;
 }
 
-.bg-animated.lartisanparfumeur:hover:after {
+.test-wrapper.lartisanparfumeur:hover:after {
   background-color: #fae9d9;
 }
 
-.bg-animated.ninaricci:after {
+.test-wrapper.ninaricci:after {
   background-color: #faeede;
 }
 
-.bg-animated.ninaricci:hover:after {
+.test-wrapper.ninaricci:hover:after {
   background-color: #fdfdf0;
 }
 
-.bg-animated.banderas:after {
+.test-wrapper.banderas:after {
   background-color: #e9e7e6;
 }
 
-.bg-animated.banderas:hover:after {
+.test-wrapper.banderas:hover:after {
   background-color: #f5f3f2;
 }
 
-.bg-animated.jeanpaulgaultier:after {
+.test-wrapper.jeanpaulgaultier:after {
   background-color: #ede6df;
 }
 
-.bg-animated.jeanpaulgaultier:hover:after {
+.test-wrapper.jeanpaulgaultier:hover:after {
   background-color: #f3ece7;
 }
 
 .take_test:hover {
   background-color: #000;
   color: #fff;
+}
+
+@media (max-width: 480px) {
+  .test-wrapper {
+    background-size: 30%, 35%, 60%, auto;
+    background-position: -4% center, 13% 0, -80px bottom, 100px;
+  }
+
+  .test-title {
+    font-size: 20px;
+  }
 }

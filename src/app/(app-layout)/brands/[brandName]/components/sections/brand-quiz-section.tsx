@@ -20,14 +20,14 @@ export function BrandQuizSection({
 
   return (
     <div
-      className={clsx("test-wrapper w-fixed bg-animated carolina", {
+      className={clsx("test-wrapper w-fixed carolina", {
         [brandName]: brandName,
       })}
       style={{ backgroundImage: backgroundImage }}
     >
       <div className="test-content">
         <p>Проверь себя</p>
-        <h1 className="test-title">{`Тест ${title}`}</h1>
+        <h1 className="test-title heading-1">{`Тест ${title}`}</h1>
         <MultiStepQuizModal steps={steps} />
       </div>
     </div>

@@ -7,7 +7,7 @@ type HeroSectionProps = {
   title: string;
 };
 
-const heroVideoProps = { loop: true, autoPlay: true };
+const heroVideoProps = { loop: true, autoPlay: true, muted: true };
 
 export function HeroSection({ videoSrc, imageSrc, title }: HeroSectionProps) {
   return (

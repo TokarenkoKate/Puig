@@ -5,6 +5,7 @@ import {
   ValueCardType,
 } from "@/lib/types/components";
 import { BRANDS } from "./brands-data";
+import { BrandName } from "@/lib/types/general";
 
 /*----------------------------------------*/
 /*  Данные для главной страницы
@@ -317,7 +318,10 @@ export const mainPageImagesGallery: ImageGalleryItem[] = [
   },
 ];
 
-export const mainPagePortfolioGroups = [
+export const mainPagePortfolioGroups: Array<{
+  title: string;
+  items: BrandName[];
+}> = [
   {
     title: "Niche",
     items: [

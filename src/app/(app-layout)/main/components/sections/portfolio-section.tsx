@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { brandTitles } from "@/data/brands-data";
+import { brandTitles, NOT_EXISTING_BRANDS } from "@/data/brands-data";
 import { mainPagePortfolioGroups } from "@/data/main-page-data";
 import Link from "next/link";
 
@@ -19,17 +19,25 @@ export function PortfolioSection() {
                 <li className="heading-4">{title}</li>
               </ul>
               <ul className="portfolio__items">
-                {items.map((brandItem) => (
-                  <Button
-                    variant="link"
-                    className="portfolio__item"
-                    key={brandItem}
-                  >
-                    <Link href={`/brands/${brandItem}`}>
+                {items.map((brandItem) => {
+                  const existingBrand =
+                    !NOT_EXISTING_BRANDS.includes(brandItem);
+                  return existingBrand ? (
+                    <Button
+                      variant="link"
+                      className="portfolio__item"
+                      key={brandItem}
+                    >
+                      <Link href={`/brands/${brandItem}`}>
+                        {brandTitles[brandItem]}
+                      </Link>
+                    </Button>
+                  ) : (
+                    <p className="portfolio__item-text text-sm" key={brandItem}>
                       {brandTitles[brandItem]}
-                    </Link>
-                  </Button>
-                ))}
+                    </p>
+                  );
+                })}
               </ul>
             </div>
           ))}

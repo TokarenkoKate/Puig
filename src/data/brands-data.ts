@@ -49,6 +49,12 @@ export const brandTitles = {
   [BRANDS.SHAKIRA]: "Shakira",
 };
 
+export const NOT_EXISTING_BRANDS: BrandName[] = [
+  BRANDS.BYREDO,
+  BRANDS.BENETON,
+  BRANDS.SHAKIRA,
+];
+
 export const brandLogos = {
   [BRANDS.CAROLINA]: "/assets/images/brands/carolina/logo.png",
   [BRANDS.PENHALIGONS]: "/assets/images/brands/penhaligons/logo.png",

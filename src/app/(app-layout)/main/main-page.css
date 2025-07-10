@@ -232,6 +232,13 @@
   padding: 0;
 }
 
+.portfolio__item-text {
+  width: fit-content;
+  padding: 8px 0;
+  color: #575855;
+  font-weight: 500;
+}
+
 .portfolio__list-circle {
   margin-bottom: 25px;
   list-style-type: disc;

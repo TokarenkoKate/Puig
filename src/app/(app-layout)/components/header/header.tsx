@@ -23,7 +23,7 @@ export function Header() {
               <Logo />
             </Link>
           </div>
-          <div className="header__nav">
+          <div className="header__nav header__nav_desktop">
             <Link href="/main">
               <Button variant="linkWithCircle">главная</Button>
             </Link>

@@ -32,7 +32,7 @@ export function HistorySlider({ sliderItems }: HistorySliderItemsProps) {
                   <p className="year text-lg">{sliderItem.year}</p>
                 </div>
               </div>
-              <p className="content text-sm">{sliderItem.content}</p>
+              <p className="content text-xs">{sliderItem.content}</p>
             </div>
           ))}
         </div>

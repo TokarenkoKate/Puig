@@ -1,5 +1,10 @@
 import { Button } from "@/components/ui/button";
-import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
+import {
+  Sheet,
+  SheetClose,
+  SheetContent,
+  SheetTrigger,
+} from "@/components/ui/sheet";
 import { Menu } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
@@ -27,7 +32,9 @@ export function MobileMenu() {
 
         <div className="header__nav">
           <Link href="/main">
-            <Button variant="linkWithCircle">главная</Button>
+            <SheetClose asChild>
+              <Button variant="linkWithCircle">главная</Button>
+            </SheetClose>
           </Link>
           <NavigationMenuList isWithinSheet />
         </div>

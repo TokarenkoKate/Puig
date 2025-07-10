@@ -290,20 +290,20 @@
 
 @media (max-width: 768px) {
   .footer {
-    height: 320px;
+    height: 230px;
     background-size: contain;
   }
 
   .footer__wrapper {
-    height: 320px;
+    height: 230px;
   }
 }
 
 @media (max-width: 480px) {
   .footer__wrapper {
-    background: url(/assets/images/footer-bg_sm.png) no-repeat;
     background-size: contain;
     background-position: bottom;
+    padding-top: 60px;
   }
 
   .footer__content {

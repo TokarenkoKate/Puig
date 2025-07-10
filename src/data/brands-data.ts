@@ -49,19 +49,44 @@ export const brandTitles = {
   [BRANDS.SHAKIRA]: "Shakira",
 };
 
-// Список брендов для навигационного меню
-export const brands: BrandName[] = [
-  BRANDS.PENHALIGONS,
-  BRANDS.LARTISANPARFUMEUR,
-  BRANDS.BYREDO,
-  BRANDS.CHRISTIANLOUBOUTIN,
-  BRANDS.PACORABBANE,
-  BRANDS.CAROLINA,
-  BRANDS.NINARICCI,
-  BRANDS.JEANPAULGAULTIER,
-  BRANDS.BANDERAS,
-  BRANDS.BENETON,
-  BRANDS.SHAKIRA,
+export const brandLogos = {
+  [BRANDS.CAROLINA]: "/assets/images/brands/carolina/logo.png",
+  [BRANDS.PENHALIGONS]: "/assets/images/brands/penhaligons/logo.png",
+  [BRANDS.LARTISANPARFUMEUR]:
+    "/assets/images/brands/lartisanparfumeur/logo.png",
+  [BRANDS.PACORABBANE]: "/assets/images/brands/pacorabanne/logo.png",
+  [BRANDS.NINARICCI]: "/assets/images/brands/ninaricci/logo.png",
+  [BRANDS.JEANPAULGAULTIER]: "/assets/images/brands/jeanpaulgaultier/logo.png",
+  [BRANDS.BANDERAS]: "/assets/images/brands/banderas/logo.png",
+  [BRANDS.CHRISTIANLOUBOUTIN]:
+    "/assets/images/brands/christianlouboutin/logo.png",
+  [BRANDS.BYREDO]: "",
+  [BRANDS.BENETON]: "",
+  [BRANDS.SHAKIRA]: "",
+};
+
+export const brandsNavigationMenu = [
+  {
+    title: "NICHE",
+    brands: [
+      BRANDS.PENHALIGONS,
+      BRANDS.LARTISANPARFUMEUR,
+      BRANDS.CHRISTIANLOUBOUTIN,
+    ],
+  },
+  {
+    title: "PRESTIGE",
+    brands: [
+      BRANDS.PACORABBANE,
+      BRANDS.NINARICCI,
+      BRANDS.CAROLINA,
+      BRANDS.JEANPAULGAULTIER,
+    ],
+  },
+  {
+    title: "LIFESTYLE",
+    brands: [BRANDS.BANDERAS],
+  },
 ];
 
 // Данные для страниц /brands/[brandName]

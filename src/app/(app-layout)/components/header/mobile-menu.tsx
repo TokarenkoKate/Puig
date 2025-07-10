@@ -3,7 +3,7 @@ import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { Menu } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
-import { HeaderNav } from "./header-nav";
+import { NavigationMenuList } from "../navigation-menu/navigation-menu-list";
 
 export function MobileMenu() {
   return (
@@ -23,7 +23,13 @@ export function MobileMenu() {
               src="/assets/images/logo.webp"
             />
           </Link>
-          <HeaderNav isWithinSheet />
+        </div>
+
+        <div className="header__nav">
+          <Link href="/main">
+            <Button variant="linkWithCircle">главная</Button>
+          </Link>
+          <NavigationMenuList isWithinSheet />
         </div>
       </SheetContent>
     </Sheet>

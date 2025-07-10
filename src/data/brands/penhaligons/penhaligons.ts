@@ -730,9 +730,31 @@ export const penhaligonsBrandContent: BrandContentType = {
       ],
     },
     video: {
-      src: "/assets/video/brands/pacorabanne/bio.mp4",
+      src: "/assets/video/brands/penhaligons/bio.mp4",
     },
   },
+  videoGallerySection: [
+    {
+      previewImg:
+        "/assets/images/brands/penhaligons/video-gallery/videogallery1.png",
+      videoSrc: "/assets/video/brands/penhaligons/video-gallery/1.mp4",
+    },
+    {
+      previewImg:
+        "/assets/images/brands/penhaligons/video-gallery/videogallery2.png",
+      videoSrc: "/assets/video/brands/penhaligons/video-gallery/2.mp4",
+    },
+    {
+      previewImg:
+        "/assets/images/brands/penhaligons/video-gallery/videogallery3.png",
+      videoSrc: "/assets/video/brands/penhaligons/video-gallery/3.mp4",
+    },
+    {
+      previewImg:
+        "/assets/images/brands/penhaligons/video-gallery/videogallery4.png",
+      videoSrc: "/assets/video/brands/penhaligons/video-gallery/4.mp4",
+    },
+  ],
   imagesSliderSection: penhaligonsImagesGallery,
   perfumesSection: penhaligonsPerfumeUniverses,
   quizSection: {

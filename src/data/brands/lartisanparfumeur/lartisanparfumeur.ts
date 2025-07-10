@@ -542,6 +542,23 @@ export const lartisanparfumeurBrandContent: BrandContentType = {
     },
   },
   imagesSliderSection: lartisanparfumeurImagesGallery,
+  videoGallerySection: [
+    {
+      previewImg:
+        "/assets/images/brands/lartisanparfumeur/video-gallery/videogallery1.png",
+      videoSrc: "/assets/video/brands/lartisanparfumeur/video-gallery/1.mp4",
+    },
+    {
+      previewImg:
+        "/assets/images/brands/lartisanparfumeur/video-gallery/videogallery2.png",
+      videoSrc: "/assets/video/brands/lartisanparfumeur/video-gallery/2.mp4",
+    },
+    {
+      previewImg:
+        "/assets/images/brands/lartisanparfumeur/video-gallery/videogallery3.png",
+      videoSrc: "/assets/video/brands/lartisanparfumeur/video-gallery/3.mp4",
+    },
+  ],
   perfumesSection: lartisanparfumeurPerfumeUniverses,
   quizSection: {
     title: "Lartisan-Parfumeur",

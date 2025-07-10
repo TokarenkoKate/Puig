@@ -658,18 +658,6 @@ export const pacorabanneBrandContent: BrandContentType = {
       previewImg: "/assets/images/brands/pacorabanne/video-gallery/cover3.webp",
       videoSrc: "/assets/video/brands/pacorabanne/video-gallery/3.mp4",
     },
-    {
-      previewImg: "/assets/images/brands/pacorabanne/video-gallery/cover4.webp",
-      videoSrc: "/assets/video/brands/pacorabanne/video-gallery/4.mp4",
-    },
-    {
-      previewImg: "/assets/images/brands/pacorabanne/video-gallery/cover5.webp",
-      videoSrc: "/assets/video/brands/pacorabanne/video-gallery/5.mp4",
-    },
-    {
-      previewImg: "/assets/images/brands/pacorabanne/video-gallery/cover6.webp",
-      videoSrc: "/assets/video/brands/pacorabanne/video-gallery/6.mp4",
-    },
   ],
   imagesSliderSection: pacorabanneImagesGallery,
   perfumesSection: pacorabannePerfumeUniverses,

@@ -546,33 +546,18 @@ export const carolinaBrandContent: BrandContentType = {
   videoGallerySection: [
     {
       previewImg:
-        "/assets/images/brands/carolina/video-gallery/videogallery1.webp",
-      videoSrc: "/assets/video/brands/carolina/bio.mp4",
+        "/assets/images/brands/carolina/video-gallery/videogallery1.png",
+      videoSrc: "/assets/video/brands/carolina/video-gallery/1.mp4",
     },
     {
       previewImg:
-        "/assets/images/brands/carolina/video-gallery/videogallery2.webp",
+        "/assets/images/brands/carolina/video-gallery/videogallery2.png",
       videoSrc: "/assets/video/brands/carolina/video-gallery/2.mp4",
     },
     {
       previewImg:
         "/assets/images/brands/carolina/video-gallery/videogallery3.webp",
       videoSrc: "/assets/video/brands/carolina/video-gallery/3.mp4",
-    },
-    {
-      previewImg:
-        "/assets/images/brands/carolina/video-gallery/videogallery4.webp",
-      videoSrc: "/assets/video/brands/carolina/video-gallery/4.mp4",
-    },
-    {
-      previewImg:
-        "/assets/images/brands/carolina/video-gallery/videogallery5.webp",
-      videoSrc: "/assets/video/brands/carolina/video-gallery/5.mp4",
-    },
-    {
-      previewImg:
-        "/assets/images/brands/carolina/video-gallery/videogallery6.webp",
-      videoSrc: "/assets/video/brands/carolina/video-gallery/6.mp4",
     },
   ],
   imagesSliderSection: carolinaImagesGallery,

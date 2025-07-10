@@ -129,7 +129,7 @@ export const jeanpaulgaultierPerfumeUniverses: PerfumeUniverse[] = [
   },
   {
     title: "Scandal",
-    subtitle: "5 ароматов",
+    subtitle: "7 ароматов",
     content: [
       {
         id: 1,
@@ -184,6 +184,24 @@ export const jeanpaulgaultierPerfumeUniverses: PerfumeUniverse[] = [
           width: 800,
         },
         title: "SCANDAL POUR HOMME LE PARFUM",
+      },
+      {
+        id: 6,
+        url: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfumes-gallery/scandal6.png",
+          height: 800,
+          width: 800,
+        },
+        title: "SCANDAL INTENSE",
+      },
+      {
+        id: 7,
+        url: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfumes-gallery/scandal7.jpg",
+          height: 800,
+          width: 800,
+        },
+        title: "SCANDAL INTENSE POUR HOMME",
       },
     ],
   },
@@ -439,6 +457,7 @@ export const jeanpaulgaultierBrandContent: BrandContentType = {
     },
     video: {
       src: "/assets/video/brands/jeanpaulgaultier/bio.mp4",
+      poster: "/assets/images/brands/jeanpaulgaultier/bio-preview.png",
     },
   },
   imagesSliderSection: jeanpaulgaultierImagesGallery,

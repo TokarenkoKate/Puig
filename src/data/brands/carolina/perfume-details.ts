@@ -2489,4 +2489,122 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
       },
     ],
   },
+  {
+    brandTitle: "Carolina Herrera",
+    title: "212 VIP BLACK ELIXIR",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/212-vip-black-elixir/1.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/212-vip-black-elixir/2.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/212-vip-black-elixir/3.jpg",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/212-vip-black-elixir/4.jpg",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/212-vip-black-elixir/5.jpg",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/212-vip-black-elixir/6.jpg",
+          height: 800,
+          width: 800,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/212-vip-black-elixir/rightimage.png",
+          height: 340,
+          width: 340,
+        },
+        components: [
+          "Черная лаванда",
+          "Черная ваниль",
+          "Черная лакрица",
+          "Шафран",
+          "Ветивер",
+        ],
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Амбровый, Ароматический",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Карлос Бенаим, Джульетта Карагуезоглу",
+      },
+    ],
+    description: [
+      {
+        type: ContentBlockType.TEXT,
+        paragraphs: [
+          "Для тех ночей, которые хочется запомнить навсегда, — аромат, с которым невозможно остаться незамеченным.",
+          "212 VIP Black Elixir — манифест уверенности, аутентичности и уникальности. Насыщенный и загадочный, он воплотил в себе зажигательную энергию коллекции 212 от Carolina Herrera. Эта парфюмерная вода создана для тех, кто владеет искусством производить незабываемое впечатление в городе, который никогда не спит.",
+        ],
+        id: 1,
+      },
+      {
+        type: ContentBlockType.QUOTE,
+        text: "«В название Elixir мы вложили стремление раскрыть новые грани интенсивности с помощью особых ингредиентов. Мы говорим не только о том, чтобы усилить концентрацию, но и обогатить звучание глубоким загадочным шлейфом... По-настоящему притягательные мужчины многогранны, а иногда даже противоречивы — и этот эликсир объединяет все их стороны в одной композиции»",
+        author: "отмечает Каролина А. Эррера",
+        id: 2,
+      },
+      {
+        type: ContentBlockType.VIDEO,
+        src: "/assets/video/brands/carolina/perfume-details/212-vip-black-elixir.mp4",
+        id: 3,
+      },
+      {
+        type: ContentBlockType.TEXT,
+        paragraphs: [
+          "Секрет заключается в сочетании трёх главных аккордов — чёрной лаванды, чёрной лакрицы и чёрной ванили. Это настоящее ольфакторное приключение с неповторимым сюжетом, полным неожиданных поворотов.",
+          "Внешний облик 212 VIP Black Elixir отражает ту же новизну и оригинальность, что и сам аромат. И речь не только об элегантном полностью чёрном флаконе. Главным героем рекламной кампании стал Рауль Алехандро — олицетворение современной мужественности и сильной личности в одном лице.",
+        ],
+        id: 4,
+      },
+    ],
+  },
 ];

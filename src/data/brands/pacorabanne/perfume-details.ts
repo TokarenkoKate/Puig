@@ -3177,4 +3177,122 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
     ],
   },
+  {
+    brandTitle: "RABANNE",
+    title: "MILLION GOLD ELIXIR",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-elixir/1.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-elixir/2.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-elixir/3.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-elixir/4.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-elixir/5.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-elixir/6.jpg",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-elixir/7.png",
+          height: 845,
+          width: 845,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        src: {
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-elixir/rightimage.png",
+          height: 340,
+          width: 340,
+        },
+        components: ["Ваниль", "Мандарин", "Сандал", "Кардамон", "Лист фиалки"],
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Амбровый, Древесный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмеры:",
+        text: "Квентин Биш, Кристоф Рейно",
+      },
+    ],
+    description: [
+      {
+        type: ContentBlockType.TEXT,
+        paragraphs: [
+          "Million Gold Elixir — самая насыщенная интерпретация в коллекции, открывающая новую грань безудержной роскоши для того, кто превращает в золото всё, к чему прикасается.",
+          "Флакон Million Gold Elixir повторяет очертания культового золотого слитка Million в знак уважения к фирменным кодам Rabanne. Его дополняет выдающаяся деталь — звено ювелирной цепи XL Link. Эта неотъемлемая часть наследия Дома — отсылка к якорным цепям Бретани. С момента своего создания в 2019 году цепь XL Link непрерывно менялась в духе времени, и с каждым новым воплощением становилась всё ближе к символам современного поколения.",
+          "Новый Million Gold Elixir сверкает ярче, чем когда-либо, и олицетворяет вершину успеха. В центре внимания — янтарный драгоценный камень, обрамлённый звеном XL Link, который отражает интенсивность и глубину звучания аромата.",
+          "Для мужчины, который превращает всё в золото своим прикосновением, флакон Million Gold Elixir — манифест смелости и внутренней силы. Для тех, кто уверен в себе и не привык прятаться.",
+        ],
+        id: 1,
+      },
+      {
+        type: ContentBlockType.VIDEO,
+        src: "/assets/video/brands/pacorabanne/perfume-details/million-gold-elixir.mp4",
+        id: 2,
+      },
+      {
+        type: ContentBlockType.TEXT,
+        paragraphs: [
+          "Million Gold Elixir — результат совместной работы мастеров Кристофа Рейно и Квентина Биша — тех, кто стоит за успехом Million Gold. Создавая эликсир непревзойдённой концентрации, они вдохновлялись самыми благородными парфюмерными ингредиентами, чтобы получить амбровое, древесное, пряное звучание с оттенком ликёрной ванили.",
+          "Это не просто аромат: Million Gold Elixir — заявление. Новое представление о мужественности, роскоши и вкусе к жизни. В лучших традициях вселенной Million, он раскрывается цитрусовой вспышкой сочного мандарина. В его сердце — новый звёздный ингредиент: насыщенная ликёрная ваниль, которая отвечает за гурманскую сторону композиции, наделяя её особым теплом. В нотах шлейфа — сандаловое дерево с пленительным кремовым звучанием, глубоким и в высшей степени изысканным.",
+          "Новый эликсир неудержимого успеха дополняет свежий бергамот с пряным акцентом кардамона. Обрамляя чувственные ноты бензоина и лабданума, кедр придаёт аромату объём и текстуру. Киприоловое масло с оттенками кожи создаёт красочное послевкусие в дуэте с пачули, завершая эту многогранную композицию.",
+        ],
+        id: 3,
+      },
+    ],
+  },
 ];

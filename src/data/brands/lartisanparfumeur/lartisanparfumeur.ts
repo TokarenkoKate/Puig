@@ -8,7 +8,7 @@ import { BrandContentType, PerfumeUniverse } from "@/lib/types/general";
 export const lartisanparfumeurPerfumeUniverses: PerfumeUniverse[] = [
   {
     title: "La Collection (Ля Коллексьон)",
-    subtitle: "19 ароматов",
+    subtitle: "20 ароматов",
     content: [
       {
         id: 1,
@@ -189,6 +189,15 @@ export const lartisanparfumeurPerfumeUniverses: PerfumeUniverse[] = [
           width: 800,
         },
         title: "IL ÉTAIT UN BOIS",
+      },
+      {
+        id: 20,
+        url: {
+          src: "/assets/images/brands/lartisanparfumeur/perfumes-gallery/lacollection_20.png",
+          height: 800,
+          width: 800,
+        },
+        title: "HISTOIRE D'OARNGERS EXTREME",
       },
     ],
   },

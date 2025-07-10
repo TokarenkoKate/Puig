@@ -166,7 +166,7 @@ export const banderasPerfumeUniverses: PerfumeUniverse[] = [
   },
   {
     title: "Secret",
-    subtitle: "8 ароматов",
+    subtitle: "9 ароматов",
     content: [
       {
         id: 1,
@@ -248,6 +248,15 @@ export const banderasPerfumeUniverses: PerfumeUniverse[] = [
           width: 800,
         },
         title: "SECRET ABSOLU FOR HIM",
+      },
+      {
+        id: 9,
+        url: {
+          src: "/assets/images/brands/banderas/perfumes-gallery/secret_9.png",
+          height: 800,
+          width: 800,
+        },
+        title: "HER SECRET PINK ABSOLU",
       },
     ],
   },

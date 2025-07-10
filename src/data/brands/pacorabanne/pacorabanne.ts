@@ -41,7 +41,7 @@ export const pacorabannePerfumeUniverses: PerfumeUniverse[] = [
   },
   {
     title: "1 Million и Lady million",
-    subtitle: "9 ароматов",
+    subtitle: "10 ароматов",
     content: [
       {
         id: 1,
@@ -139,6 +139,15 @@ export const pacorabannePerfumeUniverses: PerfumeUniverse[] = [
           width: 1080,
         },
         title: "MILLION GOLD FOR HER",
+      },
+      {
+        id: 10,
+        url: {
+          src: "/assets/images/brands/pacorabanne/perfumes-gallery/millionladymillion_10.png",
+          height: 1080,
+          width: 1080,
+        },
+        title: "MILLION GOLD ELIXIR",
       },
     ],
   },

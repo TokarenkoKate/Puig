@@ -175,7 +175,7 @@ export const carolinaPerfumeUniverses: PerfumeUniverse[] = [
   },
   {
     title: "212",
-    subtitle: "6 ароматов",
+    subtitle: "7 ароматов",
     content: [
       {
         id: 1,
@@ -240,6 +240,15 @@ export const carolinaPerfumeUniverses: PerfumeUniverse[] = [
           width: 845,
         },
         title: "212 VIP MEN BLACK",
+      },
+      {
+        id: 7,
+        url: {
+          src: "/assets/images/brands/carolina/perfumes-gallery/212_7.png",
+          height: 845,
+          width: 845,
+        },
+        title: "212 VIP BLACK ELIXIR",
       },
     ],
   },

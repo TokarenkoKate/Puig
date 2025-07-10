@@ -2630,4 +2630,103 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
       },
     ],
   },
+  {
+    brandTitle: "L’Artisan Parfumeur",
+    title: "HISTOIRE D'OARNGERS EXTREME",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/histoire-dorngers-extreme/1.png",
+          height: 2250,
+          width: 2000,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/histoire-dorngers-extreme/2.png",
+          height: 2250,
+          width: 2000,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/histoire-dorngers-extreme/3.jpg",
+          height: 1565,
+          width: 2000,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/histoire-dorngers-extreme/4.jpg",
+          height: 1565,
+          width: 2000,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/histoire-dorngers-extreme/5.jpg",
+          height: 1181,
+          width: 1181,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/histoire-dorngers-extreme/6.jpg",
+          height: 1559,
+          width: 2000,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        src: {
+          src: "/assets/images/brands/lartisanparfumeur/perfume-details/histoire-dorngers-extreme/rightimage.png",
+          height: 678,
+          width: 676,
+        },
+        components: [
+          "цветы апельсина",
+          "кедр",
+          "розовый перец",
+          "лабданум",
+          "серая амбра",
+        ],
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Цветочный, Древесный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Мари Саламань",
+      },
+    ],
+    description: [
+      {
+        type: ContentBlockType.TEXT,
+        paragraphs: [
+          "Под закатным небом золотистого оттенка охры рождается новая парфюмерная история. Аромат Histoire d’Orangers Extrême раскрывает всю яркость и интенсивность звучания цветка апельсина. В своём новом творении парфюмер Мари Саламань преображает этот культовый ингредиент, наделяя его выразительной контрастностью. Будто ольфакторный сувенир, аромат хранит в себе воспоминания о путешествии, которое навсегда останется в сердце.",
+          "Глубокая и насыщенная композиция Histoire d’Orangers Extrême таит в себе солнечную энергию плодов апельсина. Его ослепительно белые бутоны распускаются благодаря пряной свежести розового перца. На рассвете дня абсолю цветка марокканского апельсина пробуждается и обнажает свою деликатную мягкость. Постепенно, в звучании проявляются ноты кедра с присущей им глубиной и древесной текстурой. Идеальное завершение нового чувственного опыта.",
+        ],
+        id: 1,
+      },
+    ],
+  },
 ];

@@ -1988,4 +1988,260 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
     ],
   },
+  {
+    brandTitle: "JEAN PAUL GAULTIER",
+    title: "SCANDAL INTENSE POUR HOMME",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-intense-pour-homme/1.png",
+          height: 1000,
+          width: 1000,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-intense-pour-homme/2.png",
+          height: 1000,
+          width: 1000,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-intense-pour-homme/3.jpg",
+          height: 1000,
+          width: 1000,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-intense-pour-homme/4.jpg",
+          height: 1000,
+          width: 1000,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-intense-pour-homme/5.jpg",
+          height: 1000,
+          width: 1000,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-intense-pour-homme/6.jpg",
+          height: 1000,
+          width: 1000,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-intense-pour-homme/7.jpg",
+          height: 1000,
+          width: 1000,
+        },
+      },
+      {
+        id: 8,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-intense-pour-homme/8.jpg",
+          height: 1000,
+          width: 1000,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-intense-pour-homme/rightimage.png",
+          height: 790,
+          width: 790,
+        },
+        components: ["Кожа", "Шалфей", "Ветивер", "Имбирь", "Бобы тонка"],
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Древесный, Кожаный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Квентин Биш, Крестоф Рейно, Натали Грация-Сетто",
+      },
+    ],
+    description: [
+      {
+        type: ContentBlockType.QUOTE,
+        author: "",
+        text: "Идея бесконечного путешествия завораживает: длительность пути стирает границы, а пункт назначения — всего лишь мираж, который ускользает, стоит только закрыть глаза. Добро пожаловать на поезд «Готье Экспресс» — место, где позволено всё, и даже в спальных вагонах не отпускает ощущение вечного праздника.",
+        id: 1,
+      },
+      {
+        type: ContentBlockType.VIDEO,
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/scandal-intense-pour-homme.mp4",
+        id: 2,
+      },
+      {
+        type: ContentBlockType.TEXT,
+        paragraphs: [
+          "Наша героиня — притягательная Малика Эль Маслуи — бежит наперекор поезду, бросая вызов его движению. Из спальных вагонов и через вагон-ресторан, она прорывается сквозь пассажиров, оставляя за собой соблазнительный шлейф, в котором сексуально-провокационный иланг-иланг в окружении теплого кардамона сливается с нежностью ванили. Так звучит аромат Scandal Intense.",
+          "Упаковка рифлёного тёмно-фиолетового флакона выполнена из розового бархата, а его крышку обрамляет пара кокетливых золотых ножек.",
+          "Наш герой — неотразимый Луи Бэйнс — следует за Маликой сквозь толпу в самое сердце этого безумия. В этом опьяняющем хаосе их погоня за неизведанным перерастает в неистовый танец. Они присоединяются к команде амбассадоров Jean Paul Gaultier: дерзких, неудержимых и готовых к любым приключениям.",
+          "Незаметно, вдвоём они ускользают от общей суматохи. Этой ночью она не вернётся в своё купе: у неё другие планы. Незнакомец рядом — вот всё, что ей нужно. Он ведёт её к двери, обитой красным бархатом.",
+          "Аромат, который их встречает, — дикий и необузданный. Неприлично притягательное сочетание нот мягкой кожи, жгучего ветивера и пряного шалфея образует древесный шлейф, который проникает в глубину их чувств.",
+          "Она вдыхает аромат. Её взгляд падает на очертания флакона с выразительными контурами. Его венчает золотая корона — финальный штрих этого прекрасно сложенного силуэта.",
+          "Заключённый в рифлёный флакон из чёрного стекла, Scandal pour Homme Intense,  словно рассказанная шёпотом история, которую ей не терпится узнать.",
+          "Образы этого головокружительного путешествия постепенно рассеиваются, как сны с наступлением рассвета. Но насыщенный шлейф Scandal Intense неумолимо продолжает будоражить её сознание. В своих фантазиях она возвращается в тот самый поезд, что привёз её в объятия незнакомца, которого уже нельзя назвать чужим.",
+        ],
+        id: 3,
+      },
+    ],
+  },
+  {
+    brandTitle: "JEAN PAUL GAULTIER",
+    title: "SCANDAL INTENSE",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-intense/1.png",
+          height: 1000,
+          width: 1000,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-intense/2.png",
+          height: 1000,
+          width: 1000,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-intense/3.jpg",
+          height: 1000,
+          width: 1000,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-intense/4.jpg",
+          height: 1000,
+          width: 1000,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-intense/5.jpg",
+          height: 1000,
+          width: 1000,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-intense/6.jpg",
+          height: 1000,
+          width: 1000,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-intense/7.jpg",
+          height: 1000,
+          width: 1000,
+        },
+      },
+      {
+        id: 8,
+        title: "",
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-intense/8.jpg",
+          height: 1000,
+          width: 1000,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        src: {
+          src: "/assets/images/brands/jeanpaulgaultier/perfume-details/scandal-intense/rightimage.png",
+          height: 790,
+          width: 790,
+        },
+        components: ["Иланг-иланг", "Ваниль", "Кардамон", "Жасмин", "Бензоин"],
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Цветочный, Амбровый",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Фабрис Пеллегрен, Дафна Бюже, Николя Бонневиль",
+      },
+    ],
+    description: [
+      {
+        type: ContentBlockType.QUOTE,
+        author: "",
+        text: "Идея бесконечного путешествия завораживает: длительность пути стирает границы, а пункт назначения — всего лишь мираж, который ускользает, стоит только закрыть глаза. Добро пожаловать на поезд «Готье Экспресс» — место, где позволено всё, и даже в спальных вагонах не отпускает ощущение вечного праздника.",
+        id: 1,
+      },
+      {
+        type: ContentBlockType.VIDEO,
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/scandal-intense.mp4",
+        id: 2,
+      },
+      {
+        type: ContentBlockType.TEXT,
+        paragraphs: [
+          "Наша героиня — притягательная Малика Эль Маслуи — бежит наперекор поезду, бросая вызов его движению. Из спальных вагонов и через вагон-ресторан, она прорывается сквозь пассажиров, оставляя за собой соблазнительный шлейф, в котором сексуально-провокационный иланг-иланг в окружении теплого кардамона сливается с нежностью ванили. Так звучит аромат Scandal Intense.",
+          "Упаковка рифлёного тёмно-фиолетового флакона выполнена из розового бархата, а его крышку обрамляет пара кокетливых золотых ножек.",
+          "Наш герой — неотразимый Луи Бэйнс — следует за Маликой сквозь толпу в самое сердце этого безумия. В этом опьяняющем хаосе их погоня за неизведанным перерастает в неистовый танец. Они присоединяются к команде амбассадоров Jean Paul Gaultier: дерзких, неудержимых и готовых к любым приключениям.",
+          "Незаметно, вдвоём они ускользают от общей суматохи. Этой ночью она не вернётся в своё купе: у неё другие планы. Незнакомец рядом — вот всё, что ей нужно. Он ведёт её к двери, обитой красным бархатом.",
+          "Аромат, который их встречает, — дикий и необузданный. Неприлично притягательное сочетание нот мягкой кожи, жгучего ветивера и пряного шалфея образует древесный шлейф, который проникает в глубину их чувств.",
+          "Она вдыхает аромат. Её взгляд падает на очертания флакона с выразительными контурами. Его венчает золотая корона — финальный штрих этого прекрасно сложенного силуэта.",
+          "Заключённый в рифлёный флакон из чёрного стекла, Scandal pour Homme Intense,  словно рассказанная шёпотом история, которую ей не терпится узнать.",
+          "Образы этого головокружительного путешествия постепенно рассеиваются, как сны с наступлением рассвета. Но насыщенный шлейф Scandal Intense неумолимо продолжает будоражить её сознание. В своих фантазиях она возвращается в тот самый поезд, что привёз её в объятия незнакомца, которого уже нельзя назвать чужим.",
+        ],
+        id: 3,
+      },
+    ],
+  },
 ];

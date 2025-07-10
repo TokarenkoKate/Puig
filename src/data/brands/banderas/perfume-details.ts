@@ -2481,4 +2481,104 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
       },
     ],
   },
+  {
+    brandTitle: "BANDERAS",
+    title: "HER SECRET PINK ABSOLU",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/banderas/perfume-details/her-secret-pink-absolu/1.png",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/banderas/perfume-details/her-secret-pink-absolu/2.png",
+          height: 2000,
+          width: 2000,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/banderas/perfume-details/her-secret-pink-absolu/3.jpg",
+          height: 1080,
+          width: 1080,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/banderas/perfume-details/her-secret-pink-absolu/4.jpg",
+          height: 1080,
+          width: 1080,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/banderas/perfume-details/her-secret-pink-absolu/5.jpg",
+          height: 2000,
+          width: 2000,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        src: {
+          src: "/assets/images/brands/banderas/perfume-details/her-secret-pink-absolu/rightimage.png",
+          height: 2000,
+          width: 2000,
+        },
+        components: ["Пион", "Бобы тонка", "Груша", "Цветок миндаля", "Амбра"],
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "Амбровый, Цветочный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Луиза Тернер",
+      },
+    ],
+    description: [
+      {
+        type: ContentBlockType.TEXT,
+        paragraphs: [
+          "На город опускаются сумерки. Закрытый клуб постепенно оживает: приветливый свет люстр встречает гостей в элегантных нарядах, отражаясь в блеске их драгоценностей. Шёлк вечерних платьев скользит по коже, пока дамы занимают свои места за столиками. В воздухе витает соблазнительный аромат, полный намёков на стремительное развитие событий этим вечером. Пока перемешивают колоду карт, их шелест обещает ещё одну непредсказуемую ночь интриг. Чем она закончится — решает случай.",
+          "Banderas вновь приглашает своих поклонников погрузиться в игру обольщения с ароматами коллекции The Secret. В этом году бренд представляет новую главу этой истории — парфюмерную воду Her Secret Pink Absolu.",
+          "Этот невероятно женственный аромат, созданный исключительно для неё, сочетает в себе изысканность, сексуальность и магию ночи, полной волнующего предвкушения. Идеальный выбор, чтобы насладиться этим неповторимым вечером. Не упускай шанс испытать свою удачу в игре…",
+        ],
+        id: 1,
+      },
+      {
+        type: ContentBlockType.VIDEO,
+        src: "/assets/video/brands/banderas/perfume-details/her-secret-pink-absolu.mp4",
+        id: 2,
+      },
+      {
+        type: ContentBlockType.TEXT,
+        paragraphs: [
+          "Окутывая свою обладательницу аурой таинственности, Her Secret Pink Absolu шепчет секреты и провоцирует на смелые вызовы. Этот аромат создан для женщины, в мире которой соблазнение — это азартная игра, где процесс порой более захватывающий, чем её результат.",
+          "Верхние ноты вспыхивают бодрящей, как трепет предвкушения, свежестью бергамота. Его сменяет спелая груша, чья сладость подобна кокетливой улыбке, мелькнувшей в толпе.",
+          "Сердце аромата обнажает свои цветочные грани с приближением ночи: пион и роза сплетаются в изящном танго, а цветок миндаля вносит интригу — словно тайна, разгаданная при свечах.",
+          "Ноты шлейфа с наступлением полуночи раскрывают композицию всё глубже: землистый ветивер намекает на сокровенные желания, а ваниль и бобы тонка создают бархатистое звучание с согревающим аккордом амбры.",
+        ],
+        id: 3,
+      },
+    ],
+  },
 ];

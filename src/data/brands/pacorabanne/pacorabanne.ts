@@ -650,9 +650,19 @@ export const pacorabanneBrandContent: BrandContentType = {
         },
       ],
     },
-    video: {
-      src: "/assets/video/brands/pacorabanne/bio.mp4",
-    },
+    video: [
+      {
+        id: 1,
+        src: "/assets/video/brands/pacorabanne/bio.mp4",
+        type: ContentBlockType.VIDEO,
+      },
+      {
+        id: 2,
+        src: "/assets/video/brands/pacorabanne/hero.mp4",
+        previewSrc: "/assets/images/brands/pacorabanne/bio-preview.png",
+        type: ContentBlockType.VIDEO,
+      },
+    ],
   },
   videoGallerySection: [
     {

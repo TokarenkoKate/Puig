@@ -548,9 +548,13 @@ export const carolinaBrandContent: BrandContentType = {
         },
       ],
     },
-    video: {
-      src: "/assets/video/brands/carolina/bio.mp4",
-    },
+    video: [
+      {
+        id: 1,
+        src: "/assets/video/brands/carolina/bio.mp4",
+        type: ContentBlockType.VIDEO,
+      },
+    ],
   },
   videoGallerySection: [
     {

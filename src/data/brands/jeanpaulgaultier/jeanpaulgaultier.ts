@@ -455,10 +455,14 @@ export const jeanpaulgaultierBrandContent: BrandContentType = {
         },
       ],
     },
-    video: {
-      src: "/assets/video/brands/jeanpaulgaultier/bio.mp4",
-      poster: "/assets/images/brands/jeanpaulgaultier/bio-preview.png",
-    },
+    video: [
+      {
+        id: 1,
+        src: "/assets/video/brands/jeanpaulgaultier/bio.mp4",
+        previewSrc: "/assets/images/brands/jeanpaulgaultier/bio-preview.png",
+        type: ContentBlockType.VIDEO,
+      },
+    ],
   },
   imagesSliderSection: jeanpaulgaultierImagesGallery,
   perfumesSection: jeanpaulgaultierPerfumeUniverses,

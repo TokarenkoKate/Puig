@@ -490,10 +490,14 @@ export const banderasBrandContent: BrandContentType = {
         },
       ],
     },
-    video: {
-      src: "/assets/video/brands/banderas/bio.mp4",
-      poster: "/assets/images/brands/banderas/banderas-preview.jpg",
-    },
+    video: [
+      {
+        id: 1,
+        src: "/assets/video/brands/banderas/bio.mp4",
+        type: ContentBlockType.VIDEO,
+        previewSrc: "/assets/images/brands/banderas/banderas-preview.jpg",
+      },
+    ],
   },
   videoGallerySection: [
     {

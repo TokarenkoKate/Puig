@@ -4,6 +4,7 @@ import {
   ImageGalleryItem,
   MultiStepQuizStep,
   ContentBlock,
+  ContentVideoBlock,
 } from "./components";
 
 /*----------------------------------------*/
@@ -77,10 +78,7 @@ export type BrandContentType = {
       visible: ContentBlock[];
       hidden: ContentBlock[];
     };
-    video?: {
-      src: string;
-      poster?: string;
-    };
+    video?: ContentVideoBlock[];
   };
   videoGallerySection?: VideoGalleryItem[];
   imagesSliderSection: ImageGalleryItem[];

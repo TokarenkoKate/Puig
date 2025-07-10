@@ -1,5 +1,5 @@
 import { ReadMore } from "@/components/custom/read-more/read-more";
-import { ContentBlock } from "@/lib/types/components";
+import { ContentBlock, ContentVideoBlock } from "@/lib/types/components";
 import { renderContentBlock } from "@/components/custom/content-block/render-content-block";
 
 type BrandBioSectionProps = {
@@ -7,10 +7,7 @@ type BrandBioSectionProps = {
     visible: ContentBlock[];
     hidden: ContentBlock[];
   };
-  video?: {
-    src: string;
-    poster?: string;
-  };
+  video?: ContentVideoBlock[];
 };
 
 export function BrandBioSection({ content, video }: BrandBioSectionProps) {
@@ -27,15 +24,7 @@ export function BrandBioSection({ content, video }: BrandBioSectionProps) {
         )}
       </div>
       {video && (
-        <div className="brand-bio__video">
-          <video
-            src={video.src}
-            poster={video.poster}
-            controls
-            className="brand-bio__video-item"
-            title="video-1"
-          />
-        </div>
+        <div className="brand-bio__videos">{video.map(renderContentBlock)}</div>
       )}
     </section>
   );

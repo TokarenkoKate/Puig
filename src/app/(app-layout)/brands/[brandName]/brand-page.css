@@ -9,7 +9,8 @@
   gap: 30px;
 }
 
-.brand-bio__texts {
+.brand-bio__texts,
+.brand-bio__videos {
   display: flex;
   flex-direction: column;
   gap: 30px;

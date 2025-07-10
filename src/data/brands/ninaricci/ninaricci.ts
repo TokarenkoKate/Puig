@@ -337,10 +337,13 @@ export const ninaricciBrandContent: BrandContentType = {
         },
       ],
     },
-
-    video: {
-      src: "/assets/video/brands/ninaricci/hero.mp4",
-    },
+    video: [
+      {
+        id: 1,
+        src: "/assets/video/brands/ninaricci/hero.mp4",
+        type: ContentBlockType.VIDEO,
+      },
+    ],
   },
   videoGallerySection: [
     {

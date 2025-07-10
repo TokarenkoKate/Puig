@@ -546,9 +546,13 @@ export const lartisanparfumeurBrandContent: BrandContentType = {
         },
       ],
     },
-    video: {
-      src: "/assets/video/brands/lartisanparfumeur/bio.mp4",
-    },
+    video: [
+      {
+        id: 1,
+        src: "/assets/video/brands/lartisanparfumeur/bio.mp4",
+        type: ContentBlockType.VIDEO,
+      },
+    ],
   },
   imagesSliderSection: lartisanparfumeurImagesGallery,
   videoGallerySection: [

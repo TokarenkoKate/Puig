@@ -404,6 +404,23 @@ export const christianlouboutinBrandContent: BrandContentType = {
       ],
     },
   },
+  videoGallerySection: [
+    {
+      previewImg:
+        "/assets/images/brands/christianlouboutin/video-gallery/videogallery1.jpg",
+      videoSrc: "/assets/video/brands/christianlouboutin/video-gallery/1.mp4",
+    },
+    {
+      previewImg:
+        "/assets/images/brands/christianlouboutin/video-gallery/videogallery2.jpg",
+      videoSrc: "/assets/video/brands/christianlouboutin/video-gallery/2.mp4",
+    },
+    {
+      previewImg:
+        "/assets/images/brands/christianlouboutin/video-gallery/videogallery3.jpg",
+      videoSrc: "/assets/video/brands/christianlouboutin/video-gallery/3.mp4",
+    },
+  ],
   imagesSliderSection: christianlouboutinImagesGallery,
   perfumesSection: christianlouboutinPerfumeUniverses,
   quizSection: {

@@ -443,6 +443,23 @@ export const jeanpaulgaultierBrandContent: BrandContentType = {
   },
   imagesSliderSection: jeanpaulgaultierImagesGallery,
   perfumesSection: jeanpaulgaultierPerfumeUniverses,
+  videoGallerySection: [
+    {
+      previewImg:
+        "/assets/images/brands/jeanpaulgaultier/video-gallery/videogallery1.jpg",
+      videoSrc: "/assets/video/brands/jeanpaulgaultier/video-gallery/1.mp4",
+    },
+    {
+      previewImg:
+        "/assets/images/brands/jeanpaulgaultier/video-gallery/videogallery2.jpg",
+      videoSrc: "/assets/video/brands/jeanpaulgaultier/video-gallery/2.mp4",
+    },
+    {
+      previewImg:
+        "/assets/images/brands/jeanpaulgaultier/video-gallery/videogallery3.jpg",
+      videoSrc: "/assets/video/brands/jeanpaulgaultier/video-gallery/3.mp4",
+    },
+  ],
   quizSection: {
     title: "Jean Paul Gaultier",
     steps: jeanpaulgaultierQuiz,

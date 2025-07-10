@@ -345,15 +345,21 @@ export const ninaricciBrandContent: BrandContentType = {
   videoGallerySection: [
     {
       previewImg:
-        "/assets/images/brands/ninaricci/video-gallery/videogallery1.webp",
+        "/assets/images/brands/ninaricci/video-gallery/videogallery1.jpg",
       videoSrc:
         "/assets/video/brands/ninaricci/video-gallery/videogallery1.mp4",
     },
     {
       previewImg:
-        "/assets/images/brands/ninaricci/video-gallery/videogallery2.webp",
+        "/assets/images/brands/ninaricci/video-gallery/videogallery2.jpg",
       videoSrc:
         "/assets/video/brands/ninaricci/video-gallery/videogallery2.mp4",
+    },
+    {
+      previewImg:
+        "/assets/images/brands/ninaricci/video-gallery/videogallery3.jpg",
+      videoSrc:
+        "/assets/video/brands/ninaricci/video-gallery/videogallery3.mp4",
     },
   ],
   imagesSliderSection: ninaricciImagesGallery,

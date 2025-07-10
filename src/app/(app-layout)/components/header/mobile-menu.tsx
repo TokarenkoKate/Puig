@@ -14,7 +14,7 @@ export function MobileMenu() {
   return (
     <Sheet>
       <SheetTrigger asChild>
-        <Button className="mobile-menu__btn" variant="ghost">
+        <Button className="mobile-menu__btn" variant="ghost" size="icon">
           <Menu />
         </Button>
       </SheetTrigger>
@@ -29,15 +29,12 @@ export function MobileMenu() {
             />
           </Link>
         </div>
-
         <div className="header__nav">
-          <Link href="/main">
-            <SheetClose asChild>
-              <Button variant="linkWithCircle">главная</Button>
-            </SheetClose>
-          </Link>
           <NavigationMenuList isWithinSheet />
         </div>
+        <SheetClose asChild>
+          <Button variant="default">Выйти</Button>
+        </SheetClose>
       </SheetContent>
     </Sheet>
   );

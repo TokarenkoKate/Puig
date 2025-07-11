@@ -119,7 +119,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/fWGBeiP3Jjw",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/classique_1.mp4",
         id: 2,
       },
       {
@@ -132,7 +132,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/_5rI5dnTJ4E",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/classique_2.mp4",
         id: 4,
       },
       {
@@ -232,7 +232,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/9wQb8RZoAUg",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/la-belle-le-male.mp4",
         id: 2,
       },
       {
@@ -245,7 +245,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/zSe7siK4JsA",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/le-male.mp4",
         id: 4,
       },
     ],
@@ -358,7 +358,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/5Q4gWdoohu0",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/le-male-le-parfum_1.mp4",
         id: 2,
       },
       {
@@ -370,7 +370,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/wgOchDQUaBA",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/le-male-le-parfum_2.mp4",
         id: 4,
       },
     ],
@@ -494,7 +494,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/_5rI5dnTJ4E",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/classique_2.mp4",
         id: 2,
       },
       {
@@ -506,7 +506,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/S71Qc1aXZ0w",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/le-male-elixir.mp4",
         id: 4,
       },
       {
@@ -518,7 +518,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/CbHDjCkl1dw",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/le-male-elixir-ingredients.mp4",
         id: 6,
       },
       {
@@ -631,7 +631,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/74UZlwRMJvg",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/la-belle-edp_1.mp4",
         id: 2,
       },
       {
@@ -644,7 +644,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/Sdc7l6BZ0aE",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/la-belle-le-beau.mp4",
         id: 4,
       },
     ],
@@ -757,7 +757,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/DlX81ilUxfw",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/le-beau.mp4",
         id: 2,
       },
       {
@@ -770,7 +770,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/Sdc7l6BZ0aE",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/la-belle-le-beau.mp4",
         id: 4,
       },
     ],
@@ -909,7 +909,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/4IKvCQwCMpg",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/la-belle-le-parfum-edp.mp4",
         id: 2,
       },
       {
@@ -922,7 +922,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/0pWZI2dP-Xk",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/la-belle-le-parfum-edp_le-male-le-parfum.mp4",
         id: 4,
       },
     ],
@@ -1036,7 +1036,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/GxXDsmac_wI",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/le-beau-paradise-garden.mp4",
         id: 2,
       },
       {
@@ -1152,7 +1152,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/Le-y3cP1O6I",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/la-belle-paradise-garden.mp4",
         id: 2,
       },
       {
@@ -1241,7 +1241,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
     description: [
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/-gDo-9EVsYY",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/scandal_1.mp4",
         id: 1,
       },
       {
@@ -1253,7 +1253,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/NfMv2_LxHTU",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/scandal_2.mp4",
         id: 3,
       },
       {
@@ -1375,7 +1375,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/vFcaxaEluJg",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/so-scandal.mp4",
         id: 2,
       },
       {
@@ -1525,7 +1525,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/YJgUyca28i0",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/scandal-pour-homme.mp4",
         id: 3,
       },
       {
@@ -1706,7 +1706,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/mix_Z_FDwu4",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/scandal-le-parfum.mp4",
         id: 6,
       },
       {
@@ -1855,7 +1855,7 @@ export const jeanpaulgaultierPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/gN2ilJnS0kg",
+        src: "/assets/video/brands/jeanpaulgaultier/perfume-details/scandal-pour-homme-le-parfum.mp4",
         id: 6,
       },
       {

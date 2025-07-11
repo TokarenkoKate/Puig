@@ -151,17 +151,17 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/XAZPEO9kC6M",
+        src: "/assets/video/brands/pacorabanne/perfume-details/phantom_1.mp4",
         id: 3,
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/pbaRvKAXVdA",
+        src: "/assets/video/brands/pacorabanne/perfume-details/phantom_2.mp4",
         id: 4,
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/h9oUm7aMTAM",
+        src: "/assets/video/brands/pacorabanne/perfume-details/phantom_3.mp4",
         id: 5,
       },
       {
@@ -179,7 +179,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/_Oyxg4NxRpg",
+        src: "/assets/video/brands/pacorabanne/perfume-details/phantom_4.mp4",
         id: 8,
       },
       {
@@ -192,7 +192,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/bmUL0JLBbMQ",
+        src: "/assets/video/brands/pacorabanne/perfume-details/phantom_5.mp4",
         id: 10,
       },
       {
@@ -214,7 +214,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/p0vwHzrpu60",
+        src: "/assets/video/brands/pacorabanne/perfume-details/phantom_6.mp4",
         id: 13,
       },
       {
@@ -227,7 +227,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/uEdhFGAxv-U",
+        src: "/assets/video/brands/pacorabanne/perfume-details/phantom_7.mp4",
         id: 15,
       },
       {
@@ -239,7 +239,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/CFf6N-Qu9h4",
+        src: "/assets/video/brands/pacorabanne/perfume-details/phantom_8.mp4",
         id: 17,
       },
     ],
@@ -345,7 +345,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/WXqZGr3nPm0",
+        src: "/assets/video/brands/pacorabanne/perfume-details/1-million-lady-million.mp4",
         id: 2,
       },
     ],
@@ -466,7 +466,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/zDMDUPKtpAM",
+        src: "/assets/video/brands/pacorabanne/perfume-details/1-million-parfum.mp4",
         id: 2,
       },
     ],
@@ -604,7 +604,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/NJqOZ4M4HV8",
+        src: "/assets/video/brands/pacorabanne/perfume-details/1-million-elixir.mp4",
         id: 4,
       },
       {
@@ -730,7 +730,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/AnalU_PRZn8",
+        src: "/assets/video/brands/pacorabanne/perfume-details/1-million-royal.mp4",
         id: 2,
       },
     ],
@@ -818,7 +818,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/WXqZGr3nPm0",
+        src: "/assets/video/brands/pacorabanne/perfume-details/1-million-lady-million.mp4",
         id: 2,
       },
     ],
@@ -970,7 +970,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/Qr6AAxI1GGI",
+        src: "/assets/video/brands/pacorabanne/perfume-details/lady-million-fabulous.mp4",
         id: 2,
       },
       {
@@ -1080,7 +1080,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/AAhPf2PiAiU",
+        src: "/assets/video/brands/pacorabanne/perfume-details/lady-million-royal.mp4",
         id: 2,
       },
     ],
@@ -1408,7 +1408,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/z7kyjWn3u5Y",
+        src: "/assets/video/brands/pacorabanne/perfume-details/invictus.mp4",
         id: 2,
       },
     ],
@@ -1560,7 +1560,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/V5PqXQAEYaM",
+        src: "/assets/video/brands/pacorabanne/perfume-details/invictus-victory_1.mp4",
         id: 2,
       },
       {
@@ -1573,7 +1573,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/VHaB3H6tPq4",
+        src: "/assets/video/brands/pacorabanne/perfume-details/invictus-victory_2.mp4",
         id: 4,
       },
       {
@@ -1588,7 +1588,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/SHwGKxhlRds",
+        src: "/assets/video/brands/pacorabanne/perfume-details/invictus-victory_3.mp4",
         id: 6,
       },
     ],
@@ -1756,7 +1756,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/YNd3ebRW3tw",
+        src: "/assets/video/brands/pacorabanne/perfume-details/invictus-platinum.mp4",
         id: 5,
       },
       {
@@ -1878,7 +1878,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/mEO6YWXA6ro",
+        src: "/assets/video/brands/pacorabanne/perfume-details/invictus-victory-elixir.mp4",
         id: 2,
       },
       {
@@ -1980,7 +1980,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/uHjyK6I774Q",
+        src: "/assets/video/brands/pacorabanne/perfume-details/olympea.mp4",
         id: 2,
       },
     ],
@@ -2112,7 +2112,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/ntGcjyxRnfU",
+        src: "/assets/video/brands/pacorabanne/perfume-details/olympea-blossom_1.mp4",
         id: 2,
       },
       {
@@ -2126,7 +2126,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/TRCkpsuHXQI",
+        src: "/assets/video/brands/pacorabanne/perfume-details/olympea-blossom_2.mp4",
         id: 4,
       },
       {
@@ -2138,7 +2138,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/H0LG7v8Yvoc",
+        src: "/assets/video/brands/pacorabanne/perfume-details/olympea-blossom_3.mp4",
         id: 6,
       },
     ],
@@ -2278,7 +2278,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/S82pWFwhlTE",
+        src: "/assets/video/brands/pacorabanne/perfume-details/olympea-solar.mp4",
         id: 5,
       },
       {
@@ -2408,7 +2408,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/2SrU1TX_0l8",
+        src: "/assets/video/brands/pacorabanne/perfume-details/olympea_flora.mp4",
         id: 5,
       },
       {
@@ -2532,7 +2532,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/TtqIMu_Qhes",
+        src: "/assets/video/brands/pacorabanne/perfume-details/olympea-parfum.mp4",
         id: 2,
       },
       {
@@ -2644,7 +2644,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/z8q-B5CcA30",
+        src: "/assets/video/brands/pacorabanne/perfume-details/invictus-parfum.mp4",
         id: 2,
       },
       {
@@ -2739,7 +2739,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/mhFXXgICNmE",
+        src: "/assets/video/brands/pacorabanne/perfume-details/pure-xs.mp4",
         id: 2,
       },
     ],
@@ -2842,7 +2842,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/NzrtVMtEVMg",
+        src: "/assets/video/brands/pacorabanne/perfume-details/pure-xs-for-her.mp4",
         id: 2,
       },
     ],

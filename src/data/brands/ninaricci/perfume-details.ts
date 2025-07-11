@@ -92,7 +92,7 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/GryqE7cEpuw",
+        src: "/assets/video/brands/ninaricci/perfume-details/nina.mp4",
         id: 2,
       },
       {
@@ -197,7 +197,7 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/lbgnM7lHbwk",
+        src: "/assets/video/brands/ninaricci/perfume-details/nina-rouge.mp4",
         id: 2,
       },
       {
@@ -331,12 +331,12 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/yV6VV-MxzkE",
+        src: "/assets/video/brands/ninaricci/perfume-details/nina-rose_1.mp4",
         id: 2,
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/0ZCxc7rnJPk",
+        src: "/assets/video/brands/ninaricci/perfume-details/nina-rose_2.mp4",
         id: 3,
       },
     ],
@@ -495,7 +495,7 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/qZ5evzwTTSg",
+        src: "/assets/video/brands/ninaricci/perfume-details/extra-rouge_1.mp4",
         id: 2,
       },
       {
@@ -508,7 +508,7 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/zHY-fw5Xu8k",
+        src: "/assets/video/brands/ninaricci/perfume-details/extra-rouge_2.mp4",
         id: 4,
       },
       {
@@ -665,7 +665,7 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/yEmAQ1fl1DQ",
+        src: "/assets/video/brands/ninaricci/perfume-details/nina-fleur.mp4",
         id: 5,
       },
       {
@@ -816,7 +816,7 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/Y5ZIFA_TtSE",
+        src: "/assets/video/brands/ninaricci/perfume-details/nina-le-parfum.mp4",
         id: 5,
       },
       {
@@ -955,7 +955,7 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/TJthzuPLNHY",
+        src: "/assets/video/brands/ninaricci/perfume-details/nina-illusion_1.mp4",
         id: 2,
       },
       {
@@ -968,12 +968,12 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/GrFPgqUnD7Q",
+        src: "/assets/video/brands/ninaricci/perfume-details/nina-illusion_2.mp4",
         id: 4,
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/LVFlNaYPTgI",
+        src: "/assets/video/brands/ninaricci/perfume-details/nina-illusion_3.mp4",
         id: 5,
       },
       {

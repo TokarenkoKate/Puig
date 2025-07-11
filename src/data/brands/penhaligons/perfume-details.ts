@@ -890,7 +890,7 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/RFajS4AA8go",
+        src: "/assets/video/brands/penhaligons/perfume-details/the-favorite.mp4",
         id: 5,
       },
     ],
@@ -987,7 +987,7 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/ycZdlcajwxU",
+        src: "/assets/video/brands/penhaligons/perfume-details/highgrove-bouquet.mp4",
         id: 2,
       },
       {
@@ -1106,7 +1106,7 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/kxWAUcFd29s",
+        src: "/assets/video/brands/penhaligons/perfume-details/solaris.mp4",
         id: 2,
       },
       {
@@ -1224,7 +1224,7 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/sZ9-jnLowfU",
+        src: "/assets/video/brands/penhaligons/perfume-details/dandy.mp4",
         id: 2,
       },
       {
@@ -1685,7 +1685,7 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/pCrdBu934Pc",
+        src: "/assets/video/brands/penhaligons/perfume-details/babylon.mp4",
         id: 2,
       },
       {
@@ -1818,7 +1818,7 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/Fc8dfgj7nGc",
+        src: "/assets/video/brands/penhaligons/perfume-details/constantinople.mp4",
         id: 2,
       },
       {
@@ -1910,7 +1910,7 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/z7Ld7wQ65Io",
+        src: "/assets/video/brands/penhaligons/perfume-details/legacy-of-petra.mp4",
         id: 2,
       },
       {
@@ -2027,7 +2027,7 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "https://www.youtube.com/embed/cUgr5l1RGeE",
+        src: "/assets/video/brands/penhaligons/perfume-details/alula.mp4",
         id: 2,
       },
       {

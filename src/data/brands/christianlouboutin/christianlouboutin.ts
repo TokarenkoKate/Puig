@@ -97,6 +97,24 @@ export const christianlouboutinPerfumeUniverses: PerfumeUniverse[] = [
       {
         id: 1,
         url: {
+          src: "/assets/images/brands/christianlouboutin/perfumes-gallery/loubiworld_7.png",
+          height: 500,
+          width: 500,
+        },
+        title: "LOUBIMAR",
+      },
+      {
+        id: 2,
+        url: {
+          src: "/assets/images/brands/christianlouboutin/perfumes-gallery/loubiworld_5.jpg",
+          height: 500,
+          width: 500,
+        },
+        title: "LOUBIHORSE",
+      },
+      {
+        id: 3,
+        url: {
           src: "/assets/images/brands/christianlouboutin/perfumes-gallery/loubiworld_1.png",
           height: 800,
           width: 800,
@@ -104,7 +122,7 @@ export const christianlouboutinPerfumeUniverses: PerfumeUniverse[] = [
         title: "LOUBICROC",
       },
       {
-        id: 2,
+        id: 4,
         url: {
           src: "/assets/images/brands/christianlouboutin/perfumes-gallery/loubiworld_2.png",
           height: 500,
@@ -113,7 +131,7 @@ export const christianlouboutinPerfumeUniverses: PerfumeUniverse[] = [
         title: "LOUBICROWN",
       },
       {
-        id: 3,
+        id: 5,
         url: {
           src: "/assets/images/brands/christianlouboutin/perfumes-gallery/loubiworld_3.png",
           height: 500,
@@ -122,7 +140,7 @@ export const christianlouboutinPerfumeUniverses: PerfumeUniverse[] = [
         title: "LOUBIDOO",
       },
       {
-        id: 4,
+        id: 6,
         url: {
           src: "/assets/images/brands/christianlouboutin/perfumes-gallery/loubiworld_4.png",
           height: 500,
@@ -130,32 +148,15 @@ export const christianlouboutinPerfumeUniverses: PerfumeUniverse[] = [
         },
         title: "LOUBIFUNK",
       },
+
       {
-        id: 5,
-        url: {
-          src: "/assets/images/brands/christianlouboutin/perfumes-gallery/loubiworld_7.png",
-          height: 500,
-          width: 500,
-        },
-        title: "LOUBIMAR",
-      },
-      {
-        id: 6,
+        id: 7,
         url: {
           src: "/assets/images/brands/christianlouboutin/perfumes-gallery/loubiworld_6.png",
           height: 500,
           width: 500,
         },
         title: "LOUBIKISS",
-      },
-      {
-        id: 7,
-        url: {
-          src: "/assets/images/brands/christianlouboutin/perfumes-gallery/loubiworld_5.jpg",
-          height: 500,
-          width: 500,
-        },
-        title: "LOUBIHORSE",
       },
       {
         id: 8,

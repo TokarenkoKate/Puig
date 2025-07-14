@@ -7,7 +7,7 @@ import { BrandContentType, PerfumeUniverse } from "@/lib/types/general";
 
 export const christianlouboutinPerfumeUniverses: PerfumeUniverse[] = [
   {
-    title: "FETICHE",
+    title: "Fetiche",
     subtitle: "5 ароматов",
     content: [
       {
@@ -75,7 +75,7 @@ export const christianlouboutinPerfumeUniverses: PerfumeUniverse[] = [
     ],
   },
   {
-    title: "LOUBIWORLD",
+    title: "Loubiworld",
     subtitle: "9 ароматов",
     content: [
       {

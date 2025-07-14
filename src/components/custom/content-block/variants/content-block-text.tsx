@@ -48,7 +48,9 @@ export function ContentBlockText({ block }: { block: ContentTextBlock }) {
   return (
     <>
       {block.paragraphs.map((text, idx) => (
-        <p key={idx}>{parseMarkdown(text)}</p>
+        <p key={idx} className="whitespace-pre-line">
+          {parseMarkdown(text)}
+        </p>
       ))}
     </>
   );

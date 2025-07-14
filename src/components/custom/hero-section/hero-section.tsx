@@ -1,5 +1,5 @@
-import { FullscreenMedia } from "../fullscreen-media/fullscreen-media";
 import "./hero-section.css";
+import { FullscreenMedia } from "../fullscreen-media/fullscreen-media";
 
 type HeroSectionProps = {
   videoSrc?: string;
@@ -16,6 +16,7 @@ export function HeroSection({ videoSrc, imageSrc, title }: HeroSectionProps) {
         videoSrc={videoSrc}
         imageSrc={imageSrc}
         videoProps={heroVideoProps}
+        className="hero__media"
       />
       <div className="hero__shadow-wrapper">
         <div className="w-fixed">

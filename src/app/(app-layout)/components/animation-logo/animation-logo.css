@@ -1,6 +1,6 @@
 .animation-logo {
   position: fixed;
-  top: 20px;
+  top: 10px;
   right: 10%;
   width: 7.1rem;
   height: auto;
@@ -10,8 +10,7 @@
 @media (max-width: 1360px) {
   .animation-logo {
     position: fixed;
-    top: 30px;
-    right: 35px;
+    right: 20px;
     width: 7.1rem;
     height: auto;
     z-index: 10;
@@ -21,8 +20,6 @@
 @media (max-width: 1280px) {
   .animation-logo {
     position: fixed;
-    top: 40px;
-    right: 35px;
     width: 6.1rem;
     height: auto;
     z-index: 10;
@@ -31,15 +28,13 @@
 
 @media (max-width: 768px) {
   .animation-logo {
-    top: 20px;
-    right: 35px;
     width: 6.1rem;
   }
 }
 
 @media (max-width: 565px) {
   .animation-logo {
-    top: 45px;
+    top: 32px;
     right: 8px;
     width: 4rem;
   }

@@ -1,20 +1,24 @@
-import { MediaHTMLAttributes } from "react";
+import { VideoHTMLAttributes } from "react";
 import Image from "next/image";
 import "./fullscreen-media.css";
+import clsx from "clsx";
+import { VideoComponent } from "../video-component/video-component";
 
 type FullscreenMediaProps = {
   videoSrc?: string;
-  videoProps?: MediaHTMLAttributes<HTMLVideoElement>;
+  videoProps?: VideoHTMLAttributes<HTMLVideoElement>;
   imageSrc?: string;
+  className?: string;
 };
 
 export function FullscreenMedia({
   videoSrc,
   videoProps,
   imageSrc,
+  className,
 }: FullscreenMediaProps) {
   return (
-    <div className="fullscreen-media">
+    <div className={clsx("fullscreen-media", className)}>
       {imageSrc && (
         <Image
           src={imageSrc}
@@ -25,15 +29,12 @@ export function FullscreenMedia({
         />
       )}
       {videoSrc && (
-        <video
+        <VideoComponent
           playsInline
-          controlsList="nodownload"
           className="fullscreen-media__inner"
           {...videoProps}
-        >
-          <source src={videoSrc} type="video/mp4" />
-          Your browser does not support the video tag.
-        </video>
+          src={videoSrc}
+        />
       )}
     </div>
   );

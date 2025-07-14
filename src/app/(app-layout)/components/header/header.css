@@ -16,7 +16,7 @@
   display: flex;
   align-items: center;
   max-width: var(--app-max-w);
-  height: 170px;
+  height: 140px;
 }
 
 .header__logo-wrapper {
@@ -88,7 +88,7 @@
   top: 0;
   left: 0;
   width: 100%;
-  min-height: 170px;
+  min-height: 140px;
   z-index: var(--z-index-overlay);
 }
 
@@ -107,7 +107,7 @@
 
 .navigation-menu__overlay {
   position: fixed;
-  top: 170px;
+  top: 140px;
   left: 0;
   right: 0;
   bottom: 0;
@@ -149,6 +149,11 @@
   background-color: #bbbbbb;
 }
 
+.navigation-menu__group-title {
+  font-weight: 600;
+  color: #b1b1b1;
+}
+
 .navigation-menu__brands {
   display: flex;
   flex-wrap: wrap;
@@ -164,6 +169,7 @@
 @media (max-width: 768px) {
   .header__nav {
     flex-direction: column;
+    gap: 4px;
   }
 }
 

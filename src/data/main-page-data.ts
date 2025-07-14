@@ -387,7 +387,7 @@ export const mainPageMultiStepQuiz: MultiStepQuizStep[] = [
 
 export const valueCards: ValueCardType[] = [
   {
-    image: "/assets/images/values/1.png",
+    image: "/assets/images/values/1.jpg",
     title: "Постоянный Интерес",
     description:
       "Неустанно ищет возможности и идеи, которые формируют будущее, балансируя между смелостью и мудростью для достижения совершенства.",

@@ -18,17 +18,25 @@ export function useHeaderNavigationMenu() {
     const scrollbarWidth =
       window.innerWidth - document.documentElement.clientWidth;
 
+    const wrapper = document.getElementById("smooth-wrapper");
+
     if (isMenuOpen) {
       document.body.style.overflow = "hidden";
-      document.body.style.paddingRight = `${scrollbarWidth}px`;
+      if (wrapper) {
+        wrapper.style.paddingRight = `${scrollbarWidth}px`;
+      }
     } else {
       document.body.style.overflow = "";
-      document.body.style.paddingRight = "";
+      if (wrapper) {
+        wrapper.style.paddingRight = "";
+      }
     }
 
     return () => {
       document.body.style.overflow = "";
-      document.body.style.paddingRight = "";
+      if (wrapper) {
+        wrapper.style.paddingRight = "";
+      }
     };
   }, [isMenuOpen]);
 

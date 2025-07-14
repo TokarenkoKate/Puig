@@ -22,7 +22,7 @@ export function CompanySection() {
           </p>
         </div>
       </div>
-      <div className="company__video-wrapper">
+      <div className="company__video-wrapper" data-speed="0.9">
         <VideoComponent
           autoPlay={false}
           loop

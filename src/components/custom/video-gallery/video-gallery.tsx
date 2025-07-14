@@ -14,6 +14,7 @@ import { VideoGalleryItem } from "@/lib/types/general";
 import { ChevronLeft, ChevronRight, X } from "lucide-react";
 import Image from "next/image";
 import "./video-gallery.css";
+import { VideoComponent } from "../video-component/video-component";
 
 export function VideoGallery({
   videoGalleryItems,
@@ -90,10 +91,14 @@ export function VideoGallery({
                     >
                       <ChevronLeft className="w-8 h-8" />
                     </Button>
-                    <video autoPlay muted playsInline preload="auto" controls>
-                      <source src={selectedItem.videoSrc} type="video/mp4" />
-                      Your browser does not support the video tag.
-                    </video>
+                    <VideoComponent
+                      autoPlay
+                      muted
+                      playsInline
+                      preload="auto"
+                      controls
+                      src={selectedItem.videoSrc}
+                    />
                     <Button
                       variant="ghost"
                       size="icon"

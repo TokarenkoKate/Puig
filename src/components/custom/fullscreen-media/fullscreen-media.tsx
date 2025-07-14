@@ -25,7 +25,12 @@ export function FullscreenMedia({
         />
       )}
       {videoSrc && (
-        <video playsInline {...videoProps} className="fullscreen-media__inner">
+        <video
+          playsInline
+          controlsList="nodownload"
+          className="fullscreen-media__inner"
+          {...videoProps}
+        >
           <source src={videoSrc} type="video/mp4" />
           Your browser does not support the video tag.
         </video>

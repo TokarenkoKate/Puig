@@ -1,3 +1,4 @@
+import { VideoComponent } from "@/components/custom/video-component/video-component";
 import "./auth.css";
 
 export default function AuthLayout({
@@ -7,10 +8,14 @@ export default function AuthLayout({
 }) {
   return (
     <div className="auth">
-      <video autoPlay muted loop playsInline className="auth__video-bg">
-        <source src="/assets/video/auth/auth.mp4" type="video/mp4" />
-        Your browser does not support the video tag.
-      </video>
+      <VideoComponent
+        autoPlay
+        muted
+        loop
+        playsInline
+        src="/assets/video/auth/auth.mp4"
+        className="auth__video-bg"
+      />
       {children}
     </div>
   );

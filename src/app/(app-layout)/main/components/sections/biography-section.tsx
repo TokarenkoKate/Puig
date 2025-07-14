@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { VideoComponent } from "@/components/custom/video-component/video-component";
 
 export function BiographySection() {
   return (
@@ -25,16 +26,14 @@ export function BiographySection() {
         <p className="biography__name text-xs">Марк Пуч</p>
         <p className="biography__position text-sm">Президент компании</p>
       </div>
-      <video
+      <VideoComponent
         autoPlay
         muted
         playsInline
         preload="auto"
         className="biography__signature"
-      >
-        <source src="/assets/video/signature.mp4" type="video/mp4" />
-        Your browser does not support the video tag.
-      </video>
+        src="/assets/video/signature.mp4"
+      />
     </section>
   );
 }

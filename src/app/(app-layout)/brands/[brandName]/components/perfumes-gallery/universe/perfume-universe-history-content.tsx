@@ -1,5 +1,4 @@
-"use client";
-
+import { VideoComponent } from "@/components/custom/video-component/video-component";
 import Image from "next/image";
 
 type PerfumeUniverseHistoryProps = {
@@ -18,18 +17,19 @@ export function PerfumeUniverseHistoryContent({
   content,
 }: PerfumeUniverseHistoryProps) {
   const { text, url, image } = content;
+
   return (
     <>
       {text && <p className="perfume-universe__content-item text-sm">{text}</p>}
       {url && (
-        <video
+        <VideoComponent
           src={url}
           controls
           title="video-1"
           width="100%"
           height="315"
           className="perfume-universe__content-item"
-        ></video>
+        />
       )}
       {image && (
         <Image

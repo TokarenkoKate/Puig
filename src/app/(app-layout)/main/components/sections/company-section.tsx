@@ -1,3 +1,5 @@
+import { VideoComponent } from "@/components/custom/video-component/video-component";
+
 export function CompanySection() {
   return (
     <section className="company w-fixed">
@@ -21,7 +23,7 @@ export function CompanySection() {
         </div>
       </div>
       <div className="company__video-wrapper">
-        <video
+        <VideoComponent
           autoPlay={false}
           loop
           playsInline

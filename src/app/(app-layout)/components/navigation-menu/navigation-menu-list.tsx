@@ -1,7 +1,5 @@
-import Image from "next/image";
-import Link from "next/link";
-import { SheetClose } from "@/components/ui/sheet";
-import { brandLogos, brandsNavigationMenu } from "@/data/brands-data";
+import { brandsNavigationMenu } from "@/data/brands-data";
+import { NavigationMenuGroup } from "./navigation-menu-group";
 
 type NavigationMenuListProps = {
   isWithinSheet: boolean;
@@ -15,36 +13,12 @@ export function NavigationMenuList({
   return (
     <div className="navigation-menu__list">
       {brandsNavigationMenu.map((brandsGroup) => (
-        <div key={brandsGroup.title} className="navigation-menu__group">
-          <p className="heading-3 navigation-menu__group-title">
-            {brandsGroup.title}
-          </p>
-          <div className="navigation-menu__brands">
-            {brandsGroup.brands.map((brand) => {
-              const link = (
-                <Link
-                  href={`/brands/${brand}`}
-                  key={brand}
-                  onClick={onItemClick}
-                >
-                  <Image
-                    width={240}
-                    height={80}
-                    src={brandLogos[brand]}
-                    alt={brand}
-                    className="navigation-menu__brand"
-                    loading="lazy"
-                  />
-                </Link>
-              );
-              return isWithinSheet ? (
-                <SheetClose asChild>{link}</SheetClose>
-              ) : (
-                link
-              );
-            })}
-          </div>
-        </div>
+        <NavigationMenuGroup
+          brandsGroup={brandsGroup}
+          key={brandsGroup.title}
+          onItemClick={onItemClick}
+          isWithinSheet={isWithinSheet}
+        />
       ))}
     </div>
   );

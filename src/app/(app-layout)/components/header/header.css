@@ -152,6 +152,20 @@
 .navigation-menu__group-title {
   font-weight: 600;
   color: #b1b1b1;
+  display: flex;
+  align-items: baseline;
+}
+
+.navigation-menu__group-letter {
+  max-width: 0;
+  overflow: hidden;
+  opacity: 0;
+  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.navigation-menu__group:hover .navigation-menu__group-letter {
+  max-width: 200px;
+  opacity: 1;
 }
 
 .navigation-menu__brands {

@@ -71,7 +71,10 @@ export const brandLogos = {
   [BRANDS.SHAKIRA]: "",
 };
 
-export const brandsNavigationMenu = [
+export const brandsNavigationMenu: Array<{
+  title: string;
+  brands: BrandName[];
+}> = [
   {
     title: "NICHE",
     brands: [

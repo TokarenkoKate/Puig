@@ -47,6 +47,7 @@ export interface ContentTextBlock extends ContentBlockBase {
 export interface ContentHeadingBlock extends ContentBlockBase {
   type: ContentBlockType.HEADING;
   heading: string;
+  align?: "left" | "center";
 }
 
 export interface ContentQuoteBlock extends ContentBlockBase {

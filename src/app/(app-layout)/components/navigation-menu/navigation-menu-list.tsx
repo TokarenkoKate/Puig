@@ -16,7 +16,9 @@ export function NavigationMenuList({
     <div className="navigation-menu__list">
       {brandsNavigationMenu.map((brandsGroup) => (
         <div key={brandsGroup.title} className="navigation-menu__group">
-          <p className="heading-3 font-semibold">{brandsGroup.title}</p>
+          <p className="heading-3 navigation-menu__group-title">
+            {brandsGroup.title}
+          </p>
           <div className="navigation-menu__brands">
             {brandsGroup.brands.map((brand) => {
               const link = (

@@ -10,6 +10,8 @@ export function ValueCard({ image, title, description }: ValueCardType) {
         height={100}
         alt={title}
         className="value-card__image"
+        quality={100}
+        unoptimized
       />
       <div className="value-card__column">
         <p className="value-card__title heading-4">{title}</p>

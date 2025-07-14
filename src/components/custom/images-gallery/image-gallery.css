@@ -20,6 +20,19 @@
   height: 400px;
   cursor: pointer;
   overflow: hidden;
+  animation: waveAnimation 2s ease-in-out infinite;
+  display: inline-block; /* важно для анимации */
+}
+
+/* Волнообразное движение */
+@keyframes waveAnimation {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
 }
 
 .images-gallery__image {

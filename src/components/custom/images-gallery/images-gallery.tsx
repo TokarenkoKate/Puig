@@ -57,6 +57,7 @@ export function ImagesGallery({ images }: { images: ImageGalleryItem[] }) {
               <div
                 className="images-gallery__slider-item"
                 onClick={() => selectItem(index)}
+                style={{ animationDelay: `${index * 0.1}s` }}
               >
                 <Image
                   alt={img.altText}

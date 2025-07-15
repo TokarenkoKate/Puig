@@ -1,23 +1,30 @@
 "use client";
 
 import "./hero-section.css";
+import clsx from "clsx";
+import { useRef } from "react";
 import { FullscreenMedia } from "../fullscreen-media/fullscreen-media";
 import { WaveText } from "../wave-text/wave-text";
-import { useRef } from "react";
 
 type HeroSectionProps = {
   videoSrc?: string;
   imageSrc?: string;
   title: string;
+  className?: string;
 };
 
 const heroVideoProps = { loop: true, autoPlay: true, muted: true };
 
-export function HeroSection({ videoSrc, imageSrc, title }: HeroSectionProps) {
+export function HeroSection({
+  videoSrc,
+  imageSrc,
+  title,
+  className,
+}: HeroSectionProps) {
   const ref = useRef<HTMLElement>(null);
 
   return (
-    <section className="hero" ref={ref}>
+    <section className={clsx("hero", className)} ref={ref}>
       <FullscreenMedia
         videoSrc={videoSrc}
         imageSrc={imageSrc}

@@ -21,6 +21,7 @@ export default function Main() {
       <HeroSection
         videoSrc={mainPageHeroSection.videoSrc}
         title={mainPageHeroSection.title}
+        className="main-page__hero-section"
       />
       <BiographySection />
       <CompanySection />

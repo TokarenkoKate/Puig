@@ -10,3 +10,9 @@
 .wave-text__content_top {
   user-select: none;
 }
+
+@media (max-width: 768px) {
+  .wave-text {
+    color: var(--color-white);
+  }
+}

@@ -4,6 +4,7 @@ import * as React from "react";
 import { Dialog, DialogTrigger, DialogContent } from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
 import { MultiStepQuizStep } from "@/lib/types/components";
+import { BubbleHoverButton } from "../bubble-hover-button/bubble-hover-button";
 import "./multi-step-quiz.css";
 
 export default function MultiStepQuizModal({
@@ -53,9 +54,7 @@ export default function MultiStepQuizModal({
   return (
     <Dialog open={open} onOpenChange={setOpen}>
       <DialogTrigger asChild>
-        <Button variant="outline" size="lg" className="text-base">
-          пройти тест
-        </Button>
+        <BubbleHoverButton>пройти тест</BubbleHoverButton>
       </DialogTrigger>
       <DialogContent className="quiz">
         {showResult ? (

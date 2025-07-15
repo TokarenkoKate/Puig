@@ -16,17 +16,23 @@ export default function SmoothScrollWrapper({
   const pathname = usePathname();
 
   useEffect(() => {
-    const smoother = ScrollSmoother.get();
-    if (smoother) {
-      smoother.kill();
-    }
+    const wrapper = document.querySelector("#smooth-wrapper");
+    const content = document.querySelector("#smooth-content");
 
-    ScrollSmoother.create({
+    if (!wrapper || !content) return;
+
+    const existing = ScrollSmoother.get();
+    if (existing) existing.kill();
+
+    const smoother = ScrollSmoother.create({
       wrapper: "#smooth-wrapper",
       content: "#smooth-content",
       smooth: 1.2,
       effects: window.innerWidth > 768,
     });
+
+    smoother.scrollTop(0);
+    ScrollTrigger.refresh();
 
     return () => {
       ScrollSmoother.get()?.kill();

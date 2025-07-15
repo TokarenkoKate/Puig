@@ -75,13 +75,20 @@ export function WaveText({ children, className, ref }: WaveTextProps) {
       });
     };
 
+    const onPointerLeave = () => {
+      gsap.to(tl, { progress: 0, duration: 0.8, ease: "power3.out" });
+      gsap.to(wrapper, { x: 0, y: 0, duration: 0.8, ease: "power3.out" });
+    };
+
     if (ref.current) {
       ref.current.addEventListener("pointermove", onPointerMove);
+      ref.current.addEventListener("pointerleave", onPointerLeave);
     }
 
     return () => {
       if (ref.current) {
         ref.current.removeEventListener("pointermove", onPointerMove);
+        ref.current.removeEventListener("pointerleave", onPointerLeave);
       }
       topTxt.innerHTML = "";
       gsap.killTweensOf(topTxt.children);

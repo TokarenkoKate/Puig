@@ -1,0 +1,12 @@
+.wave-text {
+  white-space: nowrap;
+  color: rgba(0, 0, 0, 0.4);
+}
+
+.wave-text__content {
+  position: relative;
+}
+
+.wave-text__content_top {
+  user-select: none;
+}

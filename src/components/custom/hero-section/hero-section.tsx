@@ -1,5 +1,9 @@
+"use client";
+
 import "./hero-section.css";
 import { FullscreenMedia } from "../fullscreen-media/fullscreen-media";
+import { WaveText } from "../wave-text/wave-text";
+import { useRef } from "react";
 
 type HeroSectionProps = {
   videoSrc?: string;
@@ -10,8 +14,10 @@ type HeroSectionProps = {
 const heroVideoProps = { loop: true, autoPlay: true, muted: true };
 
 export function HeroSection({ videoSrc, imageSrc, title }: HeroSectionProps) {
+  const ref = useRef<HTMLElement>(null);
+
   return (
-    <section className="hero">
+    <section className="hero" ref={ref}>
       <FullscreenMedia
         videoSrc={videoSrc}
         imageSrc={imageSrc}
@@ -19,8 +25,10 @@ export function HeroSection({ videoSrc, imageSrc, title }: HeroSectionProps) {
         className="hero__media"
       />
       <div className="hero__shadow-wrapper">
-        <div className="w-fixed">
-          <h1 className="hero__hero-text heading-1">{title}</h1>
+        <div className="w-fixed flex items-center">
+          <WaveText ref={ref} className="hero__hero-text heading-1">
+            {title}
+          </WaveText>
         </div>
       </div>
     </section>

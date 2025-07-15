@@ -240,4 +240,9 @@
   .header__logout-btn {
     display: none;
   }
+
+  .navigation-menu__group-letter {
+    max-width: fit-content;
+    opacity: 1;
+  }
 }

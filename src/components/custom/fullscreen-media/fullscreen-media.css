@@ -28,18 +28,7 @@
 
 @media (max-width: 768px) {
   .fullscreen-media {
-    height: 300px;
-  }
-}
-
-@media (max-width: 640px) {
-  .fullscreen-media {
-    height: 220px;
-  }
-}
-
-@media (max-width: 480x) {
-  .fullscreen-media {
-    height: 180px;
+    aspect-ratio: 5 / 2;
+    height: auto;
   }
 }

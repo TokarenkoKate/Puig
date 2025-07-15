@@ -84,6 +84,10 @@
 }
 
 @media (max-width: 490px) {
+  .images-gallery__slider-item {
+    height: 280px;
+  }
+
   .images-gallery {
     margin-left: 15px;
   }

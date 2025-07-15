@@ -37,6 +37,12 @@
 
 @media (max-width: 480px) {
   .hero__hero-text {
+    font-size: 18px;
     margin-left: 30px;
+  }
+
+  .hero__shadow-wrapper {
+    min-height: auto;
+    padding-bottom: 20px;
   }
 }

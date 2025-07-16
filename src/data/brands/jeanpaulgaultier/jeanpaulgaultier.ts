@@ -474,7 +474,7 @@ export const jeanpaulgaultierBrandContent: BrandContentType = {
       {
         id: 1,
         src: "/assets/video/brands/jeanpaulgaultier/bio.mp4",
-        previewSrc: "/assets/images/brands/jeanpaulgaultier/bio-preview.png",
+        previewSrc: "/assets/video/brands/jeanpaulgaultier/bio_preview.png",
         type: ContentBlockType.VIDEO,
       },
     ],
@@ -484,17 +484,17 @@ export const jeanpaulgaultierBrandContent: BrandContentType = {
   videoGallerySection: [
     {
       previewImg:
-        "/assets/images/brands/jeanpaulgaultier/video-gallery/videogallery1.jpg",
+        "/assets/video/brands/jeanpaulgaultier/video-gallery/1_preview.jpg",
       videoSrc: "/assets/video/brands/jeanpaulgaultier/video-gallery/1.mp4",
     },
     {
       previewImg:
-        "/assets/images/brands/jeanpaulgaultier/video-gallery/videogallery2.jpg",
+        "/assets/video/brands/jeanpaulgaultier/video-gallery/2_preview.jpg",
       videoSrc: "/assets/video/brands/jeanpaulgaultier/video-gallery/2.mp4",
     },
     {
       previewImg:
-        "/assets/images/brands/jeanpaulgaultier/video-gallery/videogallery3.jpg",
+        "/assets/video/brands/jeanpaulgaultier/video-gallery/3_preview.jpg",
       videoSrc: "/assets/video/brands/jeanpaulgaultier/video-gallery/3.mp4",
     },
   ],

@@ -33,7 +33,7 @@ export function BiographySection() {
         preload="auto"
         data-speed="0.9"
         className="biography__signature"
-        src="/assets/video/signature.mp4"
+        src="/assets/video/main-page/signature.mp4"
       />
     </section>
   );

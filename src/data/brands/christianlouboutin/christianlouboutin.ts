@@ -409,23 +409,24 @@ export const christianlouboutinBrandContent: BrandContentType = {
         id: 1,
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/christianlouboutin/bio.mp4",
+        previewSrc: "/assets/video/brands/christianlouboutin/bio_preview.jpg",
       },
     ],
   },
   videoGallerySection: [
     {
       previewImg:
-        "/assets/images/brands/christianlouboutin/video-gallery/videogallery1.jpg",
+        "/assets/video/brands/christianlouboutin/video-gallery/1_preview.jpg",
       videoSrc: "/assets/video/brands/christianlouboutin/video-gallery/1.mp4",
     },
     {
       previewImg:
-        "/assets/images/brands/christianlouboutin/video-gallery/videogallery2.jpg",
+        "/assets/video/brands/christianlouboutin/video-gallery/2_preview.jpg",
       videoSrc: "/assets/video/brands/christianlouboutin/video-gallery/2.mp4",
     },
     {
       previewImg:
-        "/assets/images/brands/christianlouboutin/video-gallery/videogallery3.jpg",
+        "/assets/video/brands/christianlouboutin/video-gallery/3_preview.jpg",
       videoSrc: "/assets/video/brands/christianlouboutin/video-gallery/3.mp4",
     },
   ],

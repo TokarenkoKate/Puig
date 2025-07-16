@@ -96,6 +96,8 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/carolina/perfume-details/good-girl.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/carolina/perfume-details/good-girl_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -108,6 +110,8 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/carolina/perfume-details/good-girl-2.mp4",
         id: 4,
+        previewSrc:
+          "/assets/video/brands/carolina/perfume-details/good-girl-2_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -228,6 +232,8 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/carolina/perfume-details/good-girl-supreme.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/carolina/perfume-details/good-girl-supreme_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -351,6 +357,8 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/carolina/perfume-details/good-girl.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/carolina/perfume-details/good-girl_preview.jpg",
       },
       {
         type: ContentBlockType.HEADING,
@@ -531,6 +539,8 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/carolina/perfume-details/very-good-girl-glam.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/carolina/perfume-details/very-good-girl-glam_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -651,6 +661,8 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/carolina/perfume-details/good-girl-blush.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/carolina/perfume-details/good-girl-blush_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -774,6 +786,8 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/carolina/perfume-details/good-girl-blush-elixir.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/carolina/perfume-details/good-girl-blush-elixir_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -889,6 +903,8 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/carolina/perfume-details/bad-boy.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/carolina/perfume-details/bad-boy_preview.jpg",
       },
     ],
   },
@@ -1020,6 +1036,8 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/carolina/perfume-details/bad-boy-le-parfum.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/carolina/perfume-details/bad-boy-le-parfum_preview.jpg",
       },
       {
         type: ContentBlockType.HEADING,
@@ -1051,6 +1069,8 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/carolina/perfume-details/bad-boy-le-parfum-2.mp4",
         id: 7,
+        previewSrc:
+          "/assets/video/brands/carolina/perfume-details/bad-boy-le-parfum-2_preview.jpg",
       },
     ],
   },
@@ -1184,6 +1204,8 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/carolina/perfume-details/bad-boy-cobald.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/carolina/perfume-details/bad-boy-cobald_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -1306,6 +1328,8 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/carolina/perfume-details/bad-boy-extreme.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/carolina/perfume-details/bad-boy-extreme_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -1419,6 +1443,8 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/carolina/perfume-details/bad-boy-cobald-elixir.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/carolina/perfume-details/bad-boy-cobald-elixir_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -1882,6 +1908,8 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/carolina/perfume-details/212-vip-rose.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/carolina/perfume-details/212-vip-rose_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -1989,6 +2017,8 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/carolina/perfume-details/212-vip-rose.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/carolina/perfume-details/212-vip-rose_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -2094,6 +2124,8 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/carolina/perfume-details/ch-carolina-herrera.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/carolina/perfume-details/ch-carolina-herrera_preview.jpg",
       },
     ],
   },
@@ -2360,6 +2392,8 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/carolina/perfume-details/very-goo-girl-elixir.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/carolina/perfume-details/very-goo-girl-elixir_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -2479,6 +2513,8 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/carolina/perfume-details/bad-boy-elixir.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/carolina/perfume-details/bad-boy-elixir_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -2596,6 +2632,8 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/carolina/perfume-details/212-vip-black-elixir.mp4",
         id: 3,
+        previewSrc:
+          "/assets/video/brands/carolina/perfume-details/212-vip-black-elixir_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,

@@ -560,6 +560,7 @@ export const lartisanparfumeurBrandContent: BrandContentType = {
       {
         id: 1,
         src: "/assets/video/brands/lartisanparfumeur/bio.mp4",
+        previewSrc: "/assets/video/brands/lartisanparfumeur/bio_preview.jpg",
         type: ContentBlockType.VIDEO,
       },
     ],
@@ -568,17 +569,17 @@ export const lartisanparfumeurBrandContent: BrandContentType = {
   videoGallerySection: [
     {
       previewImg:
-        "/assets/images/brands/lartisanparfumeur/video-gallery/videogallery1.png",
+        "/assets/video/brands/lartisanparfumeur/video-gallery/1_preview.png",
       videoSrc: "/assets/video/brands/lartisanparfumeur/video-gallery/1.mp4",
     },
     {
       previewImg:
-        "/assets/images/brands/lartisanparfumeur/video-gallery/videogallery2.png",
+        "/assets/video/brands/lartisanparfumeur/video-gallery/2_preview.png",
       videoSrc: "/assets/video/brands/lartisanparfumeur/video-gallery/2.mp4",
     },
     {
       previewImg:
-        "/assets/images/brands/lartisanparfumeur/video-gallery/videogallery3.png",
+        "/assets/video/brands/lartisanparfumeur/video-gallery/3_preview.png",
       videoSrc: "/assets/video/brands/lartisanparfumeur/video-gallery/3.mp4",
     },
   ],

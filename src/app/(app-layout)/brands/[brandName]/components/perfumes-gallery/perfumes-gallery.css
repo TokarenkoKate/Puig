@@ -133,17 +133,18 @@
   white-space: pre-line;
 }
 
-.perfume-universe__history video {
-  height: 406px;
-  border: none;
-}
-
 .perfume-universe__modal {
   height: 100%;
   max-width: 1000px;
   background: var(--color-white);
   padding: 20px;
   border-radius: 12px;
+}
+
+@media (max-width: 490px) {
+  .perfume-universe__card-title {
+    font-size: 12px;
+  }
 }
 
 /*----------------------------------------
@@ -252,6 +253,11 @@
 }
 
 @media (max-width: 768px) {
+  .perfume-details__description-content {
+    width: 100%;
+    gap: 8px;
+  }
+
   .perfumes-gallery__title {
     font-size: var(--text-2xl);
   }

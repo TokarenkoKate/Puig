@@ -14,7 +14,7 @@ export const ninaricciPerfumeUniverses: PerfumeUniverse[] = [
         id: 1,
         type: ContentBlockType.TEXT,
         paragraphs: [
-          "Самая волшебная сказка и самая романтическая мечта воплотились в культовой парфюмерной вселенной Les Belles de Nina от модного дома Nina Ricci. Композиции представлены в знаменитом флаконе-яблоке, который является современной вариацией невероятного и незабываемого хрустального флакона аромата Filles d’Eve, созданного компанией Lalique еще в 1952 году. Очарование, магия и волшебство ароматов вселенной Les Belles de Nina наполняют каждый флакон этой коллекции.",
+          "Самая волшебная сказка и самая романтическая мечта воплотились в культовой парфюмерной вселенной Nina от модного дома Nina Ricci. Композиции представлены в знаменитом флаконе-яблоке, который является современной вариацией невероятного и незабываемого хрустального флакона аромата Filles d’Eve, созданного компанией Lalique еще в 1952 году. Очарование, магия и волшебство ароматов вселенной Nina наполняют каждый флакон этой коллекции.",
         ],
       },
     ],
@@ -355,28 +355,23 @@ export const ninaricciBrandContent: BrandContentType = {
       {
         id: 1,
         src: "/assets/video/brands/ninaricci/hero.mp4",
+        previewSrc: "/assets/video/brands/ninaricci/hero_preview.jpg",
         type: ContentBlockType.VIDEO,
       },
     ],
   },
   videoGallerySection: [
     {
-      previewImg:
-        "/assets/images/brands/ninaricci/video-gallery/videogallery1.jpg",
-      videoSrc:
-        "/assets/video/brands/ninaricci/video-gallery/videogallery1.mp4",
+      previewImg: "/assets/video/brands/ninaricci/video-gallery/1_preview.jpg",
+      videoSrc: "/assets/video/brands/ninaricci/video-gallery/1.mp4",
     },
     {
-      previewImg:
-        "/assets/images/brands/ninaricci/video-gallery/videogallery2.jpg",
-      videoSrc:
-        "/assets/video/brands/ninaricci/video-gallery/videogallery2.mp4",
+      previewImg: "/assets/video/brands/ninaricci/video-gallery/2_preview.jpg",
+      videoSrc: "/assets/video/brands/ninaricci/video-gallery/2.mp4",
     },
     {
-      previewImg:
-        "/assets/images/brands/ninaricci/video-gallery/videogallery3.jpg",
-      videoSrc:
-        "/assets/video/brands/ninaricci/video-gallery/videogallery3.mp4",
+      previewImg: "/assets/video/brands/ninaricci/video-gallery/3_preview.jpg",
+      videoSrc: "/assets/video/brands/ninaricci/video-gallery/3.mp4",
     },
   ],
   imagesSliderSection: ninaricciImagesGallery,

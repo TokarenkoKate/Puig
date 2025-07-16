@@ -495,24 +495,21 @@ export const banderasBrandContent: BrandContentType = {
         id: 1,
         src: "/assets/video/brands/banderas/bio.mp4",
         type: ContentBlockType.VIDEO,
-        previewSrc: "/assets/images/brands/banderas/banderas-preview.jpg",
+        previewSrc: "/assets/video/brands/banderas/bio_preview.jpg",
       },
     ],
   },
   videoGallerySection: [
     {
-      previewImg:
-        "/assets/images/brands/banderas/video-gallery/videogallery_1.webp",
+      previewImg: "/assets/video/brands/banderas/video-gallery/1_preview.webp",
       videoSrc: "/assets/video/brands/banderas/video-gallery/1.mp4",
     },
     {
-      previewImg:
-        "/assets/images/brands/banderas/video-gallery/videogallery_2.webp",
+      previewImg: "/assets/video/brands/banderas/video-gallery/2_preview.webp",
       videoSrc: "/assets/video/brands/banderas/video-gallery/2.mp4",
     },
     {
-      previewImg:
-        "/assets/images/brands/banderas/video-gallery/videogallery_3.webp",
+      previewImg: "/assets/video/brands/banderas/video-gallery/3_preview.webp",
       videoSrc: "/assets/video/brands/banderas/video-gallery/3.mp4",
     },
   ],

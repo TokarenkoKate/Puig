@@ -12,28 +12,30 @@ import { BrandName } from "@/lib/types/general";
 /*----------------------------------------*/
 
 export const mainPageHeroSection = {
-  videoSrc: "/assets/video/hero-video.mp4",
+  videoSrc: "/assets/video/main-page/hero-video.mp4",
   title: "Puig love brands",
 };
 
-export const historyVideo = "/assets/video/puig-history.mp4";
-export const historyTwoVideo = "/assets/video/history_two.mp4";
-export const valuesVideo = "/assets/video/values.mp4";
+export const historyVideo = "/assets/video/main-page/puig-history.mp4";
+export const historyTwoVideo = "/assets/video/main-page/history_two.mp4";
+export const valuesVideo = "/assets/video/main-page/values.mp4";
 
 export const historyVideoProps = {
   controls: true,
   autoPlay: false,
-  poster: "/assets/images/main-page/history_preview.jpg",
+  poster: "/assets/video/main-page/puig-history_preview.jpg",
 };
 
 export const historyTwoVideoProps = {
   controls: true,
   autoPlay: false,
+  poster: "/assets/video/main-page/history_two_preview.jpg",
 };
 
 export const valuesVideoProps = {
   controls: true,
   autoPlay: false,
+  poster: "/assets/video/main-page/values_preview.jpg",
 };
 
 export const mainPageHistorySliderItems: SliderItem[] = [

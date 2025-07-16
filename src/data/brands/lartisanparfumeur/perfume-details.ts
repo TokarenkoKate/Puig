@@ -1412,6 +1412,8 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/lartisanparfumeur/perfume-details/lap-il-etait-un-bois.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/lartisanparfumeur/perfume-details/lap-il-etait-un-bois_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -1707,6 +1709,8 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/lartisanparfumeur/perfume-details/soleil-de-provence.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/lartisanparfumeur/perfume-details/soleil-de-provence_preview.jpg",
       },
     ],
   },

@@ -740,6 +740,7 @@ export const penhaligonsBrandContent: BrandContentType = {
       {
         id: 1,
         src: "/assets/video/brands/penhaligons/bio.mp4",
+        previewSrc: "/assets/video/brands/penhaligons/bio_preview.jpg",
         type: ContentBlockType.VIDEO,
       },
     ],
@@ -747,22 +748,22 @@ export const penhaligonsBrandContent: BrandContentType = {
   videoGallerySection: [
     {
       previewImg:
-        "/assets/images/brands/penhaligons/video-gallery/videogallery1.png",
+        "/assets/video/brands/penhaligons/video-gallery/1_preview.png",
       videoSrc: "/assets/video/brands/penhaligons/video-gallery/1.mp4",
     },
     {
       previewImg:
-        "/assets/images/brands/penhaligons/video-gallery/videogallery2.png",
+        "/assets/video/brands/penhaligons/video-gallery/2_preview.png",
       videoSrc: "/assets/video/brands/penhaligons/video-gallery/2.mp4",
     },
     {
       previewImg:
-        "/assets/images/brands/penhaligons/video-gallery/videogallery3.png",
+        "/assets/video/brands/penhaligons/video-gallery/3_preview.png",
       videoSrc: "/assets/video/brands/penhaligons/video-gallery/3.mp4",
     },
     {
       previewImg:
-        "/assets/images/brands/penhaligons/video-gallery/videogallery4.png",
+        "/assets/video/brands/penhaligons/video-gallery/4_preview.png",
       videoSrc: "/assets/video/brands/penhaligons/video-gallery/4.mp4",
     },
   ],

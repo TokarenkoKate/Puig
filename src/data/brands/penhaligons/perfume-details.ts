@@ -892,6 +892,8 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/penhaligons/perfume-details/the-favorite.mp4",
         id: 5,
+        previewSrc:
+          "/assets/video/brands/penhaligons/perfume-details/the-favorite_preview.jpg",
       },
     ],
   },
@@ -989,6 +991,8 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/penhaligons/perfume-details/highgrove-bouquet.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/penhaligons/perfume-details/highgrove-bouquet_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -1108,6 +1112,8 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/penhaligons/perfume-details/solaris.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/penhaligons/perfume-details/solaris_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -1226,6 +1232,8 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/penhaligons/perfume-details/dandy.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/penhaligons/perfume-details/dandy_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -1687,6 +1695,8 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/penhaligons/perfume-details/babylon.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/penhaligons/perfume-details/babylon_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -1820,6 +1830,8 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/penhaligons/perfume-details/constantinople.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/penhaligons/perfume-details/constantinople_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -1912,6 +1924,8 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/penhaligons/perfume-details/legacy-of-petra.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/penhaligons/perfume-details/legacy-of-petra_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -2029,6 +2043,8 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/penhaligons/perfume-details/alula.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/penhaligons/perfume-details/alula_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -3148,6 +3164,8 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/penhaligons/perfumes-gallery/the-inimitable-william-penhaligon.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/penhaligons/perfumes-gallery/the-inimitable-william-penhaligon_preview.jpg",
       },
       {
         type: ContentBlockType.HEADING,
@@ -3279,6 +3297,8 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/penhaligons/perfumes-gallery/the-world-according-to-arthur.mp4",
         id: 3,
+        previewSrc:
+          "/assets/video/brands/penhaligons/perfumes-gallery/the-world-according-to-arthur_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -3429,6 +3449,8 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/penhaligons/perfumes-gallery/mr-thompson.mp4",
         id: 5,
+        previewSrc:
+          "/assets/video/brands/penhaligons/perfumes-gallery/mr-thompson_preview.jpg",
       },
       {
         type: ContentBlockType.HEADING,
@@ -3556,6 +3578,8 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/penhaligons/perfumes-gallery/fortuitous-finley.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/penhaligons/perfumes-gallery/fortuitous-finley_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,

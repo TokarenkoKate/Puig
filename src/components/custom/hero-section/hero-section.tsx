@@ -8,26 +8,19 @@ import { WaveText } from "../wave-text/wave-text";
 
 type HeroSectionProps = {
   videoSrc?: string;
-  imageSrc?: string;
   title: string;
   className?: string;
 };
 
 const heroVideoProps = { loop: true, autoPlay: true, muted: true };
 
-export function HeroSection({
-  videoSrc,
-  imageSrc,
-  title,
-  className,
-}: HeroSectionProps) {
+export function HeroSection({ videoSrc, title, className }: HeroSectionProps) {
   const ref = useRef<HTMLElement>(null);
 
   return (
     <section className={clsx("hero", className)} ref={ref}>
       <FullscreenMedia
         videoSrc={videoSrc}
-        imageSrc={imageSrc}
         videoProps={heroVideoProps}
         className="hero__media"
       />

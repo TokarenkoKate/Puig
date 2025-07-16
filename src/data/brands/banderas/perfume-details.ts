@@ -126,6 +126,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/banderas/perfume-details/the-icon.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/banderas/perfume-details/the-icon_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -262,6 +264,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/banderas/perfume-details/the-icon-edp.mp4",
         id: 3,
+        previewSrc:
+          "/assets/video/brands/banderas/perfume-details/the-icon-edp_preview.jpg",
       },
       {
         type: ContentBlockType.HEADING,
@@ -431,6 +435,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/banderas/perfume-details/the-icon-elixir.mp4",
         id: 5,
+        previewSrc:
+          "/assets/video/brands/banderas/perfume-details/the-icon-elixir_preview.jpg",
       },
       {
         type: ContentBlockType.HEADING,
@@ -659,6 +665,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/banderas/perfume-details/the-icon-supreme.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/banderas/perfume-details/the-icon-supreme_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -755,6 +763,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/banderas/perfume-details/blue-seduction.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/banderas/perfume-details/blue-seduction_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -973,6 +983,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/banderas/perfume-details/king-of-seduction.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/banderas/perfume-details/king-of-seduction_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -1183,6 +1195,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/banderas/perfume-details/power-of-seduction.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/banderas/perfume-details/power-of-seduction_preview.png",
       },
       {
         type: ContentBlockType.TEXT,
@@ -1274,6 +1288,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/banderas/perfume-details/blue-seduction.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/banderas/perfume-details/blue-seduction_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -1382,6 +1398,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/banderas/perfume-details/queen-of-seduction.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/banderas/perfume-details/queen-of-seduction_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -1626,6 +1644,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/banderas/perfume-details/the-secret.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/banderas/perfume-details/the-secret_preview.png",
       },
       {
         type: ContentBlockType.TEXT,
@@ -1752,6 +1772,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/banderas/perfume-details/the-golden-secret-and-her-golden-secret.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/banderas/perfume-details/the-golden-secret-and-her-golden-secret_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -1873,6 +1895,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/banderas/perfume-details/the-secret-temptation-and-her-secret-temptation.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/banderas/perfume-details/the-secret-temptation-and-her-secret-temptation_preview.png",
       },
       {
         type: ContentBlockType.TEXT,
@@ -1991,6 +2015,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/banderas/perfume-details/the-secret-temptation-and-her-secret-temptation.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/banderas/perfume-details/the-secret-temptation-and-her-secret-temptation_preview.png",
       },
       {
         type: ContentBlockType.TEXT,
@@ -2108,6 +2134,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/banderas/perfume-details/the-golden-secret-and-her-golden-secret.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/banderas/perfume-details/the-golden-secret-and-her-golden-secret_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -2221,8 +2249,10 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
       },
       {
         type: ContentBlockType.VIDEO,
-        src: "/assets/video/brands/banderas/perfume-details/the-secret.mp44",
+        src: "/assets/video/brands/banderas/perfume-details/the-secret.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/banderas/perfume-details/the-secret_preview.png",
       },
       {
         type: ContentBlockType.TEXT,
@@ -2238,6 +2268,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/banderas/perfume-details/her-secret-desire.mp4",
         id: 4,
+        previewSrc:
+          "/assets/video/brands/banderas/perfume-details/her-secret-desire_preview.png",
       },
       {
         type: ContentBlockType.TEXT,
@@ -2354,6 +2386,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/banderas/perfume-details/secret-absolu-for-her.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/banderas/perfume-details/secret-absolu-for-her_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -2471,6 +2505,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/banderas/perfume-details/secret-absolu-for-him.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/banderas/perfume-details/secret-absolu-for-him_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -2568,6 +2604,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/banderas/perfume-details/her-secret-pink-absolu.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/banderas/perfume-details/her-secret-pink-absolu_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,

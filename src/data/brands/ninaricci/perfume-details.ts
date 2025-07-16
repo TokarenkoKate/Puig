@@ -94,6 +94,8 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/ninaricci/perfume-details/nina.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/ninaricci/perfume-details/nina_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -199,6 +201,8 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/ninaricci/perfume-details/nina-rouge.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/ninaricci/perfume-details/nina-rouge_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -333,11 +337,15 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/ninaricci/perfume-details/nina-rose_1.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/ninaricci/perfume-details/nina-rose_1_preview.jpg",
       },
       {
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/ninaricci/perfume-details/nina-rose_2.mp4",
         id: 3,
+        previewSrc:
+          "/assets/video/brands/ninaricci/perfume-details/nina-rose_2_preview.jpg",
       },
     ],
   },
@@ -497,6 +505,8 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/ninaricci/perfume-details/extra-rouge_1.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/ninaricci/perfume-details/extra-rouge_1_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -510,6 +520,8 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/ninaricci/perfume-details/extra-rouge_2.mp4",
         id: 4,
+        previewSrc:
+          "/assets/video/brands/ninaricci/perfume-details/extra-rouge_2_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -667,6 +679,8 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/ninaricci/perfume-details/nina-fleur.mp4",
         id: 5,
+        previewSrc:
+          "/assets/video/brands/ninaricci/perfume-details/nina-fleur_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -818,6 +832,8 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/ninaricci/perfume-details/nina-le-parfum.mp4",
         id: 5,
+        previewSrc:
+          "/assets/video/brands/ninaricci/perfume-details/nina-le-parfum_preview.jpg",
       },
       {
         type: ContentBlockType.HEADING,
@@ -957,6 +973,8 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/ninaricci/perfume-details/nina-illusion_1.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/ninaricci/perfume-details/nina-illusion_1_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -970,11 +988,15 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/ninaricci/perfume-details/nina-illusion_2.mp4",
         id: 4,
+        previewSrc:
+          "/assets/video/brands/ninaricci/perfume-details/nina-illusion_2_preview.jpg",
       },
       {
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/ninaricci/perfume-details/nina-illusion_3.mp4",
         id: 5,
+        previewSrc:
+          "/assets/video/brands/ninaricci/perfume-details/nina-illusion_3_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -1214,6 +1236,8 @@ export const ninaricciPerfumeDetails: PerfumeDetails[] = [
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/ninaricci/perfume-details/nina-rouge-crush.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/ninaricci/perfume-details/nina-rouge-crush_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,

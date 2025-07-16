@@ -13,8 +13,8 @@ import { useModalGallery } from "@/lib/hooks/use-modal-gallery";
 import { VideoGalleryItem } from "@/lib/types/general";
 import { ChevronLeft, ChevronRight, X } from "lucide-react";
 import Image from "next/image";
-import "./video-gallery.css";
 import { VideoComponent } from "../video-component/video-component";
+import "./video-gallery.css";
 
 export function VideoGallery({
   videoGalleryItems,

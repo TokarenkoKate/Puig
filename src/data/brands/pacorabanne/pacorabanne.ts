@@ -671,27 +671,31 @@ export const pacorabanneBrandContent: BrandContentType = {
       {
         id: 1,
         src: "/assets/video/brands/pacorabanne/bio.mp4",
+        previewSrc: "/assets/video/brands/pacorabanne/bio_preview.jpg",
         type: ContentBlockType.VIDEO,
       },
       {
         id: 2,
         src: "/assets/video/brands/pacorabanne/hero.mp4",
-        previewSrc: "/assets/images/brands/pacorabanne/bio-preview.png",
+        previewSrc: "/assets/video/brands/pacorabanne/hero_preview.png",
         type: ContentBlockType.VIDEO,
       },
     ],
   },
   videoGallerySection: [
     {
-      previewImg: "/assets/images/brands/pacorabanne/video-gallery/cover1.webp",
+      previewImg:
+        "/assets/video/brands/pacorabanne/video-gallery/1_preview.webp",
       videoSrc: "/assets/video/brands/pacorabanne/video-gallery/1.mp4",
     },
     {
-      previewImg: "/assets/images/brands/pacorabanne/video-gallery/cover2.webp",
+      previewImg:
+        "/assets/video/brands/pacorabanne/video-gallery/2_preview.webp",
       videoSrc: "/assets/video/brands/pacorabanne/video-gallery/2.mp4",
     },
     {
-      previewImg: "/assets/images/brands/pacorabanne/video-gallery/cover3.webp",
+      previewImg:
+        "/assets/video/brands/pacorabanne/video-gallery/3_preview.webp",
       videoSrc: "/assets/video/brands/pacorabanne/video-gallery/3.mp4",
     },
   ],

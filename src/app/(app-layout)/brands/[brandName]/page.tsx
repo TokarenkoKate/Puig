@@ -40,16 +40,9 @@ export default async function BrandPage({
 
   return (
     <div>
-      <HeroSection
-        imageSrc={heroSection.heroImageSrc}
-        videoSrc={heroSection.videoSrc}
-        title={heroSection.title}
-      />
+      <HeroSection videoSrc={heroSection.videoSrc} title={heroSection.title} />
       <BrandHistorySection sliderItems={historySliderSection} />
-      <BrandBioSection
-        content={bioSection.content}
-        video={bioSection.video}
-      />
+      <BrandBioSection content={bioSection.content} video={bioSection.video} />
       <BrandsImagesGallerySection images={imagesSliderSection} />
       <VideoGallery videoGalleryItems={videoGallerySection} />
       <UniverseSection perfumeUniverses={perfumesSection} />

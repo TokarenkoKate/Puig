@@ -69,7 +69,6 @@ export type VideoGalleryItem = {
 export type BrandContentType = {
   heroSection: {
     videoSrc?: string;
-    heroImageSrc?: string;
     title: string;
   };
   historySliderSection: SliderItem[];

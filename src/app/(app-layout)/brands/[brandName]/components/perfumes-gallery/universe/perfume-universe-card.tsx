@@ -24,7 +24,7 @@ export function PerfumeUniverseCard({
             className="perfume-universe__card-image"
             src={url?.src}
           />
-          <span>{title}</span>
+          <span className="perfume-universe__card-title">{title}</span>
         </div>
       </DialogTrigger>
       <DialogContent className="perfume-universe__modal">

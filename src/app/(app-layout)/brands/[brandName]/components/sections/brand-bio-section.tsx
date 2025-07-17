@@ -1,6 +1,7 @@
 import { ReadMore } from "@/components/custom/read-more/read-more";
 import { ContentBlock, ContentVideoBlock } from "@/lib/types/components";
 import { renderContentBlock } from "@/components/custom/content-block/render-content-block";
+import { ContentBlockVideo } from "@/components/custom/content-block/variants/content-block-video";
 
 type BrandBioSectionProps = {
   content: {
@@ -12,6 +13,7 @@ type BrandBioSectionProps = {
 
 export function BrandBioSection({ content, video }: BrandBioSectionProps) {
   const showReadMode = content.hidden;
+  const showReadModeVideo = video && video?.length > 1;
 
   return (
     <section className="brand-bio w-fixed">
@@ -24,7 +26,16 @@ export function BrandBioSection({ content, video }: BrandBioSectionProps) {
         )}
       </div>
       {video && (
-        <div className="brand-bio__videos">{video.map(renderContentBlock)}</div>
+        <div className="w-fixed">
+          <ContentBlockVideo block={video[0]} />
+          {showReadModeVideo && (
+            <div className="pt-10">
+              <ReadMore buttonText="Следующее видео">
+                {video.slice(1).map(renderContentBlock)}
+              </ReadMore>
+            </div>
+          )}
+        </div>
       )}
     </section>
   );

@@ -1,4 +1,5 @@
-import { VideoComponent } from "@/components/custom/video-component/video-component";
+import { ContentBlockVideo } from "@/components/custom/content-block/variants/content-block-video";
+import { weArePuigVideoBlock } from "@/data/main-page-data";
 
 export function CompanySection() {
   return (
@@ -23,15 +24,7 @@ export function CompanySection() {
         </div>
       </div>
       <div className="company__video-wrapper" data-speed="0.9">
-        <VideoComponent
-          autoPlay={false}
-          loop
-          playsInline
-          controls
-          className="company__video"
-          poster="/assets/video/main-page/we-are-puig_preview.jpg"
-          src="/assets/video/main-page/we-are-puig.mp4"
-        />
+        <ContentBlockVideo block={weArePuigVideoBlock} />
       </div>
     </section>
   );

@@ -557,11 +557,6 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         ],
         id: 1,
       },
-      {
-        type: ContentBlockType.HEADING,
-        heading: "Не представлено в РФ.",
-        id: 2,
-      },
     ],
   },
   {

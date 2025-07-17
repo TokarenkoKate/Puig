@@ -1177,6 +1177,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
   {
     brandTitle: "L’Artisan Parfumeur",
     title: "A FLEUR DE PECHE",
+    transcription: "А ФЛЁР ДЕ ПЭШ",
     imagegallery: [
       {
         id: 1,
@@ -2089,6 +2090,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
   {
     brandTitle: "L’Artisan Parfumeur",
     title: "ABYSSAE",
+    transcription: "АБИССЭ",
     imagegallery: [
       {
         id: 1,
@@ -2637,6 +2639,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
   {
     brandTitle: "L’Artisan Parfumeur",
     title: "HISTOIRE D'OARNGERS EXTREME",
+    transcription: "ИСТУАР Д'ОРАНЖЭ ЭКСТРЕМ",
     imagegallery: [
       {
         id: 1,

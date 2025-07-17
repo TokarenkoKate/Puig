@@ -143,7 +143,12 @@
 
 @media (max-width: 490px) {
   .perfume-universe__card-title {
-    font-size: 12px;
+    font-size: 11px;
+  }
+
+  span.perfume-universe__title,
+  span.perfume-universe__subtitle {
+    font-size: 14px;
   }
 }
 

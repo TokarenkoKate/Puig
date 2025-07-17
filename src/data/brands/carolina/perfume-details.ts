@@ -2645,4 +2645,124 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
       },
     ],
   },
+  {
+    brandTitle: "Carolina Herrera",
+    title: "212 VIP ROSE ELIXIR",
+    imagegallery: [
+      {
+        id: 1,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/212-vip-rose-elixir/1.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 2,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/212-vip-rose-elixir/2.jpg",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/212-vip-rose-elixir/3.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/212-vip-rose-elixir/4.jpg",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/212-vip-rose-elixir/5.png",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/212-vip-rose-elixir/6.jpg",
+          height: 800,
+          width: 800,
+        },
+      },
+      {
+        id: 7,
+        title: "",
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/212-vip-rose-elixir/7.jpg",
+          height: 800,
+          width: 800,
+        },
+      },
+    ],
+    rightImage: [
+      {
+        id: 1,
+        src: {
+          src: "/assets/images/brands/carolina/perfume-details/212-vip-rose-elixir/rightimage.png",
+          height: 340,
+          width: 340,
+        },
+        components: [
+          "Черная смородина",
+          "Роза",
+          "Ваниль",
+          "Пачули",
+          "Цветы персика",
+        ],
+      },
+    ],
+    rightContent: [
+      {
+        id: 1,
+        subtext: "Ольфакторное семейство:",
+        text: "ШИПРОВЫЙ, цветочный",
+      },
+      {
+        id: 2,
+        subtext: "Парфюмер(ы):",
+        text: "Эмили Копперман",
+      },
+    ],
+    description: [
+      {
+        type: ContentBlockType.TEXT,
+        paragraphs: [
+          "Эликсир женственности",
+          "По определению, эликсир — ценная эссенция высокой концентрации. 212 VIP Rosé Elixir — это амбициозная заявка на самый роскошный и насыщенный аромат во вселенной 212 от Carolina Herrera. Чтобы передать магию чувственности и притяжения, парфюмер Эмили Копперман — давний партнёр Дома — создала изысканную ольфакторную симфонию, в которой гармонично переплетаются, казалось бы, несочетаемые ингредиенты.",
+          "С первого вдоха в верхних нотах игриво звучит чёрная смородина. Её сладость и нежность, приправленные пикантностью мандарина и личи, — словно предвкушение незабываемой ночи. Искристый характер, присущий ароматам коллекции, усиливается в нотах сердца, где пьянящая нота розы придает композиции яркость и романтичность. Далее раскрывается знаковый аккорд цветка персика, с которого началась история успеха 212 VIP Rosé более десяти лет назад. В базовых нотах собрано непревзойденное трио, которое останется на коже до самого рассвета: масло пачули, элегантное и по-настоящему обволакивающее, абсолют бурбонской ванили и мускус.",
+          "212 VIP Rosé Elixir — это ультра женственный цветочно-фруктовый аромат, обладающий озорным характером, полным энергии ночной жизни. Новая концентрация предлагает интенсивное звучание высококачественных ингредиентов и отражает экологически ответственный подход дома Carolina Herrera.",
+          "Мерцающая россыпь блесток",
+          "212 VIP Rosé Elixir представляет новую версию культового дизайна — теперь флакон переливается градиентом и сверкает розовым глиттером, воплощая элегантность и гламур. Сочетание формы и стиля превращает аромат в настоящий объект желания и отражает философию бренда Carolina Herrera. Силуэт флакона становится символом роскоши и эстетики в вашем парфюмерном гардеробе. Это способ отпраздновать свободу самовыражения — с блеском в каждой детали. Спустя более десяти лет триумфа озорного настроения аромата 212 VIP Rosé, новинка 212 VIP Rosé Elixir представляет ослепительное продолжение этой истории в более насыщенной концентрации и искрящемся дизайне. Это дерзкий призыв оставаться собой и сиять без тени сомнений.",
+        ],
+        id: 1,
+      },
+
+      {
+        type: ContentBlockType.VIDEO,
+        src: "/assets/video/brands/carolina/perfume-details/212-vip-rose-elixir.mp4",
+        id: 3,
+        previewSrc:
+          "/assets/video/brands/carolina/perfume-details/212-vip-rose-elixir_preview.jpg",
+      },
+    ],
+  },
 ];

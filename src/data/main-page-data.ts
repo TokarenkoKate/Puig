@@ -39,6 +39,13 @@ export const valuesVideoBlock: ContentVideoBlock = {
   type: ContentBlockType.VIDEO,
 };
 
+export const weArePuigVideoBlock: ContentVideoBlock = {
+  id: 4,
+  type: ContentBlockType.VIDEO,
+  previewSrc: "/assets/video/main-page/we-are-puig_preview.jpg",
+  src: "/assets/video/main-page/we-are-puig.mp4",
+};
+
 export const mainPageHistorySliderItems: SliderItem[] = [
   {
     year: 1914,

@@ -2269,7 +2269,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         src: "/assets/video/brands/banderas/perfume-details/her-secret-desire.mp4",
         id: 4,
         previewSrc:
-          "/assets/video/brands/banderas/perfume-details/her-secret-desire_preview.png",
+          "/assets/video/brands/banderas/perfume-details/her-secret-desire_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,

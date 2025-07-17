@@ -91,14 +91,15 @@ export function VideoGallery({
                     >
                       <ChevronLeft className="w-8 h-8" />
                     </Button>
-                    <VideoComponent
-                      autoPlay
-                      muted
-                      playsInline
-                      preload="auto"
-                      controls
-                      src={selectedItem.videoSrc}
-                    />
+                    <div className="relative pt-[56.26%] w-full h:0 overflow-hidden">
+                      <VideoComponent
+                        preload="auto"
+                        controls
+                        autoPlay
+                        className="absolute top-0 left-0 w-full h-full object-cover"
+                        src={selectedItem.videoSrc}
+                      />
+                    </div>
                     <Button
                       variant="ghost"
                       size="icon"

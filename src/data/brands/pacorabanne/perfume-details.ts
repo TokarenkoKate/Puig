@@ -1254,7 +1254,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Цитрусовый, древесный",
+        text: "Древесный, ароматический",
       },
       {
         id: 2,

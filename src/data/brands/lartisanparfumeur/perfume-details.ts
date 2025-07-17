@@ -1073,7 +1073,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
   {
     brandTitle: "L’Artisan Parfumeur",
     title: "MEMOIRE DE ROSES",
-    transcription: "МЕМУАР ДЁ РОУЗ",
+    transcription: "/МЕМУАР ДЁ РОУЗ/",
     imagegallery: [
       {
         id: 1,
@@ -1177,7 +1177,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
   {
     brandTitle: "L’Artisan Parfumeur",
     title: "A FLEUR DE PECHE",
-    transcription: "А ФЛЁР ДЕ ПЭШ",
+    transcription: "/А ФЛЁР ДЕ ПЭШ/",
     imagegallery: [
       {
         id: 1,
@@ -1301,7 +1301,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
   {
     brandTitle: "L’Artisan Parfumeur",
     title: "IL ÉTAIT UN BOIS",
-    transcription: "ИЛЬ ЭТЭТАН БУА",
+    transcription: "/ИЛЬ ЭТЭТАН БУА/",
     imagegallery: [
       {
         id: 1,
@@ -2090,7 +2090,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
   {
     brandTitle: "L’Artisan Parfumeur",
     title: "ABYSSAE",
-    transcription: "АБИССЭ",
+    transcription: "/АБИССЭ/",
     imagegallery: [
       {
         id: 1,
@@ -2639,7 +2639,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
   {
     brandTitle: "L’Artisan Parfumeur",
     title: "HISTOIRE D'OARNGERS EXTREME",
-    transcription: "ИСТУАР Д'ОРАНЖЭ ЭКСТРЕМ",
+    transcription: "/ИСТУАР Д'ОРАНЖЭ ЭКСТРЕМ/",
     imagegallery: [
       {
         id: 1,

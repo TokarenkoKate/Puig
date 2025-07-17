@@ -1,4 +1,6 @@
 import {
+  ContentBlockType,
+  ContentVideoBlock,
   ImageGalleryItem,
   MultiStepQuizStep,
   SliderItem,
@@ -16,26 +18,25 @@ export const mainPageHeroSection = {
   title: "Puig love brands",
 };
 
-export const historyVideo = "/assets/video/main-page/puig-history.mp4";
-export const historyTwoVideo = "/assets/video/main-page/history_two.mp4";
-export const valuesVideo = "/assets/video/main-page/values.mp4";
-
-export const historyVideoProps = {
-  controls: true,
-  autoPlay: false,
-  poster: "/assets/video/main-page/puig-history_preview.jpg",
+export const historyVideoBlock: ContentVideoBlock = {
+  id: 1,
+  src: "/assets/video/main-page/puig-history.mp4",
+  previewSrc: "/assets/video/main-page/puig-history_preview.jpg",
+  type: ContentBlockType.VIDEO,
 };
 
-export const historyTwoVideoProps = {
-  controls: true,
-  autoPlay: false,
-  poster: "/assets/video/main-page/history_two_preview.jpg",
+export const historyTwoVideoBlock: ContentVideoBlock = {
+  id: 2,
+  src: "/assets/video/main-page/history_two.mp4",
+  previewSrc: "/assets/video/main-page/history_two_preview.jpg",
+  type: ContentBlockType.VIDEO,
 };
 
-export const valuesVideoProps = {
-  controls: true,
-  autoPlay: false,
-  poster: "/assets/video/main-page/values_preview.jpg",
+export const valuesVideoBlock: ContentVideoBlock = {
+  id: 3,
+  src: "/assets/video/main-page/values.mp4",
+  previewSrc: "/assets/video/main-page/values_preview.jpg",
+  type: ContentBlockType.VIDEO,
 };
 
 export const mainPageHistorySliderItems: SliderItem[] = [

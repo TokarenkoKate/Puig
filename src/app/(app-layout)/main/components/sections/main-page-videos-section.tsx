@@ -1,24 +1,16 @@
-import { FullscreenMedia } from "@/components/custom/fullscreen-media/fullscreen-media";
+import { ContentBlockVideo } from "@/components/custom/content-block/variants/content-block-video";
 import { ReadMore } from "@/components/custom/read-more/read-more";
-import {
-  historyVideo,
-  historyVideoProps,
-  historyTwoVideo,
-  historyTwoVideoProps,
-} from "@/data/main-page-data";
+import { historyTwoVideoBlock, historyVideoBlock } from "@/data/main-page-data";
 
 export function MainPageVideosSection() {
   return (
-    <>
-      <FullscreenMedia videoSrc={historyVideo} videoProps={historyVideoProps} />
+    <div className="w-fixed">
+      <ContentBlockVideo block={historyVideoBlock} />
       <div className="pt-10">
         <ReadMore buttonText="Следующее видео">
-          <FullscreenMedia
-            videoSrc={historyTwoVideo}
-            videoProps={historyTwoVideoProps}
-          />
+          <ContentBlockVideo block={historyTwoVideoBlock} />
         </ReadMore>
       </div>
-    </>
+    </div>
   );
 }

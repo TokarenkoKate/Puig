@@ -1,10 +1,6 @@
-import { FullscreenMedia } from "@/components/custom/fullscreen-media/fullscreen-media";
+import { ContentBlockVideo } from "@/components/custom/content-block/variants/content-block-video";
 import { HeroSection } from "@/components/custom/hero-section/hero-section";
-import {
-  mainPageHeroSection,
-  valuesVideo,
-  valuesVideoProps,
-} from "@/data/main-page-data";
+import { mainPageHeroSection, valuesVideoBlock } from "@/data/main-page-data";
 import { BiographySection } from "./components/sections/biography-section";
 import { CompanySection } from "./components/sections/company-section";
 import { HistorySection } from "./components/sections/history-section";
@@ -29,7 +25,9 @@ export default function Main() {
       <MainPageImagesGallerySection />
       <MainPageVideosSection />
       <ValuesSection />
-      <FullscreenMedia videoSrc={valuesVideo} videoProps={valuesVideoProps} />
+      <div className="w-fixed">
+        <ContentBlockVideo block={valuesVideoBlock} />
+      </div>
       <PortfolioSection />
       <TestSection />
     </div>

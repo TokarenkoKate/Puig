@@ -377,13 +377,13 @@ const pacorabanneQuiz = [
   },
   {
     question:
-      "В каком году состоялся показ коллекции PACO RABANNE «12 неносибельных платьев»?:",
+      "В каком году состоялся показ коллекции RABANNE «12 неносибельных платьев»?:",
     answers: ["1986", "1969", "1966", "1996"],
     correctAnswer: "1966",
   },
   {
     question:
-      "Из чего было созданно самое дорогое в истории моды платье от Paco Rabanne?:",
+      "Из чего было созданно самое дорогое в истории моды платье от Rabanne?:",
     answers: [
       "фольга и алмазы",
       "золото и бриллианты",
@@ -393,7 +393,7 @@ const pacorabanneQuiz = [
     correctAnswer: "золото и бриллианты",
   },
   {
-    question: "Креативный директор Дома моды Paco Rabanne сегодня:",
+    question: "Креативный директор Дома моды Rabanne сегодня:",
     answers: [
       "Эрик Бьютеба",
       "Оливье Рустен",
@@ -418,7 +418,7 @@ const pacorabanneQuiz = [
     correctAnswer: "Аккорд солёной ванили",
   },
   {
-    question: "Какая вселенная ароматов PACO RABANNE появилась в 2008 году?",
+    question: "Какая вселенная ароматов RABANNE появилась в 2008 году?",
     answers: [
       "Black XS, Black XS for her",
       "Invictus, Olympea",

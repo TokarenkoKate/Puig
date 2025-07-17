@@ -76,7 +76,13 @@ export function NavigationMenuGroup({
               />
             </Link>
           );
-          return isWithinSheet ? <SheetClose asChild>{link}</SheetClose> : link;
+          return isWithinSheet ? (
+            <SheetClose asChild key={brand}>
+              {link}
+            </SheetClose>
+          ) : (
+            link
+          );
         })}
       </div>
     </div>

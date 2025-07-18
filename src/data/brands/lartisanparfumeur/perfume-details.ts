@@ -1177,7 +1177,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
   {
     brandTitle: "L’Artisan Parfumeur",
     title: "A FLEUR DE PECHE",
-    transcription: "/А ФЛЁР ДЕ ПЭШ/",
+    transcription: "/А ФЛЁР ДЁ ПЭШ/",
     imagegallery: [
       {
         id: 1,
@@ -1619,6 +1619,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
   {
     brandTitle: "L’Artisan Parfumeur",
     title: "SOLEIL DE PROVENCE",
+    transcription: "/СОЛЕЙ ДЁ ПРОВАНС/",
     imagegallery: [
       {
         id: 1,

@@ -865,12 +865,11 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
         id: 1,
       },
       {
-        type: ContentBlockType.IMAGE,
-        src: "/assets/images/brands/penhaligons/perfume-details/the-favourite/desc_1.webp",
-        alt: "",
-        width: 960,
-        height: 640,
+        type: ContentBlockType.VIDEO,
+        src: "/assets/video/brands/penhaligons/perfume-details/the-favorite.mp4",
         id: 2,
+        previewSrc:
+          "/assets/video/brands/penhaligons/perfume-details/the-favorite_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -879,21 +878,6 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
           "Все традиции соблюдены, аромат представлен в историческом флаконе, а элегантный бантик как бы намекает нам, что девушка обладала чувством вкуса и стиля.",
         ],
         id: 3,
-      },
-      {
-        type: ContentBlockType.IMAGE,
-        src: "/assets/images/brands/penhaligons/perfume-details/the-favourite/desc_2.webp",
-        alt: "",
-        width: 960,
-        height: 640,
-        id: 4,
-      },
-      {
-        type: ContentBlockType.VIDEO,
-        src: "/assets/video/brands/penhaligons/perfume-details/the-favorite.mp4",
-        id: 5,
-        previewSrc:
-          "/assets/video/brands/penhaligons/perfume-details/the-favorite_preview.jpg",
       },
     ],
   },

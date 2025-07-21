@@ -15,11 +15,11 @@ export function CompanySection() {
             качестве продукции.
           </p>
           <p className="company__text">
-            PUIG полностью владеет такими домами моды как: Paco Rabanne,
-            Carolina Herrera, Nina Ricci, Jean Paul Gaultier и Dries Van Noten.
-            А также работает по лицензии с марками: Christian Louboutin, Comme
-            Des Garçons, Antonio Banderas, Shakira и United Colors of Benetton.
-            Продукция компании представлена более чем в 150 странах мира.
+            PUIG полностью владеет такими домами моды как: Rabanne, Carolina
+            Herrera, Nina Ricci, Jean Paul Gaultier и Dries Van Noten. А также
+            работает по лицензии с марками: Christian Louboutin, Banderas,
+            Shakira и United Colors of Benetton. Продукция компании представлена
+            более чем в 150 странах мира.
           </p>
         </div>
       </div>

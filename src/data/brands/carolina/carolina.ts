@@ -584,6 +584,14 @@ export const carolinaBrandContent: BrandContentType = {
       previewImg: "/assets/video/brands/carolina/video-gallery/4_preview.jpg",
       videoSrc: "/assets/video/brands/carolina/video-gallery/4.mp4",
     },
+    {
+      previewImg: "/assets/video/brands/carolina/video-gallery/5_preview.png",
+      videoSrc: "/assets/video/brands/carolina/video-gallery/5.mp4",
+    },
+    {
+      previewImg: "/assets/video/brands/carolina/video-gallery/6_preview.png",
+      videoSrc: "/assets/video/brands/carolina/video-gallery/6.mp4",
+    },
   ],
   imagesSliderSection: carolinaImagesGallery,
   perfumesSection: carolinaPerfumeUniverses,

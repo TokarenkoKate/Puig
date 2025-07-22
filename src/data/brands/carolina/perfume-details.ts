@@ -76,7 +76,7 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Восточный, цветочный",
+        text: "Амбровый, цветочный",
       },
       {
         id: 2,
@@ -211,7 +211,7 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Восточный, цветочный",
+        text: "Амбровый, цветочный",
       },
       {
         id: 2,
@@ -882,7 +882,7 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Восточный, фужерный",
+        text: "Амбровый, фужерный",
       },
       {
         id: 2,
@@ -1719,7 +1719,7 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Восточный, цветочный",
+        text: "Амбровый, цветочный",
       },
       {
         id: 2,
@@ -1804,7 +1804,7 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Древесный, восточный",
+        text: "Древесный, амбровый",
       },
       {
         id: 2,
@@ -1995,7 +1995,7 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Фужерный, восточный",
+        text: "Фужерный, амбровый",
       },
       {
         id: 2,
@@ -2285,7 +2285,7 @@ export const carolinePerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Древесный, восточный",
+        text: "Древесный, амбровый",
       },
       {
         id: 2,

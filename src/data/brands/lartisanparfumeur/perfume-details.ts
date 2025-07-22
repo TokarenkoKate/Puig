@@ -256,11 +256,6 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         ],
         id: 1,
       },
-      {
-        type: ContentBlockType.HEADING,
-        heading: "Эксклюзивно в ЦУМ и ARTICOLI.",
-        id: 2,
-      },
     ],
   },
   {
@@ -442,7 +437,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Восточный, гурманский",
+        text: "Амбровый, гурманский",
       },
       {
         id: 2,
@@ -507,7 +502,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Восточный, восточный",
+        text: "Амбровый, амбровый",
       },
       {
         id: 2,
@@ -522,11 +517,6 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
           "L'Eau d'Ambre от L’Artisan Parfumeur напоминает одну из популярнейших восточных сказок, которые вошли в «Тысяча и одну ночь». Парфюм базируется на старинной формуле, которая использует самые редкостные и драгоценные компоненты: амбру и бальзамы. Роскошная и мягкая эссенция незаметно становится таинственным и мистическим ароматом, сохранившим классический стиль и достоинство. Соединив стихии Огня и Земли, L'Eau d'Ambre восхищает и провоцирует своими резкими переходами от соблазнительной чувственности к мягкой сладости, от безразличной неги к проявлению твердости, от безмятежного созерцания к огненной страсти.",
         ],
         id: 1,
-      },
-      {
-        type: ContentBlockType.HEADING,
-        heading: "Эксклюзивно в ЦУМ и ARTICOLI.",
-        id: 2,
       },
     ],
   },
@@ -578,7 +568,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Восточный, пряный",
+        text: "Амбровый, пряный",
       },
       {
         id: 2,
@@ -593,11 +583,6 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
           "Аромат вдохновлен 1000 и 1 ночью. Шехерезада рассказывала царю сказочные истории, и его любопытство спасало ей жизнь. Соединившись воедино, изысканные и душистые восточные ноты, с добавлением ароматных специй и дорогих пряностей, навевают воспоминания о старинных эликсирах вечной молодости и любви.",
         ],
         id: 1,
-      },
-      {
-        type: ContentBlockType.HEADING,
-        heading: "Эксклюзивно в ЦУМ и ARTICOLI.",
-        id: 2,
       },
     ],
   },
@@ -780,7 +765,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Древесный, восточный",
+        text: "Древесный, амбровый",
       },
       {
         id: 2,
@@ -2275,7 +2260,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Восточный, кожаный",
+        text: "Амбровый, кожаный",
       },
       {
         id: 2,
@@ -2366,11 +2351,6 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         ],
         id: 1,
       },
-      {
-        type: ContentBlockType.HEADING,
-        heading: "Эксклюзивно в ЦУМ и ARTICOLI.",
-        id: 2,
-      },
     ],
   },
   {
@@ -2438,11 +2418,6 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
         ],
         id: 1,
       },
-      {
-        type: ContentBlockType.HEADING,
-        heading: "Эксклюзивно в ЦУМ и ARTICOLI.",
-        id: 2,
-      },
     ],
   },
   {
@@ -2500,7 +2475,7 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Восточный, мускусный",
+        text: "Амбровый, мускусный",
       },
       {
         id: 2,
@@ -2516,11 +2491,6 @@ export const lartisanparfumeurPerfumeDetails: PerfumeDetails[] = [
           "Идея «цветочного молока» ожила в воображении парфюмера: не только аромат, но также текстура и ингредиенты. Вдохновением стал солнечный цветок гелиотропа с маслянистым и сливочным ароматом. Мускатный орех с теплым, пряным запахом вызывает неизбежное привыкание. Последняя деталь пазла, завершающая гармоничное слияние аромата с кожей, — магическая энергия амбры, тёплая нота мускуса, которые завершают аккорд на чувственной и гармоничной ноте.",
         ],
         id: 1,
-      },
-      {
-        type: ContentBlockType.HEADING,
-        heading: "Эксклюзивно в ЦУМ и ARTICOLI.",
-        id: 2,
       },
     ],
   },

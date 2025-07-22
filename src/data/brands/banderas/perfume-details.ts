@@ -87,25 +87,14 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
           height: 845,
           width: 845,
         },
-        components: [
-          "Бергамот",
-          "Грейпфрут",
-          "Черный перец",
-          "Лист фиалки",
-          "Лаванда",
-          "Шалфей",
-          "Пачули",
-          "Древесный аккорд",
-          "Бобы тонка",
-          "Амбра",
-        ],
+        components: ["Лаванда", "Лист фиалки", "Амбра", "Сандал", "Грейпфрут"],
       },
     ],
     rightContent: [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Свежий, древесный, восточный",
+        text: "ДРЕВЕСНЫЙ, амбровый",
       },
       {
         id: 2,
@@ -622,24 +611,18 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/the-icon-supreme/rightimage.png",
+          src: "/assets/images/brands/banderas/perfume-details/the-icon-supreme/rightimage.jpg",
           height: 2000,
           width: 2000,
         },
-        components: [
-          "Мох",
-          "аккорд конопли",
-          "розмарин",
-          "розовый перец",
-          "кипарис",
-        ],
+        components: ["Кедр", "Мята", "Морской аккорд", "Амбра", "Бергамот"],
       },
     ],
     rightContent: [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Ароматический, древесный",
+        text: "АРОМАТИЧЕСКИЙ, цитрусовый",
       },
       {
         id: 2,
@@ -680,7 +663,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/blue-seduction/1.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/blue-seduction/1.png",
           height: 845,
           width: 845,
         },
@@ -689,7 +672,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/blue-seduction/2.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/blue-seduction/2.png",
           height: 846,
           width: 845,
         },
@@ -698,7 +681,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/blue-seduction/3.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/blue-seduction/3.png",
           height: 845,
           width: 845,
         },
@@ -707,7 +690,25 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 4,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/blue-seduction/4.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/blue-seduction/4.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/banderas/perfume-details/blue-seduction/5.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 6,
+        title: "",
+        src: {
+          src: "/assets/images/brands/banderas/perfume-details/blue-seduction/6.png",
           height: 845,
           width: 845,
         },
@@ -721,24 +722,14 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
           height: 340,
           width: 340,
         },
-        components: [
-          "Мята",
-          "Морской аккорд",
-          "Бергамот",
-          "Черная смородина",
-          "Кардамон",
-          "Кофе",
-          "Мускус",
-          "Дыня",
-          "Кедр",
-        ],
+        components: ["Кедр", "Мята", "Морской аккорд", "Амбра", "Бергамот"],
       },
     ],
     rightContent: [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Древесный, морской",
+        text: "АРОМАТИЧЕСКИЙ, цитрусовый",
       },
       {
         id: 2,
@@ -778,7 +769,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/black-seduction/1.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/black-seduction/1.png",
           height: 845,
           width: 845,
         },
@@ -787,7 +778,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/black-seduction/2.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/black-seduction/2.png",
           height: 845,
           width: 845,
         },
@@ -796,7 +787,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/black-seduction/3.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/black-seduction/3.png",
           height: 845,
           width: 845,
         },
@@ -805,16 +796,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 4,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/black-seduction/4.jpg",
-          height: 845,
-          width: 845,
-        },
-      },
-      {
-        id: 5,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/black-seduction/5.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/black-seduction/4.png",
           height: 845,
           width: 845,
         },
@@ -829,14 +811,11 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
           width: 340,
         },
         components: [
-          "Черная смородина",
-          "Кардамон",
-          "Бергамот",
-          "Зеленый аккорд",
-          "Мускатный орех",
-          "Амбра",
-          "Бобы тонка",
           "Кедр",
+          "Лаванда",
+          "Кардамон",
+          "Черная смородина",
+          "Бергамот",
         ],
       },
     ],
@@ -844,7 +823,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Фужерный, шипровый",
+        text: "АРОМАТИЧЕСКИЙ, древесный",
       },
       {
         id: 2,
@@ -856,8 +835,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
       {
         type: ContentBlockType.TEXT,
         paragraphs: [
-          "Banderas Black Seduction ― чувственный, волнующий аромат, который способен моментально покорить женские сердца своим интригующим и оригинальным шлейфом. Данный аромат, безусловно, стоит отнести к категории вечерних: он яркий и сильный, моментально окутывает своей теплотой всех вокруг.",
-          "Banderas Black Seduction будет играть на своем обладателе всеми своими нотами и оттенками, привлекая к нему всеобщее внимание. Безусловно, говоря о Banderas Black Seduction, нельзя не отметить его поистине оригинальный флакон прямоугольной формы и дымчатой расцветки, который соединил в себе несколько оттенков черного цвета. Он позволяет отлично представить основную композицию, свойственную данному аромату: волнующую, неповторимую и насыщенную. Это поистине потрясающий аромат, в который можно моментально влюбиться с первого вдоха и который удивительно подчеркивает мужскую привлекательность своего обладателя, благодаря чему тот всегда будет окружен интересом со стороны прекрасных дам.",
+          "Banderas Black Seduction ― чувственный, волнующий аромат, который способен моментально покорить женские сердца своим интригующим и оригинальным шлейфом. Данный аромат, безусловно, стоит отнести к категории вечерних: он яркий и сильный, моментально окутывает своей теплотой всех вокруг.\nBanderas Black Seduction будет играть на своем обладателе всеми своими нотами и оттенками, привлекая к нему всеобщее внимание.",
+          "Это поистине потрясающий аромат, в который можно моментально влюбиться с первого вдоха и который удивительно подчеркивает мужскую привлекательность своего обладателя, благодаря чему тот всегда будет окружен интересом со стороны прекрасных дам.",
           "Banderas Black Seduction ― это оптимальное сочетание нот классики, которые дополнены оригинальной восточной пирамидой, благодаря чему аромат раскрывается настолько ярко, что устоять перед его очарованием невозможно. Это выбор сексуальных, страстных мужчин, которые умеют прочувствовать всю глубину и прелесть подобного яркого парфюма.",
         ],
         id: 1,
@@ -872,7 +851,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction/1.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction/1.png",
           height: 845,
           width: 845,
         },
@@ -881,7 +860,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction/2.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction/2.png",
           height: 845,
           width: 845,
         },
@@ -890,7 +869,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction/3.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction/3.png",
           height: 613,
           width: 960,
         },
@@ -899,7 +878,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 4,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction/4.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction/4.png",
           height: 845,
           width: 845,
         },
@@ -908,25 +887,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 5,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction/5.jpg",
-          height: 845,
-          width: 845,
-        },
-      },
-      {
-        id: 6,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction/6.jpg",
-          height: 845,
-          width: 845,
-        },
-      },
-      {
-        id: 7,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction/7.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction/5.png",
           height: 845,
           width: 845,
         },
@@ -941,16 +902,11 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
           width: 340,
         },
         components: [
-          "Морской аккорд",
-          "Ветивер",
-          "Грейпфрут",
-          "Зеленое яблоко",
-          "Бергамот",
-          "Дыня",
-          "Ананас",
-          "Кардамон",
-          "Замша",
           "Кедр",
+          "Морской аккорд",
+          "Грейпфрут",
+          "Ветивер",
+          "Зеленое яблоко",
         ],
       },
     ],
@@ -958,7 +914,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Фужерный, ароматический",
+        text: "ФУЖЕРНЫЙ, акватический",
       },
       {
         id: 2,
@@ -970,7 +926,10 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
       {
         type: ContentBlockType.TEXT,
         paragraphs: [
-          "Антонио Бандерас знает короткие пути к победе над женскими сердцами. Обольщение ― его естественное состояние, как дыхание. В летние теплые ночи, когда темнота пронизана томной негой и желанием, воздух наполнен густым запахом спелых фруктов ― точно так же, как в насыщенных верхних нотах аромата Banderas King of Seduction.",
+          "Антонио Бандерас знает короткие пути к победе над женскими сердцами. Обольщение ― его естественное состояние, как дыхание.",
+          "Момент соблазна начинается с искрящихся нот зеленого яблока и грейпфрута, передавая неповторимую свежесть.",
+          "Морской аккорд сердца аромата продолжает игру соблазнения, придавая композиции характер и индивидуальность. Кульминация игры соблазнения раскрывается в базовых нотах. Теплые и магнетические оттенки кедра и ветивера раскрывают древесные грани, создавая современный контраст между смелостью и естественностью.",
+          "King of Seduction ― изысканное и гармоничное сочетание свежести и мужественности, которые открывают секреты настоящего обольщения.",
         ],
         id: 1,
       },
@@ -980,16 +939,6 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         previewSrc:
           "/assets/video/brands/banderas/perfume-details/king-of-seduction_preview.jpg",
-      },
-      {
-        type: ContentBlockType.TEXT,
-        paragraphs: [
-          "Момент соблазна начинается с искрящихся нот ананаса и зеленого яблока, которые сливаются с сочным оттенком мускатной дыни, придавая аромату мужественность и магнетизм.",
-          "Морской аккорд сердца аромата продолжает игру соблазнения, придавая композиции характер и индивидуальность. Цитрусовые ноты грейпфрута и бергамота подчеркивают неповторимую свежесть.",
-          "Кульминация игры соблазнения раскрывается в базовых нотах. Теплые и магнетические оттенки пряностей в сочетании с цветочным букетом раскрывают древесные и амбровые ноты, создавая современный контраст между смелостью и естественностью.",
-          "King of Seduction ― изысканное и гармоничное сочетание свежести и мужественности, которые открывают секреты настоящего обольщения.",
-        ],
-        id: 3,
       },
     ],
   },
@@ -1001,7 +950,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction-absolute/1.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction-absolute/1.png",
           height: 845,
           width: 845,
         },
@@ -1010,7 +959,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction-absolute/2.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction-absolute/2.png",
           height: 845,
           width: 845,
         },
@@ -1019,7 +968,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction-absolute/3.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction-absolute/3.png",
           height: 845,
           width: 845,
         },
@@ -1028,16 +977,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 4,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction-absolute/4.jpg",
-          height: 845,
-          width: 845,
-        },
-      },
-      {
-        id: 5,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction-absolute/5.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/king-of-seduction-absolute/4.png",
           height: 845,
           width: 845,
         },
@@ -1053,13 +993,10 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         },
         components: [
           "Абсент",
-          "Ветивер",
           "Грейпфрут",
-          "Морской аккорд",
           "Лаванда",
-          "Кожа",
-          "Соль",
-          "Дубовый мох",
+          "Ветивер",
+          "Аккорд воды",
         ],
       },
     ],
@@ -1067,7 +1004,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Фужерный, акватический",
+        text: "АРОМАТИЧЕСКИЙ, древесный",
       },
       {
         id: 2,
@@ -1093,7 +1030,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/power-of-seduction/1.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/power-of-seduction/1.png",
           height: 845,
           width: 845,
         },
@@ -1102,7 +1039,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/power-of-seduction/2.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/power-of-seduction/2.png",
           height: 845,
           width: 845,
         },
@@ -1111,7 +1048,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/power-of-seduction/3.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/power-of-seduction/3.png",
           height: 720,
           width: 960,
         },
@@ -1120,7 +1057,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 4,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/power-of-seduction/4.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/power-of-seduction/4.png",
           height: 845,
           width: 845,
         },
@@ -1129,17 +1066,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 5,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/power-of-seduction/5.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/power-of-seduction/5.png",
           height: 845,
-          width: 845,
-        },
-      },
-      {
-        id: 6,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/power-of-seduction/6.jpg",
-          height: 1019,
           width: 845,
         },
       },
@@ -1152,17 +1080,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
           height: 340,
           width: 340,
         },
-        components: [
-          "Лаванда",
-          "Шалфей",
-          "Бергамот",
-          "Ветивер",
-          "Пачули",
-          "Яблоко",
-          "Амбра",
-          "Мох",
-          "Бобы тонка",
-        ],
+        components: ["Лаванда", "Шалфей", "Бергамот", "Ветивер", "Пачули"],
       },
     ],
     rightContent: [
@@ -1191,7 +1109,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         src: "/assets/video/brands/banderas/perfume-details/power-of-seduction.mp4",
         id: 2,
         previewSrc:
-          "/assets/video/brands/banderas/perfume-details/power-of-seduction_preview.png",
+          "/assets/video/brands/banderas/perfume-details/power-of-seduction_preview.jpg",
       },
       {
         type: ContentBlockType.TEXT,
@@ -1212,7 +1130,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/blue-seduction-for-women/1.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/blue-seduction-for-women/1.png",
           height: 845,
           width: 845,
         },
@@ -1221,7 +1139,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/blue-seduction-for-women/2.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/blue-seduction-for-women/2.png",
           height: 845,
           width: 845,
         },
@@ -1230,7 +1148,25 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/blue-seduction-for-women/3.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/blue-seduction-for-women/3.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 4,
+        title: "",
+        src: {
+          src: "/assets/images/brands/banderas/perfume-details/blue-seduction-for-women/4.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 5,
+        title: "",
+        src: {
+          src: "/assets/images/brands/banderas/perfume-details/blue-seduction-for-women/5.png",
           height: 845,
           width: 845,
         },
@@ -1244,19 +1180,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
           height: 340,
           width: 340,
         },
-        components: [
-          "Гардения",
-          "Груша",
-          "Жасмин",
-          "Пион",
-          "Сахар",
-          "Дыня",
-          "Пачули",
-          "Малина",
-          "Роза",
-          "Мускус",
-          "Цветы фиалки",
-        ],
+        components: ["Гардения", "Груша", "Жасмин", "Пион", "Сахар", "Дыня"],
       },
     ],
     rightContent: [
@@ -1275,7 +1199,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
       {
         type: ContentBlockType.TEXT,
         paragraphs: [
-          "Антонио Бандерас раскрывает женские секреты и тайны соблазнения в новом аромате Blue Seduction For Women. Искусство флирта, которым владеет каждая женщина, начинается с увлекательной игры сладких десертных нот, пикантных восточных оттенков и терпкой капли малинового ликера. Свежесть фиалковых листьев и захватывающее звучание жасмина и розы отождествляют силу женской красоты, которая сравнима с водной стихией. Она так же опасна и непредсказуема и знает, что все в ее власти.",
+          "Антонио Бандерас раскрывает женские секреты и тайны соблазнения в аромате Blue Seduction For Women. Искусство флирта, которым владеет каждая женщина, начинается с увлекательной игры сливочных нот гардении и спелой груши. Пудровая, прозрачная нота пиона в окружении воздушного жасмина отождествляют силу женской красоты. Все великолепие присыпано белым сахаром, который добавляет интриги и не перестает удивлять обладательницу данного аромата. Она знает, что все в ее власти.",
         ],
         id: 1,
       },
@@ -1285,13 +1209,6 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         previewSrc:
           "/assets/video/brands/banderas/perfume-details/blue-seduction_preview.jpg",
-      },
-      {
-        type: ContentBlockType.TEXT,
-        paragraphs: [
-          "Дизайн флакона был навеян игрой света на водной глади. Эффект мерцания достигается за счет оригинально выполненного дна, которое напоминает сложную мозаику. Его основное достоинство лежит в чистоте линий, которые усиливают отблески нежно голубого аромата и пробуждают чувственную свежесть. Несмотря на тонкую женственность в форме и цвете флакона, он прекрасно дополняет мужской аромат.",
-        ],
-        id: 3,
       },
     ],
   },
@@ -1303,7 +1220,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/queen-of-seduction/1.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/queen-of-seduction/1.png",
           height: 845,
           width: 845,
         },
@@ -1312,7 +1229,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/queen-of-seduction/2.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/queen-of-seduction/2.png",
           height: 845,
           width: 845,
         },
@@ -1321,7 +1238,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/queen-of-seduction/3.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/queen-of-seduction/3.png",
           height: 845,
           width: 845,
         },
@@ -1330,16 +1247,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 4,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/queen-of-seduction/4.jpg",
-          height: 845,
-          width: 845,
-        },
-      },
-      {
-        id: 5,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/queen-of-seduction/5.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/queen-of-seduction/4.png",
           height: 845,
           width: 845,
         },
@@ -1353,17 +1261,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
           height: 340,
           width: 340,
         },
-        components: [
-          "Пион",
-          "Малина",
-          "Жасмин",
-          "Грейпфрут",
-          "Кедр",
-          "Ирис",
-          "Морской аккорд",
-          "Замша",
-          "Розовый перец",
-        ],
+        components: ["Пион", "Малина", "Грейпфрут", "Жасмин", "Амбра"],
       },
     ],
     rightContent: [
@@ -1382,10 +1280,11 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
       {
         type: ContentBlockType.TEXT,
         paragraphs: [
-          "Как покорить самого короля соблазнения? Обворожительная улыбка, непринужденность позы и жестов, всего несколько слов… и его магнетизм еще более притягателен. Нечто особенное, «je ne sais quoi», перед чем не может устоять ни одна женщина. Вполне естественно, даже не думая об этом, он стал истинным королем обольщения. Невозможно противостоять его чарам... Они смотрят друг на друга, улыбаются, и он понимает. Это она.",
-          "Это может быть только она. Единственная, кто покорит короля обольщения.",
+          "Как покорить самого короля соблазнения? Обворожительная улыбка, непринужденность позы и жестов, всего несколько слов… и его магнетизм еще более притягателен. Это может быть только она. Единственная, кто покорит короля обольщения.",
           "Она ― настоящая королева. Настоящая соблазнительница. Элегантная, женственная и уверенная в себе, она знает, чего хочет. Истинная королева обольщения, способная покорить даже самого непревзойденного соблазнителя. Она знакома с правилами игры ― он бессилен перед ней.",
           "Король обольщения покорен.",
+          "Queen of Seduction ― женский аромат, который составит пару несравненному King of Seduction. Элегантный и чувственный аромат вдохновлен силой очарования и создан для искушенной и яркой женщины. Волна водной, почти прозрачной, свежести усиливается звучанием искрящихся, ярких нот грейпфрута и сочной малины.",
+          "Утонченные цветочные ноты жасмина и пионов в сердце аромата возглавляют цветочную композицию Queen of Seduction. Нота амбры в базе аромата завершает соблазнительную композицию Queen of Seduction.",
         ],
         id: 1,
       },
@@ -1411,137 +1310,13 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
   },
   {
     brandTitle: "BANDERAS",
-    title: "QUEEN OF SEDUCTION LIVELY MUSE",
-    imagegallery: [
-      {
-        id: 1,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/queen-of-seduction-lively-muse/1.png",
-          height: 800,
-          width: 800,
-        },
-      },
-      {
-        id: 2,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/queen-of-seduction-lively-muse/2.png",
-          height: 800,
-          width: 800,
-        },
-      },
-      {
-        id: 3,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/queen-of-seduction-lively-muse/3.png",
-          height: 800,
-          width: 800,
-        },
-      },
-      {
-        id: 4,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/queen-of-seduction-lively-muse/4.png",
-          height: 800,
-          width: 800,
-        },
-      },
-      {
-        id: 5,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/queen-of-seduction-lively-muse/5.png",
-          height: 800,
-          width: 800,
-        },
-      },
-      {
-        id: 6,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/queen-of-seduction-lively-muse/6.png",
-          height: 800,
-          width: 800,
-        },
-      },
-      {
-        id: 7,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/queen-of-seduction-lively-muse/7.png",
-          height: 800,
-          width: 800,
-        },
-      },
-    ],
-    rightImage: [
-      {
-        id: 1,
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/queen-of-seduction-lively-muse/rightimage.png",
-          height: 845,
-          width: 845,
-        },
-        components: [
-          "Бергамот",
-          "Морской аккорд",
-          "Кокосовая вода",
-          "Роза",
-          "Жасмин",
-          "Ветивер",
-          "Амбра",
-          "Мускус",
-        ],
-      },
-    ],
-    rightContent: [
-      {
-        id: 1,
-        subtext: "Ольфакторное семейство:",
-        text: "Цветочный, ароматический",
-      },
-      {
-        id: 2,
-        subtext: "Парфюмер(ы):",
-        text: "Грегорио Сола",
-      },
-    ],
-    description: [
-      {
-        type: ContentBlockType.TEXT,
-        paragraphs: [
-          "Встретить свою музу не так просто, однако, когда она появляется, все взоры устремлены только на нее. Она вызывает восхищение у женщин и привлекает мужчин. Как истинная соблазнительница, она покоряет каждого на своем пути, в то время как ей самой хочется лишь одного – немного веселья и удовольствия от жизни.",
-          "Аутентичный и непредсказуемый аромат Queen of Seduction Lively Muse от Banderas Perfumes вдохновлен силой соблазнения. Эта цветочная композиция с яркими искрящимися аккордами словно заявляет: улыбка – лучший инструмент для соблазнения.",
-        ],
-        id: 1,
-      },
-      {
-        type: ContentBlockType.HEADING,
-        heading: "Эликсир женственности",
-        id: 2,
-      },
-      {
-        type: ContentBlockType.TEXT,
-        paragraphs: [
-          "Флакон аромата представляет собой обновленную версию классического дизайна Queen of Seduction. Он так же прекрасен, как и женщина, которая его носит: непредсказуемая, невероятно женственная и лучезарная. Характерная квадратная крышка завершает геометрическую форму флакона в хромированных тонах. Тиара Queen of Seduction сияет над неоново-бирюзовыми буквами, декларирующими название аромата: Lively Muse. Настало время новой королевы соблазнения, готовой покорять и вдохновлять.",
-          "Этот новый соблазнительный аромат открывается ощутимо солеными цитрусовыми нотами бергамота и волной морских аккордов, которые сменяются оттенками кристально прозрачной кокосовой воды, наполняющей чувством восхищения. Глубже, в сердце аромата, – букет из роз и белых цветов, придающих ему молодость и женственность, вместе с аккордами жасмина и иланг-иланга. Стойкая базовая нота подчеркивает звучание восхитительного сочетания ветивера, амбры и мускуса на коже.",
-        ],
-        id: 3,
-      },
-    ],
-  },
-  {
-    brandTitle: "BANDERAS",
     title: "THE SECRET",
     imagegallery: [
       {
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/the-secret/1.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/the-secret/1.png",
           height: 845,
           width: 845,
         },
@@ -1550,7 +1325,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/the-secret/2.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/the-secret/2.png",
           height: 845,
           width: 845,
         },
@@ -1559,7 +1334,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/the-secret/3.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/the-secret/3.png",
           height: 845,
           width: 845,
         },
@@ -1582,15 +1357,6 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
           width: 845,
         },
       },
-      {
-        id: 6,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/the-secret/6.jpg",
-          height: 845,
-          width: 845,
-        },
-      },
     ],
     rightImage: [
       {
@@ -1600,25 +1366,14 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
           height: 340,
           width: 340,
         },
-        components: [
-          "Бобы тонка",
-          "Кожа",
-          "Грейпфрут",
-          "Бергамот",
-          "Лакрица",
-          "Мята",
-          "Кардамон",
-          "Яблоко",
-          "Корица",
-          "Перец",
-        ],
+        components: ["Бобы тонка", "Кожа", "Ваниль", "Грейпфрут", "Бергамот"],
       },
     ],
     rightContent: [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Восточный, древесный",
+        text: "АМБРОВЫЙ, древесный",
       },
       {
         id: 2,
@@ -1630,8 +1385,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
       {
         type: ContentBlockType.TEXT,
         paragraphs: [
-          "Аромат The Secret ― это квинтэссенция исключительной притягательности. Богатая индивидуальность заключена в чувственном и чрезвычайно обольстительном аромате. Это раскрывающаяся тайна для современного мужчины, который дразнит обывательские законы, изящно сочетая естественность и соблазнение. The Secret ― аромат, покрытый тайной, элегантностью и мужественностью его создателя.",
-          "Композиция The Secret открывается звучанием бергамота,мяты и белого грейпфрута в сочетании с сердечными нотами пряного кардамона,яркой корицы, перца и яблочного ликера. Основа аромата состоит из землисто-шоколадных пачули, нежной ванили, мускуса, бобов тонка и кожи.",
+          "Аромат The Secret ― это квинтэссенция исключительной притягательности. Богатая индивидуальность заключена в чувственном и чрезвычайно обольстительном аромате. The Secret ― аромат, покрытый тайной, элегантностью и мужественностью его создателя.",
+          "Композиция The Secret открывается звучанием бергамота и белого грейпфрута в сочетании с сердечными нотами пряной корицы и яблочного ликера. Основа аромата состоит из шоколадных пачули бобов тонка и притягательной кожи.",
         ],
         id: 1,
       },
@@ -1641,13 +1396,6 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         previewSrc:
           "/assets/video/brands/banderas/perfume-details/the-secret_preview.png",
-      },
-      {
-        type: ContentBlockType.TEXT,
-        paragraphs: [
-          "Способность обольстить является одной из самых желанных тайн среди мужчин, и, таким образом, ее мастерство заслуживает особого внимания. В финальном дизайне флакон представляет собой гармонично соединенные таинственные знаки и идею аромата The Secret. Металлическая пластина и силуэт замочной скважины на фронтальной стороне флакона вызывают желание прикоснуться к чему-­то новому, подсмотреть загадочные тайны, скрывающиеся с другой стороны. На фронтальной стороне выгравированы только четыре слова: Banderas ― The Secret. Только это уже пробуждает интерес. Серебряные винты удерживают металлическую пластину на флаконе, усиливая любопытство и желание раскрыть секрет.",
-        ],
-        id: 3,
       },
     ],
   },
@@ -1659,7 +1407,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/the-golden-secret/1.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/the-golden-secret/1.png",
           height: 845,
           width: 845,
         },
@@ -1668,7 +1416,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/the-golden-secret/2.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/the-golden-secret/2.png",
           height: 845,
           width: 845,
         },
@@ -1686,34 +1434,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 4,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/the-golden-secret/4.jpg",
-          height: 845,
-          width: 845,
-        },
-      },
-      {
-        id: 5,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/the-golden-secret/5.jpg",
-          height: 845,
-          width: 845,
-        },
-      },
-      {
-        id: 6,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/the-golden-secret/6.jpg",
-          height: 845,
-          width: 845,
-        },
-      },
-      {
-        id: 7,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/the-golden-secret/7.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/the-golden-secret/4.png",
           height: 845,
           width: 845,
         },
@@ -1727,24 +1448,14 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
           height: 340,
           width: 340,
         },
-        components: [
-          "Ваниль",
-          "Кожа",
-          "Кедр",
-          "Мускатный орех",
-          "Мята",
-          "Лакрица",
-          "Тмин",
-          "Амбра",
-          "Яблоко",
-        ],
+        components: ["Ваниль", "Кожа", "Кедр", "Мята", "Мускатный орех"],
       },
     ],
     rightContent: [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Восточный, кожаный",
+        text: "АМБРОВЫЙ, кожаный",
       },
       {
         id: 2,
@@ -1758,8 +1469,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         paragraphs: [
           "Антонио Бандерас ― признанный обольститель. Его шарм, обаяние и сексуальная энергия покорили ни одну представительницу слабого пола и послужили основой для аромата The Secret, в который известный испанский актер вложил тайну своего успеха. Но кое-что он все-таки оставил за кадром, так как настоящий покоритель сердец не раскрывает все свои тайны.",
           "The Golden Secret и есть «та самая тайна», эссенция обольщения и магического влечения. Эксклюзивный аромат The Golden Secret настолько притягателен, что заточен под замок, чтобы оберечь неосторожные души от соблазна. Этот аромат создан для исключительных поводов… когда запретное и привлекательное идут рука об руку.",
-          "Привлекательность и таинственность нового аромата заключены и в его названии The Golden Secret. Всего два слова хранят тайну, как умеет хранить ее золото, пробуждая любопытство и возбуждая страсть.",
-          "The Golden Secret ― уникальный союз простого и элегантного начал. Узнать тайну просто, распахнув золотые двери соблазна!",
+          "Флакон The Golden Secret, украшенный золотом, отражает его эксклюзивное наполнение. Элегантное черное стекло передает истинно мужской характер таинственного аромата. Золотая пластина с золотым замком посередине ― приглашение в таинственный лабиринт обольщения аромата от Banderas.",
+          "Новый эликсир обольщения The Golden Secret от Banderas играет древесными, пикантными нотами и аккордами кожи.\nС первых мгновений аромат наполняет вас мятной свежести с легкой дымкой мускатного ореха. Дальше - больше тайны… Пленительная ваниль, укутанная благородной мягкостью кедра провожает вас в секретное место, в котором аккорд кожи дарит абсолютно новые ощущения.",
         ],
         id: 1,
       },
@@ -1769,139 +1480,6 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         previewSrc:
           "/assets/video/brands/banderas/perfume-details/the-golden-secret-and-her-golden-secret_preview.jpg",
-      },
-      {
-        type: ContentBlockType.TEXT,
-        paragraphs: [
-          "Флакон The Golden Secret, украшенный золотом, отражает его эксклюзивное наполнение, черпая вдохновение в дизайне The Secret.",
-          "Элегантное черное стекло передает истинно мужской характер таинственного аромата. Неотъемлемой деталью является крупная черная крышка флакона. Золотая пластина с золотым замком посередине ― приглашение в таинственный лабиринт обольщения аромата от Banderas.",
-          "Новый эликсир обольщения The Golden Secret от Banderas играет древесными, пикантными нотами и аккордами кожи.",
-          "Верхние ноты наполнены мужской свежестью: мята и зеленое яблоко. Сердце аромата таит в себе взрывной коктейль из красного и черного перца, мускатного ореха и семян тмина. В основе аромата лежат ноты кедра, амбры и кожи.",
-        ],
-        id: 3,
-      },
-    ],
-  },
-  {
-    brandTitle: "BANDERAS",
-    title: "THE SECRET TEMPTATION",
-    imagegallery: [
-      {
-        id: 1,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/the-secret-temptation/1.jpg",
-          height: 845,
-          width: 845,
-        },
-      },
-      {
-        id: 2,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/the-secret-temptation/2.jpg",
-          height: 845,
-          width: 845,
-        },
-      },
-      {
-        id: 3,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/the-secret-temptation/3.jpg",
-          height: 725,
-          width: 960,
-        },
-      },
-      {
-        id: 4,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/the-secret-temptation/4.jpg",
-          height: 1105,
-          width: 845,
-        },
-      },
-      {
-        id: 5,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/the-secret-temptation/5.jpg",
-          height: 845,
-          width: 845,
-        },
-      },
-      {
-        id: 6,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/the-secret-temptation/6.jpg",
-          height: 845,
-          width: 845,
-        },
-      },
-    ],
-    rightImage: [
-      {
-        id: 1,
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/the-secret-temptation/rightimage.jpg",
-          height: 340,
-          width: 340,
-        },
-        components: [
-          "Кедр",
-          "Кардамон",
-          "Ветивер",
-          "Ваниль",
-          "Полынь",
-          "Розовый перец",
-          "Бергамот",
-          "Базилик",
-          "Жасмин",
-          "Мускус",
-        ],
-      },
-    ],
-    rightContent: [
-      {
-        id: 1,
-        subtext: "Ольфакторное семейство:",
-        text: "Древесный, пряный",
-      },
-      {
-        id: 2,
-        subtext: "Парфюмер(ы):",
-        text: "Фабрис Пеллегрен",
-      },
-    ],
-    description: [
-      {
-        type: ContentBlockType.TEXT,
-        paragraphs: [
-          "Искушение многолико. Столкнувшись с ним однажды, уже невозможно забыть этой случайной встречи. Искушение таится в нас самих, нарастая с каждым днем ― до предела, когда сопротивляться ему уже невозможно. Каким бы оно ни было, рано или поздно придется решить ― осмелитесь ли вы поддаться соблазну?",
-          "Но самое сильное искушение всегда хранится в секрете.",
-          "Новая глава в истории соблазнения. The Secret Temptation приглашает отдаться власти своих самых сокровенных желаний и отправиться в путешествие по таинственному и манящему миру чувственных наслаждений. Готовы сдаться?",
-          "The Secret Temptation для него ― темно-красный флакон со стальной вставкой. Олицетворение истинной мужской страсти.",
-        ],
-        id: 1,
-      },
-      {
-        type: ContentBlockType.VIDEO,
-        src: "/assets/video/brands/banderas/perfume-details/the-secret-temptation-and-her-secret-temptation.mp4",
-        id: 2,
-        previewSrc:
-          "/assets/video/brands/banderas/perfume-details/the-secret-temptation-and-her-secret-temptation_preview.png",
-      },
-      {
-        type: ContentBlockType.TEXT,
-        paragraphs: [
-          "Яркий, соблазнительный и стойкий аромат, в котором сочетание древесных нот усилено пряным аккордом.",
-          "Интригующие верхние ноты ― игра свежего и чувственного цитруса с нотами темных специй.",
-          "В сердце композиции звучит дуэт цветочных и ароматических нот, который подчеркивает его притягательность.",
-          "Базовые ноты ― властные, динамичные и гипнотические ― дополняют аромат аккордами ветивера, ванили и мускуса, разжигая страсть до предела.",
-        ],
-        id: 3,
       },
     ],
   },
@@ -1913,7 +1491,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/her-secret-temptation/1.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/her-secret-temptation/1.png",
           height: 845,
           width: 845,
         },
@@ -1922,7 +1500,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/her-secret-temptation/2.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/her-secret-temptation/2.png",
           height: 845,
           width: 845,
         },
@@ -1931,7 +1509,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/her-secret-temptation/3.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/her-secret-temptation/3.png",
           height: 519,
           width: 960,
         },
@@ -1940,27 +1518,9 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 4,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/her-secret-temptation/4.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/her-secret-temptation/4.png",
           height: 845,
           width: 845,
-        },
-      },
-      {
-        id: 5,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/her-secret-temptation/5.jpg",
-          height: 845,
-          width: 845,
-        },
-      },
-      {
-        id: 6,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/her-secret-temptation/6.jpg",
-          height: 620,
-          width: 599,
         },
       },
     ],
@@ -1978,10 +1538,6 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
           "Ваниль",
           "Кедр",
           "Бергамот",
-          "Розовый перец",
-          "Ирис",
-          "Жасмин",
-          "Роза",
         ],
       },
     ],
@@ -1989,7 +1545,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Восточный, гурманский",
+        text: "Амбровый, гурманский",
       },
       {
         id: 2,
@@ -2001,8 +1557,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
       {
         type: ContentBlockType.TEXT,
         paragraphs: [
-          "Искушение многолико. Столкнувшись с ним однажды, уже невозможно забыть этой случайной встречи. Искушение таится в нас самих, нарастая с каждым днем ― до предела, когда сопротивляться ему уже невозможно. Каким бы оно ни было, рано или поздно придется решить — осмелитесь ли вы поддаться соблазну? Но самое сильное искушение всегда хранится в секрете.",
-          "Новая глава в истории соблазнения. The Secret Temptation приглашает отдаться власти своих самых сокровенных желаний и отправиться в путешествие по таинственному и манящему миру чувственных наслаждений. Готовы сдаться?",
+          "Искушение многолико. Столкнувшись с ним однажды, уже невозможно забыть этой случайной встречи. Искушение таится в нас самих, нарастая с каждым днем ― до предела, когда сопротивляться ему уже невозможно. Каким бы оно ни было, рано или поздно придется решить — осмелитесь ли вы поддаться соблазну? Но самое сильное искушение всегда хранится в секрете.\nThe Secret Temptation приглашает отдаться власти своих самых сокровенных желаний и отправиться в путешествие по таинственному и манящему миру чувственных наслаждений. Готовы сдаться?",
+          "Her Secret Temptation ― пурпурный флакон в форме сердца, украшенный элегантной бело-золотой пластиной. Воплощение образа притягательной женщины.\nЗвучание аромата открывается сочным персиком в окружении воздушного флердоранжа, который флиртует и заигрывает с вами. Her Secret Temptation влечет в мир цветочного искушения, наполненного женственностью, молодостью и обольщением. В самом сердце композиции ирис и роза придают яркости букету из белых цветов. С раскрытием базовых нот приходит тепло кедра и великолепие ванили, которые подчеркивают всю суть аромата.\nЭто провокационная история страсти и соблазна… Но прежде всего, это история о самых тайных желаниях. Ничто так не влечет, как возможность испытать на себе силу тайного искушения…",
         ],
         id: 1,
       },
@@ -2012,15 +1568,6 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         previewSrc:
           "/assets/video/brands/banderas/perfume-details/the-secret-temptation-and-her-secret-temptation_preview.png",
-      },
-      {
-        type: ContentBlockType.TEXT,
-        paragraphs: [
-          "Her Secret Temptation ― пурпурный флакон в форме сердца, украшенный элегантной бело-золотой пластиной. Воплощение образа притягательной женщины.",
-          "Звучание фруктового и цитрусового дуэта усилено пряным аккордом. Her Secret Temptation влечет в мир цветочного искушения, наполненного женственностью, молодостью и обольщением. В самом сердце композиции ирис и роза придают яркости букету из белых цветов. С раскрытием базовых нот приходит тепло янтаря. Восточный аккорд, оттененный звучанием экзотических древесных пород, подчеркивает всю суть аромата.",
-          "Это провокационная история страсти и соблазна… Но прежде всего, это история о самых тайных желаниях. Ничто так не влечет, как возможность испытать на себе силу тайного искушения...",
-        ],
-        id: 3,
       },
     ],
   },
@@ -2032,7 +1579,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/her-golden-secret/1.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/her-golden-secret/1.png",
           height: 845,
           width: 845,
         },
@@ -2041,7 +1588,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/her-golden-secret/2.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/her-golden-secret/2.png",
           height: 845,
           width: 845,
         },
@@ -2050,7 +1597,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/her-golden-secret/3.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/her-golden-secret/3.png",
           height: 845,
           width: 845,
         },
@@ -2060,24 +1607,6 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         title: "",
         src: {
           src: "/assets/images/brands/banderas/perfume-details/her-golden-secret/4.jpg",
-          height: 845,
-          width: 845,
-        },
-      },
-      {
-        id: 5,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/her-golden-secret/5.jpg",
-          height: 845,
-          width: 845,
-        },
-      },
-      {
-        id: 6,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/her-golden-secret/6.jpg",
           height: 845,
           width: 845,
         },
@@ -2097,9 +1626,6 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
           "Черная смородина",
           "Гардения",
           "Мандарин",
-          "Бергамот",
-          "Персик",
-          "Пачули",
         ],
       },
     ],
@@ -2107,7 +1633,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Цветочный, восточный",
+        text: "Цветочный, амбровый",
       },
       {
         id: 2,
@@ -2119,9 +1645,8 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
       {
         type: ContentBlockType.TEXT,
         paragraphs: [
-          "Ставки сделаны… Игра мужчины и женщины – высокий риск… Все тайное становится явным…",
-          "Banderas представляет женский аромат Her Golden Secret и знакомит с привлекательной героиней: азартная соблазнительница, которая может покорить сердце самого великого обольстителя. Она всегда играет ва-банк и побеждает. В чем ее секрет?",
-          "Продолжая историю The Golden Secret, Banderas представляет новую главу истории: Her Golden Secret ― аромат для женщины, которая готова принять участие в игре обольщения. Аромат с уникальным стилем и захватывающей историей: таинственный, насыщенный и игривый. Her Golden Secret делает мужчину беспомощным перед ее невероятной привлекательностью.",
+          "Banderas представляет женский аромат Her Golden Secret и знакомит с привлекательной героиней: азартная соблазнительница, которая может покорить сердце самого великого обольстителя. Она всегда играет ва-банк и побеждает. В чем ее секрет?\nHer Golden Secret ― аромат для женщины, которая готова принять участие в игре обольщения. Аромат с уникальным стилем и захватывающей историей: таинственный, насыщенный и игривый. Her Golden Secret делает мужчину беспомощным перед ее невероятной привлекательностью.",
+          "Аромат наполнен изысканностью и женственностью: цветы апельсина и гардении добавляют чувственность. Фруктовый коктейль из черной смородины и мандарина придает аромату золотое звучание. Her Golden Secret ― концентрат соблазнения, перед которым не может устоять даже самый великий соблазнитель…",
         ],
         id: 1,
       },
@@ -2131,13 +1656,6 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         previewSrc:
           "/assets/video/brands/banderas/perfume-details/the-golden-secret-and-her-golden-secret_preview.jpg",
-      },
-      {
-        type: ContentBlockType.TEXT,
-        paragraphs: [
-          "Аромат Her Golden Secret продолжает игру обольщения вселенной Secret. Новая туалетная вода наполнена изысканностью и женственностью нот экзотичной древесины: гипнотическое сочетание кедра, кашемира и пачули объединяется с экзотичными аккордами ванили и бобов тонка. Цветки апельсина и гардении смягчают древесные ноты и добавляют чувственность. Фруктовый коктейль из яблока, черной смородины и персика придают аромату золотое звучание. Her Golden Secret ― концентрат соблазнения, перед которым не может устоять даже самый великий соблазнитель...",
-        ],
-        id: 3,
       },
     ],
   },
@@ -2149,7 +1667,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/her-secret-desire/1.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/her-secret-desire/1.png",
           height: 845,
           width: 845,
         },
@@ -2158,7 +1676,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/her-secret-desire/2.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/her-secret-desire/2.png",
           height: 845,
           width: 845,
         },
@@ -2167,7 +1685,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/her-secret-desire/3.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/her-secret-desire/3.png",
           height: 845,
           width: 845,
         },
@@ -2176,7 +1694,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 4,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/her-secret-desire/4.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/her-secret-desire/4.png",
           height: 845,
           width: 845,
         },
@@ -2185,16 +1703,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 5,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/her-secret-desire/5.jpg",
-          height: 845,
-          width: 845,
-        },
-      },
-      {
-        id: 6,
-        title: "",
-        src: {
-          src: "/assets/images/brands/banderas/perfume-details/her-secret-desire/6.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/her-secret-desire/5.png",
           height: 845,
           width: 845,
         },
@@ -2208,24 +1717,14 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
           height: 340,
           width: 340,
         },
-        components: [
-          "Нероли",
-          "Жасмин",
-          "Ваниль",
-          "Малина",
-          "Ирис",
-          "Сандаловое дерево",
-          "Гардения",
-          "Пихтовый бальзам",
-          "Бергамот",
-        ],
+        components: ["Нероли", "Бензоин", "Жасмин", "Ваниль", "Малина"],
       },
     ],
     rightContent: [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Цветочный, восточный",
+        text: "ЦВЕТОЧНЫЙ, амбровый",
       },
       {
         id: 2,
@@ -2237,41 +1736,19 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
       {
         type: ContentBlockType.TEXT,
         paragraphs: [
-          "Вы чувствуете, как разжигается огонь страсти. Совсем рядом. Он притягивает вас. Вы слышите таинственный голос и соблазнительный аромат. Вам кажется, будто вы можете протянуть руку и коснуться желаемого… Но кто же играет с вашими чувствами?",
-          "Ставки в игре соблазнения растут. Эмоции и чувства накалены до предела… Мгновенное притяжение, которому невозможно сопротивляться. Вы хотите большего: обернуться и встретиться взглядом, позволяя всем чувствам накрыть вас с головой. Но время еще не пришло…",
+          "Вы чувствуете, как разжигается огонь страсти. Совсем рядом. Он притягивает вас. Вы слышите таинственный голос и соблазнительный аромат. Вам кажется, будто вы можете протянуть руку и коснуться желаемого… Но кто же играет с вашими чувствами?\nСтавки в игре соблазнения растут. Эмоции и чувства накалены до предела… Мгновенное притяжение, которому невозможно сопротивляться. Вы хотите большего: обернуться и встретиться взглядом, позволяя всем чувствам накрыть вас с головой. Но время еще не пришло…",
+          "Культовый для коллекции женских ароматов Secret флакон в форме сердца получил новое, современное, воплощение. Пурпурно-розовые, градиентные оттенки флакона меняются от темного к светлому, словно олицетворяя чувственный переход от гладких лепестков к таинственному сердцу цветка. От соблазнительной нежности до водоворота скрытых чувств.",
+          "Чувственное путешествие начинается с цитрусовых нот бергамота в сочетании с сочной малиной. В сердце аромата ― цветочный букет из жасмина самбак и нероли. В основе ― томные оттенки бензоина и бархатистой ванили.\nС обольстительной композицией вы сможете дать волю даже самым заветным желаниям.",
         ],
         id: 1,
       },
-      {
-        type: ContentBlockType.VIDEO,
-        src: "/assets/video/brands/banderas/perfume-details/the-secret.mp4",
-        id: 2,
-        previewSrc:
-          "/assets/video/brands/banderas/perfume-details/the-secret_preview.png",
-      },
-      {
-        type: ContentBlockType.TEXT,
-        paragraphs: [
-          "Стоит ли поддаться любопытству и выяснить, что стоит за этими волнующими ощущениями? Довериться непреодолимому чувству соблазна и своим тайным желаниям?",
-          "Banderas представляет новый женский аромат Her Secret Desire, который дополнил коллекцию Secret. Искушающая новинка будоражит чувства и раскрывает ваши самые заветные секреты.",
-          "Чувственное путешествие начинается с цитрусовых нот бергамота в сочетании с сочной малиной. В сердце аромата ― цветочный букет из жасмина самбак и нероли. Окутанный страстными аккордами лепестков фиалки, он придает аромату особую привлекательность и доводит эмоции до предела. В основе ― древесные оттенки бальзамической пихты, сандалового дерева и бархатистой ванили.",
-          "С обольстительной композицией вы сможете дать волю даже самым заветным желаниям.",
-        ],
-        id: 3,
-      },
+
       {
         type: ContentBlockType.VIDEO,
         src: "/assets/video/brands/banderas/perfume-details/her-secret-desire.mp4",
-        id: 4,
+        id: 2,
         previewSrc:
           "/assets/video/brands/banderas/perfume-details/her-secret-desire_preview.jpg",
-      },
-      {
-        type: ContentBlockType.TEXT,
-        paragraphs: [
-          "Культовый для коллекции женских ароматов Secret флакон в форме сердца получил новое, современное, воплощение. Пурпурно-розовые, градиентные оттенки флакона меняются от темного к светлому, словно олицетворяя чувственный переход от гладких лепестков к таинственному сердцу цветка. От соблазнительной нежности до водоворота скрытых чувств.",
-        ],
-        id: 5,
       },
     ],
   },

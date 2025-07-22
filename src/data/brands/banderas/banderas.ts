@@ -93,7 +93,7 @@ export const banderasPerfumeUniverses: PerfumeUniverse[] = [
       {
         id: 1,
         url: {
-          src: "/assets/images/brands/banderas/perfumes-gallery/seduction_1.webp",
+          src: "/assets/images/brands/banderas/perfumes-gallery/seduction_1.png",
           height: 800,
           width: 800,
         },
@@ -102,7 +102,7 @@ export const banderasPerfumeUniverses: PerfumeUniverse[] = [
       {
         id: 2,
         url: {
-          src: "/assets/images/brands/banderas/perfumes-gallery/seduction_2.webp",
+          src: "/assets/images/brands/banderas/perfumes-gallery/seduction_2.png",
           height: 500,
           width: 500,
         },
@@ -111,7 +111,7 @@ export const banderasPerfumeUniverses: PerfumeUniverse[] = [
       {
         id: 3,
         url: {
-          src: "/assets/images/brands/banderas/perfumes-gallery/seduction_3.webp",
+          src: "/assets/images/brands/banderas/perfumes-gallery/seduction_3.png",
           height: 500,
           width: 500,
         },
@@ -120,7 +120,7 @@ export const banderasPerfumeUniverses: PerfumeUniverse[] = [
       {
         id: 4,
         url: {
-          src: "/assets/images/brands/banderas/perfumes-gallery/seduction_4.webp",
+          src: "/assets/images/brands/banderas/perfumes-gallery/seduction_4.png",
           height: 500,
           width: 500,
         },
@@ -129,7 +129,7 @@ export const banderasPerfumeUniverses: PerfumeUniverse[] = [
       {
         id: 5,
         url: {
-          src: "/assets/images/brands/banderas/perfumes-gallery/seduction_5.webp",
+          src: "/assets/images/brands/banderas/perfumes-gallery/seduction_5.png",
           height: 500,
           width: 500,
         },
@@ -138,7 +138,7 @@ export const banderasPerfumeUniverses: PerfumeUniverse[] = [
       {
         id: 6,
         url: {
-          src: "/assets/images/brands/banderas/perfumes-gallery/seduction_6.webp",
+          src: "/assets/images/brands/banderas/perfumes-gallery/seduction_6.png",
           height: 500,
           width: 500,
         },
@@ -147,20 +147,11 @@ export const banderasPerfumeUniverses: PerfumeUniverse[] = [
       {
         id: 7,
         url: {
-          src: "/assets/images/brands/banderas/perfumes-gallery/seduction_7.webp",
+          src: "/assets/images/brands/banderas/perfumes-gallery/seduction_7.png",
           height: 500,
           width: 500,
         },
         title: "QUEEN OF SEDUCTION",
-      },
-      {
-        id: 8,
-        url: {
-          src: "/assets/images/brands/banderas/perfumes-gallery/seduction_8.webp",
-          height: 500,
-          width: 500,
-        },
-        title: "QUEEN OF SEDUCTION LIVELY MUSE",
       },
     ],
   },
@@ -180,7 +171,7 @@ export const banderasPerfumeUniverses: PerfumeUniverse[] = [
       {
         id: 1,
         url: {
-          src: "/assets/images/brands/banderas/perfumes-gallery/secret_1.webp",
+          src: "/assets/images/brands/banderas/perfumes-gallery/secret_1.png",
           height: 800,
           width: 800,
         },
@@ -189,25 +180,16 @@ export const banderasPerfumeUniverses: PerfumeUniverse[] = [
       {
         id: 2,
         url: {
-          src: "/assets/images/brands/banderas/perfumes-gallery/secret_2.webp",
+          src: "/assets/images/brands/banderas/perfumes-gallery/secret_2.png",
           height: 800,
           width: 800,
         },
         title: "THE GOLDEN SECRET",
       },
       {
-        id: 3,
-        url: {
-          src: "/assets/images/brands/banderas/perfumes-gallery/secret_3.webp",
-          height: 845,
-          width: 845,
-        },
-        title: "THE SECRET TEMPTATION",
-      },
-      {
         id: 4,
         url: {
-          src: "/assets/images/brands/banderas/perfumes-gallery/secret_4.webp",
+          src: "/assets/images/brands/banderas/perfumes-gallery/secret_4.png",
           height: 800,
           width: 800,
         },
@@ -216,7 +198,7 @@ export const banderasPerfumeUniverses: PerfumeUniverse[] = [
       {
         id: 5,
         url: {
-          src: "/assets/images/brands/banderas/perfumes-gallery/secret_5.webp",
+          src: "/assets/images/brands/banderas/perfumes-gallery/secret_5.png",
           height: 800,
           width: 800,
         },
@@ -225,7 +207,7 @@ export const banderasPerfumeUniverses: PerfumeUniverse[] = [
       {
         id: 6,
         url: {
-          src: "/assets/images/brands/banderas/perfumes-gallery/secret_6.webp",
+          src: "/assets/images/brands/banderas/perfumes-gallery/secret_6.png",
           height: 800,
           width: 800,
         },
@@ -357,10 +339,10 @@ const banderasQuiz = [
   {
     question: "Какие ноты лишние в аромате BLUE SEDUCTON:",
     answers: [
-      "Капучино, мята",
+      "Кедр, мята",
       "Роза, кожа",
-      "Морской аккорд, дыня",
-      "Кедр, мускус",
+      "Морской аккорд, бергамот",
+      "Кедр, бергамот",
     ],
     correctAnswer: "Роза, кожа",
   },
@@ -381,14 +363,14 @@ const banderasQuiz = [
     correctAnswer: "Успех ",
   },
   {
-    question: "Назовите две ключевые ноты в аромате THE ICON?:",
+    question: "Назовите ключевые ноты в аромате THE ICON:",
     answers: [
-      "Шалфей, лаванда",
-      "Шалфей, сандал",
-      "Шалфей, амбра",
-      "Шалфей, черный перец",
+      "Ладан, листья фиалки, кожа, сандал, грейпфрут",
+      "Лаванда, листья фиалки, амбра, сандал, грейпфрут",
+      "Лимон, листья фиалки, кожа, перец, грейпфрут",
+      "Герань, грейпфрут, лаванда, перец, мускус",
     ],
-    correctAnswer: "Шалфей, сандал",
+    correctAnswer: "Лаванда, листья фиалки, амбра, сандал, грейпфрут",
   },
 ];
 

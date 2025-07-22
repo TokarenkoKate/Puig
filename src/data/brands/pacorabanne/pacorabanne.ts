@@ -62,7 +62,7 @@ export const pacorabannePerfumeUniverses: PerfumeUniverse[] = [
       {
         id: 1,
         url: {
-          src: "/assets/images/brands/pacorabanne/perfumes-gallery/millionladymillion_1.jpeg",
+          src: "/assets/images/brands/pacorabanne/perfumes-gallery/millionladymillion_1.png",
           height: 845,
           width: 845,
         },
@@ -103,15 +103,6 @@ export const pacorabannePerfumeUniverses: PerfumeUniverse[] = [
           width: 845,
         },
         title: "LADY MILLION",
-      },
-      {
-        id: 6,
-        url: {
-          src: "/assets/images/brands/pacorabanne/perfumes-gallery/millionladymillion_6.png",
-          height: 800,
-          width: 800,
-        },
-        title: "LADY MILLION FABULOUS",
       },
       {
         id: 7,
@@ -177,7 +168,7 @@ export const pacorabannePerfumeUniverses: PerfumeUniverse[] = [
       {
         id: 1,
         url: {
-          src: "/assets/images/brands/pacorabanne/perfumes-gallery/invictusolympea_1.jpeg",
+          src: "/assets/images/brands/pacorabanne/perfumes-gallery/invictusolympea_1.png",
           height: 845,
           width: 845,
         },
@@ -191,15 +182,6 @@ export const pacorabannePerfumeUniverses: PerfumeUniverse[] = [
           width: 845,
         },
         title: "INVICTUS VICTORY",
-      },
-      {
-        id: 3,
-        url: {
-          src: "/assets/images/brands/pacorabanne/perfumes-gallery/invictusolympea_3.png",
-          height: 845,
-          width: 845,
-        },
-        title: "INVICTUS PLATINUM",
       },
       {
         id: 4,
@@ -281,47 +263,6 @@ export const pacorabannePerfumeUniverses: PerfumeUniverse[] = [
           width: 1080,
         },
         title: "OLYMPEA ABSOLU",
-      },
-    ],
-  },
-  {
-    title: "XS",
-    subtitle: "2 аромата",
-    content: [
-      {
-        id: 1,
-        type: ContentBlockType.TEXT,
-        paragraphs: [
-          "Парфюмерную вселенную XS от Rabanne отличает особый авторский, яркий, сексуально-соблазнительный почерк и горячий темперамент.",
-        ],
-      },
-      {
-        id: 2,
-        type: ContentBlockType.TEXT,
-        paragraphs: [
-          "Линейка ароматов XS началась с одноименного мужского аромата в 1994 году.",
-          "Форма флакона и крышки были навеяны невероятно популярной в то время зажигалкой ZIPPO, а в названии аромата были зашифрованы чрезмерность и сексуальность.",
-        ],
-      },
-    ],
-    images: [
-      {
-        id: 1,
-        url: {
-          src: "/assets/images/brands/pacorabanne/perfumes-gallery/xs_1.webp",
-          height: 800,
-          width: 800,
-        },
-        title: "PURE XS POUR HOMME",
-      },
-      {
-        id: 2,
-        url: {
-          src: "/assets/images/brands/pacorabanne/perfumes-gallery/xs_2.webp",
-          height: 800,
-          width: 800,
-        },
-        title: "PURE XS FOR HER",
       },
     ],
   },

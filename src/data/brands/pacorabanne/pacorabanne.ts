@@ -195,7 +195,7 @@ export const pacorabannePerfumeUniverses: PerfumeUniverse[] = [
       {
         id: 5,
         url: {
-          src: "/assets/images/brands/pacorabanne/perfumes-gallery/invictusolympea_5.jpeg",
+          src: "/assets/images/brands/pacorabanne/perfumes-gallery/invictusolympea_5.png",
           height: 845,
           width: 845,
         },

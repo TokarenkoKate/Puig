@@ -216,7 +216,7 @@ export const banderasPerfumeUniverses: PerfumeUniverse[] = [
       {
         id: 7,
         url: {
-          src: "/assets/images/brands/banderas/perfumes-gallery/secret_7.webp",
+          src: "/assets/images/brands/banderas/perfumes-gallery/secret_7.png",
           height: 800,
           width: 800,
         },
@@ -225,7 +225,7 @@ export const banderasPerfumeUniverses: PerfumeUniverse[] = [
       {
         id: 8,
         url: {
-          src: "/assets/images/brands/banderas/perfumes-gallery/secret_8.webp",
+          src: "/assets/images/brands/banderas/perfumes-gallery/secret_8.png",
           height: 800,
           width: 800,
         },

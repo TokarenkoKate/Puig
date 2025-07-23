@@ -1760,7 +1760,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/secret-absolu-for-her/1.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/secret-absolu-for-her/1.png",
           height: 2000,
           width: 2000,
         },
@@ -1879,7 +1879,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/secret-absolu-for-him/1.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/secret-absolu-for-him/1.png",
           height: 2000,
           width: 2000,
         },

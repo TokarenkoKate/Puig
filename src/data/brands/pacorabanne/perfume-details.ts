@@ -338,7 +338,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         subtext: "Ольфакторное семейство:",
-        text: "Восточный, древесный",
+        text: "Амбровый, древесный",
       },
       {
         id: 2,
@@ -577,7 +577,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold/1.jpg",
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold/1.png",
           height: 2000,
           width: 2000,
         },
@@ -586,7 +586,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold/2.jpg",
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold/2.png",
           height: 2000,
           width: 2000,
         },
@@ -693,7 +693,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-for-her/1.jpg",
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-for-her/1.png",
           height: 2000,
           width: 2000,
         },
@@ -702,7 +702,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-for-her/2.jpg",
+          src: "/assets/images/brands/pacorabanne/perfume-details/million-gold-for-her/2.png",
           height: 2000,
           width: 2000,
         },
@@ -1569,7 +1569,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-parfum/1.jpg",
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-parfum/1.png",
           height: 2000,
           width: 2000,
         },
@@ -1578,7 +1578,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-parfum/2.jpg",
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea-parfum/2.png",
           height: 2000,
           width: 2000,
         },
@@ -1685,7 +1685,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-parfum/1.jpg",
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-parfum/1.png",
           height: 2000,
           width: 2000,
         },
@@ -1694,7 +1694,7 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-parfum/2.jpg",
+          src: "/assets/images/brands/pacorabanne/perfume-details/invictus-parfum/2.png",
           height: 2000,
           width: 2000,
         },

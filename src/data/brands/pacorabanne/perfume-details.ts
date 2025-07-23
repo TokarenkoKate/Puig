@@ -1155,9 +1155,9 @@ export const pacorabannePerfumeDetails: PerfumeDetails[] = [
         id: 5,
         title: "",
         src: {
-          src: "/assets/images/brands/pacorabanne/perfume-details/olympea/5.jpg",
+          src: "/assets/images/brands/pacorabanne/perfume-details/olympea/5.png",
           height: 845,
-          width: 597,
+          width: 845,
         },
       },
     ],

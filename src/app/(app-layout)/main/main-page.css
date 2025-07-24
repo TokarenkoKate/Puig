@@ -164,6 +164,8 @@
   .company__text-wrapper {
     column-count: unset;
     padding-right: 0;
+    margin: 15px 0 0;
+    padding: 15px;
   }
 
   .company__texts-column {

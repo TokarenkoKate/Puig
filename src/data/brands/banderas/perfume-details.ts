@@ -611,7 +611,7 @@ export const banderasPerfumeDetails: PerfumeDetails[] = [
       {
         id: 1,
         src: {
-          src: "/assets/images/brands/banderas/perfume-details/the-icon-supreme/rightimage.jpg",
+          src: "/assets/images/brands/banderas/perfume-details/the-icon-supreme/rightimage.png",
           height: 2000,
           width: 2000,
         },

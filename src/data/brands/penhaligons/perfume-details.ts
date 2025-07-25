@@ -557,7 +557,7 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
         id: 1,
         title: "",
         src: {
-          src: "/assets/images/brands/penhaligons/perfume-details/sartorial/1.jpg",
+          src: "/assets/images/brands/penhaligons/perfume-details/sartorial/1.png",
           height: 845,
           width: 845,
         },
@@ -566,7 +566,16 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
         id: 2,
         title: "",
         src: {
-          src: "/assets/images/brands/penhaligons/perfume-details/sartorial/2.jpg",
+          src: "/assets/images/brands/penhaligons/perfume-details/sartorial/2.png",
+          height: 845,
+          width: 845,
+        },
+      },
+      {
+        id: 3,
+        title: "",
+        src: {
+          src: "/assets/images/brands/penhaligons/perfume-details/sartorial/3.jpg",
           height: 845,
           width: 845,
         },
@@ -648,7 +657,7 @@ export const penhaligonsPerfumeDetails: PerfumeDetails[] = [
         id: 3,
         title: "",
         src: {
-          src: "/assets/images/brands/penhaligons/perfume-details/juniper-sling/3.png",
+          src: "/assets/images/brands/penhaligons/perfume-details/juniper-sling/3.jpg",
           height: 845,
           width: 845,
         },

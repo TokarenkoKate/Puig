@@ -99,7 +99,7 @@ export const penhaligonsPerfumeUniverses: PerfumeUniverse[] = [
       {
         id: 9,
         url: {
-          src: "/assets/images/brands/penhaligons/perfumes-gallery/britishtales_9.webp",
+          src: "/assets/images/brands/penhaligons/perfumes-gallery/britishtales_9.png",
           height: 800,
           width: 800,
         },
@@ -108,7 +108,7 @@ export const penhaligonsPerfumeUniverses: PerfumeUniverse[] = [
       {
         id: 10,
         url: {
-          src: "/assets/images/brands/penhaligons/perfumes-gallery/britishtales_10.webp",
+          src: "/assets/images/brands/penhaligons/perfumes-gallery/britishtales_10.png",
           height: 800,
           width: 800,
         },

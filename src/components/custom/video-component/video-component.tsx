@@ -4,7 +4,7 @@ import { Ref, VideoHTMLAttributes } from "react";
 
 type VideoComponentProps = VideoHTMLAttributes<HTMLVideoElement> & {
   src: string | undefined;
-  ref: Ref<HTMLVideoElement>;
+  ref?: Ref<HTMLVideoElement>;
 };
 
 export function VideoComponent({

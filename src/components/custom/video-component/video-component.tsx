@@ -1,18 +1,24 @@
 "use client";
 
-import { VideoHTMLAttributes } from "react";
+import { Ref, VideoHTMLAttributes } from "react";
 
 type VideoComponentProps = VideoHTMLAttributes<HTMLVideoElement> & {
   src: string | undefined;
+  ref: Ref<HTMLVideoElement>;
 };
 
-export function VideoComponent({ src, ...videoProps }: VideoComponentProps) {
+export function VideoComponent({
+  src,
+  ref,
+  ...videoProps
+}: VideoComponentProps) {
   if (!src) return null;
 
   return (
     <video
       controlsList="nodownload"
       onContextMenu={(e) => e.preventDefault()}
+      ref={ref}
       {...videoProps}
     >
       <source src={src} type="video/mp4" />
